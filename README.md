@@ -196,7 +196,7 @@ If you find our work useful for your research, please cite our paper using the f
 ```bibtex
 @inproceedings{liu2024shine,
   title={{SH}i{N}e: Semantic Hierarchy Nexus for Open-vocabulary Object Detection},
-  author={Liu, Mingxuan and Hayes, Tyler and Ricci, Elisa and Csurka, Gabriela and Volpi, Riccardo},
+  author={Liu, Mingxuan and Hayes, Tyler L. and Ricci, Elisa and Csurka, Gabriela and Volpi, Riccardo},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2024},
 }
