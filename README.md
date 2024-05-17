@@ -195,7 +195,7 @@ This project is licensed under the [LICENSE](LICENSE.txt) file.
 If you find our work useful for your research, please cite our paper using the following BibTeX entry:
 ```bibtex
 @inproceedings{liu2024shine,
-  title={{SH}iNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection},
+  title={{SH}i{N}e: Semantic Hierarchy Nexus for Open-vocabulary Object Detection},
   author={Liu, Mingxuan and Hayes, Tyler and Ricci, Elisa and Csurka, Gabriela and Volpi, Riccardo},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2024},
