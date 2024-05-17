@@ -1,0 +1,197 @@
+{
+    "1": {
+        "node_name": "liquid",
+        "parent_names": [
+            "Fluids & Substances & States of Matter",
+            "Food & Beverage & Chemistry",
+            "fluid & substance & matter"
+        ],
+        "child_names": [
+            "water & juice & milk & soda & tea & coffee & oil & vinegar & alcohol & soup",
+            "water & milk & juice & soda & coffee & tea & wine & beer & oil & vinegar",
+            "water & milk & juice & soda & tea & coffee & wine & beer & oil & vinegar"
+        ]
+    },
+    "2": {
+        "node_name": "instrument",
+        "parent_names": [
+            "Musical instrument & Scientific instrument & Surgical instrument",
+            "Musical instrument & Surgical instrument & Scientific instrument",
+            "Musical instrument & Surgical instrument & Scientific instrument"
+        ],
+        "child_names": [
+            "guitar & piano & violin & trumpet & saxophone & drums & flute & cello & clarinet & harp",
+            "guitar & piano & violin & trumpet & flute & drums & saxophone & clarinet & cello & harmonica",
+            "guitar & piano & violin & trumpet & saxophone & drums & flute & clarinet & cello & harp"
+        ]
+    },
+    "3": {
+        "node_name": "food",
+        "parent_names": [
+            "Fruits & Vegetables & Dairy",
+            " Beverages & Drinks& Snacks & Treats& Dairy & Dairy Products",
+            "grocery & cuisine & nutrition"
+        ],
+        "child_names": [
+            " Pizza& Burger& Sushi& Pasta& Salad& Tacos& Curry& Ice cream& Sandwich& Fried chicken&Pizza & Burger & Sushi & Pasta & Salad & Tacos & Curry & Ice cream & Sandwich & Fried chicken",
+            " Pizza& Hamburger& Sushi& Pasta& Salad& Tacos& Curry& Sandwich& Stir-fry& Soup&Pizza & Hamburger & Sushi & Pasta & Salad & Tacos & Curry & Sandwich & Stir-fry & Soup",
+            " Pizza& Burger& Sushi& Pasta& Salad& Tacos& Sandwich& Curry& Fried Chicken& Ice Cream"
+        ]
+    },
+    "4": {
+        "node_name": "plant",
+        "parent_names": [
+            "Flora & Botany & Nature",
+            "Flora & Nature & Botany",
+            "Flora & Nature & Organism"
+        ],
+        "child_names": [
+            "rose & sunflower & tulip & daisy & orchid & cactus & fern & lavender & lily & succulent",
+            "fern & cactus & sunflower & rose & orchid & tulip & daisy & succulent & lavender & hydrangea",
+            "rose & sunflower & cactus & fern & tulip & orchid & daisy & lavender & daffodil & hibiscus"
+        ]
+    },
+    "5": {
+        "node_name": "component",
+        "parent_names": [
+            "electronic component & mechanical component & electrical component",
+            "electronic component & mechanical component & electrical component",
+            "Mechanical & Electrical & Electronic."
+        ],
+        "child_names": [
+            "resistor & capacitor & diode & transistor & integrated circuit & transformer & inductor & relay & switch & connector",
+            "resistor & capacitor & transistor & diode & inductor & integrated circuit & relay & switch & transformer & oscillator",
+            "resistor & capacitor & diode & transistor & inductor & integrated circuit & relay & switch & connector & fuse"
+        ]
+    },
+    "6": {
+        "node_name": "equipment",
+        "parent_names": [
+            " Sports equipment& Office equipment& Medical equipment",
+            "Tools & Machinery & Technology",
+            "Tools & Appliances & Technology"
+        ],
+        "child_names": [
+            " Machinery& Tools& Appliances& Instruments& Devices& Apparatus& Gear& Hardware& Utensils& Implements",
+            " Sports equipment& Kitchen equipment& Gym equipment& Medical equipment& Camping equipment& Musical equipment& Construction equipment& Photography equipment& Computer equipment& Laboratory equipment",
+            " Gym equipment& Medical equipment& Kitchen equipment& Camping equipment& Photography equipment& Audiovisual equipment& Construction equipment& Sports equipment& Farming equipment& Office equipment"
+        ]
+    },
+    "7": {
+        "node_name": "animal",
+        "parent_names": [
+            "mammal & living being & organism",
+            "mammal & vertebrate & living being",
+            "mammal & vertebrate & living organism"
+        ],
+        "child_names": [
+            "dog & cat & bird & fish & horse & lion & tiger & elephant & giraffe & monkey",
+            "dog & cat & bird & fish & horse & rabbit & lion & tiger & elephant & giraffe",
+            "dog & cat & elephant & lion & tiger & giraffe & monkey & bear & dolphin & bird"
+        ]
+    },
+    "8": {
+        "node_name": "wearable item",
+        "parent_names": [
+            "Clothing & Accessories & Personal Accessories",
+            "clothing & accessories & personal items",
+            "clothing & accessories & personal accessory"
+        ],
+        "child_names": [
+            "clothing & accessories & jewelry & shoes & hats & scarves & gloves & socks & watches & sunglasses",
+            "clothing & jewelry & accessories & shoes & hats & gloves & scarves & sunglasses & watches & belts",
+            "shirt & pants & dress & skirt & hat & shoes & socks & gloves & scarf & jewelry"
+        ]
+    },
+    "9": {
+        "node_name": "infrastructure",
+        "parent_names": [
+            "Transportation & Communication & Public Works",
+            "Transportation & Communication & Utilities",
+            "Transportation & Communication & Utilities"
+        ],
+        "child_names": [
+            "Roads & Bridges & Tunnels & Highways & Railways & Airports & Dams & Power plants & Schools & Hospitals",
+            "road & bridge & tunnel & dam & airport & railway & power plant & communication tower & pipeline & seaport",
+            "Roads & Bridges & Tunnels & Airports & Railways & Ports & Power Plants & Water Systems & Telecommunication Networks & Buildings"
+        ]
+    },
+    "10": {
+        "node_name": "art",
+        "parent_names": [
+            "Visual art & Performing art & Decorative art",
+            "visual art & performing art & decorative art",
+            "visual art & performing art & literary art"
+        ],
+        "child_names": [
+            "painting & sculpture & drawing & photography & ceramics & printmaking & architecture & installation & performance art & textile art",
+            "painting & sculpture & photography & drawing & printmaking & ceramics & installation & performance art & video art & textile art",
+            "painting & sculpture & drawing & photography & printmaking & ceramics & textile art & installation art & performance art & mixed media"
+        ]
+    },
+    "11": {
+        "node_name": "vehicle",
+        "parent_names": [
+            "Transportation & Automotive & Technology",
+            "Transportation & Automotive & Conveyance",
+            "Transportation & Automobile & Motor vehicle"
+        ],
+        "child_names": [
+            "Car & Truck & Motorcycle & Bicycle & Bus & Van & SUV & RV & Boat & Plane",
+            "car & truck & motorcycle & bicycle & scooter & bus & van & SUV & boat & airplane",
+            "car & truck & motorcycle & bicycle & bus & van & scooter & RV & boat & airplane"
+        ]
+    },
+    "12": {
+        "node_name": "furnishing",
+        "parent_names": [
+            "furniture & home decor & interior design",
+            " Furniture & Decor& Home Goods & Accessories& Interior Design & Styling",
+            " Furniture& Interior decoration& Home accessories"
+        ],
+        "child_names": [
+            "chair & table & sofa & bed & desk & cabinet & shelf & ottoman & bench & stool",
+            "chair & table & sofa & bed & dresser & bookshelf & desk & ottoman & cabinet & bench",
+            "chair & table & sofa & bed & desk & bookshelf & cabinet & dresser & ottoman & bench"
+        ]
+    },
+    "13": {
+        "node_name": "Fungi",
+        "parent_names": [
+            "Plants & Living organisms & Biology",
+            "Plants & Organisms & Biology",
+            "Plants & Organisms & Biology"
+        ],
+        "child_names": [
+            "Mushroom & Yeast & Mold & Truffle & Lichen & Bracket Fungus & Rust & Smut & Cup Fungus & Puffball",
+            "Mushrooms & Yeast & Molds & Lichens & Truffles & Rusts & Smuts & Mycorrhizae & Penicillium & Aspergillus",
+            "Mushrooms & Yeast & Mold & Truffle & Lichen & Aspergillus & Penicillium & Candida & Mycorrhizae & Rust"
+        ]
+    },
+    "14": {
+        "node_name": "body",
+        "parent_names": [
+            "human&animal&object",
+            "human&animal&anatomy",
+            "human & animal & anatomy"
+        ],
+        "child_names": [
+            "neck&head&torso&arms&legs&feet&hands&shoulders&hips&waist",
+            "head & torso & arms & legs & hands & feet & fingers & toes & shoulders & neck",
+            "human body & animal body & car body & building body & plant body & insect body & robot body & spaceship body & fish body & bird body"
+        ]
+    },
+    "15": {
+        "node_name": "beauty product",
+        "parent_names": [
+            "skincare & makeup & haircare",
+            "skincare & makeup & personal care",
+            "skincare & makeup & personal care"
+        ],
+        "child_names": [
+            "lipstick & foundation & mascara & eyeshadow & blush & highlighter & bronzer & eyeliner & lip gloss & nail polish",
+            "foundation & mascara & lipstick & eyeshadow & blush & bronzer & primer & setting spray & concealer & highlighter",
+            "lipstick & mascara & foundation & eyeshadow & blush & bronzer & highlighter & nail polish & concealer & setting spray"
+        ]
+    }
+}

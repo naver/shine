@@ -1,0 +1,47 @@
+{
+    "1": {
+        "node_name": "Chordata",
+        "parent_names": [],
+        "child_names": [
+            "Mammalia & Aves & Reptilia & Amphibia & Actinopterygii & Chondrichthyes & Cyclostomata & Ascidiacea & Thaliacea & Appendicularia",
+            "Mammalia & Aves & Reptilia & Amphibia & Actinopterygii & Chondrichthyes & Agnatha & Ascidiacea & Myxini & Sarcopterygii",
+            "Mammalia & Aves & Reptilia & Amphibia & Actinopterygii & Chondrichthyes & Sarcopterygii & Aves & Reptilia & Amphibia"
+        ]
+    },
+    "2": {
+        "node_name": "Cnidaria",
+        "parent_names": [],
+        "child_names": [
+            "Hydrozoa & Scyphozoa & Cubozoa & Anthozoa & Staurozoa & Myxozoa & Polypodiozoa & Malacosporea & Orthonectida & Dicyemida",
+            "Hydrozoa & Scyphozoa & Anthozoa & Cubozoa & Staurozoa & Myxozoa & Polypodiozoa & Malacosporea & Orthonectida & Dicyemida",
+            "Hydrozoa & Scyphozoa & Anthozoa & Cubozoa & Staurozoa & Myxozoa & Polypodiozoa & Polypodium & Siphonophorae & Trachylina"
+        ]
+    },
+    "3": {
+        "node_name": "Arthropoda",
+        "parent_names": [],
+        "child_names": [
+            "Insecta & Crustacea & Arachnida & Diplopoda & Chilopoda & Malacostraca & Maxillopoda & Pauropoda & Symphyla & Merostomata",
+            "Insecta & Arachnida & Crustacea & Diplopoda & Chilopoda & Pauropoda & Symphyla & Collembola & Entognatha & Malacostraca",
+            "Insecta & Arachnida & Crustacea & Diplopoda & Chilopoda & Malacostraca & Pauropoda & Symphyla & Entognatha & Remipedia"
+        ]
+    },
+    "4": {
+        "node_name": "Echinodermata",
+        "parent_names": [],
+        "child_names": [
+            "Asteroidea & Ophiuroidea & Echinoidea & Holothuroidea & Crinoidea & Concentricycloidea & Somasteroidea & Edrioasteroidea & Carpoida & Cyclocystoidea",
+            "Asteroidia & Ophiuroidea & Echinoidea & Holothuroidea & Crinoidea & Concentricycloidea & Edrioasteroidea & Somasteroidea & Cycloidea & Carpoida",
+            "Asteroidia & Ophiuroidea & Echinoidea & Holothuroidea & Crinoidea & Concentricycloidea & Somasteroidea & Edrioasteroidea & Cycloidea & Blastoidea"
+        ]
+    },
+    "5": {
+        "node_name": "Mollusca",
+        "parent_names": [],
+        "child_names": [
+            "Gastropoda & Bivalvia & Cephalopoda & Polyplacophora & Monoplacophora & Scaphopoda & Solenogastres & Caudofoveata & Aplacophora & Rostroconchia",
+            "Gastropoda & Bivalvia & Cephalopoda & Polyplacophora & Monoplacophora & Scaphopoda & Aplacophora & Solenogastres & Caudofoveata & Neomeniomorpha",
+            "Gastropoda & Bivalvia & Cephalopoda & Polyplacophora & Scaphopoda & Monoplacophora & Solenogastres & Caudofoveata & Aplacophora & Rostroconchia"
+        ]
+    }
+}

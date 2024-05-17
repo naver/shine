@@ -1,0 +1,200 @@
+{
+    "1": {
+        "node_name": "Actinopterygii",
+        "parent_names": [
+            "Chordata"
+        ],
+        "child_names": [
+            " Acipenseriformes& Polypteriformes& Amiiformes& Lepisosteiformes& Anguilliformes& Clupeiformes& Cypriniformes& Characiformes& Siluriformes& Perciformes",
+            "Actinopterygii&Actinopterygii&Actinopterygii&Actinopterygii&Actinopterygii&Actinopterygii&Actinopterygii&Actinopterygii&Actinopterygii&Actinopterygii",
+            "Lepisosteiformes & Amiiformes & Polypteriformes & Holostei & Halecomorphi & Ginglymodi & Teleostei & Clupeiformes & Alepocephaliformes & Salmoniformes"
+        ]
+    },
+    "2": {
+        "node_name": "Amphibia",
+        "parent_names": [
+            "Chordata"
+        ],
+        "child_names": [
+            "Anura & Caudata & Gymnophiona & Allocaudata & Aistopoda & Apateonia & Batrachia & Ichthyostegalia & Microsauria & Temnospondyli",
+            " Anura &  Caudata &  Gymnophiona &  Rhinophrynidae &  Pipidae &  Proteidae &  Salamandridae &  Sirenidae &  Cryptobranchidae &  Hynobiidae",
+            "Anura & Caudata & Gymnophiona & Allocaudata & Aistopoda & Temnospondyli & Lepospondyli & Lissamphibia & Proanura & Procaudata"
+        ]
+    },
+    "3": {
+        "node_name": "Anthozoa",
+        "parent_names": [
+            "Cnidaria"
+        ],
+        "child_names": [
+            " Actiniaria &  Ceriantharia &  Corallimorpharia &  Scleractinia &  Zoantharia &  Alcyonacea &  Helioporacea &  Stolonifera &  Gorgonacea &  Pennatulacea",
+            "Actiniaria & Antipatharia & Ceriantharia & Corallimorpharia & Helioporacea & Pennatulacea & Scleractinia & Stolonifera & Zoantharia & Octocorallia",
+            " & Actiniaria& & Antipatharia& & Corallimorpharia& & Scleractinia& & Zoantharia& & Alcyonacea& & Helioporacea& & Pennatulacea& & Ceriantharia& & Stolonifera"
+        ]
+    },
+    "4": {
+        "node_name": "Malacostraca",
+        "parent_names": [
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Decapoda & Isopoda & Amphipoda & Euphausiacea & Stomatopoda & Anomura & Brachyura & Mysida & Cumacea & Tanaidacea",
+            "Amphipoda & Isopoda & Decapoda & Stomatopoda & Euphausiacea & Hoplocarida & Syncarida & Mictacea & Spelaeogriphacea & Thermosbaenacea",
+            "Decapoda & Amphipoda & Isopoda & Euphausiacea & Stomatopoda & Syncarida & Anaspidacea & Spelaeogriphacea & Thermosbaenacea & Mictacea"
+        ]
+    },
+    "5": {
+        "node_name": "Echinoidea",
+        "parent_names": [
+            "Echinodermata"
+        ],
+        "child_names": [
+            "Regular sea urchin & Green sea urchin & Purple sea urchin & Red sea urchin & Pencil sea urchin & Short-spined sea urchin & Collector sea urchin & Long-spined sea urchin & Black sea urchin & White sea urchin",
+            "Regular Sea Urchin & Green Sea Urchin & Purple Sea Urchin & Red Sea Urchin & Pencil Sea Urchin & Heart Sea Urchin & Short-Spined Sea Urchin & Long-Spined Sea Urchin & Slate-Pencil Sea Urchin & Collector's Sea Urchin",
+            "Echinoidea & Echinoidea & Echinoidea & Echinoidea & Echinoidea & Echinoidea & Echinoidea & Echinoidea & Echinoidea & Echinoidea"
+        ]
+    },
+    "6": {
+        "node_name": "Asteroidea",
+        "parent_names": [
+            "Echinodermata"
+        ],
+        "child_names": [
+            " Forcipulatida& Paxillosida& Notomyotida& Spinulosida& Valvatida& Valvatacea& Paxillapoda& Brisingida& Velatida& Zoroasterida",
+            "Asteroidea & Asteroidea & Asteroidea & Asteroidea & Asteroidea & Asteroidea & Asteroidea & Asteroidea & Asteroidea & Asteroidea",
+            "Asteroidea&Asteroidea&Asteroidea&Asteroidea&Asteroidea&Asteroidea&Asteroidea&Asteroidea&Asteroidea&Asteroidea"
+        ]
+    },
+    "7": {
+        "node_name": "Diplopoda",
+        "parent_names": [
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Polydesmida & Spirobolida & Chordeumatida & Julida & Glomerida & Siphonophorida & Polyzoniida & Platydesmida & Callipodida & Stemmiulida",
+            "Polyxenida & Chordeumatida & Glomerida & Spirobolida & Spirostreptida & Siphonophorida & Polydesmida & Cambalida & Callipodida & Siphonocryptida",
+            " Polydesmida& Spirostreptida& Polyxenida& Glomerida& Siphonophorida& Polyzoniida& Chordeumatida& Callipodida& Stemmiulida& Julida"
+        ]
+    },
+    "8": {
+        "node_name": "Merostomata",
+        "parent_names": [
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Xiphosura & Eurypterida & Sanctacarida & Aglaspidida & Chasmataspidida & Trilobita & Phacopida & Proetida & Corynexochida & Harpetida",
+            " Eurypterida& Xiphosura& Aglaspidida& Chasmataspidida& Phyllocarida& Stomatopoda& Hoplocarida& Leptostraca& Eumalacostraca& Decapoda",
+            " Merostomata  Eurypterida& Merostomata  Xiphosura& Merostomata  Aglaspidida& Merostomata  Chasmataspidida& Merostomata  Stylonurida& Merostomata  Synziphosurida& Merostomata  Sanctacarida& Merostomata  Euchelicerata& Merostomata  Pycnogonida& Merostomata  Dinocarida"
+        ]
+    },
+    "9": {
+        "node_name": "Hydrozoa",
+        "parent_names": [
+            "Cnidaria"
+        ],
+        "child_names": [
+            "Hydroida & Siphonophorae & Anthoathecata & Leptothecata & Trachylina & Actinulidae & Limnomedusae & Narcomedusae & Proboscoidae & Conica",
+            " Siphonophorae &  Anthoathecata &  Leptothecata &  Capitata &  Narcomedusae &  Trachylina &  Hydrocorallina &  Stylasterina &  Milleporina &  Hydroida",
+            "Anthoathecata & Hydroidolina & Siphonophorae & Trachylina & Filifera & Limnomedusae & Narcomedusae & Aplanulata & Actinulida & Leptothecata"
+        ]
+    },
+    "10": {
+        "node_name": "Chilopoda",
+        "parent_names": [
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Chilopoda & Chilopoda & Chilopoda & Chilopoda & Chilopoda & Chilopoda & Chilopoda & Chilopoda & Chilopoda & Chilopoda",
+            "Chilopoda&Chilopoda&Chilopoda&Chilopoda&Chilopoda&Chilopoda&Chilopoda&Chilopoda&Chilopoda&Chilopoda",
+            "Chilopoda & Chilopoda & Chilopoda & Chilopoda & Chilopoda & Chilopoda & Chilopoda & Chilopoda & Chilopoda & Chilopoda"
+        ]
+    },
+    "11": {
+        "node_name": "Arachnida",
+        "parent_names": [
+            "Arthropoda"
+        ],
+        "child_names": [
+            " Scorpiones& Araneae& Opiliones& Acari& Solifugae& Pseudoscorpiones& Ricinulei& Schizomida& Amblypygi& Uropygi",
+            " Scorpiones& Araneae& Opiliones& Acari& Palpigradi& Ricinulei& Solifugae& Pseudoscorpiones& Amblypygi& Schizomida",
+            "Araneae & Scorpiones & Opiliones & Acari & Solifugae & Pseudoscorpiones & Ricinulei & Amblypygi & Schizomida & Uropygi"
+        ]
+    },
+    "12": {
+        "node_name": "Aves",
+        "parent_names": [
+            "Chordata"
+        ],
+        "child_names": [
+            " Passeriformes& Columbiformes& Accipitriformes& Strigiformes& Galliformes& Charadriiformes& Anseriformes& Pelecaniformes& Falconiformes& Psittaciformes",
+            "Falconiformes & Passeriformes & Psittaciformes & Strigiformes & Columbiformes & Galliformes & Anseriformes & Charadriiformes & Coraciiformes & Piciformes",
+            "Falconiformes & Struthioniformes & Passeriformes & Columbiformes & Galliformes & Psittaciformes & Charadriiformes & Anseriformes & Pelecaniformes & Ciconiiformes"
+        ]
+    },
+    "13": {
+        "node_name": "Insecta",
+        "parent_names": [
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Coleoptera & Lepidoptera & Hymenoptera & Diptera & Hemiptera & Orthoptera & Odonata & Isoptera & Blattodea & Phasmida",
+            "Lepidoptera & Hymenoptera & Coleoptera & Diptera & Hemiptera & Orthoptera & Odonata & Isoptera & Blattodea & Phasmida",
+            "Coleoptera & Diptera & Hymenoptera & Lepidoptera & Hemiptera & Orthoptera & Odonata & Isoptera & Blattodea & Neuroptera"
+        ]
+    },
+    "14": {
+        "node_name": "Mammalia",
+        "parent_names": [
+            "Chordata"
+        ],
+        "child_names": [
+            "Carnivora & Rodentia & Artiodactyla & Primates & Chiroptera & Cetacea & Perissodactyla & Lagomorpha & Proboscidea & Sirenia",
+            "Primates & Carnivora & Rodentia & Cetacea & Artiodactyla & Perissodactyla & Chiroptera & Lagomorpha & Proboscidea & Sirenia",
+            "Primates & Carnivora & Artiodactyla & Rodentia & Chiroptera & Cetacea & Perissodactyla & Lagomorpha & Sirenia & Proboscidea"
+        ]
+    },
+    "15": {
+        "node_name": "Gastropoda",
+        "parent_names": [
+            "Mollusca"
+        ],
+        "child_names": [
+            "Neritidae & Heterobranchia & Vetigastropoda & Patellogastropoda & Neogastropoda & Littorinimorpha & Stylommatophora & Nudibranchia & Pulmonata & Cephalaspidea",
+            "Archaeogastropoda & Mesogastropoda & Neogastropoda & Patellogastropoda & Vetigastropoda & Cocculiniformia & Neritimorpha & Caenogastropoda & Heterobranchia & Ptenoglossa",
+            "Patellogastropoda & Neritimorpha & Neogastropoda & Caenogastropoda & Vetigastropoda & Heterobranchia & Cephalaspidea & Anaspidea & Notaspidea & Gymnosomata"
+        ]
+    },
+    "16": {
+        "node_name": "Bivalvia",
+        "parent_names": [
+            "Mollusca"
+        ],
+        "child_names": [
+            "Ostreoida & Mytiloida & Pterioida & Arcoida & Limoida & Myoida & Nuculoida & Trigonioida & Unionoida & Veneroida",
+            "Bivalvia& Bivalvia& Bivalvia& Bivalvia& Bivalvia& Bivalvia& Bivalvia& Bivalvia& Bivalvia& Bivalvia",
+            "Bivalvia & Bivalvia & Bivalvia & Bivalvia & Bivalvia & Bivalvia & Bivalvia & Bivalvia & Bivalvia & Bivalvia"
+        ]
+    },
+    "17": {
+        "node_name": "Polyplacophora",
+        "parent_names": [
+            "Mollusca"
+        ],
+        "child_names": [
+            "Acanthochitida&Chitonida&Leptochitonida&Lepidopleurida&Lepidochitonida&Loricata&Mopaliida&Neoloricata&Paleoloricata&Pleurochitonida",
+            "Chiton & Chitonellida & Cryptoplacoidea & Hanleyidae & Lepidopleurida & Loricata & Mattheviidae & Mopaliidae & Neoloricata & Schizochiton",
+            "Chiton & Chitonellus & Acanthochitona & Cryptochiton & Ischnochiton & Radsia & Callistochiton & Nuttallochiton & Lepidochitona & Tonicella"
+        ]
+    },
+    "18": {
+        "node_name": "Reptilia",
+        "parent_names": [
+            "Chordata"
+        ],
+        "child_names": [
+            "Chelonia & Crocodilia & Testudines & Squamata & Rhynchocephalia & Sphenodontia & Serpentes & Lepidosauria & Tuatara & Amphisbaenia",
+            "Crocodilia & Squamata & Testudines & Sphenodontia & Rhynchocephalia & Chelonia & Serpentes & Lacertilia & Amphisbaenia & Tuatara",
+            "Crocodilia & Squamata & Testudines & Rhynchocephalia & Sphenodontia & Tuatara & Serpentes & Lizards & Geckos & Chameleons"
+        ]
+    }
+}

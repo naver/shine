@@ -1,0 +1,2393 @@
+{
+    "1": {
+        "node_name": "Cyprinidae",
+        "parent_names": [
+            "Cypriniformes",
+            "Actinopterygii",
+            "Chordata"
+        ],
+        "child_names": [
+            "Cyprinus & Carassius & Danio & Rasbora & Puntius & Barbonymus & Devario & Tanichthys & Chela & Labeo",
+            "Cyprinus & Carassius & Danio & Barbus & Rasbora & Puntius & Squalius & Leuciscus & Abramis & Tinca",
+            "Cyprinus & Carassius & Danio & Barbus & Rasbora & Puntius & Labeo & Schizothorax & Squalius & Abramis."
+        ]
+    },
+    "2": {
+        "node_name": "Centrarchidae",
+        "parent_names": [
+            "Perciformes",
+            "Actinopterygii",
+            "Chordata"
+        ],
+        "child_names": [
+            "Lepomis & Micropterus & Pomoxis & Ambloplites & Archoplites & Enneacanthus & Acantharchus & Chaenobryttus & Elassoma & Micropterus",
+            "Ambloplites & Archoplites & Centrarchus & Enneacanthus & Lepomis & Micropterus & Pomoxis & Acantharchus & Chaenobryttus & Helioplites",
+            "Lepomis & Micropterus & Pomoxis & Archoplites & Ambloplites & Enneacanthus & Acantharchus & Chaenobryttus & Centrarchus & Elassoma"
+        ]
+    },
+    "3": {
+        "node_name": "Salmonidae",
+        "parent_names": [
+            "Salmoniformes",
+            "Actinopterygii",
+            "Chordata"
+        ],
+        "child_names": [
+            "Salmo&Oncorhynchus&Salvelinus&Hucho&Thymallus&Coregonus&Prosopium&Brachymystax&Cristivomer&Oncorhynchus",
+            "Salmo&Oncorhynchus&Salvelinus&Coregonus&Thymallus&Hucho&Brachymystax&Huchen&Oncorhynchus&Parahucho",
+            "Salmo&Oncorhynchus&Salvelinus&Thymallus&Hucho&Brachymystax&Coregonus&Prosopium&Salmothymus&Parahucho"
+        ]
+    },
+    "4": {
+        "node_name": "Zanclidae",
+        "parent_names": [
+            "Perciformes",
+            "Actinopterygii",
+            "Chordata"
+        ],
+        "child_names": [
+            "Zanclus&Anampses&Centropyge&Heniochus&Pomacanthus&Holacanthus&Chaetodon&Coradion&Genicanthus&Paracentropyge",
+            "Zanclus & Parazanclus & Heniochus & Chelmon & Forcipiger & Macropharyngodon & Coradion & Centropyge & Chaetodon & Roa",
+            "Zanclus &Parazanclus &Paracentropyge &Centropyge &Genicanthus &Chaetodonotus &Hemitaurichthys &Zebrasoma &Acanthurus &Naso"
+        ]
+    },
+    "5": {
+        "node_name": "Hylidae",
+        "parent_names": [
+            "Anura",
+            "Amphibia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Hyla& Pseudacris& Acris& Osteocephalus& Hypsiboas& Phyllomedusa& Trachycephalus& Litoria& Rana& Agalychnis",
+            "Hypsiboas&Hyla&Phyllomedusa&Phrynohyas&Sylvirana&Tlalocohyla&Litoria&Agalychnis&Smilisca&Sphaenorhynchus",
+            "Hypsiboas & Acris & Pseudacris & Hyla & Smilisca & Osteocephalus & Phyllomedusa & Litoria & Trachycephalus & Ollotis"
+        ]
+    },
+    "6": {
+        "node_name": "Ambystomatidae",
+        "parent_names": [
+            "Caudata",
+            "Amphibia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Ambystoma & Ambystomoides & Dicamptodon & Rhyacotriton & Taricha & Notophthalmus & Amphiuma & Siren & Proteus & Necturus",
+            "Ambystoma & Dicamptodon & Batrachoseps & Bolitoglossa & Notophthalmus & Taricha & Pseudotriton & Plethodon & Ensatina & Aneides",
+            "Ambystoma & Batrachoseps & Dicamptodon & Ambystoma & Taricha & Notophthalmus & Amphiuma & Siren & Pseudobranchus & Amphiuma"
+        ]
+    },
+    "7": {
+        "node_name": "Bufonidae",
+        "parent_names": [
+            "Anura",
+            "Amphibia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Bufo&Anaxyrus&Atelopus&Dendrophryniscus&Rhinella&Cranopsis&Peltophryne&Incilius&Melanophryniscus&Pseudobufo",
+            "Bufo & Atelopus & Rhinella & Duttaphrynus & Anaxyrus & Nectophrynoides & Melanophryniscus & Incilius & Frostius & Rudolfarcturus",
+            " Bufo & Rhinella & Melanophryniscus & Anaxyrus & Atelopus & Incilius & Dendrophryniscus & Nectophrynoides & Altiphrynoides & Frostius"
+        ]
+    },
+    "8": {
+        "node_name": "Plethodontidae",
+        "parent_names": [
+            "Caudata",
+            "Amphibia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Plethodon & Ensatina & Aneides & Desmognathus & Hemidactylium & Batrachoseps & Eurycea & Gyrinophilus & Hydromantes & Nototriton",
+            "Plethodon&Desmognathus&Ensatina&Eurycea&Gyrinophilus&Hemidactylium&Hydromantes&Nototriton&Nyctanolis&Speleomantes",
+            "Plethodon&Ensatina&Desmognathus&Hemidactylium&Aneides&Gyrinophilus&Hydromantes&Eurycea&Dunn's salamander&Haideotriton"
+        ]
+    },
+    "9": {
+        "node_name": "Eleutherodactylidae",
+        "parent_names": [
+            "Anura",
+            "Amphibia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Eleutherodactylus & Adelophryne & Diasporus & Syrrhophus & Pristimantis & Craugastor & Euparkerella & Leptodactylus & Hylodes & Phyzelaphryne",
+            " Eleutherodactylus & Syrrhophus & Pristimantis & Craugastor & Diasporus & Leptodactylus & Euphlyctis & Phrynopus & Pristimantis & Hypodactylus",
+            "Eleutherodactylus & Adelophryne & Syrrhophus & Diasporus & Pristimantis & Euparkerella & Phyzelaphryne & Craugastor & Lithodytes & Haddadus"
+        ]
+    },
+    "10": {
+        "node_name": "Microhylidae",
+        "parent_names": [
+            "Anura",
+            "Amphibia",
+            "Chordata"
+        ],
+        "child_names": [
+            " Microhyla&Uperodon&Kaloula&Glyphoglossus&Calluella&Chiromantis&Otophryne&Nasikabatrachus&Phrynomantis&Sphaenorhynchus",
+            "Microhyla& Glyphoglossus& Calluella& Kaloula& Austrochaperina& Otophryne& Choerophryne& Xenorhina& Cophixalus& Phrynella",
+            "Microhyla & Glyphoglossus & Stumpffia & Kalophrynus & Calluella & Gastrophrynoides & Chaperina & Melanobatrachus & Austrochaperina & Micryletta"
+        ]
+    },
+    "11": {
+        "node_name": "Ranidae",
+        "parent_names": [
+            "Anura",
+            "Amphibia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Rana & Lithobates & Amolops & Meristogenys & Hylarana & Huia & Nidirana & Odorrana & Paa & Pulchrana",
+            "Rana&Lithobates&Hylarana&Fejervarya&Amnirana&Odorrana&Sylvirana&Huia&Indosylvirana&Meristogenys",
+            "Rana&Lithobates&Hylarana&Pelophylax&Amolops&Amnirana&Nidirana&Hylorana&Odorrana&Glandirana"
+        ]
+    },
+    "12": {
+        "node_name": "Salamandridae",
+        "parent_names": [
+            "Caudata",
+            "Amphibia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Salamandra&Lissotriton&Mertensiella&Triturus&Neurergus&Pachytriton&Cynops&Paramesotriton&Chioglossa&Ichthyosaura",
+            "Salamandra& Triturus& Ichthyosaura& Lyciasalamandra& Chioglossa& Euproctus& Calotriton& Ommatotriton& Tylototriton& Paramesotriton",
+            "Salamandra&Lissotriton&Triturus&Neurergus&Mertensiella&Chioglossa&Calotriton&Ambystoma&Notophthalmus&Cynops"
+        ]
+    },
+    "13": {
+        "node_name": "Dendrobatidae",
+        "parent_names": [
+            "Anura",
+            "Amphibia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Dendrobates & Oophaga & Ranitomeya & Ameerega & Adelphobates & Allobates & Andinobates & Anomaloglossus & Colostethus & Epipedobates",
+            "Dendrobates & Oophaga & Phyllobates & Ranitomeya & Ameerega & Allobates & Epipedobates & Excidobates & Minyobates & Andinobates",
+            "Dendrobates & Phyllobates & Oophaga & Ameerega & Allobates & Epipedobates & Colostethus & Ranitomeya & Adelphobates & Excidobates"
+        ]
+    },
+    "14": {
+        "node_name": "Scaphiopodidae",
+        "parent_names": [
+            "Anura",
+            "Amphibia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Scaphiopodidae & Scaphiopus & Spea & Pelobates & Pelodytes & Scaphiopus & Megophrys & Leptophryne & Olyphis & Tomopterna",
+            "Scaphiopus& Spea& Pelobates& Pelodytes& Epidalea& Scaphiella& Scaphiopus& Pelobates& Pelodytes& Spea",
+            "Scaphiopus&Spea&Scaphiophryne&Scaphiella&Scaphiopus&Scaphiophryne&Scaphiella&Scaphiopus&Spea&Scaphiophryne"
+        ]
+    },
+    "15": {
+        "node_name": "Actiniidae",
+        "parent_names": [
+            "Actiniaria",
+            "Anthozoa",
+            "Cnidaria"
+        ],
+        "child_names": [
+            "Actinia & Anthopleura & Aulactinia & Bolocera & Bunodosoma & Cereus & Cribrinopsis & Cryptodendrum & Halcampoides & Heteractis",
+            "Actinia&Anthopleura&Aulactinia&Cereus&Condylactis&Dofleinia&Epiactis&Heteractis&Phyllodiscus&Stoichactis",
+            "Actinia&Anthopleura&Corynactis&Cribrinopsis&Ctenactis&Dofleinia&Dofleinidae&Halcampoides&Halcampa&Halcampella"
+        ]
+    },
+    "16": {
+        "node_name": "Armadillidiidae",
+        "parent_names": [
+            "Isopoda",
+            "Malacostraca",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Armadillidium & Porcellio & Trachelipus & Oniscus & Philoscia & Cylisticus & Hemilepistus & Metoponorthus & Porcellionides & Porcellium",
+            "Armadillidiidae & Armadillidium & Armadillowood & Armadillosphaera & Armadillotestudo & Armadillolophus & Armadilloniscus & Armadillotropis & Armadillorhynchus & Armadilloma",
+            "Armadillidiidae & Armadillo & Porcellio & Oniscus & Trachelipus & Armadillidium & Hemilepistus & Cylisticus & Eluma & Porcellium"
+        ]
+    },
+    "17": {
+        "node_name": "Portunidae",
+        "parent_names": [
+            "Decapoda",
+            "Malacostraca",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Portunus&Neptunus&Liocarcinus&Cyclograpsus&Charybdis&Carcinus&Megalopa&Callinectes&Liocarcinus&Platyonichus",
+            "Portunus&Neptunus&Liocarcinus&Achelous&Trapezia&Carcinus&Megalopa&Thalamita&Tymolus&Callinectes",
+            "Portunus & Scylla & Charybdis & Liocarcinus & Thalamita & Achelous & Callinectes & Ovalipes & Podophthalmus & Cronius"
+        ]
+    },
+    "18": {
+        "node_name": "Cancridae",
+        "parent_names": [
+            "Decapoda",
+            "Malacostraca",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Cancer&Portunus&Callinectes&Charybdis&Neopanope&Romaleon&Metacarcinus&Neopanope&Rhithropanopeus&Platycarcinus",
+            "Cancer&Neopanope&Metacarcinus&Callinectes&Charybdis&Platycarcinus&Eriocheir&Gaetice&Liocarcinus&Nectocarcinus",
+            "Cancer&Romaleon&Metacarcinus&Callinectes&Platycarcinus&Charybdis&Gecarcinus&Mithraculus&Neptunus&Portunus"
+        ]
+    },
+    "19": {
+        "node_name": "Dendrasteridae",
+        "parent_names": [
+            "Clypeasteroida",
+            "Echinoidea",
+            "Echinodermata"
+        ],
+        "child_names": [
+            "Dendraster & Echinothrix & Encope & Eupatagus & Hemipholis & Heteraster & Laganum & Leptasterias & Patiriella & Pseudarchaster",
+            "Dendraster & Dendrochirotida & Dendronephthya & Dendrobrachia & Dendroica & Dendrobium & Dendroaspis & Dendrocalamus & Dendrobates & Dendroctonus",
+            "Dendraster& Pseudodendraster& Protodendraster& Neodendraster& Heliaster& Astropecten& Luidiaster& Coscinasterias& Solaster& Poraniopsis"
+        ]
+    },
+    "20": {
+        "node_name": "Asteropseidae",
+        "parent_names": [
+            "Valvatida",
+            "Asteroidea",
+            "Echinodermata"
+        ],
+        "child_names": [
+            "Asteropseidae &",
+            "Asteropus & Asterophrys & Asteropetes & Asterodiscus & Asterophthalmus & Asteropsis & Asteromphalus & Asterophilus & Asterorhynchus & Asterophyllum",
+            "Asteropus & Asteraugus & Asterorhinus & Asterostigma & Asterodiscus & Asterotrypa & Asterotrypsis & Asterobrachion & Asteropelta & Asterolepis"
+        ]
+    },
+    "21": {
+        "node_name": "Hippidae",
+        "parent_names": [
+            "Decapoda",
+            "Malacostraca",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Hippa&Hippolyte&Hippolytidae&Hippocampus&Hippocampinae&Hippopotamus&Hippopotamidae&Hipparchia&Hipparchus&Hipparchos",
+            "Hippa&Hippolyte&Hippolysmata&Hippolytidae&Hippolytus&Hippomane&Hippomolgus&Hippomorpha&Hippomuris&Hippocampus",
+            "Hippa&Hippolyte&Hippolytidae&Hippocampus&Hippocamelus&Hipparchia&Hippocastanaceae&Hippocrepis&Hippoboscidae&Hippobosca"
+        ]
+    },
+    "22": {
+        "node_name": "Xystodesmidae",
+        "parent_names": [
+            "Polydesmida",
+            "Diplopoda",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Xystodesmus & Apheloria & Nannaria & Pleuroloma & Floridobolus & Chonaphe & Pseudopolydesmus & Brachoria & Parafontaria & Haplophilus",
+            "Xystodesmidini & Euphyodesmidae & Nannaria & Desmoxytes & Nedyopus & Pseudopolydesmus & Lophoturus & Apheloria & Nannaria & Tylobolus",
+            "Xystodesmus & Apheloria & Brachoria & Chonaphe & Harpaphe & Nannaria & Narceus & Pseudopolydesmus & Texodesmus & Verhoeffiella"
+        ]
+    },
+    "23": {
+        "node_name": "Varunidae",
+        "parent_names": [
+            "Decapoda",
+            "Malacostraca",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Varuna & Neptunidromia & Heloecius & Sinusona & Cyrtograpsus & Pseudopanopeus & Eriocheir & Scopimera & Matuta & Notopoides",
+            "Paraverrucida&Cyrtograpsus&Varunidae&Xanthoidea&Philyra&Varuna&Daira&Mictyris&Varuninae&Platyxanthus",
+            "Varuna&Varunides&Varuninae&Varunini&Varunoida&Varunus&Varurox&Varunastra&Varunavela&Varunaviridae"
+        ]
+    },
+    "24": {
+        "node_name": "Limulidae",
+        "parent_names": [
+            "Xiphosurida",
+            "Merostomata",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Limulus& Tachypleus& Carcinoscorpius& Austrolimulus& Pseudolimulus& Mesolimulus& Paleolimulus& Compsolimulus& Triopsidae& Euproops",
+            "Limulus& Tachypleus& Carcinoscorpius& Austrolimulus& Lunataspis& Compsolimulus& Proarthrolimulus& Paleolimulus& Mesolimulus& Lunataspis",
+            "Limulus&Carcinoscorpius&Tachypleus&Tachypleus&Xiphosura&Tachypleus&Tachypleus&Limulus&Carcinoscorpius&Limulus"
+        ]
+    },
+    "25": {
+        "node_name": "Grapsidae",
+        "parent_names": [
+            "Decapoda",
+            "Malacostraca",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Grapsoides& Grapsus& Hemigrapsus& Leptograpsus& Metopograpsus& Neohelice& Percnon& Plagusia& Pseudograpsus& Sesarma",
+            "Grapsus & Sesarma & Metopograpsus & Cyclograpsus & Pachygrapsus & Hemigrapsus & Plagusia & Planes & Platygrapsus & Percnon",
+            "Grapsidae & Sesarmidae & Ocypodidae & Varunidae & Gecarcinidae & Potamidae & Macrophthalmidae & Parathelphusidae & Pseudothelphusidae & Matutidae"
+        ]
+    },
+    "26": {
+        "node_name": "Asterinidae",
+        "parent_names": [
+            "Valvatida",
+            "Asteroidea",
+            "Echinodermata"
+        ],
+        "child_names": [
+            "Asterina&Patiriella&Linckia&Ophidiaster&Nardoa&Mithrodia&Protoreaster&Fromia&Culcita&Marthasterias",
+            "Asterina&Patiriella&Asterina&Patiria&Astrostole&Patiria&Ophidiaster&Oreaster&Asterodiscides&Asteropsis",
+            "Asterina & Patiriella & Cryptasterina & Stellaster & Dermasterias & Aquilonastra & Pentagonaster & Coscinasterias & Zoroaster & Nectria"
+        ]
+    },
+    "27": {
+        "node_name": "Physaliidae",
+        "parent_names": [
+            "Siphonophorae",
+            "Hydrozoa",
+            "Cnidaria"
+        ],
+        "child_names": [
+            "Physalia&Porpita&Velella&Glaucus&Dipleurosoma&Cymbulopsis&Physalis&Agalma&Nanomia&Porpita",
+            "Physalia&Porpita&Velella&Ectopleura&Agalma&Physaloptera&Porpura&Physconia&Physostegia&Physopelma",
+            "Physalia&Porpita&Velella&Ectopleura&Hippopodius&Lasiocotylus&Nemophysa&Oceania&Physophora&Rhizophysa"
+        ]
+    },
+    "28": {
+        "node_name": "Asteriidae",
+        "parent_names": [
+            "Forcipulatida",
+            "Asteroidea",
+            "Echinodermata"
+        ],
+        "child_names": [
+            "Asterias&Patiria&Leptasterias&Pisaster&Crepidaster&Coscinasterias&Dermasterias&Ctenodiscus&Asterodiscides&Calliaster",
+            "Asterias&Patiria&Coscinasterias&Henricia&Culcita&Hippasteria&Dermasterias&Astrostole&Astrolirus&Asterina",
+            "Asterias & Mediaster & Coscinasterias & Leptasterias & Pentagonaster & Patiriella & Heliaster & Lethasterias & Odontaster & Styracaster"
+        ]
+    },
+    "29": {
+        "node_name": "Cambaridae",
+        "parent_names": [
+            "Decapoda",
+            "Malacostraca",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Cambarus & Orconectes & Procambarus & Cambarellus & Faxonius & Pacifastacus & Barbicambarus & Cambaroides & Cambarinus & Fallicambarus.",
+            "Cambarus & Orconectes & Procambarus & Cambarellus & Faxonius & Pacifastacus & Barbicambarus & Creaserinus & Cambaroides & Potamobius",
+            "Cambarus & Procambarus & Orconectes & Faxonius & Cambarellus & Barbicambarus & Creaserinus & Cambaroides & Fallicambarus & Cambarellinae"
+        ]
+    },
+    "30": {
+        "node_name": "Epialtidae",
+        "parent_names": [
+            "Decapoda",
+            "Malacostraca",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Epialtidae & Ebalia & Hymenosoma & Lophopanopeus & Pisidia & Pisa & Pinnixa & Pinnotheres & Rhinolambrus & Pilumnus",
+            "Epialtus & Lepidopa & Acantholobulus & Chorinus & Pilumnus & Pisidia & Parapilumnus & Paramithrax & Microphrys & Pachycheles.",
+            " Epialtis & Macropodia & Acanthonyx & Pisidia & Carcinoplax & Cancer & Pachygrapsus & Ovalipes & Libinia & Lophopanopeus"
+        ]
+    },
+    "31": {
+        "node_name": "Scolopendridae",
+        "parent_names": [
+            "Scolopendromorpha",
+            "Chilopoda",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Scolopendra & Otostigmus & Cormocephalus & Ethmostigmus & Hemiscolopendra & Rhysida & Otostigmomorpha & Otostigmomorpha & Otostigmomorpha & Otostigmomorpha",
+            "Scolopendra&Otostigmus&Tropidosternum&Rhysida&Eupolybothrus&Lithobius&Cormocephalus&Theatops&Tidops&Tachypodoiulus",
+            "Scolopendra&Rhysida&Tachypodoiulus&Hemiscolopendra&Alipes&Lithobius&Megaphyllum&Scolopendrella&Tachyderma&Lithobiomorpha"
+        ]
+    },
+    "32": {
+        "node_name": "Strongylocentrotidae",
+        "parent_names": [
+            "Camarodonta",
+            "Echinoidea",
+            "Echinodermata"
+        ],
+        "child_names": [
+            "Strongylocentrotus & Hemicentrotus & Echinometra & Centrostephanus & Diadema & Anthocidaris & Echinostrephus & Allocentrotus & Pseudocentrotus & Mesocentrotus.",
+            "Strongylocentrotus&Hemicentrotus&Echinometra&Diadema&Centrostephanus&Phyllacanthus&Mespilia&Toxopneustes&Tripneustes&Astropyga",
+            "Strongylocentrotus & Hemicentrotus & Mesocentrotus & Echinothrix & Paracentrotus & Centrostephanus & Allocentrotus & Salmacis & Anthocidaris & Echinostrephus"
+        ]
+    },
+    "33": {
+        "node_name": "Porpitidae",
+        "parent_names": [
+            "Anthoathecata",
+            "Hydrozoa",
+            "Cnidaria"
+        ],
+        "child_names": [
+            "Porpita & Velella & Abylopsis & Agalma & Hippopodina & Liriope & Lychnorhiza & Mastigias & Phyllorhiza & Rhacostoma",
+            "Porpita&Velella&Physalia&Chrysaora&Cyanea&Pelagia&Rhizostoma&Aurelia&Cassiopea&Drymonema",
+            "Porpita&Glaucus&Physalia&Velella&Bluebottle&Portuguese man o' war&By-the-wind sailor&By-the-wind sailor jellyfish&Purple sail&Purple man o' war"
+        ]
+    },
+    "34": {
+        "node_name": "Theraphosidae",
+        "parent_names": [
+            "Araneae",
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Theraphosa & Aphonopelma & Grammostola & Brachypelma & Lasiodora & Avicularia & Nhandu & Pamphobeteus & Poecilotheria & Euathlus",
+            "Theraphosa&Grammostola&Aphonopelma&Pterinopelma&Lasiodora&Pamphobeteus&Brachypelma&Cyriocosmus&Poecilotheria&Tapinauchenius",
+            " Aphonopelma & Brachypelma & Grammostola & Lasiodora & Avicularia & Poecilotheria & Pamphobeteus & Nhandu & Psalmopoeus & Hapalopus"
+        ]
+    },
+    "35": {
+        "node_name": "Araneidae",
+        "parent_names": [
+            "Araneae",
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Araneus & Argiope & Cyclosa & Eriophora & Gasteracantha & Larinioides & Mangora & Neoscona & Nephila & Verrucosa",
+            "Araneus & Argiope & Neoscona & Cyclosa & Larinioides & Metellina & Mangora & Eustala & Aculepeira & Gasteracantha",
+            "Araneus & Argiope & Neoscona & Larinia & Mangora & Cyclosa & Metazygia & Acacesia & Verrucosa & Gasteracantha"
+        ]
+    },
+    "36": {
+        "node_name": "Buthidae",
+        "parent_names": [
+            "Scorpiones",
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Buthacus & Hottentotta & Ananteris & Centruroides & Isometrus & Mesobuthus & Tityus & Leiurus & Androctonus & Rhopalurus",
+            "Centruroides & Tityus & Hottentotta & Leiurus & Androctonus & Mesobuthus & Odontobuthus & Grosphus & Buthus & Isometrus",
+            "Androctonus & Centruroides & Hottentotta & Leiurus & Mesobuthus & Parabuthus & Tityus & Buthus & Isometrus & Odontobuthus"
+        ]
+    },
+    "37": {
+        "node_name": "Ixodidae",
+        "parent_names": [
+            "Ixodida",
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Ixodes & Dermacentor & Amblyomma & Haemaphysalis & Rhipicephalus & Hyalomma & Boophilus & Anomalohimalaya & Cosmiomma & Margaropus",
+            "Ixodes & Amblyomma & Dermacentor & Rhipicephalus & Haemaphysalis & Hyalomma & Boophilus & Anocentor & Aponomma & Otobius",
+            "Amblyomma & Dermacentor & Haemaphysalis & Hyalomma & Ixodes & Rhipicephalus & Amblyornyx & Anomalohimalaya & Archaeocroton & Archaeocrotonella."
+        ]
+    },
+    "38": {
+        "node_name": "Pisauridae",
+        "parent_names": [
+            "Araneae",
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Pisaura& Dolomedes& Nilus& Thaumasia& Tinus& Ancylometes& Architis& Dolomedroides& Dolomedesoides& Megadolomedes",
+            "Pisaura& Dolomedes& Nilus& Thaumasia& Pisaurina& Tinus& Dolichognatha& Dendrolycosa& Ancylometes& Dolomedroides",
+            "Pisaura& Dolomedes& Nilus& Thaumasia& Tinus& Architis& Ancylometes& Dolomedroides& Cispius& Pisaurina"
+        ]
+    },
+    "39": {
+        "node_name": "Dysderidae",
+        "parent_names": [
+            "Araneae",
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Dysdera & Harpactocrates & Haplogynium & Rhode & Rhodera & Rhoderaea & Rhodeina & Rhoderaeola & Rhoderaeopsis & Rhoderaeus",
+            "Dysdera&Harmonicon&Harpactea&Harpactocrates&Harpactoides&Harpactea&Harpactea&Harpactea&Harpactea&Harpactea",
+            "Dysdera&Harpactea&Harmonicon&Harpactocrates&Segestria&Haplogynae&Entelecara&Rhode&Grossa&Harpactoides"
+        ]
+    },
+    "40": {
+        "node_name": "Theridiidae",
+        "parent_names": [
+            "Araneae",
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Theridion & Latrodectus & Steatoda & Parasteatoda & Argyrodes & Enoplognatha & Pholcomma & Theridula & Simitidion & Anelosimus",
+            "Theridion & Latrodectus & Steatoda & Parasteatoda & Anelosimus & Enoplognatha & Argyrodes & Dipoena & Neottiura & Robertus",
+            "Theridion & Steatoda & Latrodectus & Parasteatoda & Anelosimus & Nesticodes & Enoplognatha & Neottiura & Pholcomma & Simitidion"
+        ]
+    },
+    "41": {
+        "node_name": "Thomisidae",
+        "parent_names": [
+            "Araneae",
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Thomisus& Misumena& Diaea& Ozyptila& Xysticus& Tmarus& Bassaniana& Stephanopoides& Coriarachne& Tropizodium",
+            "Thomisidae & Thomisus & Misumenoides & Xysticus & Thomisus & Diaea & Ozyptila & Misumena & Tmarus & Xysticus",
+            " Thomisus & Misumena & Xysticus & Diaea & Tmarus & Ozyptila & Heriaeus & Synema & Thomisus & Xysticus"
+        ]
+    },
+    "42": {
+        "node_name": "Salticidae",
+        "parent_names": [
+            "Araneae",
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Salticus&Euophrys&Phidippus&Habronattus&Lyssomanes&Maratus&Evarcha&Peckhamia&Plexippus&Myrmarachne",
+            " Salticus & Phidippus & Habronattus & Maratus & Portia & Evarcha & Plexippus & Myrmarachne & Menemerus & Pelegrina",
+            "Salticus & Phidippus & Euophrys & Maratus & Habronattus & Plexippus & Evarcha & Neon & Menemerus & Lyssomanes"
+        ]
+    },
+    "43": {
+        "node_name": "Oxyopidae",
+        "parent_names": [
+            "Araneae",
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Oxyopes& Peucetia& Hamataliwa& Tapinillus& Hamatalia& Oxyopes& Oxyopes& Hamataliwa& Peucetia& Peucetia",
+            "Oxyopes& Peucetia& Hamataliwa& Tapinillus& Bassaniana& Chrysilla& Aphantaulax& Palystes& Oxyopes& Peucetia",
+            "Oxyopes & Hamataliwa & Peucetia & Tapinillus & Hamatalia & Hamataliinae & Tapinillus & Tapinillus & Peucetia & Oxyopes"
+        ]
+    },
+    "44": {
+        "node_name": "Vaejovidae",
+        "parent_names": [
+            "Scorpiones",
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Vaejovidae & Kochius & Paravaejovis & Serradigitus & Thorellius & Syntropis & Hoffmannius & Stahnkeus & Pseudouroctonus & Smeringurus",
+            "Vaejovis & Paruroctonus & Serradigitus & Pseudouroctonus & Hoffmannius & Smeringurus & Kochius & Syntropis & Uroctonites & Pseudoananteris",
+            "Vaejovis&Paravaejovis&Serradigitus&Pseudouroctonus&Afroctenus&Kochius&Uroctonites&Syntropis&Pseudouroctonoides&Syntropiella"
+        ]
+    },
+    "45": {
+        "node_name": "Sturnidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Sturnus & Acridotheres & Gracupica & Pastor & Creatophora & Cinnyricinclus & Lamprotornis & Aplonis & Gracula & Ampeliceps",
+            "Sturnus&Acridotheres&Gracula&Sarcops&Enodes&Temnurus&Fregilupus&Onychognathus&Creatophora&Neochlamydera",
+            "Sturnus & Gracula & Acridotheres & Aplonis & Fregilupus & Streptocitta & Ampeliceps & Creatophora & Onychognathus & Pastor"
+        ]
+    },
+    "46": {
+        "node_name": "Scolopacidae",
+        "parent_names": [
+            "Charadriiformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Calidris & Tringa & Limosa & Numenius & Gallinago & Actitis & Arenaria & Philomachus & Bartramia & Scolopax",
+            "Calidris& Tringa& Limnodromus& Phalaropus& Gallinago& Limicola& Numenius& Bartramia& Catoptrophorus& Prosobonia",
+            "Calidris & Limicola & Arenaria & Tringa & Actitis & Philomachus & Limnodromus & Gallinago & Numenius & Scolopax"
+        ]
+    },
+    "47": {
+        "node_name": "Podicipedidae",
+        "parent_names": [
+            "Podicipediformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Podiceps& Rollandia& Tachybaptus& Poliocephalus& Podilymbus& Aechmophorus& Podiceps& Podilymbus& Rollandia& Tachybaptus",
+            "Podiceps & Tachybaptus & Rollandia & Poliocephalus & Podilymbus & Aechmophorus & Podicepsarcticus & Podicepscristatus & Podicepsnigricollis & Podicepsoccipitalis",
+            "Podiceps& Tachybaptus& Aechmophorus& Rollandia& Poliocephalus& Podilymbus& Podiceps& Tachybaptus& Aechmophorus& Rollandia"
+        ]
+    },
+    "48": {
+        "node_name": "Aegithalidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Aegithalos& Psaltria& Leptopoecile& Pseudopodoces& Psaltriparus& Pardaliparus& Melanochlora& Poecile& Periparus& Sittiparus",
+            "Aegithalidae&Salpornis&Machlolophus&Leptopoecile&Sylviparus&Psaltria&Psaltriparus&Melanochlora&Baeolophus&Chamaea",
+            " Aegithalos & Psaltriparus & Pseudopodoces & Leptopoecile & Psaltria & Chamaea & Psaltrichia & Chamaeospiza & Pseudopodoces & Aegithalos"
+        ]
+    },
+    "49": {
+        "node_name": "Icteridae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Agelaius & Agelasticus & Amblycercus & Cacicus & Cassiculus & Chrysomus & Dolichonyx & Euphagus & Gymnomystax & Icterus",
+            "Agelaius & Amblycercus & Cacicus & Chrysomus & Dives & Euphagus & Gymnomystax & Icterus & Molothrus & Psarocolius",
+            "Agelaius & Amblycercus & Cacicus & Chrysomus & Dives & Dolichonyx & Euphagus & Gymnomystax & Icterus & Molothrus"
+        ]
+    },
+    "50": {
+        "node_name": "Passerellidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Ammodramus & Atlapetes & Arremon & Atlapetes & Aimophila & Passerculus & Passerina & Rhynchospiza & Spizella & Xenospiza",
+            "Passerella & Atlapetes & Arremon & Rhynchospiza & Pipilo & Melozone & Zonotrichia & Ammodramus & Spizella & Peucaea",
+            "Ammodramus & Arremonops & Atlapetes & Atlapetes & Melospiza & Melospiza & Passerculus & Peucaea & Pipilo & Spizella"
+        ]
+    },
+    "51": {
+        "node_name": "Anatidae",
+        "parent_names": [
+            "Anseriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Anas & Aythya & Branta & Cairina & Cygnus & Mergus & Netta & Oxyura & Tadorna & Tachybaptus",
+            "Anas & Aythya & Branta & Cairina & Cygnus & Dendrocygna & Mareca & Mergus & Netta & Tadorna",
+            "Anas & Aix & Aythya & Branta & Cygnus & Dendrocygna & Mergus & Netta & Oxyura & Tadorna"
+        ]
+    },
+    "52": {
+        "node_name": "Alaudidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Alauda&Calandrella&Melanocorypha&Mirafra&Melanocorypha&Mirafra&Galerida&Chersophilus&Oenanthe&Lullula",
+            "Mirafra & Melanocorypha & Eremophila & Lullula & Galerida & Calandrella & Pinarocorys & Chersophilus & Calandrella & Spizocorys",
+            "Alauda&Calandrella&Galerida&Melanocorypha&Mirafra&Mirafra&Chersophilus&Eremophila&Lullula&Melanocorypha"
+        ]
+    },
+    "53": {
+        "node_name": "Alcedinidae",
+        "parent_names": [
+            "Coraciiformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Alcedo&Ispidina&Corythornis&Todiramphus&Ceyx&Megaceryle&Chloroceryle&Melanocorypha&Syma&Todirhamphus",
+            "Alcedo&Halcyon&Ceyx&Megaceryle&Corythornis&Todiramphus&Cittura&Todirhamphus&Todiramphus&Melanocorypha",
+            "Alcedo&Halcyon&Ceyx&Cittura&Todiramphus&Todirhamphus&Ceyx&Actenoides&Corythornis&Dacelo"
+        ]
+    },
+    "54": {
+        "node_name": "Trochilidae",
+        "parent_names": [
+            "Caprimulgiformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Heliodoxa&Lophornis&Oreotrochilus&Phaethornis&Riccordia&Sappho&Thalurania&Trochilus&Urosticte&Zodalia",
+            "Trogon&Selasphorus&Calliphlox&Calypte&Archilochus&Eupherusa&Mellisuga&Machaeropterus&Cynanthus&Lophornis",
+            "Heliodoxa & Taphrospilus & Heliothryx & Cynanthus & Anthracothorax & Thalurania & Eulampis & Chlorostilbon & Phaethornis & Amazilia"
+        ]
+    },
+    "55": {
+        "node_name": "Anhingidae",
+        "parent_names": [
+            "Suliformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Anhinga & Phalacrocorax & Microcarbo & Nannopterum & Leucocarbo & Phalacrocorax & Poikilocarbo & Microcarbo & Nannopterum & Anhinga",
+            "Anhinga&Microcarbo&Phalacrocorax&Leucocarbo&Nannopterum&Gulosus&Graculus&Tachypetes&Phalacrocoracoides&Phalacrocorax",
+            "Anhinga & Phalacrocorax & Pelecanus & Podiceps & Phoenicopterus & Sula & Morus & Phaethon & Fregata & Stercorarius"
+        ]
+    },
+    "56": {
+        "node_name": "Meliphagidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Meliphaga&Manorina&Philemon&Anthochaera&Acanthorhynchus&Entomyzon&Lichmera&Plectorhyncha&Tregellasia&Stomiopera",
+            "Anthochaera & Anthornis & Aprosmictus & Caligavis & Entomyzon & Lichenostomus & Melidectes & Melipotes & Melithreptus & Myzomela",
+            "Meliphaga&Anthochaera&Lichenostomus&Phylidonyris&Entomyzon&Myzomela&Acanthorhynchus&Plectorhyncha&Stomiopera&Lichmera"
+        ]
+    },
+    "57": {
+        "node_name": "Motacillidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Motacilla&Anthus&Dendronanthus&Tmetothylacus&Motacillides&Macronyx&Corydospiza&Hemimacronyx&Madanga&Cinnyris",
+            "Motacilla & Anthus & Dendronanthus & Hemimacronyx & Macronyx & Madanga & Pseudosylvia & Tmetothylacus & Hemimacronyx & Hodgsonius",
+            "Anthus & Motacilla & Dendronanthus & Hemimacronyx & Macronyx & Madanga & Nivicola & Tmetothylacus & Urocynchramus & Hemimacronyx"
+        ]
+    },
+    "58": {
+        "node_name": "Gruidae",
+        "parent_names": [
+            "Gruiformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Grus & Antigone & Anthropoides & Balearica & Bugeranus & Leucogeranus & Gruidae & Leptoptilos & Aramus & Oxyura",
+            "Grus & Balearica & Anthropoides & Bugeranus & Leucogeranus & Antigone & Gruidae & Gymnogyps & Geronticus & Xenogyps",
+            "Grus&Anthropoides&Antigone&Balearica&Bugeranus&Balearica&Bugeranus&Leucogeranus&Xenogeranus&Grus"
+        ]
+    },
+    "59": {
+        "node_name": "Corvidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Corvus & Cyanocitta & Pica & Nucifraga & Garrulus & Pyrrhocorax & Perisoreus & Podoces & Urocissa & Cissa",
+            "Corvus & Cyanocorax & Pica & Garrulus & Nucifraga & Pyrrhocorax & Perisoreus & Gymnorhinus & Cyanopica & Urocissa",
+            "Corvus & Cyanocitta & Pica & Garrulus & Nucifraga & Platysmurus & Perisoreus & Urocissa & Cissa & Crypsirina"
+        ]
+    },
+    "60": {
+        "node_name": "Accipitridae",
+        "parent_names": [
+            "Accipitriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Accipiter&Butastur&Circus&Elanus&Gampsonyx&Henicopernis&Melierax&Micronisus&Milvus&Pernis",
+            "Accipiter&Butastur&Circus&Elanus&Milvus&Pernis&Polyboroides&Pseudastur&Rostrhamus&Trigonoceps",
+            "Accipiter& Buteo& Circus& Elanus& Gypaetus& Harpia& Haliaeetus& Milvus& Pandion& Sagittarius"
+        ]
+    },
+    "61": {
+        "node_name": "Aramidae",
+        "parent_names": [
+            "Gruiformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Aramus&Psophia&Tauraco&Corythaeola&Tropidophorus&Gallirallus&Micrastur&Megapodius&Porphyrio&Pardirallus",
+            "Aramia & Psophia & Chauna & Gymnogyps & Gymnoderus & Aramus & Agamia & Micropygia & Lophornis & Micrastur",
+            "Aramus&Psophia&Tigerherons&Tigrisoma&Tigrisops&Tigrisoma&Micrastur&Herpetotheres&Butorides&Ardenna"
+        ]
+    },
+    "62": {
+        "node_name": "Ardeidae",
+        "parent_names": [
+            "Pelecaniformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Ardea & Egretta & Bubulcus & Butorides & Nycticorax & Gorsachius & Ixobrychus & Zebrilus & Syrigma & Pilherodius",
+            "Ardea&Botaurus&Butorides&Egretta&Gorsachius&Ixobrychus&Nycticorax&Nyctanassa&Pilherodius&Tigrisoma",
+            "Ardea&Butorides&Egretta&Nycticorax&Tigrisoma&Cochlearius&Pilherodius&Megaceryle&Morus&Ixobrychus"
+        ]
+    },
+    "63": {
+        "node_name": "Procellariidae",
+        "parent_names": [
+            "Procellariiformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Procellaria & Calonectris & Puffinus & Ardenna & Pseudobulweria & Bulweria & Halobaena & Thalassarche & Phoebastria & Diomedea",
+            "Procellaria&Fulmarus&Pterodroma&Calonectris&Thalassarche&Daption&Diomedea&Procellariinae&Halocyptena&Puffinus",
+            "Procellaria&Calonectris&Puffinus&Diomedea&Fulmarus&Daption&Pterodroma&Morus&Thalassarche&Hydrobates"
+        ]
+    },
+    "64": {
+        "node_name": "Strigidae",
+        "parent_names": [
+            "Strigiformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Strix & Bubo & Otus & Athene & Ninox & Pulsatrix & Lophostrix & Glaucidium & Megascops & Asio",
+            "Asio & Bubo & Glaucidium & Megascops & Ninox & Otus & Pulsatrix & Ptilopsis & Strix & Tyto",
+            "Strix & Bubo & Otus & Athene & Ninox & Pulsatrix & Megascops & Glaucidium & Asio & Lophostrix"
+        ]
+    },
+    "65": {
+        "node_name": "Remizidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            " Remiz, Stizopogon, Chrysomus, Pseudopodoces, Auriparus, Cephalopyrus, Melanocorypha, Panurus, Parus, Poecile",
+            "Remiz& Anthoscopus& Stenostira& Melanocorypha& Calamonastes& Chamaea& Cephalopyrus& Parus& Sitta& Sittiparus",
+            "Remiz & Microhierax & Poliolais & Anthoscopus & Auriparus & Cephalopyrus & Regulus & Psaltriparus & Parus & Baeolophus"
+        ]
+    },
+    "66": {
+        "node_name": "Paridae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Parus & Cyanistes & Poecile & Periparus & Lophophanes & Sittiparus & Melanochlora & Machlolophus & Pseudopodoces & Sinosuthora",
+            "Parus&Poecile&Baeolophus&Sittiparus&Melanochlora&Machlolophus&Melaniparus&Periparus&Lophophanes&Sittiparus",
+            "Parus & Poecile & Periparus & Melaniparus & Baeolophus & Sittiparus & Pseudopodoces & Lophophanes & Cyanistes & Machlolophus"
+        ]
+    },
+    "67": {
+        "node_name": "Parulidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Setophaga & Dendroica & Vermivora & Setophagoides & Oreothlypis & Myioborus & Basileuterus & Cardellina & Geothlypis & Parkesia",
+            "Setophaga & Setophaga & Vermivora & Vermivora & Dendroica & Dendroica & Protonotaria & Protonotaria & Geothlypis & Geothlypis",
+            "Setophaga & Setophaga & Setophaga & Setophaga & Setophaga & Setophaga & Setophaga & Setophaga & Setophaga & Setophaga"
+        ]
+    },
+    "68": {
+        "node_name": "Bombycillidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Bombycilla & Dulcornea & Ptiliogonys & Phainopepla & Hypocolius & Dulciornis & Irena & Terpsiphone & Hemipus & Oriolus",
+            " Bombycilla & Dulornis & Pseudobaeositta & Ptiliogonys & Phainoptila & Phainopepla & Hypocolius & Dulus & Cinclocerthia & Cinclus",
+            "Bombycilla& Ptilogonys& Dulidae& Hypocolius& Phainoptila& Cinclodes& Dulus& Campylorhynchus& Donacobius& Henicorhina"
+        ]
+    },
+    "69": {
+        "node_name": "Phasianidae",
+        "parent_names": [
+            "Galliformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Phasianus& Gallus& Meleagris& Coturnix& Pavo& Lophura& Chrysolophus& Argusianus& Polyplectron& Syrmaticus",
+            "Phasianus & Meleagris & Gallus & Coturnix & Alectoris & Syrmaticus & Lophura & Chrysolophus & Pavo & Argusianus.",
+            "Phasianus & Gallus & Lophura & Polyplectron & Chrysolophus & Syrmaticus & Tragopan & Ithaginis & Catreus & Argus"
+        ]
+    },
+    "70": {
+        "node_name": "Odontophoridae",
+        "parent_names": [
+            "Galliformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Odontophorus& Callipepla& Cyrtonyx& Dactylortyx& Philortyx& Oreortyx& Rhynchortyx& Rhinortyx& Geococcyx& Dromococcyx",
+            "Odontophorus&Callipepla&Dendrortyx&Rhynchortyx&Colinus&Cyrtonyx&Cyrtonyx&Cyrtonyx&Cyrtonyx&Cyrtonyx",
+            "Odontophorus& Callipepla& Cyrtonyx& Dendrortyx& Philortyx& Cyrtonyx& Colinus& Rhynchortyx& Oreortyx& Dactylortyx"
+        ]
+    },
+    "71": {
+        "node_name": "Picidae",
+        "parent_names": [
+            "Piciformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Piculus&Colaptes&Campephilus&Picumnus&Sasia&Melanerpes&Dryocopus&Dendrocopos&Sphyrapicus&Veniliornis",
+            "Picus&Dendrocopos&Melanerpes&Colaptes&Sphyrapicus&Campephilus&Veniliornis&Chrysocolaptes&Touit&Celeus",
+            "Picoides & Picumnus & Sphyrapicus & Melanerpes & Veniliornis & Picus & Dryocopus & Leuconotopicus & Celeus & Colaptes"
+        ]
+    },
+    "72": {
+        "node_name": "Troglodytidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Troglodytidae& Troglodytes& Cistothorus& Thryomanes& Salpinctes& Campylorhynchus& Ferminia& Hylorchilus& Henicorhina& Pheugopedius",
+            " Catherpes&Thryomanes&Pheugopedius&Salpinctes&Thryorchilus&Troglodytes&Henicorhina&Campylorhynchus&Telmatodytes&Hylorchilus",
+            " Troglodytes & Cistothorus & Thryomanes & Thryorchilus & Odontorchilus & Microcerculus & Ferminia & Polioptila & Henicorhina & Salpinctes"
+        ]
+    },
+    "73": {
+        "node_name": "Falconidae",
+        "parent_names": [
+            "Falconiformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Falco&Herpetotheres&Micrastur&Morphnus&Caracara&Polyborus&Milvago&Phalcoboenus&Ibycter&Pseudastur",
+            "Falco&Caracara&Polyborus&Herpetotheres&Micrastur&Ibycter&Tachymarptis&Phalcoboenus&Morphnus&Sarcoramphus",
+            "Falco&Caracara&Polyborus&Herpetotheres&Micrastur&Morphnus&Ibycter&Pseudastur&Spiziapteryx&Sarcoramphus"
+        ]
+    },
+    "74": {
+        "node_name": "Cardinalidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Passerina & Piranga & Cardinalis & Pheucticus & Cyanoloxia & Cyanocompsa & Cyanerpes & Habia & Spiza & Granatellus",
+            " Cardinalis & Passerina & Piranga & Pheucticus & Cyanoloxia & Saltator & Caryothraustes & Periporphyrus & Amaurospiza & Cyanocompsa",
+            "Cardinalis & Passerina & Piranga & Pheucticus & Cyanocompsa & Saltator & Caryothraustes & Periporphyrus & Habia & Spiza"
+        ]
+    },
+    "75": {
+        "node_name": "Fringillidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Fringilla&Carduelis&Coccothraustes&Serinus&Spinus&Loxia&Pycnonotus&Pyrrhula&Carpodacus&Chloris",
+            "Fringilla & Carduelis & Serinus & Chloris & Spinus & Acanthis & Linaria & Loxia & Pyrrhula & Emberiza",
+            "Fringilla&Carduelis&Coccothraustes&Serinus&Chloris&Spinus&Loxia&Acanthis&Hesperiphona&Pheucticus"
+        ]
+    },
+    "76": {
+        "node_name": "Cathartidae",
+        "parent_names": [
+            "Cathartiformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Cathartes&Gymnogyps&Sarcoramphus&Coragyps&Phalcoboenus&Pseudogyps&Torgos&Neophron&Gypaetus&Sarcogyps",
+            "Cathartes&Gymnogyps&Sarcoramphus&Vultur&Trigonoceps&Necrosyrtes&Torgos&Sarcogyps&Gyps&Necrosyrtes",
+            "Cathartes & Gymnogyps & Vultur & Sarcoramphus & Coragyps & Phalcoboenus & Gypaetus & Neophron & Torgos & Trigonoceps"
+        ]
+    },
+    "77": {
+        "node_name": "Turdidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Turdus&Zoothera&Catharus&Geokichla&Ixoreus&Platycichla&Neocossyphus&Pseudocossyphus&Myophonus&Kittacincla",
+            "Turdus&Myadestes&Catharus&Zoothera&Cichlopsis&Ixoreus&Platycichla&Geokichla&Nesocichla&Oreocincla",
+            "Turdus&Zoothera&Catharus&Geokichla&Turdoides&Ixoreus&Platycichla&Brachypteryx&Myadestes&Nesocichla"
+        ]
+    },
+    "78": {
+        "node_name": "Alcidae",
+        "parent_names": [
+            "Charadriiformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Alca & Aethia & Alle & Brachyramphus & Cepphus & Cerorhinca & Fratercula & Ptychoramphus & Synthliboramphus & Uria",
+            "Fratercula & Alle & Cepphus & Aethia & Uria & Ptychoramphus & Cerorhinca & Cyclorrhynchus & Synthliboramphus & Brachyramphus",
+            "Fratercula&Cepphus&Rissa&Uria&Alca&Alle&Cerorhinca&Brachyramphus&Aethia&Synthliboramphus"
+        ]
+    },
+    "79": {
+        "node_name": "Certhiidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Certhia&Salpornis&Sitta&Tichodroma&Sitta&Psilorhinus&Catharus&Sitta&Tichodroma&Pseudopodoces",
+            "Certhia & Salpornis & Tichodroma & Sitta & Campylorhynchus & Aphelocoma & Cyanocitta & Calocitta & Dendrocitta & Crypsirina",
+            "Certhia& Salpornis& Sitta& Tichodroma& Climacteris& Cormobates& Hylatomus& Dendroscansor& Climacteridae& Lepidocolaptes"
+        ]
+    },
+    "80": {
+        "node_name": "Sylviidae",
+        "parent_names": [
+            "Passeriformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Sylvia & Phylloscopus & Acrocephalus & Hippolais & Cettia & Iduna & Bradypterus & Orthotomus & Abroscopus & Horornis",
+            "Sylvia&Phylloscopus&Acrocephalus&Curruca&Iduna&Hippolais&Locustella&Bradypterus&Prinia&Cettia",
+            "Sylvia&Phylloscopus&Acrocephalus&Iduna&Locustella&Cettia&Curruca&Hippolais&Chamaea&Megalurulus"
+        ]
+    },
+    "81": {
+        "node_name": "Charadriidae",
+        "parent_names": [
+            "Charadriiformes",
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Pluvialis&Vanellus&Charadrius&Thinornis&Anarhynchus&Aegialitis&Oreopholus&Cercotrichas&Elseyornis&Peltohyas",
+            "Charadrius & Pluvialis & Vanellus & Haematopus & Himantopus & Recurvirostra & Calidris & Limosa & Numenius & Tringa",
+            "Charadrius & Vanellus & Pluvialis & Eudromias & Elseyornis & Anarhynchus & Thinornis & Peltohyas & Podiceps & Haematopodidae"
+        ]
+    },
+    "82": {
+        "node_name": "Papilionidae",
+        "parent_names": [
+            "Lepidoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Papilio & Graphium & Battus & Byasa & Atrophaneura & Teinopalpus & Achillides & Chilasa & Losaria & Agehana",
+            "Papilio&Graphium&Papilioninae&Papilionides&Troides&Battus&Teinopalpus&Parnassius&Mimoides&Achillides",
+            "Papilio & Graphium & Battus & Heraclides & Byasa & Teinopalpus & Atrophaneura & Achillides & Chilasa & Troides"
+        ]
+    },
+    "83": {
+        "node_name": "Rhopalidae",
+        "parent_names": [
+            "Hemiptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Rhopalus & Corizus & Harmostes & Niesthrea & Odontorhagus & Rhopalapion & Rhopalida & Rhopalimorpha & Rhopalus & Stictopleurus",
+            "Rhopalidae & Coreidae & Alydidae & Urostylididae & Largidae & Myodochidae & Pseudophloeidae & Stenocephalidae & Pachycorinae & Serinethinae",
+            "Rhopalidae & Corizus & Harmostes & Liorhyssus & Niesthrea & Odontopus & Parapleistus & Rhinocoris & Rhopalus & Stictopleurus"
+        ]
+    },
+    "84": {
+        "node_name": "Nymphalidae",
+        "parent_names": [
+            "Lepidoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Heliconius & Aglais & Junonia & Vanessa & Polygonia & Inachis & Danaus & Anartia & Euphydryas & Hypolimnas",
+            "Asterocampa & Bicyclus & Charaxes & Danaus & Heliconius & Junonia & Morpho & Vanessa & Ypthima & Zaretis",
+            "Agraulis&Anartia&Callicore&Charaxes&Danaus&Heliconius&Junonia&Morpho&Nymphalis&Papilio"
+        ]
+    },
+    "85": {
+        "node_name": "Apidae",
+        "parent_names": [
+            "Hymenoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Apis & Bombus & Melipona & Xylocopa & Megachile & Eufriesea & Euglossa & Trigona & Tetragonula & Centris",
+            "Apis & Bombus & Xylocopa & Megachile & Osmia & Andrena & Anthidium & Halictus & Melissodes & Eucera",
+            "Apis & Bombus & Melipona & Megachile & Euglossa & Xylocopa & Centris & Eulaema & Augochlorella & Plebeia"
+        ]
+    },
+    "86": {
+        "node_name": "Bombyliidae",
+        "parent_names": [
+            "Diptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Bombylius&Anthrax&Bombylius&Hemipenthes&Exoprosopa&Phthiria&Hemipenthes&Villa&Villa&Anthrax",
+            "Bombylius & Anthrax & Lomatiomyia & Villa & Systropus & Stylidops & Exoprosopa & Ligyra & Systoechus & Poecilanthrax",
+            "Bombylius & Anthracina & Anthrax & Exoprosopa & Systropus & Lepidophora & Poecilanthrax & Lepidanthrax & Hyperechia & Villa"
+        ]
+    },
+    "87": {
+        "node_name": "Libellulidae",
+        "parent_names": [
+            "Odonata",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Libellula & Sympetrum & Trithemis & Pantala & Orthetrum & Acisoma & Crocothemis & Diplacodes & Neurothemis & Rhyothemis",
+            "Libellula&Leucorrhinia&Sympetrum&Pachydiplax&Tramea&Orthetrum&Pantala&Neurothemis&Perithemis&Plathemis",
+            "Libellula&Orthetrum&Trithemis&Pantala&Sympetrum&Diplacodes&Anax&Calopteryx&Ischnura&Rhyothemis"
+        ]
+    },
+    "88": {
+        "node_name": "Lycaenidae",
+        "parent_names": [
+            "Lepidoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            " Theclinae & Polyommatinae & Lycaeninae & Poritiinae & Miletinae & Curetinae & Lipteninae & Aphnaeinae & Miletinae & Cyanophthalmini",
+            "Lampides&Lepidochrysops&Lycaena&Polyommatus&Zizeeria&Plebejus&Polyommatus&Callophrys&Everes&Icaricia",
+            "Plebejus&Polyommatus&Lampides&Lycaena&Aricia&Callophrys&Thecla&Glaucopsyche&Cupido&Everes"
+        ]
+    },
+    "89": {
+        "node_name": "Erebidae",
+        "parent_names": [
+            "Lepidoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Erebinae & Herminiinae & Arctiinae & Hypeninae & Rivulinae & Aganainae & Lymantriinae & Microniinae & Calpinae & Herminiinae",
+            "Aganainae& Arctiinae& Boletobiinae& Calpinae& Catocalinae& Erebinae& Eulepidotinae& Herminiinae& Lymantriinae& Rivulinae.",
+            "Erebidae & Arctiinae & Lymantriinae & Boletobiinae & Hypeninae & Calpinae & Aganainae & Herminiinae & Rivulinae & Catocalinae"
+        ]
+    },
+    "90": {
+        "node_name": "Riodinidae",
+        "parent_names": [
+            "Lepidoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Charisias & Dachetola & Euselasia & Ithomia & Lycorea & Melinaea & Mesosemia & Nabokovia & Ourocnemis & Riodina",
+            "Riodinini& Symmachiini& Euselasiini& Mesosemiini& Charisini& Nymphidiini& Zemerini& Nymphidiina& Riodinina& Symmachiina",
+            "Abisara & Calospila & Charis & Emesis & Hypochrysops & Lyropteryx & Methona & Nymphidium & Rhetus & Theope"
+        ]
+    },
+    "91": {
+        "node_name": "Lycidae",
+        "parent_names": [
+            "Coleoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Lycus&Calopteron&Porrostoma&Plateros&Porrostoma&Chalcolepidius&Lycocerus&Necrobia&Lygistopterus&Necrobia",
+            "Lycus & Plateros & Calopteron & Porrostoma & Euryopa & Dilophotes & Metriorrhynchus & Dictyoptera & Dinops & Lamprodila",
+            "Lycus & Calopteron & Porrostoma & Metriorrhynchus & Plateros & Platerodrilus & Platerosoma & Platerodema & Platerosoides & Platerosina"
+        ]
+    },
+    "92": {
+        "node_name": "Calopterygidae",
+        "parent_names": [
+            "Odonata",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Calopteryx & Matrona & Mnais & Chlorocypha & Teinobasis & Neurobasis & Argiolestes & Matronoides & Hetaerina & Paracercion",
+            "Calopteryx & Matronoides & Vestalis & Mnais & Caliphaea & Hetaerina & Argia & Telebasis & Nehalennia & Matrona",
+            "Calopteryx & Matrona & Mnais & Vestalis & Caliphaea & Matronoides & Matronula & Callopteryx & Telebasis & Hetaerina"
+        ]
+    },
+    "93": {
+        "node_name": "Carabidae",
+        "parent_names": [
+            "Coleoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Carabus&Calosoma&Cicindela&Drypta&Harpalus&Lebia&Nebria&Pterostichus&Trechinae&Trechus",
+            "Carabus & Calosoma & Pterostichus & Harpalus & Bembidion & Nebria & Cicindela & Anchomenus & Notiophilus & Lebia",
+            "Carabus & Calosoma & Pterostichus & Trechus & Nebria & Bembidion & Harpalus & Platynus & Amara & Anchomenus"
+        ]
+    },
+    "94": {
+        "node_name": "Hesperiidae",
+        "parent_names": [
+            "Lepidoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Erynnis & Thymelicus & Pyrgus & Ochlodes & Hesperia & Polites & Cobalopsis & Wallengrenia & Carterocephalus & Amblyscirtes",
+            " Pyrgus & Thymelicus & Erynnis & Ochlodes & Thorybes & Hylephila & Lerema & Cobalopsis & Megathymus & Euphyes",
+            " Pyrgus & Erynnis & Thymelicus & Ochlodes & Hesperia & Polites & Hylephila & Amblyscirtes & Epargyreus & Megathymus"
+        ]
+    },
+    "95": {
+        "node_name": "Geometridae",
+        "parent_names": [
+            "Lepidoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Ectropis & Ephyra & Epirrhoe & Eupithecia & Gymnoscelis & Isturgia & Macaria & Nematocampa & Nemoria & Perizoma",
+            "Geometra&Idaea&Hydriomena&Ennomos&Eupithecia&Camptogramma&Nemoria&Macaria&Iridopsis&Erannis",
+            " Epirrita& Eupithecia& Idaea& Chloroclysta& Cyclophora& Isturgia& Macaria& Scopula& Timandra& Xanthorhoe"
+        ]
+    },
+    "96": {
+        "node_name": "Sphingidae",
+        "parent_names": [
+            "Lepidoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Sphingidae - Agrius & Manduca & Sphinx & Hemaris & Macroglossum & Hyles & Deilephila & Protambulyx & Celerio & Proserpinus",
+            "Sphinx & Hyles & Manduca & Pachylia & Celerio & Hemaris & Agrius & Acherontia & Protambulyx & Xylophanes",
+            " Agrius& Celerio& Hyles& Manduca& Sphinx& Macroglossum& Hemaris& Proserpinus& Xylophanes& Deilephila"
+        ]
+    },
+    "97": {
+        "node_name": "Cantharidae",
+        "parent_names": [
+            "Coleoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Cantharis & Rhagonycha & Malthinus & Silis & Chauliognathus & Podabrus & Rhagonycha & Rhagonycha & Silis & Podabrus",
+            "Cantharis & Rhagonycha & Podabrus & Chauliognathus & Silis & Amalochus & Cantharophilus & Malthinellus & Cantharodes & Silina",
+            "Cantharis & Rhagonycha & Chauliognathus & Pyrochroa & Podabrus & Malthininae & Silis & Rhagonycha & Silinae & Rhagonycha"
+        ]
+    },
+    "98": {
+        "node_name": "Pentatomidae",
+        "parent_names": [
+            "Hemiptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Euschistus & Nezara & Acrosternum & Murgantia & Piezodorus & Chlorochroa & Halyomorpha & Chinavia & Thyanta & Dolycoris",
+            "Eysarcoris & Euschistus & Nezara & Piezodorus & Chlorochroa & Acrosternum & Edessa & Carpocoris & Bagrada & Banasa",
+            "Euschistus & Nezara & Aelia & Piezodorus & Chinavia & Chlorochroa & Halyomorpha & Thyanta & Acrosternum & Carpocoris"
+        ]
+    },
+    "99": {
+        "node_name": "Chrysomelidae",
+        "parent_names": [
+            "Coleoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Chrysochus&Galerucella&Diabrotica&Leptinotarsa&Altica&Gastrophysa&Phyllobrotica&Doryphora&Cassida&Oulema",
+            "Chrysochus & Diabrotica & Disonycha & Labidomera & Leptinotarsa & Lilioceris & Oulema & Phaedon & Phyllophaga & Trirhabda",
+            "Chrysolina & Leptinotarsa & Diabrotica & Lema & Oulema & Altica & Calligrapha & Crioceris & Disonycha & Cassida"
+        ]
+    },
+    "100": {
+        "node_name": "Rhagionidae",
+        "parent_names": [
+            "Diptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Rhagio&Spania&Chrysopilus&Leptarthrus&Symphoromyia&Nephrocerus&Chrysotus&Tolmerus&Ceriagrion&Microchrysa",
+            "Rhagio&Spaniophlebia&Chrysopilus&Leptis&Spania&Bolbomyia&Nephrocerus&Rhagio scolopaceus&Rhagio tringarius&Rhagio lineola",
+            "Rhagio&Spania&Cyrtopogon&Tolmerus&Chrysotimus&Leptogaster&Atherix&Leptis&Nemotelus&Antipalus"
+        ]
+    },
+    "101": {
+        "node_name": "Tortricidae",
+        "parent_names": [
+            "Lepidoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Archips&Choristoneura&Clepsis&Grapholita&Hedya&Loxotaenia&Olethreutes&Oxycanus&Pandemis&Tortrix",
+            "Archips&Choristoneura&Clepsis&Cochylimorpha&Eulia&Grapholita&Hedya&Lobesia&Pandemis&Sparganothis",
+            "Adoxophyes & Archips & Choristoneura & Clepsis & Cydia & Epiblema & Grapholita & Lobesia & Pandemis & Sparganothis"
+        ]
+    },
+    "102": {
+        "node_name": "Coccinellidae",
+        "parent_names": [
+            "Coleoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Coccinella & Adalia & Harmonia & Hippodamia & Propylea & Chilocorus & Anatis & Cycloneda & Olla & Coleomegilla",
+            "Harmonia & Hippodamia & Coccinella & Adalia & Coleomegilla & Scymnus & Propylea & Cycloneda & Chilocorus & Exochomus",
+            "Coccinella&Hippodamia&Adalia&Harmonia&Propylea&Cycloneda&Coccinula&Coleomegilla&Chilocorus&Hyperaspis"
+        ]
+    },
+    "103": {
+        "node_name": "Pieridae",
+        "parent_names": [
+            "Lepidoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Pieris & Colias & Eurema & Pontia & Aporia & Leptidea & Anthocharis & Zegris & Tarucus & Catopsilia",
+            "Colias & Eurema & Pontia & Gonepteryx & Leptidea & Aporia & Catopsilia & Dercas & Delias & Hebomoia",
+            "Colias & Leptidea & Eurema & Pontia & Anthocharis & Colotis & Delias & Hebomoia & Appias & Ixias"
+        ]
+    },
+    "104": {
+        "node_name": "Syrphidae",
+        "parent_names": [
+            "Diptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            " Syrphus & Allograpta & Eupeodes & Melangyna & Platycheirus & Eristalis & Epistrophe & Xylota & Chrysotoxum & Sphaerophoria",
+            "Syrphus & Episyrphus & Eupeodes & Volucella & Melangyna & Xylota & Cheilosia & Platycheirus & Scaeva & Eristalis",
+            " Syrphus & Eristalis & Eupeodes & Melangyna & Platycheirus & Volucella & Allograpta & Epistrophe & Cheilosia & Sphaerophoria"
+        ]
+    },
+    "105": {
+        "node_name": "Corydalidae",
+        "parent_names": [
+            "Megaloptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Corydalus & Chauliodes & Neochauliodes & Archichauliodes & Protochauliodes & Neohermes & Neochauliodes & Neuronema & Neochauliodes & Neochauliodes",
+            "Corydalus & Neocorydalus & Chauliodes & Neohermes & Protohermes & Archichauliodes & Chloronia & Stenochironomus & Nigronia & Chauliodina",
+            "Corydalus & Chauliodes & Neochauliodes & Nigronia & Protochauliodes & Archichauliodes & Nigroniaella & Parachauliodes & Neochauliodesopsis & Chauliodus"
+        ]
+    },
+    "106": {
+        "node_name": "Scarabaeidae",
+        "parent_names": [
+            "Coleoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            " Scarabaeus & Copris & Canthon & Onthophagus & Aphodius & Anoplotrupes & Geotrupes & Gymnopleurus & Heliocopris & Bolbocerosoma",
+            " Scarabaeus & Copris & Onthophagus & Aphodius & Melolontha & Dynastes & Serica & Anomala & Oryctes & Phyllophaga",
+            " Scarabaeus & Copris & Onthophagus & Phanaeus & Aphodius & Ateuchus & Dynastes & Sericesthis & Euphoria & Canthon"
+        ]
+    },
+    "107": {
+        "node_name": "Crambidae",
+        "parent_names": [
+            "Lepidoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            " Crambus& Pyrausta& Hypsopygia& Scoparia& Chrysoteuchia& Evergestis& Udea& Cataclysta& Euchromius& Marasmia",
+            "Crambus & Acentria & Nymphicula & Nomophila & Scoparia & Parapoynx & Uresiphita & Pyrausta & Evergestis & Herpetogramma",
+            "Crambus& Evergestis& Herpetogramma& Hypsopygia& Marasmarcha& Nymphula& Pyrausta& Scirpophaga& Spoladea& Udea"
+        ]
+    },
+    "108": {
+        "node_name": "Ulidiidae",
+        "parent_names": [
+            "Diptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            " Ulidia & Chaetopsis & Carpophthora & Masicera & Chaetopsis & Delia & Euxesta & Pegomya & Blepharomyia & Callopistromyia.",
+            "Ulidia & Chaetopsis & Coelopa & Euxesta & Zaprionus & Callopistromyia & Carpophilus & Spilographa & Eumecosomella & Euarestella",
+            "Ulidia & Chaetopsis & Ceroxys & Euxesta & Euxestocheta & Neoulidia & Paraulacophora & Pseudotephritis & Tephritis & Trypeta"
+        ]
+    },
+    "109": {
+        "node_name": "Vespidae",
+        "parent_names": [
+            "Hymenoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Vespa&Polistes&Paravespula&Vespula&Dolichovespula&Provespa&Leptovespa&Stenovespula&Heterovespa&Dolichorhynchus",
+            "Vespula & Polistes & Dolichovespula & Paravespula & Provespa & Vespa & Eumenes & Ancistrocerus & Antodynerus & Stenodynerus",
+            "Vespula & Polistes & Dolichovespula & Provespa & Vespa & Paravespula & Stenodynerus & Eumenes & Zethus & Ancistrocerus"
+        ]
+    },
+    "110": {
+        "node_name": "Drepanidae",
+        "parent_names": [
+            "Lepidoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Drepana & Watsonalla & Oreta & Cymatophorima & Oreta & Oreta & Metacrias & Cymatophora & Oreta & Oreta",
+            "Drepana&Oreta&Oreophoetes&Nesara&Nychiodes&Nychiodes&Nychiodes&Hemerophila&Drepanella&Drepanulatrix",
+            "Drepana & Watsonalla & Sinocharis & Oreta & Oretina & Oretaia & Oretinia & Oretinodes & Oretinodina & Oretinula"
+        ]
+    },
+    "111": {
+        "node_name": "Gomphidae",
+        "parent_names": [
+            "Odonata",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Gomphus & Ophiogomphus & Progomphus & Aeshna & Boyeria & Dromogomphus & Epigomphus & Gomphidia & Hagenius & Onychogomphus",
+            "Gomphus & Ophiogomphus & Stylurus & Gomphidia & Progomphus & Phanogomphus & Epigomphus & Paragomphus & Phyllocycla & Gomphocherodes",
+            "Gomphus & Ophiogomphus & Stylurus & Hagenius & Progomphus & Phanogomphus & Dromogomphus & Ophiogomphoides & Arigomphus & Gomphidia."
+        ]
+    },
+    "112": {
+        "node_name": "Saturniidae",
+        "parent_names": [
+            "Lepidoptera",
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Antheraea&Argema&Attacus&Bunaea&Cricula&Graellsia&Hypercompe&Loepa&Saturnia&Samia",
+            "Antheraea & Attacus & Automeris & Callosamia & Citheronia & Eacles & Hemileuca & Hyalophora & Rothschildia & Samia",
+            "Samia & Antheraea & Rothschildia & Actias & Automeris & Callosamia & Hyalophora & Citheronia & Eacles & Copaxa"
+        ]
+    },
+    "113": {
+        "node_name": "Sciuridae",
+        "parent_names": [
+            "Rodentia",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Sciurus & Tamias & Marmota & Spermophilus & Petaurista & Callosciurus & Funambulus & Ratufa & Eutamias & Xerus",
+            "Sciurus&Tamias&Tamiasciurus&Marmota&Spermophilus&Urocitellus&Tamiops&Petaurista&Trogopterus&Callosciurus",
+            "Sciurus & Tamias & Marmota & Glaucomys & Spermophilus & Callosciurus & Petaurista & Ratufa & Funisciurus & Xerus"
+        ]
+    },
+    "114": {
+        "node_name": "Antilocapridae",
+        "parent_names": [
+            "Artiodactyla",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Antilocapra& Capromeryx& Ilingoceros& Hexobelomeryx& Hayoceros& Osbornoceros& Merycodus& Ramoceros& Sphenophalos& Tetrameryx",
+            "Antilocapra& Capromeryx& Ilingoceros& Osbornoceros& Hayoceros& Stockoceros& Cosoryx& Hexobelomeryx& Proantilocapra& Ramoceros",
+            "Antilocapra& Capromeryx& Ilingoceros& Hexobelomeryx& Hexaprotodon& Osbornoceros& Praeovibos& Ramoceros& Stockoceros& Texoceros"
+        ]
+    },
+    "115": {
+        "node_name": "Otariidae",
+        "parent_names": [
+            "Carnivora",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Arctocephalus & Callorhinus & Eumetopias & Neophoca & Otaria & Phocarctos & Zalophus & Mirounga & Ommatophoca & Arctophoca",
+            "Zalophus & Eumetopias & Arctocephalus & Callorhinus & Neophoca & Otaria & Phocarctos & Mirounga & Otaria & Enhydra",
+            "Arctocephalus & Callorhinus & Eumetopias & Neophoca & Otaria & Phocarctos & Pseudophoca & Zalophus & Mirounga & Otaria"
+        ]
+    },
+    "116": {
+        "node_name": "Procyonidae",
+        "parent_names": [
+            "Carnivora",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Bassaricyon & Nasua & Potos & Procyon & Bassariscus & Nasuella & Nasuella olivacea & Procyon cancrivorus & Procyon lotor & Procyon pygmaeus",
+            "Procyon & Nasua & Bassaricyon & Potos & Ailurus & Arctictis & Martes & Eira & Lontra & Lutra",
+            "Procyon&Nasua&Bassaricyon&Nasuella&Potos&Procyonidae&Nasua&Nasuella&Bassaricyon&Potos"
+        ]
+    },
+    "117": {
+        "node_name": "Bovidae",
+        "parent_names": [
+            "Artiodactyla",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Bison & Bos & Capra & Gazella & Ovis & Antilope & Tragelaphus & Connochaetes & Syncerus & Alcelaphus",
+            "Bos & Capra & Ovis & Gazella & Antilope & Tragelaphus & Syncerus & Connochaetes & Raphicerus & Alcelaphus",
+            "Bos & Capra & Ovis & Gazella & Rupicapra & Bison & Tragelaphus & Syncerus & Alcelaphus & Connochaetes"
+        ]
+    },
+    "118": {
+        "node_name": "Canidae",
+        "parent_names": [
+            "Carnivora",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Canis & Vulpes & Urocyon & Nyctereutes & Otocyon & Speothos & Cerdocyon & Atelocynus & Chrysocyon & Lupulella",
+            "Canis&Vulpes&Urocyon&Cuon&Chrysocyon&Lycaon&Atelocynus&Speothos&Nyctereutes&Otocyon",
+            "Canis & Vulpes & Urocyon & Otocyon & Nyctereutes & Cerdocyon & Speothos & Atelocynus & Chrysocyon & Lycaon"
+        ]
+    },
+    "119": {
+        "node_name": "Cervidae",
+        "parent_names": [
+            "Artiodactyla",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Cervus & Rusa & Axis & Dama & Elaphurus & Hyelaphus & Mazama & Odocoileus & Capreolus & Alces",
+            "Cervus&Axelodus&Dama&Cervicapra&Mazama&Muntiacus&Rangifer&Alces&Hydropotes&Odocoileus",
+            "Cervus & Alces & Rangifer & Capreolus & Mazama & Axis & Dama & Elaphurus & Hydropotes & Odocoileus"
+        ]
+    },
+    "120": {
+        "node_name": "Castoridae",
+        "parent_names": [
+            "Rodentia",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Castor & Aplodontia & Dipoides & Castoroides & Agnotocastor & Euhapsis & Anchitheriomys & Palaeocastor & Neaversona & Fibulalagus",
+            "Castor & Fiber & Aplodontia & Dipoides & Eucastor & Neocastor & Palaeocastor & Propalaeocastor & Steneofiber & Trogomys",
+            "Castor & Aplodontia & Dipoides & Castoroides & Neotoma & Myocastor & Procastor & Eucastor & Agnotocastor & Fibricastor"
+        ]
+    },
+    "121": {
+        "node_name": "Dasypodidae",
+        "parent_names": [
+            "Cingulata",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Dasypus&Chaetophractus&Chlamyphorus&Zaedyus&Calyptophractus&Hoplomys&Tolypeutes&Priodontes&Cabassous&Propraopus",
+            "Dasypus & Chlamyphorus & Cabassous & Tolypeutes & Euphractus & Priodontes & Zaedyus & Chaetophractus & Propraopus & Holmesina",
+            "Dasypus&Chaetophractus&Tolypeutes&Chlamyphorus&Zaedyus&Priodontes&Cabassous&Euphractus&Calyptophractus&Zygogeomys"
+        ]
+    },
+    "122": {
+        "node_name": "Didelphidae",
+        "parent_names": [
+            "Didelphimorphia",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Didelphis & Caluromys & Marmosa & Monodelphis & Metachirus & Philander & Chironectes & Lutreolina & Gracilinanus & Thylamys",
+            "Didelphis & Chironectes & Caluromysiops & Metachirus & Marmosa & Monodelphis & Philander & Gracilinanus & Lutreolina & Thylamys",
+            "Didelphis & Philander & Metachirus & Caluromys & Chironectes & Cryptonanus & Gracilinanus & Lutreolina & Marmosops & Monodelphis"
+        ]
+    },
+    "123": {
+        "node_name": "Mustelidae",
+        "parent_names": [
+            "Carnivora",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Mustela & Martes & Lutra & Enhydra & Lontra & Mellivora & Eira & Meles & Arctonyx & Galictis",
+            "Mustela & Martes & Lutra & Enhydra & Lontra & Meles & Arctonyx & Taxidea & Eira & Galictis",
+            "Mustela&Gulo&Lutra&Martes&Meles&Enhydra&Lontra&Arctonyx&Mephitis&Taxidea"
+        ]
+    },
+    "124": {
+        "node_name": "Erethizontidae",
+        "parent_names": [
+            "Rodentia",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Erethizon & Coendou & Sphiggurus & Chaetomys & Echinoprocta & Echinoproctus & Brachyphyllum & Proechimys & Hoplomys & Lonchothrix",
+            "Erethizon & Coendou & Sphiggurus & Chaetomys & Echinoprocta & Lontra & Cryptotis & Proechimys & Trinomys & Orthogeomys",
+            "Erethizon & Coendou & Sphiggurus & Chaetomys & Echinoprocta & Lonchurus & Mesomys & Paraporcupine & Proechimys & Steiromys"
+        ]
+    },
+    "125": {
+        "node_name": "Erinaceidae",
+        "parent_names": [
+            "Eulipotyphla",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Erinaceus & Hemiechinus & Mesechinus & Paraechinus & Atelerix & Ateleris & Galerix & Neotetracus & Neohylomys & Hylomys",
+            "Erinaceidae & Atelerix & Hemiechinus & Mesechinus & Neotetracus & Paraechinus & Echinosorex & Hylomys & Podogymnura & Erinaceus",
+            "Erinaceus&Hemiechinus&Atelerix&Paraechinus&Mesechinus&Echinosorex&Neotetracus&Amphipsobates&Hylomys&Gymnuras"
+        ]
+    },
+    "126": {
+        "node_name": "Felidae",
+        "parent_names": [
+            "Carnivora",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Panthera & Felis & Puma & Acinonyx & Lynx & Caracal & Leopardus & Prionailurus & Neofelis & Otocolobus",
+            "Felis & Panthera & Acinonyx & Puma & Lynx & Caracal & Leopardus & Prionailurus & Neofelis & Otocolobus",
+            "Felis & Panthera & Lynx & Acinonyx & Puma & Neofelis & Caracal & Leopardus & Prionailurus & Otocolobus"
+        ]
+    },
+    "127": {
+        "node_name": "Leporidae",
+        "parent_names": [
+            "Lagomorpha",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Lepus&Oryctolagus&Sylvilagus&Nesolagus&Brachylagus&Caprolagus&Pentalagus&Poelagus&Romerolagus&Caudolagus",
+            "Lepus & Oryctolagus & Sylvilagus & Brachylagus & Romerolagus & Nesolagus & Pentalagus & Bunolagus & Caprolagus & Poelagus",
+            "Lepus & Sylvilagus & Oryctolagus & Romerolagus & Nesolagus & Pronolagus & Caprolagus & Poelagus & Bunolagus & Brachylagus"
+        ]
+    },
+    "128": {
+        "node_name": "Elephantidae",
+        "parent_names": [
+            "Proboscidea",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Loxodonta & Mammuthus & Stegodon & Elephas & Palaeoloxodon & Choeroloxodon & Mammonteus & Elepholoxodon & Elephasna & Primelephas",
+            "Elephas & Loxodonta & Mammuthus & Stegodon & Palaeoloxodon & Primelephas & Choeroloxodon & Mammonteus & Elephastomus & Archidiskodon",
+            "Elephas & Loxodonta & Mammuthus & Palaeoloxodon & Stegodon & Primelephas & Choeroloxodon & Sinomastodon & Gomphotherium & Anancus"
+        ]
+    },
+    "129": {
+        "node_name": "Balaenopteridae",
+        "parent_names": [
+            "Artiodactyla",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Balaenoptera & Megaptera & Eschrichtius & Caperea & Eubalaena & Neobalaenidae & Archaenopterus & Diunatans & Lissodelphis & Mesoplodon",
+            "Balaenoptera&Eschrichtius&Megaptera&Megaptera&Caperea&Eschrichtius&Caperea&Balaenoptera&Megaptera&Caperea",
+            "Balaenoptera & Megaptera & Eschrichtius & Caperea & Eubalaena & Megaptera & Balaenoptera & Eschrichtius & Caperea & Eubalaena"
+        ]
+    },
+    "130": {
+        "node_name": "Mephitidae",
+        "parent_names": [
+            "Carnivora",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Mephitis&Spilogale&Conepatus&Taxidea&Mydaus&Arctonasua&Chrotomys&Mellivora&Vormela&Tachyglossus",
+            "Mephitis&Spilogale&Conepatus&Tachyoryctes&Mydaus&Vormela&Poecilogale&Lyncodon&Arctonyx&Mellivora",
+            "Mephitis & Spilogale & Conepatus & Mydaus & Chrotogale & Moschonasus & Mydassia & Mydinion & Mephitisoides & Moschonoides"
+        ]
+    },
+    "131": {
+        "node_name": "Phocidae",
+        "parent_names": [
+            "Carnivora",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Halichoerus & Histriophoca & Mirounga & Monachus & Ommatophoca & Pagophilus & Phoca & Pusa & Erignathus & Cystophora",
+            "Phoca& Mirounga& Leptonychotes& Hydrurga& Lobodon& Ommatophoca& Cystophora& Erignathus& Halichoerus& Pagophilus",
+            "Halichoerus & Erignathus & Pagophilus & Pusa & Cystophora & Mirounga & Monachus & Ommatophoca & Phoca & Leptonychotes"
+        ]
+    },
+    "132": {
+        "node_name": "Echimyidae",
+        "parent_names": [
+            "Rodentia",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            " Echimys & Thrichomys & Proechimys & Lonchothrix & Carterodon & Dactylomys & Isothrix & Makalata & Myocastor & Phyllomys",
+            "Echimys & Thrichomys & Makalata & Isothrix & Dactylomys & Phyllomys & Proechimys & Santamartamys & Mesomys & Lonchothrix",
+            "Echimys & Proechimys & Hoplomys & Isothrix & Dactylomys & Makalata & Mesomys & Phyllomys & Pattonomys & Toromys"
+        ]
+    },
+    "133": {
+        "node_name": "Ochotonidae",
+        "parent_names": [
+            "Lagomorpha",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Ochotona & Pika & Conothoa & Lagomys & Panolax & Ochotonoma & Prolagus & Bellatona & Alloptox & Karydomys",
+            "Ochotona & Romerolagus & Panolax & Pika & Lagomys & Eozapus & Bellomys & Ochotonoides & Iliamna & Ochotona",
+            "Ochotona & Romerolagus & Lagotona & Bellatona & Pika & Conothoa & Barunagassizia & Panolopsis & Kharagossia & Nekrolagus"
+        ]
+    },
+    "134": {
+        "node_name": "Cricetidae",
+        "parent_names": [
+            "Rodentia",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Cricetulus & Mesocricetus & Microtus & Peromyscus & Neotoma & Ondatra & Arvicola & Myodes & Akodon & Sigmodon",
+            "Cricetus & Mesocricetus & Phodopus & Allocricetulus & Cricetulus & Tscherskia & Calomyscus & Peromyscus & Neotoma & Ondatra",
+            "Cricetus&Peromyscus&Neotoma&Ondatra&Microtus&Arvicola&Sigmodon&Reithrodontomys&Akodon&Myodes"
+        ]
+    },
+    "135": {
+        "node_name": "Tayassuidae",
+        "parent_names": [
+            "Artiodactyla",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Tayassuidae & Pecari & Catagonus & Tayassu & Platygonus & Parachoerus & Whitea & Protherohyus & Eporeodon & Thinohyus",
+            "Catagonus& Pecari& Tayassu& Platygonus& Huilotatus& Prosthennops& Quetzalcoatlus& Thinobadistes& Dinohyus& Parachoerus",
+            "Pecari & Catagonus & Tayassu & Platygonus & Protherohyus & Thinohyus & Xenohyus & Boreohyus & Metridiochoerus & Eucalliotherium."
+        ]
+    },
+    "136": {
+        "node_name": "Suidae",
+        "parent_names": [
+            "Artiodactyla",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Sus & Phacochoerus & Potamochoerus & Babyrousa & Hylochoerus & Dasychoerus & Metridiochoerus & Chaeropotamus & Notochoerus & Porcula",
+            "Sus&Hylochoerus&Phacochoerus&Potamochoerus&Babyrousa&Dremomys&Trachypithecus&Tayassu&Tayassuidae&Cochamochoerus",
+            "Sus & Phacochoerus & Babyrousa & Potamochoerus & Hylochoerus & Hemigalus & Porcula & Metachoerus & Notochoerus & Archaeopotamus"
+        ]
+    },
+    "137": {
+        "node_name": "Geomyidae",
+        "parent_names": [
+            "Rodentia",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            " Geomys & Thomomys & Cratogeomys & Orthogeomys & Pappogeomys & Zygogeomys & Heterogeomys & Xenogeomys & Pliogeomys & Caryomys",
+            "Geomys & Cratogeomys & Thomomys & Pappogeomys & Orthogeomys & Zygogeomys & Heterogeomys & Parageomys & Dipodomys & Liomys",
+            "Geomys& Thomomys& Cratogeomys& Pappogeomys& Orthogeomys& Heterogeomys& Zygogeomys& Diplolophus& Caryomys& Pliogeomys"
+        ]
+    },
+    "138": {
+        "node_name": "Delphinidae",
+        "parent_names": [
+            "Artiodactyla",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Delphinus & Orcinus & Tursiops & Stenella & Lagenorhynchus & Sousa & Grampus & Feresa & Cephalorhynchus & Globicephala",
+            "Delphinus & Tursiops & Orcinus & Stenella & Lagenorhynchus & Sousa & Grampus & Feresa & Globicephala & Orca",
+            "Delphinus & Tursiops & Orcinus & Stenella & Sousa & Lagenodelphis & Grampus & Feresa & Sotalia & Steno"
+        ]
+    },
+    "139": {
+        "node_name": "Ursidae",
+        "parent_names": [
+            "Carnivora",
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Ursus & Tremarctos & Melursus & Helarctos & Ailuropoda & Tremarctos & Ursus & Melursus & Helarctos & Ailuropoda",
+            "Ursus & Ailuropoda & Tremarctos & Melursus & Helarctos & Ursavus & Arctodus & Indarctos & Plionarctos & Agriotherium",
+            "Ursus&Melursus&Tremarctos&Ailuropoda&Helarctos&Tremarctos&Ursus&Melursus&Tremarctos&Ursus"
+        ]
+    },
+    "140": {
+        "node_name": "Onchidorididae",
+        "parent_names": [
+            "Nudibranchia",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Onchidoris & Peronella & Diaphorodoris & Akiodoris & Acanthodoris & Aldisa & Alloiodoris & Caloria & Chelinodoris & Chromodoris",
+            "Onchidoris & Adalaria & Acanthodoris & Doris & Dendrodoris & Caloria & Armodoris & Ancula & Archidoris & Hypselodoris",
+            "Onchidoris & Archidoris & Acanthodoris & Ancula & Adalaria & Aldisa & Doriopsilla & Dendrodoris & Geitodoris & Goniodoris"
+        ]
+    },
+    "141": {
+        "node_name": "Aplysiidae",
+        "parent_names": [
+            "Aplysiida",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Aplysia & Bursatella & Dolabella & Notarchus & Stylocheilus & Bursa & Notodoris & Aplysina & Notarchus & Stylocheilus",
+            "Aplysia & Bursatella & Dolabella & Notarchus & Stylocheilus & Tethys & Berthellina & Stiliger & Phyllaplysia & Syphonota",
+            "Aplysia& Dolabella& Bursatella& Notarchus& Notodoris& Plocamopherus& Stiliger& Stylocheilus& Elysia& Thuridilla"
+        ]
+    },
+    "142": {
+        "node_name": "Ariolimacidae",
+        "parent_names": [
+            "Stylommatophora",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Ariolimax & Ariolimax dolichophallus & Ariolimax dolichophallus niger & Ariolimax dolichophallus relictus & Ariolimax dolichophallus saxicola & Ariolimax dolichophallus shastensis & Ariolimax dolichophallus sonomae & Ariolimax dolichophallus vandyensis & Ariolimax dolichophallus vandyensis niger & Ariolimax dolichophallus vandyensis relictus",
+            "Ariolimax & Binneya & Bulimulus & Eobania & Eudolichotis & Hemphillia & Kaliella & Limax & Prophysaon & Stenotrema",
+            "Ariolimax & Ariolimacus & Ariolimaxus & Ariolimaxella & Ariolimaxia & Ariolimaxoides & Ariolimaculina & Ariolimaculoides & Ariolimaculinus & Ariolimaculatus"
+        ]
+    },
+    "143": {
+        "node_name": "Calliostomatidae",
+        "parent_names": [
+            "Trochida",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Calliostoma & Calliostomella & Calliostomatinae & Calliotropis & Calliostomatini & Calliostomatina & Calliostomatidae & Calliostomoida & Calliostomus & Calliostoma australis",
+            "Calliostoma & Calliostomella & Calliotropis & Calliotropis & Calliotropis & Calliotropis & Calliotropis & Calliotropis & Calliotropis & Calliotropis",
+            "Calliostoma&Calliostomella&Calliostomatinae&Calliotropis&Calliostomastrum&Calliostomatini&Calliostomatina&Calliostomatoides&Calliostomatoida&Calliostomatinae"
+        ]
+    },
+    "144": {
+        "node_name": "Helicidae",
+        "parent_names": [
+            "Stylommatophora",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Helicopsis & Helicodonta & Helicophanta & Helicostyla & Helicarion & Helicarionidae & Helicarioninae & Helicarionoidea & Helicarionida & Helicarion",
+            "Helicella & Helix & Cepaea & Cornu & Eobania & Otala & Allogona & Arianta & Cernuella & Cryptomphalus",
+            "Helix & Cepaea & Alsinella & Arianta & Chilostoma & Cochlicella & Cochlicopa & Eobania & Fruticicola & Monacha"
+        ]
+    },
+    "145": {
+        "node_name": "Cyrenidae",
+        "parent_names": [
+            "Venerida",
+            "Bivalvia",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Cyrenella & Cyrenopsis & Cyrenopsis & Cyrenopsis & Eocyren & Eocyren & Corbicula & Corbicula & Corbicula & Corbicula",
+            "Cyrenella & Cyrenodon & Cyrenopsis & Cyrenaeopsis & Cyrenella & Cyrenodon & Cyrenopsis & Cyrenaeopsis & Cyrenella & Cyrenodon",
+            "Cyrena&Corbicula&Cyrenoida&Mutela&Limnoperna&Sphaerium&Alasmidonta&Viviparus&Unio&Pyganodon"
+        ]
+    },
+    "146": {
+        "node_name": "Acanthochitonidae",
+        "parent_names": [
+            "Chitonida",
+            "Polyplacophora",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Acanthochitonidae",
+            "Acanthochitonidae & Cryptochitonidae & Ischnochitonidae & Tonicellidae & Lepidopleuridae & Acanthochitoninae & Cryptochitoninae & Ischnochitoninae & Tonicellinae & Lepidopleurinae",
+            "Acanthochitona & Cryptochiton & Nuttallina & Tonicella & Rhyssoplax & Plaxiphora & Leptochiton & Katharina & Choneplax & Acanthopleura"
+        ]
+    },
+    "147": {
+        "node_name": "Agriolimacidae",
+        "parent_names": [
+            "Stylommatophora",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Agriolimax& Deroceras& Limax& Lehmannia& Malacolimax& Boettgerilla& Milax& Tandonia& Arion& Parmarion",
+            "Agriolimax & Agriolimax & Agriolimax & Agriolimax & Agriolimax & Agriolimax & Agriolimax & Agriolimax & Agriolimax & Agriolimax",
+            "Agriolimax&Arion&Boettgeriana&Deroceras&Krynickillus&Lehmannia&Milax&Milaxa&Tandonia&Vitrina"
+        ]
+    },
+    "148": {
+        "node_name": "Dorididae",
+        "parent_names": [
+            "Nudibranchia",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Acanthodoris&Archidoris&Chromodoris&Dendrodoris&Doriprismatica&Doridella&Doris&Doriopsilla&Hypselodoris&Jorunna",
+            "Doris&Hypselodoris&Chromodoris&Glossodoris&Felimida&Favorinus&Jorunna&Hypselodoris&Chromodoris&Gymnodoris",
+            "Doris & Cadlina & Chromodoris & Glossodoris & Hypselodoris & Nembrotha & Peltodoris & Phyllidia & Platydoris & Tambja"
+        ]
+    },
+    "149": {
+        "node_name": "Discodorididae",
+        "parent_names": [
+            "Nudibranchia",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Discodoris & Thordisa & Hypselodoris & Cadlina & Rostanga & Mexichromis & Hoplodoris & Diaulula & Dendrodoris & Peltodoris",
+            "Discodoris & Asteronotus & Hoplodoris & Dendrodoris & Chromodoris & Mexichromis & Glossodoris & Felimida & Hypselodoris & Cadlinella",
+            "Discodoris & Ancula & Cadlina & Dendrodoris & Diaulula & Geitodoris & Hypselodoris & Jorunna & Mexichromis & Triopha"
+        ]
+    },
+    "150": {
+        "node_name": "Myrrhinidae",
+        "parent_names": [
+            "Nudibranchia",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Myrrhinium & Myrrhina & Myrrhinella & Myrrhinus & Myrrhinoides & Myrrhinopsis & Myrrhiniumella & Myrrhinoidella & Myrrhinellus & Myrrhiniella",
+            "Myrrhinium & Myrrhina & Myrrhinus & Myrrhinasoma & Myrrhinaster & Myrrhinosoma & Myrrhinastrum & Myrrhinocoris & Myrrhinella & Myrrhinothrips",
+            "Myrrhina &Eupholus &Chelidonium &Chrysina &Circulio &Trigonopterus &Eupholus &Cleopomiarus &Rhyparida &Hesperobaenus"
+        ]
+    },
+    "151": {
+        "node_name": "Veneridae",
+        "parent_names": [
+            "Venerida",
+            "Bivalvia",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Venus & Cyclina & Chamelea & Mercenaria & Ruditapes & Pitar & Dosinia & Tapes & Venerupis & Gafrarium",
+            "Venus&Dosinia&Callista&Chamelea&Cyclinella&Gouldia&Mercenaria&Mulinia&Protothaca&Venerupis",
+            "Venus&Mercenaria&Chione&Dosinia&Callista&Venerupis&Protothaca&Tapes&Venerella&Venericardia"
+        ]
+    },
+    "152": {
+        "node_name": "Limacidae",
+        "parent_names": [
+            "Stylommatophora",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Limax&Lehmannia&Boettgerilla&Deroceras&Malacolimax&Arion&Vitrina&Milax&Acidonia&Parmacella",
+            "Limax & Lehmannia & Parmacella & Malacolimax & Boettgerilla & Amalia & Vitrina & Agriolimax & Deroceras & Bielzia",
+            "Limax&Deroceras&Arion&Milax&Lehmannia&Boettgerilla&Malacolimax&Tandonia&Parmacella&Zospeum"
+        ]
+    },
+    "153": {
+        "node_name": "Goniodorididae",
+        "parent_names": [
+            "Nudibranchia",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            " Goniodoris & Doris & Idalia & Hypselodoris & Mexichromis & Aldisa & Halgerda & Glossodoris & Chromodoris & Dendrodoris",
+            "Goniodoris& Trapania& Ancula& Aldisa& Dendrodoris& Ardeadoris& Hypselodoris& Mexichromis& Chromodoris& Risbecia",
+            "Goniodoris&Proctonotus&Atagema&Okenia&Palio&Goniodoris&Proctonotus&Atagema&Okenia&Palio"
+        ]
+    },
+    "154": {
+        "node_name": "Facelinidae",
+        "parent_names": [
+            "Nudibranchia",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Facelina & Caloria & Phestilla & Phidiana & Berghia & Favorinus & Tenellia & Cratena & Eubranchus & Aeolidia",
+            "Facelina & Coryphellina & Favorinus & Phidiana & Berghia & Caloria & Catriona & Cratena & Eubranchus & Godiva",
+            "Facelina & Favorinus & Phidiana & Berghia & Caloria & Calmella & Eubranchus & Tenellia & Cratena & Aeolidiella"
+        ]
+    },
+    "155": {
+        "node_name": "Achatinidae",
+        "parent_names": [
+            "Stylommatophora",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Achatina&Archachatina&Limicolaria&Lissachatina&Megalobulimus&Metachatina&Pseudachatina&Subulina&Thelidomus&Zootecus",
+            "Achatina&Archachatina&Coelocentrum&Limicolaria&Metakatillus&Metachatina&Mitracanthina&Pseudachatina&Rhodea&Tanzania",
+            "Achatina & Archachatina & Limicolaria & Lissachatina & Metachatina & Pseudachatina & Calachatina & Subachatina & Tomichia & Eobania"
+        ]
+    },
+    "156": {
+        "node_name": "Polyceridae",
+        "parent_names": [
+            "Nudibranchia",
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Polycera&Palio&Nembrotha&Chromodoris&Tambja&Flabellina&Hypselodoris&Phyllidia&Glossodoris&Halgerda",
+            "Polycera&Cadlina&Chromodoris&Flabellina&Hoplodoris&Gymnodoris&Nembrotha&Polycerella&Polybranchia&Polyceratida",
+            "Polycera&Cadlina&Aegires&Flabellina&Chromodoris&Goniodoris&Nembrotha&Noumea&Tambja&Jorunna"
+        ]
+    },
+    "157": {
+        "node_name": "Emydidae",
+        "parent_names": [
+            "Testudines",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Emys & Terrapene & Clemmys & Glyptemys & Graptemys & Malaclemys & Pseudemys & Chrysemys & Actinemys & Deirochelys",
+            "Emys&Graptemys&Pseudemys&Terrapene&Chrysemys&Deirochelys&Trachemys&Clemmys&Glyptemys&Gopherus",
+            "Emys & Clemmys & Glyptemys & Terrapene & Trachemys & Pseudemys & Chrysemys & Graptemys & Malaclemys & Deirochelys"
+        ]
+    },
+    "158": {
+        "node_name": "Alligatoridae",
+        "parent_names": [
+            "Crocodylia",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Alligator & Caiman & Melanosuchus & Paleosuchus & Osteolaemus & Alligatorinae & Caimaninae & Melanosuchinae & Paleosuchinae & Osteolaeminae",
+            "Alligator & Caiman & Melanosuchus & Paleosuchus & Osteolaemus & Culebrasuchus & Mourasuchus & Orthogenysuchus & Procaimanoidea & Purussaurus",
+            "Alligator & Caiman & Melanosuchus & Paleosuchus & Allognathosuchus & Hassiacosuchus & Acynodon & Procaimanoidea & Navajosuchus & Ceratosuchus"
+        ]
+    },
+    "159": {
+        "node_name": "Anguidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Gerrhonotus & Diploglossus & Ophisaurus & Abronia & Elgaria & Barisia & Celestus & Mesaspis & Xenosaurus & Diploglossinae",
+            "Abronia & Diploglossus & Elgaria & Gerrhonotus & Ophisaurus & Abronia & Diploglossus & Elgaria & Gerrhonotus & Ophisaurus",
+            "Abronia & Barisia & Diploglossus & Elgaria & Gerrhonotus & Ophisaurus & Plestiodon & Xenosaurus & Celestus & Gerrhosaurus"
+        ]
+    },
+    "160": {
+        "node_name": "Dactyloidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Anolis & Dactyloa & Norops & Phenacosaurus & Polychrus & Sceloporus & Enyalioides & Micrablepharus & Noropsar & Anisolepis",
+            "Anolis & Norops & Dactyloa & Ctenonotus & Deiroptyx & Anisolepis & Leiosaurus & Pholidoscelis & Polychrus & Chamaelinorops",
+            "Anolis & Anolisaurus & Dactyloa & Deiroptyx & Enyalioides & Norops & Phenacosaurus & Pholidobolus & Polychrus & Xiphosurus"
+        ]
+    },
+    "161": {
+        "node_name": "Trionychidae",
+        "parent_names": [
+            "Testudines",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Apalone & Aspideretes & Chitra & Cyclanorbis & Dogania & Lissemys & Nilssonia & Palea & Pelochelys & Rafetus",
+            "Trionyx& Amyda& Apalone& Chitra& Dogania& Nilssonia& Palea& Pelochelys& Rafetus& Sacalia",
+            "Trionyx& Amyda& Dogania& Cyclanorbis& Chitra& Palea& Pelochelys& Lissemys& Nilssonia& Rafetus"
+        ]
+    },
+    "162": {
+        "node_name": "Colubridae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Coluber & Elaphe & Lampropeltis & Pantherophis & Pituophis & Opheodrys & Heterodon & Nerodia & Thamnophis & Tantilla",
+            "Coluber&Elaphe&Herpetoreas&Opheodrys&Opisthotropis&Pantherophis&Pseudelaphe&Rhabdophis&Storeria&Tropidoclonion",
+            "Coluber & Lampropeltis & Pituophis & Pantherophis & Elaphe & Thamnophis & Nerodia & Opheodrys & Rhinocheilus & Diadophis"
+        ]
+    },
+    "163": {
+        "node_name": "Teiidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Ameiva&Aspidoscelis&Cnemidophorus&Dicrodon&Dracaena&Kentropyx&Salvator&Tachymenis&Tupinambis&Varanus",
+            "Ameiva & Aspidoscelis & Cnemidophorus & Crocodilurus & Dicrodon & Dracaena & Kentropyx & Salvator & Tupinambis & Uranoscodon",
+            "Ameiva & Cnemidophorus & Tupinambis & Kentropyx & Ameivula & Dicrodon & Holcosus & Crocodilurus & Acanthocercus & Dracaena"
+        ]
+    },
+    "164": {
+        "node_name": "Corytophanidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Corytophanini & Laemanctini & Basiliscini & Enyaliini & Lophyohylini & Phrynosomatini & Polychrotini & Proctoporus & Pseudocorytophanes & Tropidurini",
+            "Basiliscus & Corytophanes & Laemanctus & Polychrus & Enyalioides & Harpesaurus & Norops & Pantepuisaurus & Thecadactylus & Squamata",
+            "Basiliscus & Corytophanes & Laemanctus & Enyalioides & Harpesaurus & Lophosaurus & Polychrus & Plica & Sauromalus & Trioceros"
+        ]
+    },
+    "165": {
+        "node_name": "Phrynosomatidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Phrynosoma&Sceloporus&Urosaurus&Uta&Callisaurus&Holbrookia&Phrynocephalus&Phrynosomatid&Phrynosomatinae&Scincella",
+            "Phrynosoma&Urosaurus&Sceloporus&Uta&Abronia&Callisaurus&Holbrookia&Petrosaurus&Phrynocephalus&Gambelia",
+            "Phrynosoma&Urosaurus&Sceloporus&Callisaurus&Holbrookia&Uma&Gambelia&Phrynocephalus&Petrosaurus&Gerrhonotus"
+        ]
+    },
+    "166": {
+        "node_name": "Agamidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Agama&Bronchocela&Calotes&Ceratophora&Chelosania&Draco&Gonocephalus&Hydrosaurus&Japalura&Tympanocryptis",
+            "Agama& Acanthocercus& Aphaniotis& Ceratophora& Laudakia& Leiolepis& Oriocalotes& Phrynocephalus& Pseudocalotes& Sitana",
+            "Agama & Acanthocercus & Bronchocela & Calotes & Draco & Gonocephalus & Harpesaurus & Laudakia & Leiolepis & Physignathus"
+        ]
+    },
+    "167": {
+        "node_name": "Boidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Boa&Python&Corallus&Eunectes&Lichanura&Sanzinia&Charina&Calabaria&Casarea&Acrantophis",
+            "Python&Boa&Eryx&Corallus&Sanzinia&Lichanura&Chilabothrus&Charina&Acrantophis&Gongylophis"
+        ]
+    },
+    "168": {
+        "node_name": "Cheloniidae",
+        "parent_names": [
+            "Testudines",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Cheloniidae & Caretta & Eretmochelys & Lepidochelys & Natator & Chelonia & Dermochelys & Lepidochelys & Caretta & Eretmochelys",
+            "Chelonia&Natator&Caretta&Lepidochelys&Dermochelys&Chelodina&Pseudemys&Emydidae&Terrapene&Mahafalya",
+            "Chelonia& Eretmochelys& Caretta& Lepidochelys& Natator& Dermochelys& Pseudemys& Rhinoclemmys& Chrysemys& Graptemys"
+        ]
+    },
+    "169": {
+        "node_name": "Chelydridae",
+        "parent_names": [
+            "Testudines",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Chelydra&Macrochelys&Pelodiscus&Platysternon&Afrochelys&Cyclanorbis&Chelodina&Hydromedusa&Pseudemys&Emydura",
+            "Chelydra & Macrochelys & Platysternon & Acanthochelys & Chelodina & Emydura & Elseya & Hydromedusa & Mesoclemmys & Rhinoclemmys",
+            "Chelydra&Macrochelys&Pseudemys&Trachemys&Apalone&Emydura&Chelodina&Carettochelys&Platysternon&Chelonia"
+        ]
+    },
+    "170": {
+        "node_name": "Eublepharidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Eublepharis & Coleonyx & Diplodactylus & Gymnodactylus & Holodactylus & Pachydactylus & Paroedura & Teratoscincus & Tropiocolotes & Urocotyledon",
+            "Eublepharis & Coleonyx & Paroedura & Teratoscincus & Aeluroscalabotes & Goniurosaurus & Hemitheconyx & Holodactylus & Nephrurus & Rhacodactylus",
+            "Eublepharis & Coleonyx & Holodactylus & Hemitheconyx & Diplodactylus & Tarentola & Teratoscincus & Afrogecko & Rhoptropella & Paroedura"
+        ]
+    },
+    "171": {
+        "node_name": "Crocodylidae",
+        "parent_names": [
+            "Crocodylia",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Crocodylus&Osteolaemus&Mecistops&Paleosuchus&Crocodylus cataphractus&Crocodylus intermedius&Crocodylus mindorensis&Crocodylus moreletii&Crocodylus niloticus&Crocodylus palustris",
+            "Crocodylus & Osteolaemus & Tomistoma & Mecistops & Alligator & Paleosuchus & Caiman & Melanosuchus & Gavialis & Euthecodon",
+            "Crocodylus&Osteolaemus&Tomistoma&Paleosuchus&Caiman&Mecistops&Alligatoroides&Gavialis&Osteoblepharon&Pristichampsus"
+        ]
+    },
+    "172": {
+        "node_name": "Viperidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Vipera & Bitis & Bothrops & Crotalus & Echis & Ovophis & Trimeresurus & Protobothrops & Agkistrodon & Azemiops",
+            "Vipera & Bothriechis & Crotalus & Daboia & Echis & Bitis & Russell's viper & Pseudocerastes & Macrovipera & Eristicophis",
+            "Vipera & Bothrops & Crotalus & Daboia & Echis & Bitis & Agkistrodon & Atheris & Atropoides & Azemiops"
+        ]
+    },
+    "173": {
+        "node_name": "Crotaphytidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Crotaphytidae & Crotaphytus & Gambelia & Coleonyx & Holbrookia & Petrosaurus & Sauromalus & Uma & Callisaurus & Urosaurus",
+            "Crotaphytidae & Crotaphytus & Gambelia & Coleonyx & Holbrookia & Petrosaurus & Sauromalus & Uma & Callisaurus & Urosaurus",
+            "Crotaphytus& Gambelia& Holbrookia& Sauromalus& Uma& Callisaurus& Petrosaurus& Coleonyx& Parrosaurus& Aspidoscelis"
+        ]
+    },
+    "174": {
+        "node_name": "Iguanidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Iguana&Anolis&Ctenosaura&Dipsosaurus&Urosaurus&Sceloporus&Phrynosoma&Uma&Callisaurus&Holbrookia",
+            "Anolis& Dipsosaurus& Iguana& Liolaemus& Phrynosoma& Sceloporus& Urosaurus& Ctenosaura& Cyclura& Sauromalus",
+            "Iguana&Anolis&Dipsosaurus&Ctenosaura&Sceloporus&Urosaurus&Phrynosoma&Callisaurus&Holbrookia&Uma"
+        ]
+    },
+    "175": {
+        "node_name": "Testudinidae",
+        "parent_names": [
+            "Testudines",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Testudo&Geochelone&Aldabrachelys&Chelonoidis&Astrochelys&Agrionemys&Homopus&Pseudemys&Pyxis&Trachemys",
+            "Testudo&Geochelone&Astrochelys&Aldabrachelys&Chelonoidis&Chersina&Homopus&Kinixys&Malacochersus&Pyxis",
+            "Testudo & Geochelone & Chelonoidis & Aldabrachelys & Astrochelys & Centrochelys & Cylindraspis & Dipsochelys & Indotestudo & Malacochersus"
+        ]
+    },
+    "176": {
+        "node_name": "Helodermatidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Heloderma & Lanthanotus & Varanus & Abronia & Barisia & Gerrhonotus & Xenosaurus & Anniella & Diploglossus & Ophisaurus",
+            "Heloderma&Dinodon& &Cylindrophis& &Liotyphlops& &Anomochilus& &Trachyboa& &Tropidophis& &Ungaliophis& &Atractus& &Uromacer",
+            "Heloderma & Lanthanotus & Varanus & Shinisaurus & Quince & Barisia & Sauromalus & Dipsosaurus & Callisaurus & Uma"
+        ]
+    },
+    "177": {
+        "node_name": "Gekkonidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Gekko&Hemidactylus&Cyrtodactylus&Phelsuma&Tarentola&Pachydactylus&Hoplodactylus&Strophurus&Ebenavia&Goniurosaurus",
+            "Gekko&Hemidactylus&Cyrtodactylus&Phelsuma&Lepidodactylus&Paroedura&Cnemaspis&Hemiphyllodactylus&Tarentola&Hoplodactylus",
+            "Gekko & Hemidactylus & Cyrtodactylus & Pachydactylus & Tarentola & Heteronotia & Lepidodactylus & Phelsuma & Gehyra & Nephrurus"
+        ]
+    },
+    "178": {
+        "node_name": "Kinosternidae",
+        "parent_names": [
+            "Testudines",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Kinosternon & Sternotherus & Claudius & Staurotypus & Pseudemys & Chelydra & Acanthochelys & Dermatemys & Rhinoclemmys & Platemys",
+            "Kinosternon & Sternotherus & Claudius & Staurotypus & Dermatemys & Cryptochelys & Aromochelys & Rhinoclemmys & Chelydra & Sternotheroides",
+            "Kinosternon & Staurotypus & Claudius & Sternotherus & Aztecus & Tarascense & Leptomeniscus & Plesiochelys & Polysternon & Anosteira"
+        ]
+    },
+    "179": {
+        "node_name": "Elapidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Naja&Ophiophagus&Hemachatus&Bungarus&Dendroaspis&Oxyuranus&Pseudonaja&Micrurus&Calliophis&Hydrophis",
+            "Bungarus & Dendroaspis & Hemachatus & Hydrophis & Micrurus & Naja & Ophiophagus & Oxyuranus & Pseudonaja & Notechis",
+            "Naja & Ophiophagus & Micrurus & Bungarus & Hydrophis & Dendroaspis & Hemachatus & Acanthophis & Oxyuranus & Pseudechis"
+        ]
+    },
+    "180": {
+        "node_name": "Scincidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Scincus & Eumeces & Trachylepis & Lygosoma & Chalcides & Plestiodon & Mabuya & Eutropis & Tiliqua & Emoia",
+            "Scincus & Eumeces & Trachylepis & Chalcides & Plestiodon & Mabuya & Lygosoma & Eutropis & Euprepis & Sphenomorphus",
+            "Scincus& Eumeces& Trachylepis& Mabuya& Chalcides& Tiliqua& Eutropis& Plestiodon& Cryptoblepharus& Lygosoma"
+        ]
+    },
+    "181": {
+        "node_name": "Lacertidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Lacerta & Eremias & Takydromus & Podarcis & Timon & Algyroides & Zootoca & Holaspis & Acanthodactylus & Ophisops",
+            "Lacerta & Eremias & Gallotia & Timon & Podarcis & Acanthodactylus & Takydromus & Zootoca & Algyroides & Darevskia",
+            "Lacerta & Algyroides & Acanthodactylus & Takydromus & Podarcis & Gallotia & Eremias & Teira & Latastia & Timon"
+        ]
+    },
+    "182": {
+        "node_name": "Leptotyphlopidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Leptotyphlops& Rhinoleptus& Mitophis& Myriopholis& Rena& Tricheilostoma& Epacrophis& Leptotyphlops& Liotyphlops& Rhinoleptus",
+            "Leptotyphlops & Rhinoleptus & Epacrophis & Rena & Tetracheilostoma & Myriopholis & Tricheilostoma & Trilepida & Rhinolepis & Glauconia",
+            "Leptotyphlops & Epacrophis & Epictia & Tricheilostoma & Glauconia & Rena & Ramphotyphlops & Myriopholis & Rhinoleptus & Tetracheilostoma"
+        ]
+    },
+    "183": {
+        "node_name": "Sphenodontidae",
+        "parent_names": [
+            "Rhynchocephalia",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Sphenodon & Brachyrhinodon & Pleurosaurus & Sapheosaurus & Clevosaurus & Diphydontosaurus & Theretairus & Prolacerta & Boreogomphodon & Sphenosuchus",
+            "Sphenodon&Opisthodontia&Ankylosphenodon&Anolalacerta&Anarmosphenodon&Ankylosaurus&Ankylosphenodon&Armadillosaurus&Armadillomon&Asiatosaurus",
+            "Sphenodon& Ankylosphenodon& Pleurosphenodon& Cynosphenodon& Diphydontosaurus& Theretairus& Pachygenys& Tatenodon& Gephyrosaurus& Opisthias."
+        ]
+    },
+    "184": {
+        "node_name": "Phyllodactylidae",
+        "parent_names": [
+            "Squamata",
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Phyllodactylus & Homonota & Pachydactylus & Gymnodactylus & Heteronotia & Thecadactylus & Phyllopezus & Lepidodactylus & Dixonius & Tarentola",
+            "Phyllodactylus & Thecadactylus & Tarentola & Homonota & Pachydactylus & Afrogecko & Lepidodactylus & Cyrtodactylus & Hemidactylus & Ptyodactylus",
+            "Phyllodactylus& Thecadactylus& Gehyra& Hemidactylus& Homonota& Lepidodactylus& Lucasium& Nactus& Paroedura& Pachydactylus"
+        ]
+    }
+}

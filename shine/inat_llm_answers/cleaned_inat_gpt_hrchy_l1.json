@@ -1,0 +1,168 @@
+{
+    "1": {
+        "node_name": "Chordata",
+        "parent_names": [],
+        "child_names": [
+            "Reptilia",
+            "Amphibia",
+            "Appendicularia",
+            "Aves",
+            "Actinopterygii",
+            "Chondrichthyes",
+            "Thaliacea",
+            "Cyclostomata",
+            "Sarcopterygii",
+            "Myxini",
+            "Agnatha",
+            "Ascidiacea",
+            "Mammalia"
+        ],
+        "candidate_sentences": [
+            "a Reptilia, which is a Chordata",
+            "a Amphibia, which is a Chordata",
+            "a Appendicularia, which is a Chordata",
+            "a Aves, which is a Chordata",
+            "a Actinopterygii, which is a Chordata",
+            "a Chondrichthyes, which is a Chordata",
+            "a Thaliacea, which is a Chordata",
+            "a Cyclostomata, which is a Chordata",
+            "a Sarcopterygii, which is a Chordata",
+            "a Myxini, which is a Chordata",
+            "a Agnatha, which is a Chordata",
+            "a Ascidiacea, which is a Chordata",
+            "a Mammalia, which is a Chordata"
+        ]
+    },
+    "2": {
+        "node_name": "Cnidaria",
+        "parent_names": [],
+        "child_names": [
+            "Staurozoa",
+            "Scyphozoa",
+            "Dicyemida",
+            "Orthonectida",
+            "Anthozoa",
+            "Siphonophorae",
+            "Polypodiozoa",
+            "Malacosporea",
+            "Cubozoa",
+            "Hydrozoa",
+            "Trachylina",
+            "Polypodium",
+            "Myxozoa"
+        ],
+        "candidate_sentences": [
+            "a Staurozoa, which is a Cnidaria",
+            "a Scyphozoa, which is a Cnidaria",
+            "a Dicyemida, which is a Cnidaria",
+            "a Orthonectida, which is a Cnidaria",
+            "a Anthozoa, which is a Cnidaria",
+            "a Siphonophorae, which is a Cnidaria",
+            "a Polypodiozoa, which is a Cnidaria",
+            "a Malacosporea, which is a Cnidaria",
+            "a Cubozoa, which is a Cnidaria",
+            "a Hydrozoa, which is a Cnidaria",
+            "a Trachylina, which is a Cnidaria",
+            "a Polypodium, which is a Cnidaria",
+            "a Myxozoa, which is a Cnidaria"
+        ]
+    },
+    "3": {
+        "node_name": "Arthropoda",
+        "parent_names": [],
+        "child_names": [
+            "Diplopoda",
+            "Pauropoda",
+            "Remipedia",
+            "Insecta",
+            "Arachnida",
+            "Chilopoda",
+            "Entognatha",
+            "Malacostraca",
+            "Maxillopoda",
+            "Crustacea",
+            "Collembola",
+            "Symphyla",
+            "Merostomata"
+        ],
+        "candidate_sentences": [
+            "a Diplopoda, which is a Arthropoda",
+            "a Pauropoda, which is a Arthropoda",
+            "a Remipedia, which is a Arthropoda",
+            "a Insecta, which is a Arthropoda",
+            "a Arachnida, which is a Arthropoda",
+            "a Chilopoda, which is a Arthropoda",
+            "a Entognatha, which is a Arthropoda",
+            "a Malacostraca, which is a Arthropoda",
+            "a Maxillopoda, which is a Arthropoda",
+            "a Crustacea, which is a Arthropoda",
+            "a Collembola, which is a Arthropoda",
+            "a Symphyla, which is a Arthropoda",
+            "a Merostomata, which is a Arthropoda"
+        ]
+    },
+    "4": {
+        "node_name": "Echinodermata",
+        "parent_names": [],
+        "child_names": [
+            "Asteroidia",
+            "Somasteroidea",
+            "Asteroidea",
+            "Cycloidea",
+            "Crinoidea",
+            "Holothuroidea",
+            "Carpoida",
+            "Concentricycloidea",
+            "Blastoidea",
+            "Ophiuroidea",
+            "Cyclocystoidea",
+            "Edrioasteroidea",
+            "Echinoidea"
+        ],
+        "candidate_sentences": [
+            "a Asteroidia, which is a Echinodermata",
+            "a Somasteroidea, which is a Echinodermata",
+            "a Asteroidea, which is a Echinodermata",
+            "a Cycloidea, which is a Echinodermata",
+            "a Crinoidea, which is a Echinodermata",
+            "a Holothuroidea, which is a Echinodermata",
+            "a Carpoida, which is a Echinodermata",
+            "a Concentricycloidea, which is a Echinodermata",
+            "a Blastoidea, which is a Echinodermata",
+            "a Ophiuroidea, which is a Echinodermata",
+            "a Cyclocystoidea, which is a Echinodermata",
+            "a Edrioasteroidea, which is a Echinodermata",
+            "a Echinoidea, which is a Echinodermata"
+        ]
+    },
+    "5": {
+        "node_name": "Mollusca",
+        "parent_names": [],
+        "child_names": [
+            "Polyplacophora",
+            "Bivalvia",
+            "Scaphopoda",
+            "Rostroconchia",
+            "Solenogastres",
+            "Caudofoveata",
+            "Gastropoda",
+            "Neomeniomorpha",
+            "Monoplacophora",
+            "Aplacophora",
+            "Cephalopoda"
+        ],
+        "candidate_sentences": [
+            "a Polyplacophora, which is a Mollusca",
+            "a Bivalvia, which is a Mollusca",
+            "a Scaphopoda, which is a Mollusca",
+            "a Rostroconchia, which is a Mollusca",
+            "a Solenogastres, which is a Mollusca",
+            "a Caudofoveata, which is a Mollusca",
+            "a Gastropoda, which is a Mollusca",
+            "a Neomeniomorpha, which is a Mollusca",
+            "a Monoplacophora, which is a Mollusca",
+            "a Aplacophora, which is a Mollusca",
+            "a Cephalopoda, which is a Mollusca"
+        ]
+    }
+}

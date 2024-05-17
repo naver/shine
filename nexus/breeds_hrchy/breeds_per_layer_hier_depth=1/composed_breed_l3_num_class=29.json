@@ -1,0 +1,1183 @@
+{
+    "0": {
+        "node_name": "arthropod",
+        "parent_names": [
+            "animal",
+            "animate being",
+            "beast",
+            "brute",
+            "creature",
+            "fauna"
+        ],
+        "child_names": [
+            "trilobite",
+            "centipede",
+            "crustacean",
+            "arachnid",
+            "arachnoid",
+            "insect"
+        ],
+        "candidate_sentences": [
+            "a trilobite, which is a arthropod, which is a animal",
+            "a centipede, which is a arthropod, which is a animal",
+            "a crustacean, which is a arthropod, which is a animal",
+            "a arachnid, which is a arthropod, which is a animal",
+            "a arachnoid, which is a arthropod, which is a animal",
+            "a insect, which is a arthropod, which is a animal",
+            "a trilobite, which is a arthropod, which is a animate being",
+            "a centipede, which is a arthropod, which is a animate being",
+            "a crustacean, which is a arthropod, which is a animate being",
+            "a arachnid, which is a arthropod, which is a animate being",
+            "a arachnoid, which is a arthropod, which is a animate being",
+            "a insect, which is a arthropod, which is a animate being",
+            "a trilobite, which is a arthropod, which is a beast",
+            "a centipede, which is a arthropod, which is a beast",
+            "a crustacean, which is a arthropod, which is a beast",
+            "a arachnid, which is a arthropod, which is a beast",
+            "a arachnoid, which is a arthropod, which is a beast",
+            "a insect, which is a arthropod, which is a beast",
+            "a trilobite, which is a arthropod, which is a brute",
+            "a centipede, which is a arthropod, which is a brute",
+            "a crustacean, which is a arthropod, which is a brute",
+            "a arachnid, which is a arthropod, which is a brute",
+            "a arachnoid, which is a arthropod, which is a brute",
+            "a insect, which is a arthropod, which is a brute",
+            "a trilobite, which is a arthropod, which is a creature",
+            "a centipede, which is a arthropod, which is a creature",
+            "a crustacean, which is a arthropod, which is a creature",
+            "a arachnid, which is a arthropod, which is a creature",
+            "a arachnoid, which is a arthropod, which is a creature",
+            "a insect, which is a arthropod, which is a creature",
+            "a trilobite, which is a arthropod, which is a fauna",
+            "a centipede, which is a arthropod, which is a fauna",
+            "a crustacean, which is a arthropod, which is a fauna",
+            "a arachnid, which is a arthropod, which is a fauna",
+            "a arachnoid, which is a arthropod, which is a fauna",
+            "a insect, which is a arthropod, which is a fauna"
+        ]
+    },
+    "1": {
+        "node_name": "fish",
+        "parent_names": [
+            "animal",
+            "animate being",
+            "beast",
+            "brute",
+            "creature",
+            "fauna"
+        ],
+        "child_names": [
+            "bony fish",
+            "cartilaginous fish",
+            "chondrichthian"
+        ],
+        "candidate_sentences": [
+            "a bony fish, which is a fish, which is a animal",
+            "a cartilaginous fish, which is a fish, which is a animal",
+            "a chondrichthian, which is a fish, which is a animal",
+            "a bony fish, which is a fish, which is a animate being",
+            "a cartilaginous fish, which is a fish, which is a animate being",
+            "a chondrichthian, which is a fish, which is a animate being",
+            "a bony fish, which is a fish, which is a beast",
+            "a cartilaginous fish, which is a fish, which is a beast",
+            "a chondrichthian, which is a fish, which is a beast",
+            "a bony fish, which is a fish, which is a brute",
+            "a cartilaginous fish, which is a fish, which is a brute",
+            "a chondrichthian, which is a fish, which is a brute",
+            "a bony fish, which is a fish, which is a creature",
+            "a cartilaginous fish, which is a fish, which is a creature",
+            "a chondrichthian, which is a fish, which is a creature",
+            "a bony fish, which is a fish, which is a fauna",
+            "a cartilaginous fish, which is a fish, which is a fauna",
+            "a chondrichthian, which is a fish, which is a fauna"
+        ]
+    },
+    "2": {
+        "node_name": "bird",
+        "parent_names": [
+            "animal",
+            "animate being",
+            "beast",
+            "brute",
+            "creature",
+            "fauna"
+        ],
+        "child_names": [
+            "ratite",
+            "ratite bird",
+            "flightless bird",
+            "dummy0",
+            "bird of prey",
+            "raptor",
+            "raptorial bird",
+            "dummy1",
+            "piciform bird",
+            "passerine",
+            "passeriform bird",
+            "aquatic bird",
+            "coraciiform bird",
+            "apodiform bird",
+            "cuculiform bird",
+            "gallinaceous bird",
+            "gallinacean",
+            "dummy6"
+        ],
+        "candidate_sentences": [
+            "a ratite, which is a bird, which is a animal",
+            "a ratite bird, which is a bird, which is a animal",
+            "a flightless bird, which is a bird, which is a animal",
+            "a dummy0, which is a bird, which is a animal",
+            "a bird of prey, which is a bird, which is a animal",
+            "a raptor, which is a bird, which is a animal",
+            "a raptorial bird, which is a bird, which is a animal",
+            "a dummy1, which is a bird, which is a animal",
+            "a piciform bird, which is a bird, which is a animal",
+            "a passerine, which is a bird, which is a animal",
+            "a passeriform bird, which is a bird, which is a animal",
+            "a aquatic bird, which is a bird, which is a animal",
+            "a coraciiform bird, which is a bird, which is a animal",
+            "a apodiform bird, which is a bird, which is a animal",
+            "a cuculiform bird, which is a bird, which is a animal",
+            "a gallinaceous bird, which is a bird, which is a animal",
+            "a gallinacean, which is a bird, which is a animal",
+            "a dummy6, which is a bird, which is a animal",
+            "a ratite, which is a bird, which is a animate being",
+            "a ratite bird, which is a bird, which is a animate being",
+            "a flightless bird, which is a bird, which is a animate being",
+            "a dummy0, which is a bird, which is a animate being",
+            "a bird of prey, which is a bird, which is a animate being",
+            "a raptor, which is a bird, which is a animate being",
+            "a raptorial bird, which is a bird, which is a animate being",
+            "a dummy1, which is a bird, which is a animate being",
+            "a piciform bird, which is a bird, which is a animate being",
+            "a passerine, which is a bird, which is a animate being",
+            "a passeriform bird, which is a bird, which is a animate being",
+            "a aquatic bird, which is a bird, which is a animate being",
+            "a coraciiform bird, which is a bird, which is a animate being",
+            "a apodiform bird, which is a bird, which is a animate being",
+            "a cuculiform bird, which is a bird, which is a animate being",
+            "a gallinaceous bird, which is a bird, which is a animate being",
+            "a gallinacean, which is a bird, which is a animate being",
+            "a dummy6, which is a bird, which is a animate being",
+            "a ratite, which is a bird, which is a beast",
+            "a ratite bird, which is a bird, which is a beast",
+            "a flightless bird, which is a bird, which is a beast",
+            "a dummy0, which is a bird, which is a beast",
+            "a bird of prey, which is a bird, which is a beast",
+            "a raptor, which is a bird, which is a beast",
+            "a raptorial bird, which is a bird, which is a beast",
+            "a dummy1, which is a bird, which is a beast",
+            "a piciform bird, which is a bird, which is a beast",
+            "a passerine, which is a bird, which is a beast",
+            "a passeriform bird, which is a bird, which is a beast",
+            "a aquatic bird, which is a bird, which is a beast",
+            "a coraciiform bird, which is a bird, which is a beast",
+            "a apodiform bird, which is a bird, which is a beast",
+            "a cuculiform bird, which is a bird, which is a beast",
+            "a gallinaceous bird, which is a bird, which is a beast",
+            "a gallinacean, which is a bird, which is a beast",
+            "a dummy6, which is a bird, which is a beast",
+            "a ratite, which is a bird, which is a brute",
+            "a ratite bird, which is a bird, which is a brute",
+            "a flightless bird, which is a bird, which is a brute",
+            "a dummy0, which is a bird, which is a brute",
+            "a bird of prey, which is a bird, which is a brute",
+            "a raptor, which is a bird, which is a brute",
+            "a raptorial bird, which is a bird, which is a brute",
+            "a dummy1, which is a bird, which is a brute",
+            "a piciform bird, which is a bird, which is a brute",
+            "a passerine, which is a bird, which is a brute",
+            "a passeriform bird, which is a bird, which is a brute",
+            "a aquatic bird, which is a bird, which is a brute",
+            "a coraciiform bird, which is a bird, which is a brute",
+            "a apodiform bird, which is a bird, which is a brute",
+            "a cuculiform bird, which is a bird, which is a brute",
+            "a gallinaceous bird, which is a bird, which is a brute",
+            "a gallinacean, which is a bird, which is a brute",
+            "a dummy6, which is a bird, which is a brute",
+            "a ratite, which is a bird, which is a creature",
+            "a ratite bird, which is a bird, which is a creature",
+            "a flightless bird, which is a bird, which is a creature",
+            "a dummy0, which is a bird, which is a creature",
+            "a bird of prey, which is a bird, which is a creature",
+            "a raptor, which is a bird, which is a creature",
+            "a raptorial bird, which is a bird, which is a creature",
+            "a dummy1, which is a bird, which is a creature",
+            "a piciform bird, which is a bird, which is a creature",
+            "a passerine, which is a bird, which is a creature",
+            "a passeriform bird, which is a bird, which is a creature",
+            "a aquatic bird, which is a bird, which is a creature",
+            "a coraciiform bird, which is a bird, which is a creature",
+            "a apodiform bird, which is a bird, which is a creature",
+            "a cuculiform bird, which is a bird, which is a creature",
+            "a gallinaceous bird, which is a bird, which is a creature",
+            "a gallinacean, which is a bird, which is a creature",
+            "a dummy6, which is a bird, which is a creature",
+            "a ratite, which is a bird, which is a fauna",
+            "a ratite bird, which is a bird, which is a fauna",
+            "a flightless bird, which is a bird, which is a fauna",
+            "a dummy0, which is a bird, which is a fauna",
+            "a bird of prey, which is a bird, which is a fauna",
+            "a raptor, which is a bird, which is a fauna",
+            "a raptorial bird, which is a bird, which is a fauna",
+            "a dummy1, which is a bird, which is a fauna",
+            "a piciform bird, which is a bird, which is a fauna",
+            "a passerine, which is a bird, which is a fauna",
+            "a passeriform bird, which is a bird, which is a fauna",
+            "a aquatic bird, which is a bird, which is a fauna",
+            "a coraciiform bird, which is a bird, which is a fauna",
+            "a apodiform bird, which is a bird, which is a fauna",
+            "a cuculiform bird, which is a bird, which is a fauna",
+            "a gallinaceous bird, which is a bird, which is a fauna",
+            "a gallinacean, which is a bird, which is a fauna",
+            "a dummy6, which is a bird, which is a fauna"
+        ]
+    },
+    "3": {
+        "node_name": "fungus",
+        "parent_names": [
+            "fungus"
+        ],
+        "child_names": [
+            "basidiomycete",
+            "basidiomycetous fungi",
+            "ascomycete"
+        ],
+        "candidate_sentences": [
+            "a basidiomycete, which is a fungus, which is a fungus",
+            "a basidiomycetous fungi, which is a fungus, which is a fungus",
+            "a ascomycete, which is a fungus, which is a fungus"
+        ]
+    },
+    "4": {
+        "node_name": "sled, sledge, sleigh",
+        "parent_names": [
+            "conveyance",
+            "transport"
+        ],
+        "child_names": [
+            "sled",
+            "sledge",
+            "sleigh"
+        ],
+        "candidate_sentences": [
+            "a sled, which is a sled, sledge, sleigh, which is a conveyance",
+            "a sledge, which is a sled, sledge, sleigh, which is a conveyance",
+            "a sleigh, which is a sled, sledge, sleigh, which is a conveyance",
+            "a sled, which is a sled, sledge, sleigh, which is a transport",
+            "a sledge, which is a sled, sledge, sleigh, which is a transport",
+            "a sleigh, which is a sled, sledge, sleigh, which is a transport"
+        ]
+    },
+    "5": {
+        "node_name": "cooked food, prepared food",
+        "parent_names": [
+            "food",
+            "nutrient"
+        ],
+        "child_names": [
+            "dish",
+            "dessert",
+            "sweet",
+            "afters",
+            "condiment",
+            "baked goods"
+        ],
+        "candidate_sentences": [
+            "a dish, which is a cooked food, prepared food, which is a food",
+            "a dessert, which is a cooked food, prepared food, which is a food",
+            "a sweet, which is a cooked food, prepared food, which is a food",
+            "a afters, which is a cooked food, prepared food, which is a food",
+            "a condiment, which is a cooked food, prepared food, which is a food",
+            "a baked goods, which is a cooked food, prepared food, which is a food",
+            "a dish, which is a cooked food, prepared food, which is a nutrient",
+            "a dessert, which is a cooked food, prepared food, which is a nutrient",
+            "a sweet, which is a cooked food, prepared food, which is a nutrient",
+            "a afters, which is a cooked food, prepared food, which is a nutrient",
+            "a condiment, which is a cooked food, prepared food, which is a nutrient",
+            "a baked goods, which is a cooked food, prepared food, which is a nutrient"
+        ]
+    },
+    "6": {
+        "node_name": "beverage, drink, drinkable, potable",
+        "parent_names": [
+            "food",
+            "nutrient"
+        ],
+        "child_names": [
+            "coffee",
+            "java",
+            "alcohol",
+            "alcoholic drink",
+            "alcoholic beverage",
+            "intoxicant",
+            "inebriant"
+        ],
+        "candidate_sentences": [
+            "a coffee, which is a beverage, drink, drinkable, potable, which is a food",
+            "a java, which is a beverage, drink, drinkable, potable, which is a food",
+            "a alcohol, which is a beverage, drink, drinkable, potable, which is a food",
+            "a alcoholic drink, which is a beverage, drink, drinkable, potable, which is a food",
+            "a alcoholic beverage, which is a beverage, drink, drinkable, potable, which is a food",
+            "a intoxicant, which is a beverage, drink, drinkable, potable, which is a food",
+            "a inebriant, which is a beverage, drink, drinkable, potable, which is a food",
+            "a coffee, which is a beverage, drink, drinkable, potable, which is a nutrient",
+            "a java, which is a beverage, drink, drinkable, potable, which is a nutrient",
+            "a alcohol, which is a beverage, drink, drinkable, potable, which is a nutrient",
+            "a alcoholic drink, which is a beverage, drink, drinkable, potable, which is a nutrient",
+            "a alcoholic beverage, which is a beverage, drink, drinkable, potable, which is a nutrient",
+            "a intoxicant, which is a beverage, drink, drinkable, potable, which is a nutrient",
+            "a inebriant, which is a beverage, drink, drinkable, potable, which is a nutrient"
+        ]
+    },
+    "7": {
+        "node_name": "worm",
+        "parent_names": [
+            "animal",
+            "animate being",
+            "beast",
+            "brute",
+            "creature",
+            "fauna"
+        ],
+        "child_names": [
+            "dummy14",
+            "dummy15"
+        ],
+        "candidate_sentences": [
+            "a dummy14, which is a worm, which is a animal",
+            "a dummy15, which is a worm, which is a animal",
+            "a dummy14, which is a worm, which is a animate being",
+            "a dummy15, which is a worm, which is a animate being",
+            "a dummy14, which is a worm, which is a beast",
+            "a dummy15, which is a worm, which is a beast",
+            "a dummy14, which is a worm, which is a brute",
+            "a dummy15, which is a worm, which is a brute",
+            "a dummy14, which is a worm, which is a creature",
+            "a dummy15, which is a worm, which is a creature",
+            "a dummy14, which is a worm, which is a fauna",
+            "a dummy15, which is a worm, which is a fauna"
+        ]
+    },
+    "8": {
+        "node_name": "appliance",
+        "parent_names": [
+            "paraphernalia"
+        ],
+        "child_names": [
+            "dryer",
+            "drier",
+            "home appliance",
+            "household appliance"
+        ],
+        "candidate_sentences": [
+            "a dryer, which is a appliance, which is a paraphernalia",
+            "a drier, which is a appliance, which is a paraphernalia",
+            "a home appliance, which is a appliance, which is a paraphernalia",
+            "a household appliance, which is a appliance, which is a paraphernalia"
+        ]
+    },
+    "9": {
+        "node_name": "soft furnishings, accessories",
+        "parent_names": [
+            "furnishing"
+        ],
+        "child_names": [
+            "lamp",
+            "bedclothes",
+            "bed clothing",
+            "bedding",
+            "piece of cloth",
+            "piece of material",
+            "dummy56",
+            "floor cover",
+            "floor covering",
+            "padding",
+            "cushioning"
+        ],
+        "candidate_sentences": [
+            "a lamp, which is a soft furnishings, accessories, which is a furnishing",
+            "a bedclothes, which is a soft furnishings, accessories, which is a furnishing",
+            "a bed clothing, which is a soft furnishings, accessories, which is a furnishing",
+            "a bedding, which is a soft furnishings, accessories, which is a furnishing",
+            "a piece of cloth, which is a soft furnishings, accessories, which is a furnishing",
+            "a piece of material, which is a soft furnishings, accessories, which is a furnishing",
+            "a dummy56, which is a soft furnishings, accessories, which is a furnishing",
+            "a floor cover, which is a soft furnishings, accessories, which is a furnishing",
+            "a floor covering, which is a soft furnishings, accessories, which is a furnishing",
+            "a padding, which is a soft furnishings, accessories, which is a furnishing",
+            "a cushioning, which is a soft furnishings, accessories, which is a furnishing"
+        ]
+    },
+    "10": {
+        "node_name": "produce, green goods, green groceries, garden truck",
+        "parent_names": [
+            "food",
+            "nutrient"
+        ],
+        "child_names": [
+            "vegetable",
+            "veggie",
+            "veg",
+            "fruit"
+        ],
+        "candidate_sentences": [
+            "a vegetable, which is a produce, green goods, green groceries, garden truck, which is a food",
+            "a veggie, which is a produce, green goods, green groceries, garden truck, which is a food",
+            "a veg, which is a produce, green goods, green groceries, garden truck, which is a food",
+            "a fruit, which is a produce, green goods, green groceries, garden truck, which is a food",
+            "a vegetable, which is a produce, green goods, green groceries, garden truck, which is a nutrient",
+            "a veggie, which is a produce, green goods, green groceries, garden truck, which is a nutrient",
+            "a veg, which is a produce, green goods, green groceries, garden truck, which is a nutrient",
+            "a fruit, which is a produce, green goods, green groceries, garden truck, which is a nutrient"
+        ]
+    },
+    "11": {
+        "node_name": "coelenterate, cnidarian",
+        "parent_names": [
+            "animal",
+            "animate being",
+            "beast",
+            "brute",
+            "creature",
+            "fauna"
+        ],
+        "child_names": [
+            "anthozoan",
+            "actinozoan",
+            "dummy10"
+        ],
+        "candidate_sentences": [
+            "a anthozoan, which is a coelenterate, cnidarian, which is a animal",
+            "a actinozoan, which is a coelenterate, cnidarian, which is a animal",
+            "a dummy10, which is a coelenterate, cnidarian, which is a animal",
+            "a anthozoan, which is a coelenterate, cnidarian, which is a animate being",
+            "a actinozoan, which is a coelenterate, cnidarian, which is a animate being",
+            "a dummy10, which is a coelenterate, cnidarian, which is a animate being",
+            "a anthozoan, which is a coelenterate, cnidarian, which is a beast",
+            "a actinozoan, which is a coelenterate, cnidarian, which is a beast",
+            "a dummy10, which is a coelenterate, cnidarian, which is a beast",
+            "a anthozoan, which is a coelenterate, cnidarian, which is a brute",
+            "a actinozoan, which is a coelenterate, cnidarian, which is a brute",
+            "a dummy10, which is a coelenterate, cnidarian, which is a brute",
+            "a anthozoan, which is a coelenterate, cnidarian, which is a creature",
+            "a actinozoan, which is a coelenterate, cnidarian, which is a creature",
+            "a dummy10, which is a coelenterate, cnidarian, which is a creature",
+            "a anthozoan, which is a coelenterate, cnidarian, which is a fauna",
+            "a actinozoan, which is a coelenterate, cnidarian, which is a fauna",
+            "a dummy10, which is a coelenterate, cnidarian, which is a fauna"
+        ]
+    },
+    "12": {
+        "node_name": "mollusk, mollusc, shellfish",
+        "parent_names": [
+            "animal",
+            "animate being",
+            "beast",
+            "brute",
+            "creature",
+            "fauna"
+        ],
+        "child_names": [
+            "chiton",
+            "coat-of-mail shell",
+            "sea cradle",
+            "polyplacophore",
+            "gastropod",
+            "univalve",
+            "cephalopod",
+            "cephalopod mollusk"
+        ],
+        "candidate_sentences": [
+            "a chiton, which is a mollusk, mollusc, shellfish, which is a animal",
+            "a coat-of-mail shell, which is a mollusk, mollusc, shellfish, which is a animal",
+            "a sea cradle, which is a mollusk, mollusc, shellfish, which is a animal",
+            "a polyplacophore, which is a mollusk, mollusc, shellfish, which is a animal",
+            "a gastropod, which is a mollusk, mollusc, shellfish, which is a animal",
+            "a univalve, which is a mollusk, mollusc, shellfish, which is a animal",
+            "a cephalopod, which is a mollusk, mollusc, shellfish, which is a animal",
+            "a cephalopod mollusk, which is a mollusk, mollusc, shellfish, which is a animal",
+            "a chiton, which is a mollusk, mollusc, shellfish, which is a animate being",
+            "a coat-of-mail shell, which is a mollusk, mollusc, shellfish, which is a animate being",
+            "a sea cradle, which is a mollusk, mollusc, shellfish, which is a animate being",
+            "a polyplacophore, which is a mollusk, mollusc, shellfish, which is a animate being",
+            "a gastropod, which is a mollusk, mollusc, shellfish, which is a animate being",
+            "a univalve, which is a mollusk, mollusc, shellfish, which is a animate being",
+            "a cephalopod, which is a mollusk, mollusc, shellfish, which is a animate being",
+            "a cephalopod mollusk, which is a mollusk, mollusc, shellfish, which is a animate being",
+            "a chiton, which is a mollusk, mollusc, shellfish, which is a beast",
+            "a coat-of-mail shell, which is a mollusk, mollusc, shellfish, which is a beast",
+            "a sea cradle, which is a mollusk, mollusc, shellfish, which is a beast",
+            "a polyplacophore, which is a mollusk, mollusc, shellfish, which is a beast",
+            "a gastropod, which is a mollusk, mollusc, shellfish, which is a beast",
+            "a univalve, which is a mollusk, mollusc, shellfish, which is a beast",
+            "a cephalopod, which is a mollusk, mollusc, shellfish, which is a beast",
+            "a cephalopod mollusk, which is a mollusk, mollusc, shellfish, which is a beast",
+            "a chiton, which is a mollusk, mollusc, shellfish, which is a brute",
+            "a coat-of-mail shell, which is a mollusk, mollusc, shellfish, which is a brute",
+            "a sea cradle, which is a mollusk, mollusc, shellfish, which is a brute",
+            "a polyplacophore, which is a mollusk, mollusc, shellfish, which is a brute",
+            "a gastropod, which is a mollusk, mollusc, shellfish, which is a brute",
+            "a univalve, which is a mollusk, mollusc, shellfish, which is a brute",
+            "a cephalopod, which is a mollusk, mollusc, shellfish, which is a brute",
+            "a cephalopod mollusk, which is a mollusk, mollusc, shellfish, which is a brute",
+            "a chiton, which is a mollusk, mollusc, shellfish, which is a creature",
+            "a coat-of-mail shell, which is a mollusk, mollusc, shellfish, which is a creature",
+            "a sea cradle, which is a mollusk, mollusc, shellfish, which is a creature",
+            "a polyplacophore, which is a mollusk, mollusc, shellfish, which is a creature",
+            "a gastropod, which is a mollusk, mollusc, shellfish, which is a creature",
+            "a univalve, which is a mollusk, mollusc, shellfish, which is a creature",
+            "a cephalopod, which is a mollusk, mollusc, shellfish, which is a creature",
+            "a cephalopod mollusk, which is a mollusk, mollusc, shellfish, which is a creature",
+            "a chiton, which is a mollusk, mollusc, shellfish, which is a fauna",
+            "a coat-of-mail shell, which is a mollusk, mollusc, shellfish, which is a fauna",
+            "a sea cradle, which is a mollusk, mollusc, shellfish, which is a fauna",
+            "a polyplacophore, which is a mollusk, mollusc, shellfish, which is a fauna",
+            "a gastropod, which is a mollusk, mollusc, shellfish, which is a fauna",
+            "a univalve, which is a mollusk, mollusc, shellfish, which is a fauna",
+            "a cephalopod, which is a mollusk, mollusc, shellfish, which is a fauna",
+            "a cephalopod mollusk, which is a mollusk, mollusc, shellfish, which is a fauna"
+        ]
+    },
+    "13": {
+        "node_name": "toiletry, toilet articles",
+        "parent_names": [
+            "apparel",
+            "toiletries"
+        ],
+        "child_names": [
+            "cosmetic",
+            "bandage",
+            "patch"
+        ],
+        "candidate_sentences": [
+            "a cosmetic, which is a toiletry, toilet articles, which is a apparel",
+            "a bandage, which is a toiletry, toilet articles, which is a apparel",
+            "a patch, which is a toiletry, toilet articles, which is a apparel",
+            "a cosmetic, which is a toiletry, toilet articles, which is a toiletries",
+            "a bandage, which is a toiletry, toilet articles, which is a toiletries",
+            "a patch, which is a toiletry, toilet articles, which is a toiletries"
+        ]
+    },
+    "14": {
+        "node_name": "mammal, mammalian",
+        "parent_names": [
+            "animal",
+            "animate being",
+            "beast",
+            "brute",
+            "creature",
+            "fauna"
+        ],
+        "child_names": [
+            "marsupial",
+            "pouched mammal",
+            "rodent",
+            "gnawer",
+            "monotreme",
+            "egg-laying mammal",
+            "lagomorph",
+            "gnawing mammal",
+            "carnivore",
+            "edentate",
+            "ungulate",
+            "hoofed mammal",
+            "proboscidean",
+            "proboscidian",
+            "aquatic mammal",
+            "primate"
+        ],
+        "candidate_sentences": [
+            "a marsupial, which is a mammal, mammalian, which is a animal",
+            "a pouched mammal, which is a mammal, mammalian, which is a animal",
+            "a rodent, which is a mammal, mammalian, which is a animal",
+            "a gnawer, which is a mammal, mammalian, which is a animal",
+            "a monotreme, which is a mammal, mammalian, which is a animal",
+            "a egg-laying mammal, which is a mammal, mammalian, which is a animal",
+            "a lagomorph, which is a mammal, mammalian, which is a animal",
+            "a gnawing mammal, which is a mammal, mammalian, which is a animal",
+            "a carnivore, which is a mammal, mammalian, which is a animal",
+            "a edentate, which is a mammal, mammalian, which is a animal",
+            "a ungulate, which is a mammal, mammalian, which is a animal",
+            "a hoofed mammal, which is a mammal, mammalian, which is a animal",
+            "a proboscidean, which is a mammal, mammalian, which is a animal",
+            "a proboscidian, which is a mammal, mammalian, which is a animal",
+            "a aquatic mammal, which is a mammal, mammalian, which is a animal",
+            "a primate, which is a mammal, mammalian, which is a animal",
+            "a marsupial, which is a mammal, mammalian, which is a animate being",
+            "a pouched mammal, which is a mammal, mammalian, which is a animate being",
+            "a rodent, which is a mammal, mammalian, which is a animate being",
+            "a gnawer, which is a mammal, mammalian, which is a animate being",
+            "a monotreme, which is a mammal, mammalian, which is a animate being",
+            "a egg-laying mammal, which is a mammal, mammalian, which is a animate being",
+            "a lagomorph, which is a mammal, mammalian, which is a animate being",
+            "a gnawing mammal, which is a mammal, mammalian, which is a animate being",
+            "a carnivore, which is a mammal, mammalian, which is a animate being",
+            "a edentate, which is a mammal, mammalian, which is a animate being",
+            "a ungulate, which is a mammal, mammalian, which is a animate being",
+            "a hoofed mammal, which is a mammal, mammalian, which is a animate being",
+            "a proboscidean, which is a mammal, mammalian, which is a animate being",
+            "a proboscidian, which is a mammal, mammalian, which is a animate being",
+            "a aquatic mammal, which is a mammal, mammalian, which is a animate being",
+            "a primate, which is a mammal, mammalian, which is a animate being",
+            "a marsupial, which is a mammal, mammalian, which is a beast",
+            "a pouched mammal, which is a mammal, mammalian, which is a beast",
+            "a rodent, which is a mammal, mammalian, which is a beast",
+            "a gnawer, which is a mammal, mammalian, which is a beast",
+            "a monotreme, which is a mammal, mammalian, which is a beast",
+            "a egg-laying mammal, which is a mammal, mammalian, which is a beast",
+            "a lagomorph, which is a mammal, mammalian, which is a beast",
+            "a gnawing mammal, which is a mammal, mammalian, which is a beast",
+            "a carnivore, which is a mammal, mammalian, which is a beast",
+            "a edentate, which is a mammal, mammalian, which is a beast",
+            "a ungulate, which is a mammal, mammalian, which is a beast",
+            "a hoofed mammal, which is a mammal, mammalian, which is a beast",
+            "a proboscidean, which is a mammal, mammalian, which is a beast",
+            "a proboscidian, which is a mammal, mammalian, which is a beast",
+            "a aquatic mammal, which is a mammal, mammalian, which is a beast",
+            "a primate, which is a mammal, mammalian, which is a beast",
+            "a marsupial, which is a mammal, mammalian, which is a brute",
+            "a pouched mammal, which is a mammal, mammalian, which is a brute",
+            "a rodent, which is a mammal, mammalian, which is a brute",
+            "a gnawer, which is a mammal, mammalian, which is a brute",
+            "a monotreme, which is a mammal, mammalian, which is a brute",
+            "a egg-laying mammal, which is a mammal, mammalian, which is a brute",
+            "a lagomorph, which is a mammal, mammalian, which is a brute",
+            "a gnawing mammal, which is a mammal, mammalian, which is a brute",
+            "a carnivore, which is a mammal, mammalian, which is a brute",
+            "a edentate, which is a mammal, mammalian, which is a brute",
+            "a ungulate, which is a mammal, mammalian, which is a brute",
+            "a hoofed mammal, which is a mammal, mammalian, which is a brute",
+            "a proboscidean, which is a mammal, mammalian, which is a brute",
+            "a proboscidian, which is a mammal, mammalian, which is a brute",
+            "a aquatic mammal, which is a mammal, mammalian, which is a brute",
+            "a primate, which is a mammal, mammalian, which is a brute",
+            "a marsupial, which is a mammal, mammalian, which is a creature",
+            "a pouched mammal, which is a mammal, mammalian, which is a creature",
+            "a rodent, which is a mammal, mammalian, which is a creature",
+            "a gnawer, which is a mammal, mammalian, which is a creature",
+            "a monotreme, which is a mammal, mammalian, which is a creature",
+            "a egg-laying mammal, which is a mammal, mammalian, which is a creature",
+            "a lagomorph, which is a mammal, mammalian, which is a creature",
+            "a gnawing mammal, which is a mammal, mammalian, which is a creature",
+            "a carnivore, which is a mammal, mammalian, which is a creature",
+            "a edentate, which is a mammal, mammalian, which is a creature",
+            "a ungulate, which is a mammal, mammalian, which is a creature",
+            "a hoofed mammal, which is a mammal, mammalian, which is a creature",
+            "a proboscidean, which is a mammal, mammalian, which is a creature",
+            "a proboscidian, which is a mammal, mammalian, which is a creature",
+            "a aquatic mammal, which is a mammal, mammalian, which is a creature",
+            "a primate, which is a mammal, mammalian, which is a creature",
+            "a marsupial, which is a mammal, mammalian, which is a fauna",
+            "a pouched mammal, which is a mammal, mammalian, which is a fauna",
+            "a rodent, which is a mammal, mammalian, which is a fauna",
+            "a gnawer, which is a mammal, mammalian, which is a fauna",
+            "a monotreme, which is a mammal, mammalian, which is a fauna",
+            "a egg-laying mammal, which is a mammal, mammalian, which is a fauna",
+            "a lagomorph, which is a mammal, mammalian, which is a fauna",
+            "a gnawing mammal, which is a mammal, mammalian, which is a fauna",
+            "a carnivore, which is a mammal, mammalian, which is a fauna",
+            "a edentate, which is a mammal, mammalian, which is a fauna",
+            "a ungulate, which is a mammal, mammalian, which is a fauna",
+            "a hoofed mammal, which is a mammal, mammalian, which is a fauna",
+            "a proboscidean, which is a mammal, mammalian, which is a fauna",
+            "a proboscidian, which is a mammal, mammalian, which is a fauna",
+            "a aquatic mammal, which is a mammal, mammalian, which is a fauna",
+            "a primate, which is a mammal, mammalian, which is a fauna"
+        ]
+    },
+    "15": {
+        "node_name": "man-made structure, construction",
+        "parent_names": [
+            "structure",
+            "place"
+        ],
+        "child_names": [
+            "dummy67",
+            "barrier",
+            "landing",
+            "landing place",
+            "dummy74",
+            "rig",
+            "area",
+            "dummy78",
+            "tank",
+            "storage tank",
+            "dummy72",
+            "dummy73",
+            "building",
+            "edifice",
+            "dummy77"
+        ],
+        "candidate_sentences": [
+            "a dummy67, which is a man-made structure, construction, which is a structure",
+            "a barrier, which is a man-made structure, construction, which is a structure",
+            "a landing, which is a man-made structure, construction, which is a structure",
+            "a landing place, which is a man-made structure, construction, which is a structure",
+            "a dummy74, which is a man-made structure, construction, which is a structure",
+            "a rig, which is a man-made structure, construction, which is a structure",
+            "a area, which is a man-made structure, construction, which is a structure",
+            "a dummy78, which is a man-made structure, construction, which is a structure",
+            "a tank, which is a man-made structure, construction, which is a structure",
+            "a storage tank, which is a man-made structure, construction, which is a structure",
+            "a dummy72, which is a man-made structure, construction, which is a structure",
+            "a dummy73, which is a man-made structure, construction, which is a structure",
+            "a building, which is a man-made structure, construction, which is a structure",
+            "a edifice, which is a man-made structure, construction, which is a structure",
+            "a dummy77, which is a man-made structure, construction, which is a structure",
+            "a dummy67, which is a man-made structure, construction, which is a place",
+            "a barrier, which is a man-made structure, construction, which is a place",
+            "a landing, which is a man-made structure, construction, which is a place",
+            "a landing place, which is a man-made structure, construction, which is a place",
+            "a dummy74, which is a man-made structure, construction, which is a place",
+            "a rig, which is a man-made structure, construction, which is a place",
+            "a area, which is a man-made structure, construction, which is a place",
+            "a dummy78, which is a man-made structure, construction, which is a place",
+            "a tank, which is a man-made structure, construction, which is a place",
+            "a storage tank, which is a man-made structure, construction, which is a place",
+            "a dummy72, which is a man-made structure, construction, which is a place",
+            "a dummy73, which is a man-made structure, construction, which is a place",
+            "a building, which is a man-made structure, construction, which is a place",
+            "a edifice, which is a man-made structure, construction, which is a place",
+            "a dummy77, which is a man-made structure, construction, which is a place"
+        ]
+    },
+    "16": {
+        "node_name": "geological formation, formation",
+        "parent_names": [
+            "structure",
+            "place"
+        ],
+        "child_names": [
+            "reef",
+            "dummy68",
+            "bar",
+            "mountain",
+            "mount",
+            "spring",
+            "fountain",
+            "outflow",
+            "outpouring",
+            "natural spring",
+            "dummy71",
+            "shore",
+            "dummy69"
+        ],
+        "candidate_sentences": [
+            "a reef, which is a geological formation, formation, which is a structure",
+            "a dummy68, which is a geological formation, formation, which is a structure",
+            "a bar, which is a geological formation, formation, which is a structure",
+            "a mountain, which is a geological formation, formation, which is a structure",
+            "a mount, which is a geological formation, formation, which is a structure",
+            "a spring, which is a geological formation, formation, which is a structure",
+            "a fountain, which is a geological formation, formation, which is a structure",
+            "a outflow, which is a geological formation, formation, which is a structure",
+            "a outpouring, which is a geological formation, formation, which is a structure",
+            "a natural spring, which is a geological formation, formation, which is a structure",
+            "a dummy71, which is a geological formation, formation, which is a structure",
+            "a shore, which is a geological formation, formation, which is a structure",
+            "a dummy69, which is a geological formation, formation, which is a structure",
+            "a reef, which is a geological formation, formation, which is a place",
+            "a dummy68, which is a geological formation, formation, which is a place",
+            "a bar, which is a geological formation, formation, which is a place",
+            "a mountain, which is a geological formation, formation, which is a place",
+            "a mount, which is a geological formation, formation, which is a place",
+            "a spring, which is a geological formation, formation, which is a place",
+            "a fountain, which is a geological formation, formation, which is a place",
+            "a outflow, which is a geological formation, formation, which is a place",
+            "a outpouring, which is a geological formation, formation, which is a place",
+            "a natural spring, which is a geological formation, formation, which is a place",
+            "a dummy71, which is a geological formation, formation, which is a place",
+            "a shore, which is a geological formation, formation, which is a place",
+            "a dummy69, which is a geological formation, formation, which is a place"
+        ]
+    },
+    "17": {
+        "node_name": "furniture, piece of furniture, article of furniture",
+        "parent_names": [
+            "furnishing"
+        ],
+        "child_names": [
+            "screen",
+            "dummy79",
+            "door",
+            "table",
+            "wall unit",
+            "seat",
+            "bedroom furniture"
+        ],
+        "candidate_sentences": [
+            "a screen, which is a furniture, piece of furniture, article of furniture, which is a furnishing",
+            "a dummy79, which is a furniture, piece of furniture, article of furniture, which is a furnishing",
+            "a door, which is a furniture, piece of furniture, article of furniture, which is a furnishing",
+            "a table, which is a furniture, piece of furniture, article of furniture, which is a furnishing",
+            "a wall unit, which is a furniture, piece of furniture, article of furniture, which is a furnishing",
+            "a seat, which is a furniture, piece of furniture, article of furniture, which is a furnishing",
+            "a bedroom furniture, which is a furniture, piece of furniture, article of furniture, which is a furnishing"
+        ]
+    },
+    "18": {
+        "node_name": "equipment",
+        "parent_names": [
+            "paraphernalia"
+        ],
+        "child_names": [
+            "photographic equipment",
+            "sports equipment",
+            "electronic equipment"
+        ],
+        "candidate_sentences": [
+            "a photographic equipment, which is a equipment, which is a paraphernalia",
+            "a sports equipment, which is a equipment, which is a paraphernalia",
+            "a electronic equipment, which is a equipment, which is a paraphernalia"
+        ]
+    },
+    "19": {
+        "node_name": "instrument",
+        "parent_names": [
+            "paraphernalia"
+        ],
+        "child_names": [
+            "tool",
+            "tableware",
+            "measuring instrument",
+            "measuring system",
+            "measuring device",
+            "weapon",
+            "arm",
+            "weapon system",
+            "kitchen utensil",
+            "medical instrument",
+            "scientific instrument",
+            "musical instrument",
+            "instrument"
+        ],
+        "candidate_sentences": [
+            "a tool, which is a instrument, which is a paraphernalia",
+            "a tableware, which is a instrument, which is a paraphernalia",
+            "a measuring instrument, which is a instrument, which is a paraphernalia",
+            "a measuring system, which is a instrument, which is a paraphernalia",
+            "a measuring device, which is a instrument, which is a paraphernalia",
+            "a weapon, which is a instrument, which is a paraphernalia",
+            "a arm, which is a instrument, which is a paraphernalia",
+            "a weapon system, which is a instrument, which is a paraphernalia",
+            "a kitchen utensil, which is a instrument, which is a paraphernalia",
+            "a medical instrument, which is a instrument, which is a paraphernalia",
+            "a scientific instrument, which is a instrument, which is a paraphernalia",
+            "a musical instrument, which is a instrument, which is a paraphernalia",
+            "a instrument, which is a instrument, which is a paraphernalia"
+        ]
+    },
+    "20": {
+        "node_name": "craft",
+        "parent_names": [
+            "conveyance",
+            "transport"
+        ],
+        "child_names": [
+            "vessel",
+            "watercraft",
+            "aircraft",
+            "spacecraft",
+            "ballistic capsule",
+            "space vehicle"
+        ],
+        "candidate_sentences": [
+            "a vessel, which is a craft, which is a conveyance",
+            "a watercraft, which is a craft, which is a conveyance",
+            "a aircraft, which is a craft, which is a conveyance",
+            "a spacecraft, which is a craft, which is a conveyance",
+            "a ballistic capsule, which is a craft, which is a conveyance",
+            "a space vehicle, which is a craft, which is a conveyance",
+            "a vessel, which is a craft, which is a transport",
+            "a watercraft, which is a craft, which is a transport",
+            "a aircraft, which is a craft, which is a transport",
+            "a spacecraft, which is a craft, which is a transport",
+            "a ballistic capsule, which is a craft, which is a transport",
+            "a space vehicle, which is a craft, which is a transport"
+        ]
+    },
+    "21": {
+        "node_name": "echinoderm",
+        "parent_names": [
+            "animal",
+            "animate being",
+            "beast",
+            "brute",
+            "creature",
+            "fauna"
+        ],
+        "child_names": [
+            "dummy12",
+            "dummy13",
+            "dummy11"
+        ],
+        "candidate_sentences": [
+            "a dummy12, which is a echinoderm, which is a animal",
+            "a dummy13, which is a echinoderm, which is a animal",
+            "a dummy11, which is a echinoderm, which is a animal",
+            "a dummy12, which is a echinoderm, which is a animate being",
+            "a dummy13, which is a echinoderm, which is a animate being",
+            "a dummy11, which is a echinoderm, which is a animate being",
+            "a dummy12, which is a echinoderm, which is a beast",
+            "a dummy13, which is a echinoderm, which is a beast",
+            "a dummy11, which is a echinoderm, which is a beast",
+            "a dummy12, which is a echinoderm, which is a brute",
+            "a dummy13, which is a echinoderm, which is a brute",
+            "a dummy11, which is a echinoderm, which is a brute",
+            "a dummy12, which is a echinoderm, which is a creature",
+            "a dummy13, which is a echinoderm, which is a creature",
+            "a dummy11, which is a echinoderm, which is a creature",
+            "a dummy12, which is a echinoderm, which is a fauna",
+            "a dummy13, which is a echinoderm, which is a fauna",
+            "a dummy11, which is a echinoderm, which is a fauna"
+        ]
+    },
+    "22": {
+        "node_name": "wheeled vehicle",
+        "parent_names": [
+            "conveyance",
+            "transport"
+        ],
+        "child_names": [
+            "train",
+            "railroad train",
+            "cart",
+            "cycles",
+            "tracked vehicle",
+            "motor vehicle",
+            "automotive vehicle"
+        ],
+        "candidate_sentences": [
+            "a train, which is a wheeled vehicle, which is a conveyance",
+            "a railroad train, which is a wheeled vehicle, which is a conveyance",
+            "a cart, which is a wheeled vehicle, which is a conveyance",
+            "a cycles, which is a wheeled vehicle, which is a conveyance",
+            "a tracked vehicle, which is a wheeled vehicle, which is a conveyance",
+            "a motor vehicle, which is a wheeled vehicle, which is a conveyance",
+            "a automotive vehicle, which is a wheeled vehicle, which is a conveyance",
+            "a train, which is a wheeled vehicle, which is a transport",
+            "a railroad train, which is a wheeled vehicle, which is a transport",
+            "a cart, which is a wheeled vehicle, which is a transport",
+            "a cycles, which is a wheeled vehicle, which is a transport",
+            "a tracked vehicle, which is a wheeled vehicle, which is a transport",
+            "a motor vehicle, which is a wheeled vehicle, which is a transport",
+            "a automotive vehicle, which is a wheeled vehicle, which is a transport"
+        ]
+    },
+    "23": {
+        "node_name": "reptile, reptilian",
+        "parent_names": [
+            "animal",
+            "animate being",
+            "beast",
+            "brute",
+            "creature",
+            "fauna"
+        ],
+        "child_names": [
+            "chelonian",
+            "chelonian reptile",
+            "crocodilian reptile",
+            "crocodilian",
+            "serpentes",
+            "saurian",
+            "archosaur",
+            "archosaurian",
+            "archosaurian reptile"
+        ],
+        "candidate_sentences": [
+            "a chelonian, which is a reptile, reptilian, which is a animal",
+            "a chelonian reptile, which is a reptile, reptilian, which is a animal",
+            "a crocodilian reptile, which is a reptile, reptilian, which is a animal",
+            "a crocodilian, which is a reptile, reptilian, which is a animal",
+            "a serpentes, which is a reptile, reptilian, which is a animal",
+            "a saurian, which is a reptile, reptilian, which is a animal",
+            "a archosaur, which is a reptile, reptilian, which is a animal",
+            "a archosaurian, which is a reptile, reptilian, which is a animal",
+            "a archosaurian reptile, which is a reptile, reptilian, which is a animal",
+            "a chelonian, which is a reptile, reptilian, which is a animate being",
+            "a chelonian reptile, which is a reptile, reptilian, which is a animate being",
+            "a crocodilian reptile, which is a reptile, reptilian, which is a animate being",
+            "a crocodilian, which is a reptile, reptilian, which is a animate being",
+            "a serpentes, which is a reptile, reptilian, which is a animate being",
+            "a saurian, which is a reptile, reptilian, which is a animate being",
+            "a archosaur, which is a reptile, reptilian, which is a animate being",
+            "a archosaurian, which is a reptile, reptilian, which is a animate being",
+            "a archosaurian reptile, which is a reptile, reptilian, which is a animate being",
+            "a chelonian, which is a reptile, reptilian, which is a beast",
+            "a chelonian reptile, which is a reptile, reptilian, which is a beast",
+            "a crocodilian reptile, which is a reptile, reptilian, which is a beast",
+            "a crocodilian, which is a reptile, reptilian, which is a beast",
+            "a serpentes, which is a reptile, reptilian, which is a beast",
+            "a saurian, which is a reptile, reptilian, which is a beast",
+            "a archosaur, which is a reptile, reptilian, which is a beast",
+            "a archosaurian, which is a reptile, reptilian, which is a beast",
+            "a archosaurian reptile, which is a reptile, reptilian, which is a beast",
+            "a chelonian, which is a reptile, reptilian, which is a brute",
+            "a chelonian reptile, which is a reptile, reptilian, which is a brute",
+            "a crocodilian reptile, which is a reptile, reptilian, which is a brute",
+            "a crocodilian, which is a reptile, reptilian, which is a brute",
+            "a serpentes, which is a reptile, reptilian, which is a brute",
+            "a saurian, which is a reptile, reptilian, which is a brute",
+            "a archosaur, which is a reptile, reptilian, which is a brute",
+            "a archosaurian, which is a reptile, reptilian, which is a brute",
+            "a archosaurian reptile, which is a reptile, reptilian, which is a brute",
+            "a chelonian, which is a reptile, reptilian, which is a creature",
+            "a chelonian reptile, which is a reptile, reptilian, which is a creature",
+            "a crocodilian reptile, which is a reptile, reptilian, which is a creature",
+            "a crocodilian, which is a reptile, reptilian, which is a creature",
+            "a serpentes, which is a reptile, reptilian, which is a creature",
+            "a saurian, which is a reptile, reptilian, which is a creature",
+            "a archosaur, which is a reptile, reptilian, which is a creature",
+            "a archosaurian, which is a reptile, reptilian, which is a creature",
+            "a archosaurian reptile, which is a reptile, reptilian, which is a creature",
+            "a chelonian, which is a reptile, reptilian, which is a fauna",
+            "a chelonian reptile, which is a reptile, reptilian, which is a fauna",
+            "a crocodilian reptile, which is a reptile, reptilian, which is a fauna",
+            "a crocodilian, which is a reptile, reptilian, which is a fauna",
+            "a serpentes, which is a reptile, reptilian, which is a fauna",
+            "a saurian, which is a reptile, reptilian, which is a fauna",
+            "a archosaur, which is a reptile, reptilian, which is a fauna",
+            "a archosaurian, which is a reptile, reptilian, which is a fauna",
+            "a archosaurian reptile, which is a reptile, reptilian, which is a fauna"
+        ]
+    },
+    "24": {
+        "node_name": "person",
+        "parent_names": [
+            "person"
+        ],
+        "child_names": [
+            "person",
+            "individual",
+            "someone",
+            "somebody",
+            "mortal",
+            "soul"
+        ],
+        "candidate_sentences": [
+            "a person, which is a person, which is a person",
+            "a individual, which is a person, which is a person",
+            "a someone, which is a person, which is a person",
+            "a somebody, which is a person, which is a person",
+            "a mortal, which is a person, which is a person",
+            "a soul, which is a person, which is a person"
+        ]
+    },
+    "25": {
+        "node_name": "accessory, accoutrement, accouterment",
+        "parent_names": [
+            "apparel",
+            "toiletries"
+        ],
+        "child_names": [
+            "footwear",
+            "legwear",
+            "dummy51",
+            "dummy50",
+            "dummy53",
+            "neckwear",
+            "dummy57",
+            "bag",
+            "armor",
+            "headdress",
+            "headgear",
+            "dummy39",
+            "facial accessories",
+            "handwear",
+            "hand wear"
+        ],
+        "candidate_sentences": [
+            "a footwear, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a legwear, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a dummy51, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a dummy50, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a dummy53, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a neckwear, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a dummy57, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a bag, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a armor, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a headdress, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a headgear, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a dummy39, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a facial accessories, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a handwear, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a hand wear, which is a accessory, accoutrement, accouterment, which is a apparel",
+            "a footwear, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a legwear, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a dummy51, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a dummy50, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a dummy53, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a neckwear, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a dummy57, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a bag, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a armor, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a headdress, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a headgear, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a dummy39, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a facial accessories, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a handwear, which is a accessory, accoutrement, accouterment, which is a toiletries",
+            "a hand wear, which is a accessory, accoutrement, accouterment, which is a toiletries"
+        ]
+    },
+    "26": {
+        "node_name": "amphibian",
+        "parent_names": [
+            "animal",
+            "animate being",
+            "beast",
+            "brute",
+            "creature",
+            "fauna"
+        ],
+        "child_names": [
+            "dummy7",
+            "dummy8"
+        ],
+        "candidate_sentences": [
+            "a dummy7, which is a amphibian, which is a animal",
+            "a dummy8, which is a amphibian, which is a animal",
+            "a dummy7, which is a amphibian, which is a animate being",
+            "a dummy8, which is a amphibian, which is a animate being",
+            "a dummy7, which is a amphibian, which is a beast",
+            "a dummy8, which is a amphibian, which is a beast",
+            "a dummy7, which is a amphibian, which is a brute",
+            "a dummy8, which is a amphibian, which is a brute",
+            "a dummy7, which is a amphibian, which is a creature",
+            "a dummy8, which is a amphibian, which is a creature",
+            "a dummy7, which is a amphibian, which is a fauna",
+            "a dummy8, which is a amphibian, which is a fauna"
+        ]
+    },
+    "27": {
+        "node_name": "garment",
+        "parent_names": [
+            "apparel",
+            "toiletries"
+        ],
+        "child_names": [
+            "garment"
+        ],
+        "candidate_sentences": [
+            "a garment, which is a garment, which is a apparel",
+            "a garment, which is a garment, which is a toiletries"
+        ]
+    },
+    "28": {
+        "node_name": "vascular plant, tracheophyte",
+        "parent_names": [
+            "plant",
+            "flora",
+            "plant life"
+        ],
+        "child_names": [
+            "flower"
+        ],
+        "candidate_sentences": [
+            "a flower, which is a vascular plant, tracheophyte, which is a plant",
+            "a flower, which is a vascular plant, tracheophyte, which is a flora",
+            "a flower, which is a vascular plant, tracheophyte, which is a plant life"
+        ]
+    }
+}

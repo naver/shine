@@ -1,0 +1,600 @@
+{
+    "1": {
+        "node_name": "drink",
+        "parent_names": [
+            "beverage & liquid & consumable",
+            "beverage & liquid & consumable",
+            "Beverage & Liquid & Consumable"
+        ],
+        "child_names": [
+            "soda & tea & coffee & juice & water & milk & smoothie & cocktail & beer & wine",
+            "water & soda & coffee & tea & juice & milk & smoothie & cocktail & beer & wine",
+            "water & coffee & tea & soda & juice & milk & wine & beer & cocktail & smoothie"
+        ]
+    },
+    "2": {
+        "node_name": "musical instrument",
+        "parent_names": [
+            "String instruments & Wind instruments & Percussion instruments",
+            "Stringed instruments & Percussion instruments & Wind instruments",
+            "Stringed instruments & Wind instruments & Percussion instruments"
+        ],
+        "child_names": [
+            "guitar & piano & violin & drums & flute & saxophone & trumpet & cello & harp & clarinet",
+            "guitar & piano & violin & trumpet & drums & saxophone & flute & clarinet & cello & ukulele",
+            "Guitar & Piano & Violin & Trumpet & Flute & Drum & Saxophone & Clarinet & Cello & Harp"
+        ]
+    },
+    "3": {
+        "node_name": "vegetable",
+        "parent_names": [
+            "Fruit & Food & Plant",
+            "Fruit & Plant & Food",
+            "food & plants & agriculture"
+        ],
+        "child_names": [
+            "carrot & broccoli & tomato & potato & onion & cucumber & spinach & bell pepper & lettuce & zucchini",
+            "carrot&broccoli&tomato&onion&potato&cabbage&bell pepper&spinach&zucchini&eggplant",
+            "carrot & tomato & broccoli & cucumber & potato & lettuce & onion & bell pepper & spinach & zucchini"
+        ]
+    },
+    "4": {
+        "node_name": "tree",
+        "parent_names": [
+            "Plants & Nature & Living organisms",
+            "plant & nature & living organism",
+            "nature & plants & living organisms"
+        ],
+        "child_names": [
+            "Oak tree & Pine tree & Maple tree & Birch tree & Willow tree & Fir tree & Palm tree & Cherry tree & Apple tree & Birch tree",
+            "Oak tree & Pine tree & Maple tree & Palm tree & Willow tree & Birch tree & Fir tree & Cherry tree & Apple tree & Cedar tree",
+            "Oak tree & Maple tree & Pine tree & Birch tree & Willow tree & Cherry tree & Cedar tree & Spruce tree & Fir tree & Palm tree"
+        ]
+    },
+    "5": {
+        "node_name": "auto part",
+        "parent_names": [
+            "automotive&mechanical&spare",
+            "Automotive & Mechanical & Manufacturing",
+            "Automotive & Mechanical & Industrial"
+        ],
+        "child_names": [
+            "engine&brake pad&battery&alternator&radiator&tire&fuel pump&exhaust system&ignition coil&starter motor",
+            "engine&brake pads&spark plugs&radiator&fuel pump&alternator&starter motor&air filter&exhaust system&ignition coil",
+            "engine&brake pad&tire&spark plug&alternator&starter motor&radiator&fuel pump&air filter&battery"
+        ]
+    },
+    "6": {
+        "node_name": "sports equipment",
+        "parent_names": [
+            " Outdoor equipment& Athletic gear& Recreational items",
+            " Fitness & Exercise Equipment& Outdoor & Adventure Gear& Team Sports Gear",
+            "outdoor & recreational & fitness"
+        ],
+        "child_names": [
+            "soccer ball & basketball & tennis racket & baseball bat & golf club & hockey stick & volleyball & cricket bat & badminton racket & table tennis paddle",
+            "basketball & soccer ball & tennis racket & baseball bat & golf club & hockey stick & volleyball & cricket bat & ping pong paddle & badminton racket",
+            "soccer ball & basketball & tennis racket & golf club & baseball bat & volleyball & hockey stick & cricket bat & ski & badminton racket"
+        ]
+    },
+    "7": {
+        "node_name": "flower",
+        "parent_names": [
+            "Plant & Nature & Decoration",
+            "plants & nature & gardening",
+            "Plants & Nature & Botany"
+        ],
+        "child_names": [
+            "rose & tulip & daisy & sunflower & lily & orchid & carnation & hydrangea & peony & chrysanthemum",
+            "rose & tulip & lily & sunflower & daisy & orchid & carnation & daffodil & peony & lavender",
+            "rose & sunflower & tulip & daisy & lily & orchid & carnation & peony & hydrangea & daffodil"
+        ]
+    },
+    "8": {
+        "node_name": "baked goods",
+        "parent_names": [
+            "food & desserts & snacks",
+            "pastries & breads & desserts",
+            "bread & pastries & cakes"
+        ],
+        "child_names": [
+            "bread & cake & cookies & muffins & croissants & pastries & scones & donuts & bagels & tarts",
+            "bread & cookies & muffins & croissants & cakes & pastries & pies & donuts & bagels & scones",
+            "bread & cake & cookies & muffins & croissants & pastries & donuts & scones & pies & tarts"
+        ]
+    },
+    "9": {
+        "node_name": "mammal",
+        "parent_names": [
+            "animal & vertebrate & warm-blooded",
+            "animal & vertebrate & chordate",
+            "animal & vertebrate & warm-blooded"
+        ],
+        "child_names": [
+            "cat & dog & elephant & mouse & lion & tiger & bear & horse & dolphin & monkey",
+            "dog & cat & horse & cow & elephant & lion & tiger & bear & dolphin & gorilla",
+            "dog & cat & horse & elephant & tiger & lion & bear & giraffe & dolphin & monkey"
+        ]
+    },
+    "10": {
+        "node_name": "footwear",
+        "parent_names": [
+            "shoes & boots & sandals",
+            "shoes & boots & sandals",
+            "Shoes & Sandals & Boots"
+        ],
+        "child_names": [
+            "sneakers & boots & sandals & flats & loafers & heels & wedges & flip flops & slippers & oxfords",
+            "sneakers & sandals & boots & loafers & flats & heels & slippers & flip flops & moccasins & oxfords",
+            "sneakers & sandals & boots & loafers & flats & heels & oxfords & moccasins & slippers & flip-flops"
+        ]
+    },
+    "11": {
+        "node_name": "clothing",
+        "parent_names": [
+            "Apparel & Fashion & Textiles",
+            "Apparel & Fashion & Textiles",
+            "Apparel & Fashion & Textiles"
+        ],
+        "child_names": [
+            "shirt & pants & dress & skirt & blouse & sweater & jacket & coat & shorts & hat",
+            "shirt & pants & dress & skirt & jacket & sweater & t-shirt & shorts & blouse & suit",
+            "shirt&pants&dress&skirt&jacket&coat&sweater&blouse&shorts&jumpsuit"
+        ]
+    },
+    "12": {
+        "node_name": "reptile",
+        "parent_names": [
+            "Animal&Vertebrate&Amniote",
+            "animal & vertebrate & tetrapod",
+            "animal & vertebrate & cold-blooded"
+        ],
+        "child_names": [
+            "Snake & Lizard & Turtle & Crocodile & Alligator & Komodo dragon & Chameleon & Gecko & Iguana & Monitor lizard",
+            "snake & lizard & turtle & alligator & crocodile & iguana & chameleon & gecko & komodo dragon & tuatara",
+            "snake & lizard & turtle & alligator & crocodile & iguana & chameleon & gecko & monitor lizard & komodo dragon"
+        ]
+    },
+    "13": {
+        "node_name": "office supplies",
+        "parent_names": [
+            "Writing instruments & Paper products & Desk accessories",
+            "paper supplies & desk accessories & writing instruments",
+            "stationery & writing instruments & desk accessories"
+        ],
+        "child_names": [
+            "pens & pencils & highlighters & markers & stapler & scissors & tape dispenser & paper clips & binder clips & post-it notes",
+            "pens & pencils & notebooks & staplers & paper clips & scissors & highlighters & sticky notes & binder clips & tape dispensers",
+            "pens&paper clips&stapler&scissors&highlighters&sticky notes&binder clips&tape dispenser&whiteboard markers&rubber bands"
+        ]
+    },
+    "14": {
+        "node_name": "lighting",
+        "parent_names": [
+            "indoor lighting & outdoor lighting & decorative lighting",
+            "indoor lighting & outdoor lighting & decorative lighting",
+            "indoor lighting & outdoor lighting & decorative lighting"
+        ],
+        "child_names": [
+            "chandelier & pendant light & ceiling fan with light & floor lamp & table lamp & wall sconce & track lighting & recessed lighting & desk lamp & outdoor lighting",
+            " Chandelier& Pendant light& Wall sconce& Floor lamp& Table lamp& Ceiling fan with light& Track lighting& Recessed lighting& Flush mount light& Outdoor lighting",
+            "chandelier & pendant light & floor lamp & table lamp & wall sconce & track lighting & ceiling fan with light & candlestick lamp & desk lamp & flush mount light"
+        ]
+    },
+    "15": {
+        "node_name": "building",
+        "parent_names": [
+            "architecture & construction & infrastructure",
+            "Architecture & Construction & Real Estate",
+            "Architecture & Construction & Real estate"
+        ],
+        "child_names": [
+            "skyscraper & house & office building & apartment complex & hotel & hospital & school & shopping mall & museum & library",
+            "skyscraper & house & apartment complex & office building & hotel & school & hospital & museum & church & shopping mall",
+            "house & apartment complex & office building & hospital & school & shopping mall & hotel & warehouse & church & library"
+        ]
+    },
+    "16": {
+        "node_name": "fruit",
+        "parent_names": [
+            " Food & & Edible items & & Natural produce",
+            "edible&plant&natural",
+            "Edible & Natural & Plant"
+        ],
+        "child_names": [
+            "apple & banana & orange & strawberry & pineapple & watermelon & grapefruit & mango & kiwi & peach",
+            "apple & banana & orange & strawberry & watermelon & pineapple & kiwi & mango & grape & peach",
+            "apple & banana & orange & strawberry & pineapple & watermelon & grapefruit & mango & kiwi & pear"
+        ]
+    },
+    "17": {
+        "node_name": "seafood",
+        "parent_names": [
+            "food & cuisine & ocean",
+            "Protein & Food & Aquatic",
+            "fish & shellfish & crustaceans"
+        ],
+        "child_names": [
+            "shrimp & crab & lobster & scallops & mussels & oysters & clams & squid & octopus & fish",
+            "crab&lobster&shrimp&oyster&mussel&clam&squid&octopus&scallop&fish",
+            "shrimp & crab & lobster & oyster & scallop & clams & mussels & squid & octopus & fish"
+        ]
+    },
+    "18": {
+        "node_name": "dessert",
+        "parent_names": [
+            "Sweet & Food & Confectionery",
+            "Sweet & Food & Treat",
+            "Bakery & Confectionery & Sweet"
+        ],
+        "child_names": [
+            "cake & ice cream & pie & cookies & brownies & pudding & cheesecake & gelato & sorbet & mousse",
+            "cake & ice cream & pie & cookies & brownies & pudding & cheesecake & sorbet & tart & mousse",
+            "cake & ice cream & pie & pudding & sorbet & cheesecake & brownie & tart & mousse & trifle"
+        ]
+    },
+    "19": {
+        "node_name": "kitchen appliance",
+        "parent_names": [
+            "Cooking appliance & Food preparation appliance & Beverage appliance",
+            "cooking equipment & food preparation tools & household items",
+            "Cooking appliance & Food preparation appliance & Beverage appliance"
+        ],
+        "child_names": [
+            "blender & toaster & microwave & coffee maker & food processor & juicer & dishwasher & air fryer & electric kettle & slow cooker",
+            "blender & toaster & microwave & coffee maker & dishwasher & refrigerator & oven & food processor & electric kettle & air fryer",
+            "refrigerator & stove & dishwasher & microwave & blender & toaster & coffee maker & food processor & juicer & electric kettle"
+        ]
+    },
+    "20": {
+        "node_name": "sculpture",
+        "parent_names": [
+            "Fine Art & Visual Art & Three-dimensional Art",
+            "Art & Visual Arts & Three-dimensional art",
+            "art & visual arts & fine arts"
+        ],
+        "child_names": [
+            "bronze sculpture & marble sculpture & wood sculpture & clay sculpture & stone sculpture & metal sculpture & glass sculpture & ceramic sculpture & ice sculpture & kinetic sculpture",
+            "abstract sculpture & figurative sculpture & animal sculpture & portrait sculpture & contemporary sculpture & bronze sculpture & stone sculpture & wood sculpture & kinetic sculpture & metal sculpture",
+            "bronze sculpture & marble sculpture & wood sculpture & clay sculpture & metal sculpture & stone sculpture & glass sculpture & ceramic sculpture & ice sculpture & kinetic sculpture"
+        ]
+    },
+    "21": {
+        "node_name": "kitchen utensil",
+        "parent_names": [
+            "Cooking tools & Dining accessories & Food preparation equipment",
+            "Cooking equipment & Food preparation tools & Eating utensils",
+            "Cooking tool & Food preparation & Tableware"
+        ],
+        "child_names": [
+            "spoon & fork & knife & spatula & whisk & tongs & ladle & slotted spoon & can opener & grater",
+            "spoon & fork & knife & spatula & whisk & tongs & ladle & grater & peeler & can opener",
+            "spoon & fork & knife & spatula & whisk & tongs & ladle & grater & peeler & can opener"
+        ]
+    },
+    "22": {
+        "node_name": "land vehicle",
+        "parent_names": [
+            "Transportation & Automotive & Vehicles",
+            "Transportation & Automotive & Vehicles",
+            "transportation & automobiles & vehicles"
+        ],
+        "child_names": [
+            "car & truck & motorcycle & bicycle & bus & van & SUV & tractor & train & hovercraft",
+            "car & truck & motorcycle & bicycle & bus & van & SUV & tractor & skateboard & roller skate",
+            "car & truck & motorcycle & bicycle & bus & van & SUV & tractor & train & skateboard"
+        ]
+    },
+    "23": {
+        "node_name": "furniture",
+        "parent_names": [
+            "Indoor&Outdoor&Office",
+            "Indoor & Outdoor & Office",
+            "indoor&outdoor&home"
+        ],
+        "child_names": [
+            "chair & table & sofa & bed & desk & cabinet & shelf & dresser & bench & ottoman",
+            "chair & table & sofa & bed & desk & dresser & cabinet & bookshelf & ottoman & bench",
+            "chair & table & sofa & bed & desk & bookshelf & dresser & cabinet & ottoman & bench"
+        ]
+    },
+    "24": {
+        "node_name": "shellfish",
+        "parent_names": [
+            "seafood & aquatic animals & invertebrates",
+            "seafood & marine animals & invertebrates",
+            "food & seafood & invertebrate"
+        ],
+        "child_names": [
+            "oyster & mussel & clam & crab & lobster & shrimp & prawn & crayfish & scallop & barnacle",
+            "oyster & mussel & clam & scallop & shrimp & crab & lobster & crayfish & barnacle & cockle",
+            "shrimp & lobster & crab & oyster & mussel & scallop & clam & crayfish & prawn & barnacle"
+        ]
+    },
+    "25": {
+        "node_name": "home appliance",
+        "parent_names": [
+            "Kitchen appliance & Cleaning appliance & Entertainment appliance",
+            "Kitchen appliance & Electronic device & Household item",
+            "Kitchen appliance & Electrical appliance & Household item"
+        ],
+        "child_names": [
+            "refrigerator & washing machine & dishwasher & microwave & coffee maker & toaster & blender & vacuum cleaner & air conditioner & rice cooker",
+            "refrigerator & washing machine & dishwasher & microwave oven & vacuum cleaner & air conditioner & blender & coffee maker & toaster & electric kettle",
+            "refrigerator & washing machine & dishwasher & microwave & blender & coffee maker & toaster oven & air conditioner & vacuum cleaner & electric kettle"
+        ]
+    },
+    "26": {
+        "node_name": "animal product",
+        "parent_names": [
+            "food & agriculture & commerce",
+            "food & agriculture & retail",
+            "food & agriculture & consumer goods"
+        ],
+        "child_names": [
+            "milk & cheese & eggs & meat & honey & leather & wool & gelatin & bone meal & lanolin",
+            "milk & cheese & eggs & meat & honey & wool & leather & gelatin & bone meal & lanolin",
+            "milk & eggs & meat & cheese & honey & wool & leather & fur & gelatin & bone meal"
+        ]
+    },
+    "27": {
+        "node_name": "tool",
+        "parent_names": [
+            "Hand tool & Power tool & Cutting tool",
+            "hand tool & power tool & cutting tool",
+            "hand tool & power tool & cutting tool"
+        ],
+        "child_names": [
+            "hammer & screwdriver & wrench & pliers & drill & saw & chisel & tape measure & level & socket set",
+            "hammer & screwdriver & wrench & pliers & drill & saw & chisel & level & tape measure & sander",
+            "hammer & screwdriver & wrench & pliers & saw & drill & chisel & level & tape measure & socket wrench"
+        ]
+    },
+    "28": {
+        "node_name": "fashion accessory",
+        "parent_names": [
+            "jewelry & handbags & hats",
+            "Jewelry & Bags & Hats",
+            "Jewelry & Handbags & Scarves"
+        ],
+        "child_names": [
+            "scarf & handbag & sunglasses & earrings & bracelet & necklace & hat & belt & gloves & headband",
+            "handbag & sunglasses & scarf & hat & necklace & earrings & bracelet & belt & gloves & headband",
+            "handbag & necklace & earrings & bracelet & scarf & sunglasses & hat & belt & gloves & headband"
+        ]
+    },
+    "29": {
+        "node_name": "electronic product",
+        "parent_names": [
+            "Consumer electronics & Household appliances & Communication devices",
+            "Home appliances & Consumer electronics & Communication devices",
+            "consumer electronics & technology & household appliances"
+        ],
+        "child_names": [
+            "smartphone & laptop & tablet & smartwatch & television & gaming console & camera & headphones & speaker & fitness tracker",
+            "smartphone & laptop & tablet & smartwatch & television & camera & headphones & gaming console & smart home device & e-reader",
+            "smartphone & laptop & tablet & smartwatch & television & headphones & camera & gaming console & speaker & e-reader"
+        ]
+    },
+    "30": {
+        "node_name": "container",
+        "parent_names": [
+            "packaging & storage & transportation",
+            "storage & packaging & transportation",
+            "packaging & storage & transportation"
+        ],
+        "child_names": [
+            "box & bag & jar & basket & bucket & crate & barrel & canister & pouch & chest",
+            "box & bag & jar & basket & bucket & crate & vase & bin & canister & pouch",
+            "bag & box & jar & basket & crate & bucket & bin & canister & pouch & tub"
+        ]
+    },
+    "31": {
+        "node_name": "luggage and bags",
+        "parent_names": [
+            "travel accessories & fashion accessories & storage",
+            "travel accessories & fashion accessories & storage and organization",
+            "travel accessories & fashion accessories & storage and organization"
+        ],
+        "child_names": [
+            "backpacks & suitcases & duffel bags & tote bags & messenger bags & briefcases & rolling luggage & carry-on bags & gym bags & garment bags",
+            "backpack & duffel bag & suitcase & tote bag & weekender bag & messenger bag & rolling suitcase & carry-on bag & laptop bag & beach bag",
+            "suitcases & backpacks & tote bags & duffel bags & messenger bags & garment bags & laptop bags & rolling bags & travel bags & gym bags"
+        ]
+    },
+    "32": {
+        "node_name": "batheroom accessory",
+        "parent_names": [
+            "bathroom fixture & home decor & personal care",
+            "Furniture & Home Decor & Personal Care",
+            "bathroom furniture & bathroom fixtures & bathroom decor"
+        ],
+        "child_names": [
+            "towel holder & soap dispenser & toothbrush holder & toilet paper holder & shower caddy & bath mat & shower curtain & trash can & toilet brush holder & vanity tray",
+            "toilet paper holder & towel rack & soap dispenser & toothbrush holder & shower caddy & toilet brush & bath mat & shower curtain & toilet seat cover & towel bar",
+            "toilet brush & soap dispenser & towel rack & toothbrush holder & toilet paper holder & shower caddy & bath mat & shower curtain & trash can & towel hooks"
+        ]
+    },
+    "33": {
+        "node_name": "aircraft",
+        "parent_names": [
+            "Transportation & Aviation & Vehicles",
+            "Transportation & Aviation & Vehicles",
+            "Transportation & Technology & Engineering"
+        ],
+        "child_names": [
+            "Jet aircraft & Propeller aircraft & Helicopter & Glider & Balloon aircraft & Seaplane & Amphibious aircraft & Fighter aircraft & Bomber aircraft & Cargo aircraft",
+            "Commercial aircraft & Military aircraft & Cargo aircraft & Helicopter & Fighter jet & Bomber aircraft & Passenger aircraft & Private jet & Glider & Seaplane",
+            "jet&propeller&helicopter&glider&balloon&seaplane&drone&biplane&airship&hang glider"
+        ]
+    },
+    "34": {
+        "node_name": "weapon",
+        "parent_names": [
+            "firearm & melee weapon & explosive",
+            "melee & ranged & explosive",
+            "melee weapon & ranged weapon & explosive weapon"
+        ],
+        "child_names": [
+            "sword & knife & gun & bow & axe & spear & mace & staff & whip & hammer",
+            "sword & dagger & bow & spear & axe & mace & staff & shield & crossbow & flail",
+            "knife & sword & gun & bow & axe & mace & spear & staff & dagger & club"
+        ]
+    },
+    "35": {
+        "node_name": "facility",
+        "parent_names": [
+            "Infrastructure & Building & Property",
+            "Infrastructure & Service & Resource",
+            "Infrastructure & Building & Amenities"
+        ],
+        "child_names": [
+            "hospital&school&library&gym&mall&office building&restaurant&hotel&airport&stadium",
+            "hospital & school & gym & library & stadium & restaurant & hotel & theater & museum & park",
+            "hospital & school & library & office building & shopping mall & stadium & gymnasium & convention center & airport & train station"
+        ]
+    },
+    "36": {
+        "node_name": "plumbing fixture",
+        "parent_names": [
+            "Bathroom fixture & Kitchen fixture & Outdoor fixture",
+            "Bathroom & Kitchen & Construction",
+            "bathroom fixture & kitchen fixture & utility fixture"
+        ],
+        "child_names": [
+            "sink & toilet & shower head & bathtub & faucet & bidet & urinal & shower stall & towel rack & soap dispenser",
+            "sink&bathtub&showerhead&toilet&faucet&urinal&bidet&water heater&shower stall&plumbing valve",
+            "sink & faucet & showerhead & toilet & bathtub & bidet & urinal & towel rack & soap dispenser & toilet paper holder"
+        ]
+    },
+    "37": {
+        "node_name": "door hardware",
+        "parent_names": [
+            "locks & hinges & handles",
+            "locks & handles & hinges",
+            "locks & hinges & door handles"
+        ],
+        "child_names": [
+            "hinge & doorknob & latch & lock & strike plate & deadbolt & door closer & door stopper & door viewer & door pull",
+            "handles & knobs & levers & locks & hinges & plates & pulls & stoppers & peepholes & door viewers",
+            "knob & handle & latch & hinge & strike plate & deadbolt & door closer & door stopper & door viewer & door kick plate"
+        ]
+    },
+    "38": {
+        "node_name": "fungus",
+        "parent_names": [
+            "plants & microorganisms & biology",
+            "plants & organisms & biology",
+            "Plants & Organisms & Biology"
+        ],
+        "child_names": [
+            "mushroom & mold & yeast & lichen & rust & smut & truffle & mycorrhiza & bracket fungus & ergot",
+            "mold & yeast & mushroom & truffle & lichen & rust & smut & powdery mildew & bracket fungi & mycorrhizae",
+            "mold & yeast & mushroom & lichen & truffle & bracket fungus & slime mold & puffball & rust & powdery mildew"
+        ]
+    },
+    "39": {
+        "node_name": "fish",
+        "parent_names": [
+            "aquatic creatures & animals & marine life",
+            "Aquatic creatures & Animals & Sea creatures",
+            "animals & seafood & pets"
+        ],
+        "child_names": [
+            "guppy & goldfish & betta fish & angelfish & clownfish & discus fish & tetra fish & gourami fish & catfish & pufferfish",
+            "Guppy & Goldfish & Betta & Angelfish & Tetra & Swordtail & Molly & Discus & Clownfish & Gourami",
+            "trout & salmon & tuna & catfish & swordfish & goldfish & clownfish & angelfish & betta fish & guppy fish"
+        ]
+    },
+    "40": {
+        "node_name": "tableware",
+        "parent_names": [
+            "kitchenware & diningware & serveware",
+            "kitchenware & diningware & serveware",
+            "dinnerware & serveware & flatware"
+        ],
+        "child_names": [
+            "spoon & fork & knife & plate & bowl & glass & cup & saucer & napkin & chopsticks",
+            "plate & bowl & cup & mug & fork & knife & spoon & saucer & glass & napkin",
+            "plate & bowl & cup & fork & knife & spoon & saucer & glass & napkin & placemat"
+        ]
+    },
+    "41": {
+        "node_name": "nut",
+        "parent_names": [
+            "Food & Edible items & Plant parts",
+            "Food & Hardware & Botany",
+            "Food & Edible plants & Seeds"
+        ],
+        "child_names": [
+            "almond&cashew&peanut&walnut&hazelnut&macadamia&pecan&pistachio&brazil nut&chestnut",
+            "Almond & Cashew & Walnut & Pecan & Pistachio & Macadamia & Brazil nut & Hazelnut & Pine nut & Chestnut",
+            "Almond & Cashew & Pistachio & Pecan & Walnut & Macadamia & Hazelnut & Brazil nut & Pine nut & Chestnut"
+        ]
+    },
+    "42": {
+        "node_name": "human body part",
+        "parent_names": [
+            "Head & Torso & Limb",
+            "Head & Torso & Limb",
+            "head & torso & limbs"
+        ],
+        "child_names": [
+            "head & arm & leg & hand & foot & eye & ear & nose & mouth & shoulder",
+            "head & neck & arm & hand & leg & foot & torso & shoulder & elbow & knee",
+            "head & eyes & nose & ears & mouth & arms & legs & hands & feet & torso"
+        ]
+    },
+    "43": {
+        "node_name": "cosmetics",
+        "parent_names": [
+            "beauty & personal care & fashion",
+            "Skin care & Hair care & Makeup",
+            "makeup & skincare & personal care"
+        ],
+        "child_names": [
+            "lipstick & foundation & mascara & eyeshadow & blush & concealer & bronzer & highlighter & eyeliner & lip gloss",
+            "lipstick & foundation & mascara & eyeshadow & blush & concealer & highlighter & eyeliner & bronzer & lip gloss",
+            "lipstick & foundation & mascara & eyeshadow & blush & concealer & highlighter & bronzer & eyeliner & lip gloss"
+        ]
+    },
+    "44": {
+        "node_name": "watercraft",
+        "parent_names": [
+            "Vehicles & Transportation & Boats",
+            "Boats & Ships & Submarines",
+            "boats & ships & submarines"
+        ],
+        "child_names": [
+            "ship & boat & yacht & canoe & kayak & sailboat & gondola & jet ski & submarine & hovercraft",
+            "Boat & Ship & Yacht & Canoe & Kayak & Jet ski & Sailboat & Submarine & Pontoon & Barge",
+            "boat & canoe & yacht & sailboat & kayak & jet ski & ship & ferry & catamaran & submarine"
+        ]
+    },
+    "45": {
+        "node_name": "kitchenware",
+        "parent_names": [
+            "Cookware & Utensils & Appliances",
+            "Cookware & Utensils & Appliances",
+            "Cookware & Utensils & Appliances"
+        ],
+        "child_names": [
+            "spoon & knife & fork & spatula & whisk & colander & saucepan & cutting board & blender & can opener",
+            "pots & pans & knives & cutting boards & utensils & plates & glasses & bowls & mugs & strainers",
+            "pots & pans & knives & cutting boards & spatulas & whisks & colanders & can openers & measuring cups & mixing bowls"
+        ]
+    },
+    "46": {
+        "node_name": "fast food",
+        "parent_names": [
+            "food & dining & restaurants",
+            "food & restaurant & convenience",
+            "food & dining & convenience"
+        ],
+        "child_names": [
+            "burger & pizza & hot dog & french fries & chicken nuggets & tacos & burritos & sandwiches & fried chicken & milkshakes",
+            "hamburger & pizza & hot dog & french fries & fried chicken & tacos & burritos & sushi & kebab & fish and chips",
+            "Burger & Pizza & Hotdog & Chicken Nuggets & French Fries & Tacos & Burritos & Fried Chicken & Sandwiches & Fried Fish"
+        ]
+    }
+}

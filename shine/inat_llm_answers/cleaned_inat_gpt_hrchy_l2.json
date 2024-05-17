@@ -1,0 +1,728 @@
+{
+    "1": {
+        "node_name": "Actinopterygii",
+        "parent_names": [
+            "Chordata"
+        ],
+        "child_names": [
+            "Salmoniformes",
+            "Lepisosteiformes",
+            "Ginglymodi",
+            "Clupeiformes",
+            "Actinopterygii",
+            "Amiiformes",
+            "Holostei",
+            "Polypteriformes",
+            "Siluriformes",
+            "Halecomorphi",
+            "Characiformes",
+            "Perciformes",
+            "Teleostei",
+            "Alepocephaliformes",
+            "Acipenseriformes",
+            "Cypriniformes",
+            "Anguilliformes"
+        ],
+        "candidate_sentences": [
+            "a Salmoniformes, which is a Actinopterygii, which is a Chordata",
+            "a Lepisosteiformes, which is a Actinopterygii, which is a Chordata",
+            "a Ginglymodi, which is a Actinopterygii, which is a Chordata",
+            "a Clupeiformes, which is a Actinopterygii, which is a Chordata",
+            "a Actinopterygii, which is a Actinopterygii, which is a Chordata",
+            "a Amiiformes, which is a Actinopterygii, which is a Chordata",
+            "a Holostei, which is a Actinopterygii, which is a Chordata",
+            "a Polypteriformes, which is a Actinopterygii, which is a Chordata",
+            "a Siluriformes, which is a Actinopterygii, which is a Chordata",
+            "a Halecomorphi, which is a Actinopterygii, which is a Chordata",
+            "a Characiformes, which is a Actinopterygii, which is a Chordata",
+            "a Perciformes, which is a Actinopterygii, which is a Chordata",
+            "a Teleostei, which is a Actinopterygii, which is a Chordata",
+            "a Alepocephaliformes, which is a Actinopterygii, which is a Chordata",
+            "a Acipenseriformes, which is a Actinopterygii, which is a Chordata",
+            "a Cypriniformes, which is a Actinopterygii, which is a Chordata",
+            "a Anguilliformes, which is a Actinopterygii, which is a Chordata"
+        ]
+    },
+    "2": {
+        "node_name": "Amphibia",
+        "parent_names": [
+            "Chordata"
+        ],
+        "child_names": [
+            "Hynobiidae",
+            "Anura",
+            "Sirenidae",
+            "Cryptobranchidae",
+            "Batrachia",
+            "Microsauria",
+            "Procaudata",
+            "Apateonia",
+            "Caudata",
+            "Rhinophrynidae",
+            "Ichthyostegalia",
+            "Proteidae",
+            "Lepospondyli",
+            "Temnospondyli",
+            "Gymnophiona",
+            "Pipidae",
+            "Proanura",
+            "Aistopoda",
+            "Salamandridae",
+            "Allocaudata",
+            "Lissamphibia"
+        ],
+        "candidate_sentences": [
+            "a Hynobiidae, which is a Amphibia, which is a Chordata",
+            "a Anura, which is a Amphibia, which is a Chordata",
+            "a Sirenidae, which is a Amphibia, which is a Chordata",
+            "a Cryptobranchidae, which is a Amphibia, which is a Chordata",
+            "a Batrachia, which is a Amphibia, which is a Chordata",
+            "a Microsauria, which is a Amphibia, which is a Chordata",
+            "a Procaudata, which is a Amphibia, which is a Chordata",
+            "a Apateonia, which is a Amphibia, which is a Chordata",
+            "a Caudata, which is a Amphibia, which is a Chordata",
+            "a Rhinophrynidae, which is a Amphibia, which is a Chordata",
+            "a Ichthyostegalia, which is a Amphibia, which is a Chordata",
+            "a Proteidae, which is a Amphibia, which is a Chordata",
+            "a Lepospondyli, which is a Amphibia, which is a Chordata",
+            "a Temnospondyli, which is a Amphibia, which is a Chordata",
+            "a Gymnophiona, which is a Amphibia, which is a Chordata",
+            "a Pipidae, which is a Amphibia, which is a Chordata",
+            "a Proanura, which is a Amphibia, which is a Chordata",
+            "a Aistopoda, which is a Amphibia, which is a Chordata",
+            "a Salamandridae, which is a Amphibia, which is a Chordata",
+            "a Allocaudata, which is a Amphibia, which is a Chordata",
+            "a Lissamphibia, which is a Amphibia, which is a Chordata"
+        ]
+    },
+    "3": {
+        "node_name": "Anthozoa",
+        "parent_names": [
+            "Cnidaria"
+        ],
+        "child_names": [
+            "Stolonifera",
+            "Pennatulacea",
+            "Antipatharia",
+            "Alcyonacea",
+            "Corallimorpharia",
+            "Ceriantharia",
+            "Gorgonacea",
+            "Zoantharia",
+            "Helioporacea",
+            "Actiniaria",
+            "Octocorallia",
+            "Scleractinia"
+        ],
+        "candidate_sentences": [
+            "a Stolonifera, which is a Anthozoa, which is a Cnidaria",
+            "a Pennatulacea, which is a Anthozoa, which is a Cnidaria",
+            "a Antipatharia, which is a Anthozoa, which is a Cnidaria",
+            "a Alcyonacea, which is a Anthozoa, which is a Cnidaria",
+            "a Corallimorpharia, which is a Anthozoa, which is a Cnidaria",
+            "a Ceriantharia, which is a Anthozoa, which is a Cnidaria",
+            "a Gorgonacea, which is a Anthozoa, which is a Cnidaria",
+            "a Zoantharia, which is a Anthozoa, which is a Cnidaria",
+            "a Helioporacea, which is a Anthozoa, which is a Cnidaria",
+            "a Actiniaria, which is a Anthozoa, which is a Cnidaria",
+            "a Octocorallia, which is a Anthozoa, which is a Cnidaria",
+            "a Scleractinia, which is a Anthozoa, which is a Cnidaria"
+        ]
+    },
+    "4": {
+        "node_name": "Malacostraca",
+        "parent_names": [
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Anomura",
+            "Tanaidacea",
+            "Cumacea",
+            "Brachyura",
+            "Spelaeogriphacea",
+            "Hoplocarida",
+            "Stomatopoda",
+            "Syncarida",
+            "Anaspidacea",
+            "Mictacea",
+            "Thermosbaenacea",
+            "Decapoda",
+            "Isopoda",
+            "Amphipoda",
+            "Mysida",
+            "Euphausiacea"
+        ],
+        "candidate_sentences": [
+            "a Anomura, which is a Malacostraca, which is a Arthropoda",
+            "a Tanaidacea, which is a Malacostraca, which is a Arthropoda",
+            "a Cumacea, which is a Malacostraca, which is a Arthropoda",
+            "a Brachyura, which is a Malacostraca, which is a Arthropoda",
+            "a Spelaeogriphacea, which is a Malacostraca, which is a Arthropoda",
+            "a Hoplocarida, which is a Malacostraca, which is a Arthropoda",
+            "a Stomatopoda, which is a Malacostraca, which is a Arthropoda",
+            "a Syncarida, which is a Malacostraca, which is a Arthropoda",
+            "a Anaspidacea, which is a Malacostraca, which is a Arthropoda",
+            "a Mictacea, which is a Malacostraca, which is a Arthropoda",
+            "a Thermosbaenacea, which is a Malacostraca, which is a Arthropoda",
+            "a Decapoda, which is a Malacostraca, which is a Arthropoda",
+            "a Isopoda, which is a Malacostraca, which is a Arthropoda",
+            "a Amphipoda, which is a Malacostraca, which is a Arthropoda",
+            "a Mysida, which is a Malacostraca, which is a Arthropoda",
+            "a Euphausiacea, which is a Malacostraca, which is a Arthropoda"
+        ]
+    },
+    "5": {
+        "node_name": "Echinoidea",
+        "parent_names": [
+            "Echinodermata"
+        ],
+        "child_names": [
+            "Short-spined sea urchin",
+            "Green sea urchin",
+            "Regular sea urchin",
+            "Red sea urchin",
+            "Long-spined sea urchin",
+            "Red Sea Urchin",
+            "Slate-Pencil Sea Urchin",
+            "Green Sea Urchin",
+            "Pencil sea urchin",
+            "Collector's Sea Urchin",
+            "Heart Sea Urchin",
+            "Echinoidea",
+            "White sea urchin",
+            "Short-Spined Sea Urchin",
+            "Black sea urchin",
+            "Long-Spined Sea Urchin",
+            "Regular Sea Urchin",
+            "Purple sea urchin",
+            "Pencil Sea Urchin",
+            "Purple Sea Urchin",
+            "Collector sea urchin"
+        ],
+        "candidate_sentences": [
+            "a Short-spined sea urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Green sea urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Regular sea urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Red sea urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Long-spined sea urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Red Sea Urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Slate-Pencil Sea Urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Green Sea Urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Pencil sea urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Collector's Sea Urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Heart Sea Urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Echinoidea, which is a Echinoidea, which is a Echinodermata",
+            "a White sea urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Short-Spined Sea Urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Black sea urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Long-Spined Sea Urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Regular Sea Urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Purple sea urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Pencil Sea Urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Purple Sea Urchin, which is a Echinoidea, which is a Echinodermata",
+            "a Collector sea urchin, which is a Echinoidea, which is a Echinodermata"
+        ]
+    },
+    "6": {
+        "node_name": "Asteroidea",
+        "parent_names": [
+            "Echinodermata"
+        ],
+        "child_names": [
+            "Asteroidea",
+            "Valvatida",
+            "Forcipulatida",
+            "Paxillapoda",
+            "Valvatacea",
+            "Paxillosida",
+            "Zoroasterida",
+            "Velatida",
+            "Brisingida",
+            "Notomyotida",
+            "Spinulosida"
+        ],
+        "candidate_sentences": [
+            "a Asteroidea, which is a Asteroidea, which is a Echinodermata",
+            "a Valvatida, which is a Asteroidea, which is a Echinodermata",
+            "a Forcipulatida, which is a Asteroidea, which is a Echinodermata",
+            "a Paxillapoda, which is a Asteroidea, which is a Echinodermata",
+            "a Valvatacea, which is a Asteroidea, which is a Echinodermata",
+            "a Paxillosida, which is a Asteroidea, which is a Echinodermata",
+            "a Zoroasterida, which is a Asteroidea, which is a Echinodermata",
+            "a Velatida, which is a Asteroidea, which is a Echinodermata",
+            "a Brisingida, which is a Asteroidea, which is a Echinodermata",
+            "a Notomyotida, which is a Asteroidea, which is a Echinodermata",
+            "a Spinulosida, which is a Asteroidea, which is a Echinodermata"
+        ]
+    },
+    "7": {
+        "node_name": "Diplopoda",
+        "parent_names": [
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Polyzoniida",
+            "Platydesmida",
+            "Julida",
+            "Glomerida",
+            "Callipodida",
+            "Siphonophorida",
+            "Stemmiulida",
+            "Spirostreptida",
+            "Spirobolida",
+            "Siphonocryptida",
+            "Chordeumatida",
+            "Polyxenida",
+            "Polydesmida",
+            "Cambalida"
+        ],
+        "candidate_sentences": [
+            "a Polyzoniida, which is a Diplopoda, which is a Arthropoda",
+            "a Platydesmida, which is a Diplopoda, which is a Arthropoda",
+            "a Julida, which is a Diplopoda, which is a Arthropoda",
+            "a Glomerida, which is a Diplopoda, which is a Arthropoda",
+            "a Callipodida, which is a Diplopoda, which is a Arthropoda",
+            "a Siphonophorida, which is a Diplopoda, which is a Arthropoda",
+            "a Stemmiulida, which is a Diplopoda, which is a Arthropoda",
+            "a Spirostreptida, which is a Diplopoda, which is a Arthropoda",
+            "a Spirobolida, which is a Diplopoda, which is a Arthropoda",
+            "a Siphonocryptida, which is a Diplopoda, which is a Arthropoda",
+            "a Chordeumatida, which is a Diplopoda, which is a Arthropoda",
+            "a Polyxenida, which is a Diplopoda, which is a Arthropoda",
+            "a Polydesmida, which is a Diplopoda, which is a Arthropoda",
+            "a Cambalida, which is a Diplopoda, which is a Arthropoda"
+        ]
+    },
+    "8": {
+        "node_name": "Merostomata",
+        "parent_names": [
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Trilobita",
+            "Eumalacostraca",
+            "Merostomata  Euchelicerata",
+            "Merostomata  Aglaspidida",
+            "Eurypterida",
+            "Merostomata  Dinocarida",
+            "Harpetida",
+            "Hoplocarida",
+            "Chasmataspidida",
+            "Merostomata  Pycnogonida",
+            "Decapoda",
+            "Corynexochida",
+            "Sanctacarida",
+            "Merostomata  Eurypterida",
+            "Merostomata  Chasmataspidida",
+            "Stomatopoda",
+            "Proetida",
+            "Merostomata  Stylonurida",
+            "Leptostraca",
+            "Phacopida",
+            "Xiphosura",
+            "Merostomata  Synziphosurida",
+            "Aglaspidida",
+            "Merostomata  Sanctacarida",
+            "Merostomata  Xiphosura",
+            "Phyllocarida"
+        ],
+        "candidate_sentences": [
+            "a Trilobita, which is a Merostomata, which is a Arthropoda",
+            "a Eumalacostraca, which is a Merostomata, which is a Arthropoda",
+            "a Merostomata  Euchelicerata, which is a Merostomata, which is a Arthropoda",
+            "a Merostomata  Aglaspidida, which is a Merostomata, which is a Arthropoda",
+            "a Eurypterida, which is a Merostomata, which is a Arthropoda",
+            "a Merostomata  Dinocarida, which is a Merostomata, which is a Arthropoda",
+            "a Harpetida, which is a Merostomata, which is a Arthropoda",
+            "a Hoplocarida, which is a Merostomata, which is a Arthropoda",
+            "a Chasmataspidida, which is a Merostomata, which is a Arthropoda",
+            "a Merostomata  Pycnogonida, which is a Merostomata, which is a Arthropoda",
+            "a Decapoda, which is a Merostomata, which is a Arthropoda",
+            "a Corynexochida, which is a Merostomata, which is a Arthropoda",
+            "a Sanctacarida, which is a Merostomata, which is a Arthropoda",
+            "a Merostomata  Eurypterida, which is a Merostomata, which is a Arthropoda",
+            "a Merostomata  Chasmataspidida, which is a Merostomata, which is a Arthropoda",
+            "a Stomatopoda, which is a Merostomata, which is a Arthropoda",
+            "a Proetida, which is a Merostomata, which is a Arthropoda",
+            "a Merostomata  Stylonurida, which is a Merostomata, which is a Arthropoda",
+            "a Leptostraca, which is a Merostomata, which is a Arthropoda",
+            "a Phacopida, which is a Merostomata, which is a Arthropoda",
+            "a Xiphosura, which is a Merostomata, which is a Arthropoda",
+            "a Merostomata  Synziphosurida, which is a Merostomata, which is a Arthropoda",
+            "a Aglaspidida, which is a Merostomata, which is a Arthropoda",
+            "a Merostomata  Sanctacarida, which is a Merostomata, which is a Arthropoda",
+            "a Merostomata  Xiphosura, which is a Merostomata, which is a Arthropoda",
+            "a Phyllocarida, which is a Merostomata, which is a Arthropoda"
+        ]
+    },
+    "9": {
+        "node_name": "Hydrozoa",
+        "parent_names": [
+            "Cnidaria"
+        ],
+        "child_names": [
+            "Narcomedusae",
+            "Proboscoidae",
+            "Hydroidolina",
+            "Siphonophorae",
+            "Hydroida",
+            "Actinulidae",
+            "Stylasterina",
+            "Filifera",
+            "Leptothecata",
+            "Limnomedusae",
+            "Actinulida",
+            "Conica",
+            "Anthoathecata",
+            "Milleporina",
+            "Hydrocorallina",
+            "Aplanulata",
+            "Capitata",
+            "Trachylina"
+        ],
+        "candidate_sentences": [
+            "a Narcomedusae, which is a Hydrozoa, which is a Cnidaria",
+            "a Proboscoidae, which is a Hydrozoa, which is a Cnidaria",
+            "a Hydroidolina, which is a Hydrozoa, which is a Cnidaria",
+            "a Siphonophorae, which is a Hydrozoa, which is a Cnidaria",
+            "a Hydroida, which is a Hydrozoa, which is a Cnidaria",
+            "a Actinulidae, which is a Hydrozoa, which is a Cnidaria",
+            "a Stylasterina, which is a Hydrozoa, which is a Cnidaria",
+            "a Filifera, which is a Hydrozoa, which is a Cnidaria",
+            "a Leptothecata, which is a Hydrozoa, which is a Cnidaria",
+            "a Limnomedusae, which is a Hydrozoa, which is a Cnidaria",
+            "a Actinulida, which is a Hydrozoa, which is a Cnidaria",
+            "a Conica, which is a Hydrozoa, which is a Cnidaria",
+            "a Anthoathecata, which is a Hydrozoa, which is a Cnidaria",
+            "a Milleporina, which is a Hydrozoa, which is a Cnidaria",
+            "a Hydrocorallina, which is a Hydrozoa, which is a Cnidaria",
+            "a Aplanulata, which is a Hydrozoa, which is a Cnidaria",
+            "a Capitata, which is a Hydrozoa, which is a Cnidaria",
+            "a Trachylina, which is a Hydrozoa, which is a Cnidaria"
+        ]
+    },
+    "10": {
+        "node_name": "Chilopoda",
+        "parent_names": [
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Chilopoda"
+        ],
+        "candidate_sentences": [
+            "a Chilopoda, which is a Chilopoda, which is a Arthropoda"
+        ]
+    },
+    "11": {
+        "node_name": "Arachnida",
+        "parent_names": [
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Ricinulei",
+            "Acari",
+            "Pseudoscorpiones",
+            "Uropygi",
+            "Palpigradi",
+            "Scorpiones",
+            "Solifugae",
+            "Amblypygi",
+            "Araneae",
+            "Schizomida",
+            "Opiliones"
+        ],
+        "candidate_sentences": [
+            "a Ricinulei, which is a Arachnida, which is a Arthropoda",
+            "a Acari, which is a Arachnida, which is a Arthropoda",
+            "a Pseudoscorpiones, which is a Arachnida, which is a Arthropoda",
+            "a Uropygi, which is a Arachnida, which is a Arthropoda",
+            "a Palpigradi, which is a Arachnida, which is a Arthropoda",
+            "a Scorpiones, which is a Arachnida, which is a Arthropoda",
+            "a Solifugae, which is a Arachnida, which is a Arthropoda",
+            "a Amblypygi, which is a Arachnida, which is a Arthropoda",
+            "a Araneae, which is a Arachnida, which is a Arthropoda",
+            "a Schizomida, which is a Arachnida, which is a Arthropoda",
+            "a Opiliones, which is a Arachnida, which is a Arthropoda"
+        ]
+    },
+    "12": {
+        "node_name": "Aves",
+        "parent_names": [
+            "Chordata"
+        ],
+        "child_names": [
+            "Anseriformes",
+            "Accipitriformes",
+            "Charadriiformes",
+            "Falconiformes",
+            "Galliformes",
+            "Strigiformes",
+            "Columbiformes",
+            "Coraciiformes",
+            "Passeriformes",
+            "Struthioniformes",
+            "Ciconiiformes",
+            "Piciformes",
+            "Pelecaniformes",
+            "Psittaciformes"
+        ],
+        "candidate_sentences": [
+            "a Anseriformes, which is a Aves, which is a Chordata",
+            "a Accipitriformes, which is a Aves, which is a Chordata",
+            "a Charadriiformes, which is a Aves, which is a Chordata",
+            "a Falconiformes, which is a Aves, which is a Chordata",
+            "a Galliformes, which is a Aves, which is a Chordata",
+            "a Strigiformes, which is a Aves, which is a Chordata",
+            "a Columbiformes, which is a Aves, which is a Chordata",
+            "a Coraciiformes, which is a Aves, which is a Chordata",
+            "a Passeriformes, which is a Aves, which is a Chordata",
+            "a Struthioniformes, which is a Aves, which is a Chordata",
+            "a Ciconiiformes, which is a Aves, which is a Chordata",
+            "a Piciformes, which is a Aves, which is a Chordata",
+            "a Pelecaniformes, which is a Aves, which is a Chordata",
+            "a Psittaciformes, which is a Aves, which is a Chordata"
+        ]
+    },
+    "13": {
+        "node_name": "Insecta",
+        "parent_names": [
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Hymenoptera",
+            "Lepidoptera",
+            "Diptera",
+            "Isoptera",
+            "Hemiptera",
+            "Neuroptera",
+            "Phasmida",
+            "Coleoptera",
+            "Blattodea",
+            "Odonata",
+            "Orthoptera"
+        ],
+        "candidate_sentences": [
+            "a Hymenoptera, which is a Insecta, which is a Arthropoda",
+            "a Lepidoptera, which is a Insecta, which is a Arthropoda",
+            "a Diptera, which is a Insecta, which is a Arthropoda",
+            "a Isoptera, which is a Insecta, which is a Arthropoda",
+            "a Hemiptera, which is a Insecta, which is a Arthropoda",
+            "a Neuroptera, which is a Insecta, which is a Arthropoda",
+            "a Phasmida, which is a Insecta, which is a Arthropoda",
+            "a Coleoptera, which is a Insecta, which is a Arthropoda",
+            "a Blattodea, which is a Insecta, which is a Arthropoda",
+            "a Odonata, which is a Insecta, which is a Arthropoda",
+            "a Orthoptera, which is a Insecta, which is a Arthropoda"
+        ]
+    },
+    "14": {
+        "node_name": "Mammalia",
+        "parent_names": [
+            "Chordata"
+        ],
+        "child_names": [
+            "Sirenia",
+            "Cetacea",
+            "Primates",
+            "Lagomorpha",
+            "Rodentia",
+            "Artiodactyla",
+            "Perissodactyla",
+            "Proboscidea",
+            "Carnivora",
+            "Chiroptera"
+        ],
+        "candidate_sentences": [
+            "a Sirenia, which is a Mammalia, which is a Chordata",
+            "a Cetacea, which is a Mammalia, which is a Chordata",
+            "a Primates, which is a Mammalia, which is a Chordata",
+            "a Lagomorpha, which is a Mammalia, which is a Chordata",
+            "a Rodentia, which is a Mammalia, which is a Chordata",
+            "a Artiodactyla, which is a Mammalia, which is a Chordata",
+            "a Perissodactyla, which is a Mammalia, which is a Chordata",
+            "a Proboscidea, which is a Mammalia, which is a Chordata",
+            "a Carnivora, which is a Mammalia, which is a Chordata",
+            "a Chiroptera, which is a Mammalia, which is a Chordata"
+        ]
+    },
+    "15": {
+        "node_name": "Gastropoda",
+        "parent_names": [
+            "Mollusca"
+        ],
+        "child_names": [
+            "Patellogastropoda",
+            "Archaeogastropoda",
+            "Gymnosomata",
+            "Neritimorpha",
+            "Mesogastropoda",
+            "Littorinimorpha",
+            "Neogastropoda",
+            "Vetigastropoda",
+            "Caenogastropoda",
+            "Notaspidea",
+            "Cocculiniformia",
+            "Ptenoglossa",
+            "Stylommatophora",
+            "Pulmonata",
+            "Nudibranchia",
+            "Cephalaspidea",
+            "Anaspidea",
+            "Neritidae",
+            "Heterobranchia"
+        ],
+        "candidate_sentences": [
+            "a Patellogastropoda, which is a Gastropoda, which is a Mollusca",
+            "a Archaeogastropoda, which is a Gastropoda, which is a Mollusca",
+            "a Gymnosomata, which is a Gastropoda, which is a Mollusca",
+            "a Neritimorpha, which is a Gastropoda, which is a Mollusca",
+            "a Mesogastropoda, which is a Gastropoda, which is a Mollusca",
+            "a Littorinimorpha, which is a Gastropoda, which is a Mollusca",
+            "a Neogastropoda, which is a Gastropoda, which is a Mollusca",
+            "a Vetigastropoda, which is a Gastropoda, which is a Mollusca",
+            "a Caenogastropoda, which is a Gastropoda, which is a Mollusca",
+            "a Notaspidea, which is a Gastropoda, which is a Mollusca",
+            "a Cocculiniformia, which is a Gastropoda, which is a Mollusca",
+            "a Ptenoglossa, which is a Gastropoda, which is a Mollusca",
+            "a Stylommatophora, which is a Gastropoda, which is a Mollusca",
+            "a Pulmonata, which is a Gastropoda, which is a Mollusca",
+            "a Nudibranchia, which is a Gastropoda, which is a Mollusca",
+            "a Cephalaspidea, which is a Gastropoda, which is a Mollusca",
+            "a Anaspidea, which is a Gastropoda, which is a Mollusca",
+            "a Neritidae, which is a Gastropoda, which is a Mollusca",
+            "a Heterobranchia, which is a Gastropoda, which is a Mollusca"
+        ]
+    },
+    "16": {
+        "node_name": "Bivalvia",
+        "parent_names": [
+            "Mollusca"
+        ],
+        "child_names": [
+            "Pterioida",
+            "Bivalvia",
+            "Myoida",
+            "Mytiloida",
+            "Ostreoida",
+            "Unionoida",
+            "Limoida",
+            "Nuculoida",
+            "Trigonioida",
+            "Arcoida",
+            "Veneroida"
+        ],
+        "candidate_sentences": [
+            "a Pterioida, which is a Bivalvia, which is a Mollusca",
+            "a Bivalvia, which is a Bivalvia, which is a Mollusca",
+            "a Myoida, which is a Bivalvia, which is a Mollusca",
+            "a Mytiloida, which is a Bivalvia, which is a Mollusca",
+            "a Ostreoida, which is a Bivalvia, which is a Mollusca",
+            "a Unionoida, which is a Bivalvia, which is a Mollusca",
+            "a Limoida, which is a Bivalvia, which is a Mollusca",
+            "a Nuculoida, which is a Bivalvia, which is a Mollusca",
+            "a Trigonioida, which is a Bivalvia, which is a Mollusca",
+            "a Arcoida, which is a Bivalvia, which is a Mollusca",
+            "a Veneroida, which is a Bivalvia, which is a Mollusca"
+        ]
+    },
+    "17": {
+        "node_name": "Polyplacophora",
+        "parent_names": [
+            "Mollusca"
+        ],
+        "child_names": [
+            "Chiton",
+            "Acanthochitona",
+            "Leptochitonida",
+            "Nuttallochiton",
+            "Schizochiton",
+            "Mattheviidae",
+            "Lepidopleurida",
+            "Chitonida",
+            "Cryptochiton",
+            "Chitonellida",
+            "Paleoloricata",
+            "Radsia",
+            "Lepidochitona",
+            "Acanthochitida",
+            "Chitonellus",
+            "Mopaliidae",
+            "Neoloricata",
+            "Ischnochiton",
+            "Hanleyidae",
+            "Pleurochitonida",
+            "Mopaliida",
+            "Callistochiton",
+            "Tonicella",
+            "Loricata",
+            "Cryptoplacoidea",
+            "Lepidochitonida"
+        ],
+        "candidate_sentences": [
+            "a Chiton, which is a Polyplacophora, which is a Mollusca",
+            "a Acanthochitona, which is a Polyplacophora, which is a Mollusca",
+            "a Leptochitonida, which is a Polyplacophora, which is a Mollusca",
+            "a Nuttallochiton, which is a Polyplacophora, which is a Mollusca",
+            "a Schizochiton, which is a Polyplacophora, which is a Mollusca",
+            "a Mattheviidae, which is a Polyplacophora, which is a Mollusca",
+            "a Lepidopleurida, which is a Polyplacophora, which is a Mollusca",
+            "a Chitonida, which is a Polyplacophora, which is a Mollusca",
+            "a Cryptochiton, which is a Polyplacophora, which is a Mollusca",
+            "a Chitonellida, which is a Polyplacophora, which is a Mollusca",
+            "a Paleoloricata, which is a Polyplacophora, which is a Mollusca",
+            "a Radsia, which is a Polyplacophora, which is a Mollusca",
+            "a Lepidochitona, which is a Polyplacophora, which is a Mollusca",
+            "a Acanthochitida, which is a Polyplacophora, which is a Mollusca",
+            "a Chitonellus, which is a Polyplacophora, which is a Mollusca",
+            "a Mopaliidae, which is a Polyplacophora, which is a Mollusca",
+            "a Neoloricata, which is a Polyplacophora, which is a Mollusca",
+            "a Ischnochiton, which is a Polyplacophora, which is a Mollusca",
+            "a Hanleyidae, which is a Polyplacophora, which is a Mollusca",
+            "a Pleurochitonida, which is a Polyplacophora, which is a Mollusca",
+            "a Mopaliida, which is a Polyplacophora, which is a Mollusca",
+            "a Callistochiton, which is a Polyplacophora, which is a Mollusca",
+            "a Tonicella, which is a Polyplacophora, which is a Mollusca",
+            "a Loricata, which is a Polyplacophora, which is a Mollusca",
+            "a Cryptoplacoidea, which is a Polyplacophora, which is a Mollusca",
+            "a Lepidochitonida, which is a Polyplacophora, which is a Mollusca"
+        ]
+    },
+    "18": {
+        "node_name": "Reptilia",
+        "parent_names": [
+            "Chordata"
+        ],
+        "child_names": [
+            "Tuatara",
+            "Serpentes",
+            "Chameleons",
+            "Rhynchocephalia",
+            "Amphisbaenia",
+            "Geckos",
+            "Testudines",
+            "Lizards",
+            "Squamata",
+            "Lacertilia",
+            "Crocodilia",
+            "Lepidosauria",
+            "Chelonia",
+            "Sphenodontia"
+        ],
+        "candidate_sentences": [
+            "a Tuatara, which is a Reptilia, which is a Chordata",
+            "a Serpentes, which is a Reptilia, which is a Chordata",
+            "a Chameleons, which is a Reptilia, which is a Chordata",
+            "a Rhynchocephalia, which is a Reptilia, which is a Chordata",
+            "a Amphisbaenia, which is a Reptilia, which is a Chordata",
+            "a Geckos, which is a Reptilia, which is a Chordata",
+            "a Testudines, which is a Reptilia, which is a Chordata",
+            "a Lizards, which is a Reptilia, which is a Chordata",
+            "a Squamata, which is a Reptilia, which is a Chordata",
+            "a Lacertilia, which is a Reptilia, which is a Chordata",
+            "a Crocodilia, which is a Reptilia, which is a Chordata",
+            "a Lepidosauria, which is a Reptilia, which is a Chordata",
+            "a Chelonia, which is a Reptilia, which is a Chordata",
+            "a Sphenodontia, which is a Reptilia, which is a Chordata"
+        ]
+    }
+}

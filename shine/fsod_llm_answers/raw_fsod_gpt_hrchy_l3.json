@@ -1,0 +1,2602 @@
+{
+    "1": {
+        "node_name": "beer",
+        "parent_names": [
+            "Beverages & Alcoholic beverages & Alcoholic drinks",
+            "Alcohol & Beverage & Drink",
+            "food & beverage & alcohol"
+        ],
+        "child_names": [
+            "lager & ale & stout & pilsner & wheat beer & IPA & porter & sour beer & bock & lambic",
+            "IPA & Lager & Stout & Pilsner & Wheat Beer & Pale Ale & Porter & Saison & Amber Ale & Belgian Ale",
+            "lager & ale & stout & porter & pilsner & wheat beer & IPA & sour beer & bock & lambic"
+        ]
+    },
+    "2": {
+        "node_name": "musical keyboard",
+        "parent_names": [
+            "Musical Instruments & Music Equipment & Electronics",
+            "Musical instruments & Electronic devices & Sound equipment",
+            "Musical instruments & Electronics & Sound equipment"
+        ],
+        "child_names": [
+            "synthesizer & digital piano & electric keyboard & MIDI controller & portable keyboard & organ keyboard & workstation keyboard & stage piano & arranger keyboard & keytar",
+            "Synthesizer & Electric piano & Digital piano & MIDI keyboard & Portable keyboard & Organ keyboard & Stage piano & Workstation keyboard & Arranger keyboard & Controller keyboard",
+            "piano & synthesizer & digital piano & accordion & harpsichord & organ & MIDI controller & electronic keyboard & clavichord & celesta"
+        ]
+    },
+    "3": {
+        "node_name": "jalapeno",
+        "parent_names": [
+            "Food & Vegetables & Spices",
+            "Food & Vegetables & Spices",
+            "Vegetables & Spices & Hot Peppers"
+        ],
+        "child_names": [
+            "sliced jalapeno & pickled jalapeno & fresh jalapeno & canned jalapeno & diced jalapeno & smoked jalapeno & roasted jalapeno & chipotle jalapeno & stuffed jalapeno & jalapeno poppers",
+            "serrano & habanero & cayenne & poblano & ghost pepper & scotch bonnet & thai chili & cherry bomb & anaheim & peperoncini",
+            "jalapeno&pickled jalapeno&diced jalapeno&smoked jalapeno&jalapeno pepper sauce&jalapeno poppers&jalapeno jelly&jalapeno salsa&jalapeno cream cheese&jalapeno cheddar cheese"
+        ]
+    },
+    "4": {
+        "node_name": "maple",
+        "parent_names": [
+            "Plants & Wood & Food",
+            "Furniture & Wood Products & Food",
+            "Trees & Wood & Food"
+        ],
+        "child_names": [
+            "Crimson King maple & Norway maple & Japanese maple & Silver maple & Sugar maple & Red maple & Paperbark maple & Bigleaf maple & Vine maple & Amur maple",
+            "Silver maple & Red maple & Sugar maple & Norway maple & Japanese maple & Bigleaf maple & Field maple & Amur maple & Trident maple & Paperbark maple",
+            "Red Maple & Sugar Maple & Silver Maple & Norway Maple & Japanese Maple & Bigleaf Maple & Paperbark Maple & Hedge Maple & Field Maple & Vine Maple"
+        ]
+    },
+    "5": {
+        "node_name": "cartwheel",
+        "parent_names": [
+            "Athletics & Acrobatics & Gymnastics",
+            "Sports & Acrobatics & Gymnastics",
+            "Sports & Gymnastics & Acrobatics"
+        ],
+        "child_names": [
+            "steel cartwheel & wooden cartwheel & plastic cartwheel & rubber cartwheel & metal cartwheel & iron cartwheel & bronze cartwheel & aluminum cartwheel & vintage cartwheel & horse-drawn cartwheel",
+            "wooden cartwheel & metal cartwheel & plastic cartwheel & rubber cartwheel & decorative cartwheel & vintage cartwheel & oversized cartwheel & customized cartwheel & rustic cartwheel & miniature cartwheel",
+            "wooden cartwheel & metal cartwheel & plastic cartwheel & rubber cartwheel & antique cartwheel & decorative cartwheel & vintage cartwheel & oversized cartwheel & miniature cartwheel & custom-made cartwheel"
+        ]
+    },
+    "6": {
+        "node_name": "christmas tree",
+        "parent_names": [
+            "Decorations & Holiday items & Home decor",
+            "Holiday decorations & Festive symbols & Seasonal objects",
+            "Holidays & Decorations & Plants"
+        ],
+        "child_names": [
+            "Douglas Fir & Balsam Fir & Fraser Fir & Noble Fir & Colorado Blue Spruce & Norway Spruce & White Pine & Virginia Pine & Scotch Pine & Eastern Red Cedar",
+            "fir tree & artificial tree & white tree & silver tree & tabletop tree & pre-lit tree & pencil tree & rustic tree & snowy tree & upside-down tree",
+            "Fir tree & Pine tree & Spruce tree & Artificial tree & Tinsel tree & White tree & Silver tree & Upside-down tree & Miniature tree & Potted tree"
+        ]
+    },
+    "7": {
+        "node_name": "hiking equipment",
+        "parent_names": [
+            "outdoor gear & sports equipment & adventure gear",
+            "outdoor gear & sports equipment & adventure gear",
+            "outdoor gear & sports equipment & adventure gear"
+        ],
+        "child_names": [
+            "backpack & hiking boots & hiking poles & water bottle & hiking socks & headlamp & hiking pants & hiking jacket & trekking poles & camping stove",
+            "backpacks & hiking boots & trekking poles & water bottles & compasses & headlamps & hiking socks & camping stoves & sleeping bags & hiking pants",
+            "backpack & hiking boots & trekking poles & headlamp & water bottle & tent & sleeping bag & compass & sunscreen & first aid kit"
+        ]
+    },
+    "8": {
+        "node_name": "bicycle helmet",
+        "parent_names": [
+            "safety equipment & sporting goods & personal protective equipment",
+            "Sports & Safety & Outdoor",
+            "sports equipment & protective gear & headwear"
+        ],
+        "child_names": [
+            "full face helmet & road bike helmet & mountain bike helmet & commuter helmet & BMX helmet & triathlon helmet & kids helmet & skateboard helmet & electric bike helmet & aero helmet",
+            "Road helmet & Mountain bike helmet & Commuter helmet & BMX helmet & Aero helmet & Full face helmet & Kids helmet & Women's helmet & Urban helmet & Triathlon helmet",
+            "full-face helmet & road bike helmet & mountain bike helmet & commuter helmet & aero helmet & BMX helmet & urban helmet & downhill helmet & youth helmet & toddler helmet"
+        ]
+    },
+    "9": {
+        "node_name": "laelia",
+        "parent_names": [
+            "Flower&Plant&Orchid",
+            "Plants & Orchids & Flowers",
+            "plant & flower & orchid"
+        ],
+        "child_names": [
+            "Laelia anceps & Laelia autumnalis & Laelia briegeri & Laelia crispa & Laelia furfuracea & Laelia gouldiana & Laelia grandis & Laelia harpophylla & Laelia lundii & Laelia purpurata",
+            "Laelia albida & Laelia anceps & Laelia autumnalis & Laelia briegeri & Laelia grandis & Laelia gouldiana & Laelia jongheana & Laelia lobata & Laelia purpurata & Laelia tenebrosa",
+            " Laelia anceps& Laelia autumnalis& Laelia briegeri& Laelia cattleyoides& Laelia crispa& Laelia dayana& Laelia gouldiana& Laelia grandis& Laelia harpophylla& Laelia purpurata&Laelia anceps & Laelia autumnalis & Laelia briegeri & Laelia cattleyoides & Laelia crispa & Laelia dayana & Laelia gouldiana & Laelia grandis & Laelia harpophylla & Laelia purpurata"
+        ]
+    },
+    "10": {
+        "node_name": "cattleya",
+        "parent_names": [
+            "Orchids & Flowers & Plants",
+            "Flowers & Orchids & Plants",
+            "Plants & Orchids & Flowers"
+        ],
+        "child_names": [
+            "pink cattleya & white cattleya & purple cattleya & yellow cattleya & red cattleya & blue cattleya & spotted cattleya & striped cattleya & fragrant cattleya & miniature cattleya",
+            "Cattleya walkeriana & Cattleya labiata & Cattleya mossiae & Cattleya lueddemanniana & Cattleya aclandiae & Cattleya dowiana & Cattleya maxima & Cattleya gaskelliana & Cattleya schroederae & Cattleya intermedia",
+            "white cattleya & pink cattleya & purple cattleya & yellow cattleya & red cattleya & orange cattleya & blue cattleya & green cattleya & black cattleya & lavender cattleya"
+        ]
+    },
+    "11": {
+        "node_name": "bran muffin",
+        "parent_names": [
+            "Bakery & Breakfast & Muffin",
+            "baked goods & pastries & breakfast foods",
+            "food & baked goods & breakfast"
+        ],
+        "child_names": [
+            "blueberry bran muffin & banana bran muffin & chocolate chip bran muffin & cranberry bran muffin & cinnamon raisin bran muffin & apple cinnamon bran muffin & pumpkin bran muffin & carrot bran muffin & lemon poppy seed bran muffin & almond bran muffin",
+            "blueberry bran muffin & chocolate chip bran muffin & apple cinnamon bran muffin & banana nut bran muffin & cranberry orange bran muffin & lemon poppy seed bran muffin & pumpkin spice bran muffin & carrot cake bran muffin & almond bran muffin & raisin bran muffin",
+            "blueberry&chocolate chip&cranberry&apple&banana&pumpkin&carrot&raspberry&lemon poppy seed&orange"
+        ]
+    },
+    "12": {
+        "node_name": "goggles",
+        "parent_names": [
+            "eyewear & accessories & sports equipment",
+            "Eyewear & Accessories & Sports Equipment",
+            "Eyewear & Accessories & Sports Equipment"
+        ],
+        "child_names": [
+            "aviator goggles & swimming goggles & ski goggles & safety goggles & night vision goggles & virtual reality goggles & motocross goggles & welding goggles & snowboard goggles & motorcycle goggles",
+            "aviator goggles & ski goggles & swimming goggles & safety goggles & motocross goggles & virtual reality goggles & night vision goggles & welding goggles & diving goggles & motorcycle goggles",
+            "aviator goggles & ski goggles & swimming goggles & safety goggles & virtual reality goggles & night vision goggles & motorcycle goggles & steampunk goggles & scuba diving goggles & welding goggles"
+        ]
+    },
+    "13": {
+        "node_name": "caribou",
+        "parent_names": [
+            "mammal & ungulate & ruminant",
+            "Mammals & Animals & Wildlife",
+            "mammals & animals & wildlife"
+        ],
+        "child_names": [
+            "Tundra caribou & Woodland caribou & Barren-ground caribou & Quebec-Labrador caribou & Mountain caribou & Grant's caribou & Peary caribou & Dolphin and Union caribou & Alaskan caribou & Kenai Peninsula caribou",
+            "Caribou & Woodland Caribou & Mountain Caribou & Barren-Ground Caribou & Peary Caribou & Grant's Caribou & Newfoundland Caribou & Quebec-Labrador Caribou & Alaska Caribou & Siberian Tundra Caribou",
+            "caribou & woodland caribou & mountain caribou & barren-ground caribou & Peary caribou & Grant's caribou & Queen Charlotte Islands caribou & Dolphin and Union caribou & Ungava caribou & Atlantic caribou"
+        ]
+    },
+    "14": {
+        "node_name": "buskin",
+        "parent_names": [
+            "Footwear & Accessories & Performing Arts",
+            "footwear & clothing & accessories",
+            "footwear&costume&accessories"
+        ],
+        "child_names": [
+            "ankle boot & combat boot & knee-high boot & thigh-high boot & rain boot & riding boot & chelsea boot & hiking boot & snow boot & work boot",
+            "ankle boot & calf-high boot & lace-up boot & knee-high boot & western boot & riding boot & combat boot & platform boot & Chelsea boot & chukka boot",
+            "ankle boot & knee-high boot & lace-up boot & Chelsea boot & combat boot & riding boot & cowboy boot & snow boot & rain boot & wedge boot"
+        ]
+    },
+    "15": {
+        "node_name": "turban",
+        "parent_names": [
+            "Clothing & Accessories & Headwear",
+            "clothing & headwear & fashion",
+            "clothing & headwear & traditional attire"
+        ],
+        "child_names": [
+            "turban & headwrap & pagri & dastaar & pheta & pugri & safa & lungi & gamucha & chunni",
+            "turban & headscarf & hijab & bandana & pagri & dastaar & pheta & amamah & keffiyeh & patka",
+            "Afghan turban & African turban & Arabic turban & Indian turban & Moroccan turban & Pakistani turban & Persian turban & Sikh turban & Turkish turban & Yemeni turban"
+        ]
+    },
+    "16": {
+        "node_name": "tortoise",
+        "parent_names": [
+            "animals & reptiles & pets",
+            "Animals & Reptiles & Pets",
+            "animals & reptiles & pets"
+        ],
+        "child_names": [
+            "leopard tortoise & red-footed tortoise & sulcata tortoise & Russian tortoise & African spurred tortoise & Greek tortoise & Hermann's tortoise & marginated tortoise & pancake tortoise & Indian star tortoise",
+            "Leopard Tortoise & Red-footed Tortoise & Greek Tortoise & Russian Tortoise & Sulcata Tortoise & Aldabra Tortoise & Indian Star Tortoise & African Spurred Tortoise & Pancake Tortoise & Desert Tortoise",
+            "sulcata tortoise & red-footed tortoise & leopard tortoise & Russian tortoise & African spurred tortoise & Indian star tortoise & pancake tortoise & Hermann's tortoise & Greek tortoise & hinged tortoise"
+        ]
+    },
+    "17": {
+        "node_name": "whiteboard",
+        "parent_names": [
+            "Office supplies & School supplies & Writing tools",
+            "furniture & office supplies & educational equipment",
+            "office supplies & school supplies & stationery"
+        ],
+        "child_names": [
+            "magnetic whiteboard & portable whiteboard & glass whiteboard & interactive whiteboard & wall-mounted whiteboard & mobile whiteboard & sliding whiteboard & foldable whiteboard & flip chart whiteboard & dry erase whiteboard",
+            "magnetic whiteboard & portable whiteboard & wall-mounted whiteboard & glass whiteboard & interactive whiteboard & mobile whiteboard & flip chart whiteboard & small whiteboard & large whiteboard & student whiteboard",
+            "magnetic whiteboard & mobile whiteboard & glass whiteboard & interactive whiteboard & porcelain whiteboard & melamine whiteboard & wall-mounted whiteboard & foldable whiteboard & double-sided whiteboard & framed whiteboard"
+        ]
+    },
+    "18": {
+        "node_name": "chalk",
+        "parent_names": [
+            "school supplies & art supplies & writing instruments",
+            "Writing utensils & office supplies & art supplies",
+            "Art supplies & Writing tools & Educational materials"
+        ],
+        "child_names": [
+            "white chalk & colored chalk & dustless chalk & sidewalk chalk & jumbo chalk & liquid chalk & tailors chalk & blackboard chalk & artist chalk & school chalk",
+            "white chalk & colored chalk & dustless chalk & sidewalk chalk & tailor's chalk & liquid chalk & chalk marker & blackboard chalk & fluorescent chalk & jumbo chalk",
+            "white chalk & colored chalk & dustless chalk & sidewalk chalk & liquid chalk & tailor's chalk & blackboard chalk & pastel chalk & fluorescent chalk & magnetic chalk"
+        ]
+    },
+    "19": {
+        "node_name": "cider vinegar",
+        "parent_names": [
+            "food & condiments & beverages",
+            "food & condiment & vinegar",
+            "food & condiments & beverages"
+        ],
+        "child_names": [
+            "apple cider vinegar & white vinegar & balsamic vinegar & red wine vinegar & rice vinegar & malt vinegar & champagne vinegar & sherry vinegar & raspberry vinegar & black vinegar",
+            "apple cider vinegar & white wine vinegar & balsamic vinegar & rice vinegar & red wine vinegar & champagne vinegar & malt vinegar & sherry vinegar & raspberry vinegar & coconut vinegar",
+            "apple cider vinegar & white vinegar & red wine vinegar & balsamic vinegar & rice vinegar & champagne vinegar & malt vinegar & sherry vinegar & raspberry vinegar & coconut vinegar"
+        ]
+    },
+    "20": {
+        "node_name": "lantern",
+        "parent_names": [
+            "lighting & outdoor equipment & home decor",
+            "lighting & outdoor equipment & home decor",
+            "Lighting & Camping equipment & Decor"
+        ],
+        "child_names": [
+            "hurricane lantern & paper lantern & camping lantern & hanging lantern & oil lantern & solar lantern & LED lantern & vintage lantern & Moroccan lantern & Chinese lantern",
+            "hurricane lantern & paper lantern & camping lantern & Chinese lantern & oil lantern & electric lantern & LED lantern & solar lantern & decorative lantern & hanging lantern",
+            "Chinese lantern & camping lantern & paper lantern & outdoor lantern & hanging lantern & decorative lantern & Moroccan lantern & solar lantern & LED lantern & vintage lantern"
+        ]
+    },
+    "21": {
+        "node_name": "bannock",
+        "parent_names": [
+            "food & bread & baked goods",
+            "food & bread & pastry",
+            "food & bread & pastry"
+        ],
+        "child_names": [
+            "plain bannock & blueberry bannock & cinnamon bannock & chocolate chip bannock & apple bannock & pumpkin bannock & cheese bannock & cranberry bannock & maple bannock & raisin bannock",
+            "Traditional bannock, sweet bannock, savory bannock, blueberry bannock, cranberry bannock, maple bannock, honey bannock, cinnamon bannock, cheese bannock, chocolate chip bannock",
+            "Traditional bannock, Blueberry bannock, Cranberry bannock, Chocolate chip bannock, Cinnamon sugar bannock, Maple syrup bannock, Savory herb bannock, Pumpkin spice bannock, Apple cinnamon bannock, Lemon poppy seed bannock"
+        ]
+    },
+    "22": {
+        "node_name": "convenience store",
+        "parent_names": [
+            "Retail & Food & Small Business",
+            "food & retail & services",
+            "food & retail & services"
+        ],
+        "child_names": [
+            " Corner store& Mini-mart& Bodega& Neighborhood store& Gas station store& Mom and pop shop& Newsagent& Food mart& Grocer& Market",
+            "Mini Mart & Corner Store & Bodega & Neighborhood Market & Quick Stop & Mom and Pop Shop & Gas Station Store & Party Store & Newsstand & Drugstore",
+            "bodega & corner store & mini mart & corner shop & neighborhood store & mom-and-pop shop & party store & newsstand & deli & market"
+        ]
+    },
+    "23": {
+        "node_name": "persimmon",
+        "parent_names": [
+            "fruit & food & plant",
+            "Food & Fruit & Edible",
+            "fruit & food & plant"
+        ],
+        "child_names": [
+            "Fuyu persimmon & Hachiya persimmon & American persimmon & Korean persimmon & Indian persimmon & Diospyros virginiana & Black persimmon & Mabolo persimmon & Chocolate persimmon & Japanese persimmon",
+            "Fuyu persimmon & Hachiya persimmon & Tanenashi persimmon & Izu persimmon & Gosho persimmon & Hyakume persimmon & Saijo persimmon & Maru persimmon & Nishimura Wase persimmon & Chocolate persimmon",
+            "Fuyu persimmon & Hachiya persimmon & Saijo persimmon & Tanenashi persimmon & Gosho persimmon & Maru persimmon & Nagamaru persimmon & Triumph persimmon & Rosseyanka persimmon & Chocolate persimmon"
+        ]
+    },
+    "24": {
+        "node_name": "lifejacket",
+        "parent_names": [
+            "Safety equipment & Water sports gear & Personal protective equipment",
+            "Clothing & Safety Equipment & Water Sports",
+            "Clothing & Safety Equipment & Outdoor Gear"
+        ],
+        "child_names": [
+            "inflatable lifejacket & foam lifejacket & automatic lifejacket & manual lifejacket & child lifejacket & adult lifejacket & fishing lifejacket & sailing lifejacket & kayaking lifejacket & snorkeling lifejacket",
+            "inflatable lifejacket & foam lifejacket & automatic lifejacket & manual lifejacket & child lifejacket & adult lifejacket & pet lifejacket & fishing lifejacket & sailing lifejacket & kayaking lifejacket",
+            "Foam lifejacket & Inflatable lifejacket & Child lifejacket & Adult lifejacket & Pet lifejacket & Safety lifejacket & Sailing lifejacket & Watersport lifejacket & Fishing lifejacket & Kayaking lifejacket"
+        ]
+    },
+    "25": {
+        "node_name": "squid",
+        "parent_names": [
+            "Aquatic creatures & Seafood & Invertebrates",
+            "Marine animals & Invertebrates & Seafood",
+            "Marine Creatures & Seafood & Invertebrates"
+        ],
+        "child_names": [
+            "giant squid & vampire squid & firefly squid & arrow squid & bobtail squid & glass squid & pygmy squid & reef squid & market squid & diamond squid",
+            "giant squid & vampire squid & pygmy squid & firefly squid & bobtail squid & glass squid & blanket octopus & arrow squid & market squid & whip-lash squid",
+            "giant squid&firefly squid&market squid&dwarf squid&glass squid&arrow squid&vampire squid&squid worm&squid mucus&squid ink"
+        ]
+    },
+    "26": {
+        "node_name": "watermelon",
+        "parent_names": [
+            "Fruit & Food & Agriculture",
+            "Fruit & Food & Plant",
+            "Food & Fruit & Plant"
+        ],
+        "child_names": [
+            "seedless watermelon & mini watermelon & yellow watermelon & pink watermelon & black watermelon & striped watermelon & sugar baby watermelon & icebox watermelon & crimson sweet watermelon & moon and stars watermelon",
+            "seedless watermelon & mini watermelon & yellow watermelon & organic watermelon & sugar baby watermelon & crimson sweet watermelon & icebox watermelon & moon and stars watermelon & jubilee watermelon & charleston gray watermelon",
+            "Crimson Sweet Watermelon & Sugar Baby Watermelon & Jubilee Watermelon & Charleston Gray Watermelon & Moon and Stars Watermelon & Black Diamond Watermelon & Yellow Doll Watermelon & Orangeglo Watermelon & Golden Midget Watermelon & Tiger Baby Watermelon"
+        ]
+    },
+    "27": {
+        "node_name": "wing tip",
+        "parent_names": [
+            "Aviation & Birds & Fashion",
+            "Aviation & Animal Anatomy & Fashion",
+            "Aviation & Bird Anatomy & Fashion"
+        ],
+        "child_names": [
+            "feather & baton & drogue & sharkfin & raked & blended & square & swept & rounded & upswept",
+            "feather & rounded & pointed & upturned & downturned & hooked & flared & narrow & broad & elongated",
+            "feather& rounded& pointed& upturned& hooked& squared& flared& swept-back& drooped& clipped"
+        ]
+    },
+    "28": {
+        "node_name": "sunflower",
+        "parent_names": [
+            "Plants & Flowers & Nature",
+            "Plants & Flowers & Nature",
+            "plants & flowers & nature"
+        ],
+        "child_names": [
+            "Giant sunflower & Dwarf sunflower & Mexican sunflower & Red sunflower & Teddy bear sunflower & Lemon queen sunflower & Autumn beauty sunflower & Velvet queen sunflower & Chocolate cherry sunflower & Evening sun sunflower",
+            "red sunflower & yellow sunflower & orange sunflower & white sunflower & pink sunflower & purple sunflower & blue sunflower & black sunflower & green sunflower & multicolored sunflower",
+            "giant sunflower & dwarf sunflower & teddy bear sunflower & lemon queen sunflower & autumn beauty sunflower & velvet queen sunflower & evening sun sunflower & moulin rouge sunflower & chianti hybrid sunflower & chocolate cherry sunflower"
+        ]
+    },
+    "29": {
+        "node_name": "shin guard",
+        "parent_names": [
+            "sports equipment & protective gear & body armor",
+            "Sports equipment & Protective gear & Body armor",
+            "Sports & Protective gear & Equipment"
+        ],
+        "child_names": [
+            "ankle guard & knee guard & soccer shin guard & hockey shin guard & baseball shin guard & lacrosse shin guard & martial arts shin guard & rugby shin guard & football shin guard & volleyball shin guard",
+            "ankle guard & knee guard & soccer shin guard & field hockey shin guard & rugby shin guard & lacrosse shin guard & basketball shin guard & martial arts shin guard & baseball shin guard & ice hockey shin guard",
+            "ankle guard & soccer shin guard & field hockey shin guard & cricket shin guard & kickboxing shin guard & muay thai shin guard & taekwondo shin guard & martial arts shin guard & lacrosse shin guard & rugby shin guard"
+        ]
+    },
+    "30": {
+        "node_name": "baby shoe",
+        "parent_names": [
+            "clothing & footwear & baby products",
+            "footwear & baby products & fashion",
+            "footwear & clothing & baby products"
+        ],
+        "child_names": [
+            "sneaker & boot & sandal & moccasin & crib shoe & slip-on & Mary Jane & loafer & athletic shoe & high-top",
+            "sneaker & bootie & Mary Jane & moccasin & sandal & ballet flat & high top & slip-on & crib shoe & loafer",
+            "sneaker & bootie & sandal & moccasin & mary jane & crib shoe & slipper & ballet flat & high top & loafer"
+        ]
+    },
+    "31": {
+        "node_name": "muffin",
+        "parent_names": [
+            "Food & Baked Goods & Desserts",
+            "Food & Baked Goods & Dessert",
+            "Food & Baked Goods & Pastry"
+        ],
+        "child_names": [
+            "blueberry muffin & chocolate chip muffin & banana nut muffin & lemon poppy seed muffin & pumpkin muffin & cranberry muffin & apple cinnamon muffin & double chocolate muffin & raspberry muffin & almond muffin",
+            "blueberry muffin & chocolate chip muffin & banana muffin & cinnamon muffin & lemon poppy seed muffin & pumpkin muffin & cranberry muffin & apple cinnamon muffin & double chocolate muffin & raspberry muffin",
+            "blueberry muffin & chocolate chip muffin & banana nut muffin & lemon poppy seed muffin & pumpkin muffin & cranberry orange muffin & apple cinnamon muffin & double chocolate muffin & raspberry muffin & almond muffin"
+        ]
+    },
+    "32": {
+        "node_name": "mixer",
+        "parent_names": [
+            "kitchen appliances & food preparation tools & electric devices",
+            "kitchen appliances & cooking utensils & electrical appliances",
+            "Kitchen appliances & Food preparation tools & Electric appliances"
+        ],
+        "child_names": [
+            "hand mixer & stand mixer & immersion blender & blender & food processor & electric whisk & dough mixer & juicer & milk frother & spice grinder",
+            "hand mixer & stand mixer & immersion blender & food processor & blender & juicer & milkshake maker & whisk & electric beater & dough mixer",
+            "Hand mixer & Stand mixer & Immersion blender & Countertop blender & Food processor & Handheld milk frother & Cocktail shaker & Electric whisk & Juice extractor & Grain mill"
+        ]
+    },
+    "33": {
+        "node_name": "bronze sculpture",
+        "parent_names": [
+            "art & metalwork & sculpture",
+            "Art& Sculpture& Metalwork",
+            "Art & Metalwork & Sculpture"
+        ],
+        "child_names": [
+            "Abstract bronze sculpture & Figurative bronze sculpture & Animal bronze sculpture & Bust bronze sculpture & Contemporary bronze sculpture & Classical bronze sculpture & Modern bronze sculpture & Outdoor bronze sculpture & Mythological bronze sculpture & Portrait bronze sculpture",
+            " Abstract bronze sculpture& Figurative bronze sculpture& Animal-themed bronze sculpture& Mythological bronze sculpture& Contemporary bronze sculpture& Nature-inspired bronze sculpture& Human form bronze sculpture& Architectural bronze sculpture& Religious bronze sculpture& Symbolic bronze sculpture",
+            " Figurative bronze sculpture& Abstract bronze sculpture& Wildlife bronze sculpture& Mythological bronze sculpture& Contemporary bronze sculpture& Classical bronze sculpture& Religious bronze sculpture& Portrait bronze sculpture& Animal bronze sculpture& Monumental bronze sculpture"
+        ]
+    },
+    "34": {
+        "node_name": "euphonium",
+        "parent_names": [
+            "Musical Instruments & Brass Instruments & Wind Instruments",
+            "Musical Instrument & Brass Instrument & Wind Instrument",
+            "Musical instruments & Brass instruments & Wind instruments"
+        ],
+        "child_names": [
+            "bass euphonium & alto euphonium & compensating euphonium & non-compensating euphonium & marching euphonium & student euphonium & professional euphonium & valve euphonium & rotary euphonium & double-bell euphonium",
+            "Euphonium & Marching Euphonium & Compensating Euphonium & Baritone Euphonium & Double Bore Euphonium & 4-valve Euphonium & 3-valve Euphonium & 6-valve Euphonium & Tenor Euphonium & Soprano Euphonium",
+            "Classic euphonium & Compensating euphonium & Non-compensating euphonium & Marching euphonium & Double-bell euphonium & Baritone euphonium & Jazz euphonium & Soprano euphonium & Tenor euphonium & Bass euphonium"
+        ]
+    },
+    "35": {
+        "node_name": "skyscraper",
+        "parent_names": [
+            "Architecture & Buildings & Urban Development",
+            "Architecture & Buildings & Urban Development",
+            "Architecture & Buildings & Urban development"
+        ],
+        "child_names": [
+            "Glass skyscraper & Steel skyscraper & Residential skyscraper & Office skyscraper & Mixed-use skyscraper & Art Deco skyscraper & Modern skyscraper & Skyscraper with observation deck & Sustainable skyscraper & Supertall skyscraper",
+            "Skyscraper & Skyscraper & Skyscraper & Skyscraper & Skyscraper & Skyscraper & Skyscraper & Skyscraper & Skyscraper & Skyscraper",
+            "Bungalow & Villa & Cottage & High-rise & Mansion & Tower & Office Building & Apartment Complex & Condominium & Hotel"
+        ]
+    },
+    "36": {
+        "node_name": "drinking straw",
+        "parent_names": [
+            "Kitchenware & Disposable products & Plastic items",
+            "Kitchen supplies & Food service equipment & Disposable products",
+            "Kitchen & Dining Supplies & Disposable Products"
+        ],
+        "child_names": [
+            "plastic straw & paper straw & metal straw & silicone straw & glass straw & bamboo straw & wheat straw & rye straw & stainless steel straw & compostable straw",
+            "plastic straw & paper straw & metal straw & bamboo straw & glass straw & silicone straw & stainless steel straw & reusable straw & collapsible straw & telescopic straw",
+            "plastic straw & paper straw & metal straw & silicone straw & glass straw & bamboo straw & wheat straw & stainless steel straw & reusable straw & biodegradable straw"
+        ]
+    },
+    "37": {
+        "node_name": "popover",
+        "parent_names": [
+            "clothing & accessories & fashion",
+            "Clothing & Fashion accessories & Baked goods",
+            "Clothing & Fashion & Accessories"
+        ],
+        "child_names": [
+            "classic popover&popover hoodie&popover sweater&popover cardigan&popover dress&popover top&popover tunic&popover jacket&popover blouse&popover coat",
+            "Classic Popover& Button Popover& Modal Popover& Tooltip Popover& Image Popover& Video Popover& Form Popover& Menu Popover& Info Popover& Notification Popover",
+            "popover & button popover & image popover & text popover & video popover & form popover & tooltip popover & card popover & menu popover & notification popover"
+        ]
+    },
+    "38": {
+        "node_name": "segway",
+        "parent_names": [
+            "Transportation & Personal Mobility & Recreational Activities",
+            "Transportation & Personal Mobility & Electric Vehicles",
+            "Transportation & Personal Mobility & Electric Vehicles"
+        ],
+        "child_names": [
+            "electric scooter & self-balancing scooter & hoverboard & personal transporter & two-wheeled vehicle & mobility device & motorized skateboard & electric transport device & portable transportation & electric mobility vehicle",
+            "electric segway & self-balancing segway & off-road segway & city segway & foldable segway & two-wheel segway & three-wheel segway & standing segway & seated segway & all-terrain segway",
+            "electric segway & off-road segway & self-balancing segway & foldable segway & lightweight segway & all-terrain segway & compact segway & dual-motor segway & long-range segway & urban segway"
+        ]
+    },
+    "39": {
+        "node_name": "sun hat",
+        "parent_names": [
+            "clothing & accessories & headwear",
+            "Fashion & Accessories & Headwear",
+            "clothing & accessories & headwear"
+        ],
+        "child_names": [
+            "floppy hat & bucket hat & wide brim hat & straw hat & fedora hat & visor hat & baseball hat & beanie hat & cowboy hat & beret hat",
+            "straw hat & bucket hat & floppy hat & wide brim hat & fedora hat & visor hat & beanie hat & beret hat & newsboy hat & baseball hat",
+            "straw hat & floppy hat & bucket hat & fedora hat & wide brim hat & visor hat & cap hat & boater hat & newsboy hat & beanie hat"
+        ]
+    },
+    "40": {
+        "node_name": "harbor seal",
+        "parent_names": [
+            "Mammals & Marine animals & Carnivores",
+            "Mammals & Marine animals & Carnivores",
+            "Marine life & Mammals & Seals"
+        ],
+        "child_names": [
+            "harbor seal & spotted seal & ringed seal & bearded seal & ribbon seal & Caspian seal & Baikal seal & leopard seal & Weddell seal & elephant seal",
+            "harbor seal & spotted seal & ringed seal & bearded seal & ribbon seal & Caspian seal & Baikal seal & Harp seal & Weddell seal & leopard seal",
+            "harbor seal & spotted seal & ringed seal & bearded seal & ribbon seal & leopard seal & Weddell seal & elephant seal & Mediterranean monk seal & Caspian seal"
+        ]
+    },
+    "41": {
+        "node_name": "cat furniture",
+        "parent_names": [
+            "Furniture & Pet supplies & Home decor",
+            "Home & Pets & Furniture",
+            "pet supplies & home decor & furniture"
+        ],
+        "child_names": [
+            "Scratching post & Cat tree & Cat bed & Cat tunnel & Cat hammock & Cat shelf & Cat condo & Cat perch & Cat ladder & Cat wall-mounted shelves",
+            "scratching post & cat tree & cat bed & cat hammock & cat shelf & cat tunnel & cat condo & cat tower & cat perch & cat cave",
+            "Scratching post & Cat tree & Cat bed & Cat hammock & Cat shelf & Cat condo & Cat tower & Cat tunnel & Cat perch & Cat playground"
+        ]
+    },
+    "42": {
+        "node_name": "fedora",
+        "parent_names": [
+            "hats & headwear & fashion",
+            "Hats & Fashion Accessories & Headwear",
+            "Fashion & Accessories & Headwear"
+        ],
+        "child_names": [
+            "trilby & boater & pork pie & homburg & bowler & newsboy & gambler & top hat & panama & bucket hat",
+            "trilby & pork pie & homburg & bowler & panama & gambler & top hat & cowboy & newsboy & bucket",
+            "wide brim fedora & straw fedora & wool fedora & trilby fedora & velvet fedora & leather fedora & pork pie fedora & Panama fedora & bucket fedora & cloche fedora"
+        ]
+    },
+    "43": {
+        "node_name": "kitchen knife",
+        "parent_names": [
+            "Cooking utensils & Cutlery & Kitchen tools",
+            "Cooking utensil & Cutlery & Kitchenware",
+            "Cutlery & Cooking utensils & Kitchen tools"
+        ],
+        "child_names": [
+            "chef knife & paring knife & bread knife & boning knife & slicing knife & cleaver & Santoku knife & utility knife & steak knife & fillet knife",
+            "chef knife & paring knife & serrated knife & bread knife & utility knife & boning knife & santoku knife & carving knife & cleaver knife & nakiri knife",
+            "paring knife & chef's knife & bread knife & utility knife & boning knife & carving knife & santoku knife & cleaver & steak knife & fillet knife"
+        ]
+    },
+    "44": {
+        "node_name": "pulley",
+        "parent_names": [
+            "mechanical & engineering & physics",
+            "Mechanical devices & Simple machines & Engineering components",
+            "Mechanical devices & Simple machines & Industrial equipment"
+        ],
+        "child_names": [
+            "Fixed pulley & Movable pulley & Compound pulley & Block and tackle pulley & Chain pulley & Rope pulley & Snatch pulley & Idler pulley & Timing pulley & V-belt pulley.",
+            "Single sheave pulley & Double sheave pulley & Fixed pulley & Moveable pulley & Block and tackle pulley & Snatch block pulley & Caged ball bearing pulley & Swivel eye pulley & Swivel hook pulley & Swivel shackle pulley",
+            "Fixed Pulley & Movable Pulley & Compound Pulley & Rope and Pulley System & Block and Tackle Pulley & Snatch Block Pulley & Chain Pulley & Belt Pulley & Grooved Pulley & Clutch Pulley"
+        ]
+    },
+    "45": {
+        "node_name": "walking shoe",
+        "parent_names": [
+            "footwear & athletic gear & fashion accessories",
+            "footwear & athletic gear & fashion",
+            "footwear & athletic gear & fashion"
+        ],
+        "child_names": [
+            "running shoe & hiking shoe & tennis shoe & basketball shoe & cross-training shoe & soccer shoe & golf shoe & cycling shoe & skate shoe & casual shoe",
+            "athletic shoe & running shoe & hiking shoe & trail shoe & casual shoe & slip-on shoe & sneaker & trainer & sport shoe & walking sandal",
+            "walking shoe & running shoe & hiking shoe & tennis shoe & basketball shoe & dress shoe & casual shoe & slip-on shoe & athletic shoe & work shoe"
+        ]
+    },
+    "46": {
+        "node_name": "fancy dress",
+        "parent_names": [
+            "Costumes & Clothing & Fashion",
+            "Clothing & Costumes & Accessories",
+            "clothing & costumes & accessories"
+        ],
+        "child_names": [
+            "Vampire&Princess&Superhero&Witch&Pirate&Zombie&Animal&Fantasy&Historical&Occupation",
+            "pirate&princess&superhero&animal&vampire&witch&ghost&clown&doctor&ninja",
+            "pirate costume & superhero costume & princess costume & clown costume & animal costume & vampire costume & witch costume & zombie costume & fairy costume & astronaut costume"
+        ]
+    },
+    "47": {
+        "node_name": "clam",
+        "parent_names": [
+            "Animals & Seafood & Shells",
+            "food & marine life & seafood",
+            "animals & seafood & mollusks"
+        ],
+        "child_names": [
+            "clamshell & giant clam & razor clam & geoduck clam & quahog clam & surf clam & cockle clam & soft-shell clam & hard-shell clam & butter clam",
+            "quahog&razor clam&geoduck&ark shell&mussel&cockle&scallop&oyster&abalone&clam",
+            "hard-shell clam & razor clam & geoduck clam & littleneck clam & cherrystone clam & quahog clam & surf clam & soft-shell clam & razor clam & cockle clam"
+        ]
+    },
+    "48": {
+        "node_name": "hand dryer",
+        "parent_names": [
+            "bathroom appliances & electric devices & hygiene products",
+            "bathroom equipment & electrical appliances & hygiene products",
+            "Bathroom appliances & Electric devices & Hygiene equipment"
+        ],
+        "child_names": [
+            "hand dryer & electric hand dryer & automatic hand dryer & wall-mounted hand dryer & push button hand dryer & sensor hand dryer & high-speed hand dryer & compact hand dryer & commercial hand dryer & energy-efficient hand dryer",
+            "Automatic hand dryer & Push button hand dryer & High-speed hand dryer & Jet hand dryer & Blade hand dryer & Wall-mounted hand dryer & Compact hand dryer & Energy-efficient hand dryer & ADA-compliant hand dryer & Commercial hand dryer",
+            "Automatic hand dryer & Push button hand dryer & High speed hand dryer & Wall mounted hand dryer & Jet hand dryer & Mini hand dryer & Portable hand dryer & Electric hand dryer & Air blade hand dryer & Commercial hand dryer"
+        ]
+    },
+    "49": {
+        "node_name": "mozzarella",
+        "parent_names": [
+            "Dairy & Cheese & Food",
+            "Cheese & Dairy & Food",
+            "Dairy products & Cheese & Italian cuisine"
+        ],
+        "child_names": [
+            "fresh mozzarella & smoked mozzarella & buffalo mozzarella & burrata & mozzarella di bufala campana & mozzarella fior di latte & low-moisture mozzarella & string cheese & mozzarella sticks & vegan mozzarella",
+            "fresh mozzarella & buffalo mozzarella & smoked mozzarella & burrata mozzarella & bocconcini mozzarella & fior di latte mozzarella & scamorza mozzarella & stracciatella mozzarella & provolone mozzarella & caciocavallo mozzarella",
+            "mozzarella & buffalo mozzarella & smoked mozzarella & fresh mozzarella & burrata & mozzarella di bufala & mozzarella balls & mozzarella sticks & mozzarella log & mozzarella cheese"
+        ]
+    },
+    "50": {
+        "node_name": "peccary",
+        "parent_names": [
+            "mammal & animal & wildlife",
+            "mammal & animal & living being",
+            "mammal & animal & creature"
+        ],
+        "child_names": [
+            "white-lipped peccary & collared peccary & Chacoan peccary & Dall's porcupine & Brazilian porcupine & yellow-spined porcupine & Mexican hairy dwarf porcupine & stump-tailed porcupine & North American porcupine & long-tailed porcupine",
+            "Collared peccary & Chacoan peccary & White-lipped peccary & Dicotyles tajacu & Tayassu pecari & Catagonus wagneri & Platygonus compressus & Pecari maximus & Pecari tajacu & Tayassu tajacu",
+            "collared peccary & white-lipped peccary & chacoan peccary & giant peccary & tayassu tajacu & tayassu pecari & tayassu albirostris & dycoteles torquatus & catagonus wagneri & pliochoerus"
+        ]
+    },
+    "51": {
+        "node_name": "spinning rod",
+        "parent_names": [
+            "Fishing equipment & Sporting goods & Outdoor gear",
+            "Fishing & Sporting Goods & Outdoor Equipment",
+            "Recreation & Fishing & Sporting Goods"
+        ],
+        "child_names": [
+            "spinning rod & casting rod & fly fishing rod & surf fishing rod & ice fishing rod & telescopic fishing rod & travel fishing rod & freshwater fishing rod & saltwater fishing rod & ultralight fishing rod",
+            "spinning rod & telescopic spinning rod & ultralight spinning rod & medium spinning rod & heavy spinning rod & travel spinning rod & saltwater spinning rod & freshwater spinning rod & carbon fiber spinning rod & fiberglass spinning rod",
+            "casting rod & fly rod & surf rod & telescopic rod & ice fishing rod & ultralight rod & baitcasting rod & trolling rod & travel rod & jigging rod"
+        ]
+    },
+    "52": {
+        "node_name": "tree house",
+        "parent_names": [
+            "Shelter & Architecture & Play",
+            "architecture & play structures & outdoor living",
+            "Architecture & Recreation & Nature"
+        ],
+        "child_names": [
+            "Oak tree house & Pine tree house & Maple tree house & Birch tree house & Cedar tree house & Redwood tree house & Willow tree house & Aspen tree house & Cherry tree house & Spruce tree house",
+            "oak tree house & pine tree house & willow tree house & maple tree house & birch tree house & cedar tree house & fir tree house & cherry tree house & walnut tree house & sycamore tree house",
+            "wooden tree house & tree house with a slide & tree house with a swing & tree house with a ladder & modern tree house & rustic tree house & tree house with a balcony & tree house with multiple levels & tree house with a rope bridge & tree house with a secret room"
+        ]
+    },
+    "53": {
+        "node_name": "khimar",
+        "parent_names": [
+            "Clothing & Accessories & Islamic Wear",
+            "Clothing & Accessories & Islamic Wear",
+            "Clothing & Islamic wear & Headwear"
+        ],
+        "child_names": [
+            "hijab & niqab & chador & abaya & shayla & jilbab & burqa & al-amira & shawl & dupatta",
+            "satin khimar & chiffon khimar & velvet khimar & floral khimar & embroidered khimar & lace khimar & sequined khimar & printed khimar & fringe khimar & tasseled khimar",
+            "hijab & shayla & niqab & chador & al-amira & amira hijab & jilbab & abaya & burqa & headscarf"
+        ]
+    },
+    "54": {
+        "node_name": "earrings",
+        "parent_names": [
+            "Accessories & Jewelry & Fashion",
+            "Jewelry & Accessories & Fashion",
+            "jewelry & accessories & fashion"
+        ],
+        "child_names": [
+            "hoop earrings & stud earrings & dangle earrings & chandelier earrings & drop earrings & threader earrings & huggie earrings & clip-on earrings & cuff earrings & tassel earrings",
+            "hoop earrings & stud earrings & dangle earrings & drop earrings & chandelier earrings & huggie earrings & threader earrings & clip-on earrings & tassel earrings & ear cuffs",
+            "hoop earrings & stud earrings & drop earrings & chandelier earrings & dangle earrings & huggie earrings & threader earrings & tassel earrings & ear cuffs & clip-on earrings"
+        ]
+    },
+    "55": {
+        "node_name": "power plugs and sockets",
+        "parent_names": [
+            "electronics & home appliances & electrical equipment",
+            "electronics & electrical appliances & home improvement",
+            "electrical equipment & home appliances & technology"
+        ],
+        "child_names": [
+            "UK power plugs & US power plugs & European power plugs & Australian power plugs & Brazilian power plugs & Indian power plugs & South African power plugs & Swiss power plugs & Japanese power plugs & Chinese power plugs",
+            "Type A&Type B&Type C&Type D&Type E&Type F&Type G&Type H&Type I&Type J",
+            "UK power plugs & US power plugs & European power plugs & Australian power plugs & Indian power plugs & South African power plugs & Brazilian power plugs & Japanese power plugs & Chinese power plugs & Swiss power plugs"
+        ]
+    },
+    "56": {
+        "node_name": "waste container",
+        "parent_names": [
+            "Trash & Recycling & Storage",
+            "Recycling & Trash & Storage",
+            "Trash & Recycling & Storage"
+        ],
+        "child_names": [
+            "Plastic waste container & Metal waste container & Glass waste container & Paper waste container & Cardboard waste container & Organic waste container & Hazardous waste container & Electronic waste container & Medical waste container & Recycling waste container",
+            "trash can & dumpster & recycling bin & garbage bin & rubbish bin & waste basket & trash bin & waste bin & rubbish container & garbage container",
+            "plastic waste container & metal waste container & cardboard waste container & glass waste container & wood waste container & ceramic waste container & fabric waste container & paper waste container & electronic waste container & organic waste container"
+        ]
+    },
+    "57": {
+        "node_name": "blender",
+        "parent_names": [
+            "kitchen appliances & cooking tools & small appliances",
+            "kitchen appliance&cooking equipment&household appliance",
+            "Appliances & Kitchenware & Electric tools"
+        ],
+        "child_names": [
+            "hand blender & immersion blender & countertop blender & personal blender & bullet blender & smoothie blender & high-speed blender & stick blender & mini blender & portable blender",
+            "hand blender & immersion blender & countertop blender & personal blender & bullet blender & smoothie blender & high-speed blender & mini blender & portable blender & electric blender",
+            "immersion blender & countertop blender & hand blender & personal blender & smoothie blender & high-speed blender & professional blender & bullet blender & mini blender & commercial blender"
+        ]
+    },
+    "58": {
+        "node_name": "briefcase",
+        "parent_names": [
+            "luggage & bags & accessories",
+            "bags & luggage & accessories",
+            "bags & luggage & accessories"
+        ],
+        "child_names": [
+            "leather briefcase & hardshell briefcase & laptop briefcase & rolling briefcase & expandable briefcase & soft-sided briefcase & attache briefcase & messenger briefcase & portfolio briefcase & nylon briefcase",
+            "leather briefcase & nylon briefcase & rolling briefcase & laptop briefcase & messenger briefcase & executive briefcase & slim briefcase & hardshell briefcase & designer briefcase & vintage briefcase",
+            "leather briefcase & laptop briefcase & hardshell briefcase & rolling briefcase & expandable briefcase & portfolio briefcase & nylon briefcase & attache briefcase & messenger briefcase & slim briefcase"
+        ]
+    },
+    "59": {
+        "node_name": "soap dish",
+        "parent_names": [
+            "bathroom accessories & household items & storage",
+            "Bathroom accessories & Household items & Storage solutions",
+            "Bathroom accessories & Home organization & Household items"
+        ],
+        "child_names": [
+            "plastic soap dish & ceramic soap dish & glass soap dish & wooden soap dish & metal soap dish & marble soap dish & bamboo soap dish & porcelain soap dish & stone soap dish & resin soap dish",
+            "ceramic soap dish & wooden soap dish & plastic soap dish & metal soap dish & glass soap dish & marble soap dish & porcelain soap dish & bamboo soap dish & stainless steel soap dish & silicone soap dish",
+            "ceramic soap dish & wooden soap dish & stainless steel soap dish & plastic soap dish & glass soap dish & marble soap dish & bamboo soap dish & porcelain soap dish & resin soap dish & acrylic soap dish"
+        ]
+    },
+    "60": {
+        "node_name": "hot air balloon",
+        "parent_names": [
+            "transportation & recreational activity & aerial vehicle",
+            "Transportation & Recreation & Tourism",
+            "Transportation & Recreation & Aviation"
+        ],
+        "child_names": [
+            "Hot air balloon & Vintage hot air balloon & Rainbow hot air balloon & Animal-shaped hot air balloon & Giant hot air balloon & Festive hot air balloon & Custom-designed hot air balloon & Tethered hot air balloon & Remote-controlled hot air balloon & Advertising hot air balloon",
+            "Yellow hot air balloon & Red hot air balloon & Blue hot air balloon & Green hot air balloon & Purple hot air balloon & Pink hot air balloon & Orange hot air balloon & White hot air balloon & Black hot air balloon & Rainbow hot air balloon",
+            "hot air balloon & vintage hot air balloon & colorful hot air balloon & giant hot air balloon & traditional hot air balloon & festival hot air balloon & themed hot air balloon & animal-shaped hot air balloon & romantic hot air balloon & custom-designed hot air balloon"
+        ]
+    },
+    "61": {
+        "node_name": "windmill",
+        "parent_names": [
+            "Energy&Renewable Energy&Engineering",
+            "energy & agriculture & engineering",
+            "Energy&Renewable Energy&Architecture"
+        ],
+        "child_names": [
+            "Wooden windmill & Metal windmill & Miniature windmill & Garden windmill & Decorative windmill & Dutch windmill & Solar-powered windmill & Paper windmill & Plastic windmill & Toy windmill",
+            "Traditional windmill & Modern wind turbine & Water-pumping windmill & Tower mill & Post mill & Smock mill & Hollow-post mill & Cogging mill & Wind pump & Panemone",
+            "wooden windmill & metal windmill & decorative windmill & miniature windmill & garden windmill & farm windmill & traditional windmill & modern windmill & wind-powered windmill & solar-powered windmill"
+        ]
+    },
+    "62": {
+        "node_name": "street light",
+        "parent_names": [
+            "Infrastructure & Lighting & Urban",
+            "Infrastructure & Lighting & Urban",
+            "Infrastructure & Lighting & Public utilities"
+        ],
+        "child_names": [
+            "LED street light & solar street light & decorative street light & high mast street light & cobrahead street light & candelabra street light & post top street light & shoebox street light & wall pack street light & floodlight street light",
+            "LED street light & solar street light & traditional street light & decorative street light & smart street light & high mast street light & pedestrian street light & cobrahead street light & floodlight street light & candelabra street light",
+            "Incandescent street light & LED street light & Solar street light & High pressure sodium street light & Metal halide street light & Induction street light & Inductive-coupled plasma street light & Fluorescent street light & Compact fluorescent street light & Inductive discharge street light"
+        ]
+    },
+    "63": {
+        "node_name": "shotgun",
+        "parent_names": [
+            "Firearms & Weapons & Hunting equipment",
+            "firearm & weapon & hunting tool",
+            "weapons & firearms & hunting equipment"
+        ],
+        "child_names": [
+            "single barrel shotgun & double barrel shotgun & pump-action shotgun & bolt-action shotgun & lever-action shotgun & semi-automatic shotgun & break-action shotgun & sawed-off shotgun & over-under shotgun & side-by-side shotgun",
+            "pump-action shotgun & break-action shotgun & semi-automatic shotgun & bolt-action shotgun & double-barreled shotgun & lever-action shotgun & single-shot shotgun & sawed-off shotgun & over-under shotgun & side-by-side shotgun",
+            "pump-action shotgun & double-barreled shotgun & semi-automatic shotgun & bolt-action shotgun & lever-action shotgun & break-action shotgun & sawed-off shotgun & over-under shotgun & side-by-side shotgun & bullpup shotgun"
+        ]
+    },
+    "64": {
+        "node_name": "sports uniform",
+        "parent_names": [
+            "Athletic apparel & Team merchandise & Sports equipment",
+            "Sports & Clothing & Athletics",
+            "clothing & sports equipment & team merchandise"
+        ],
+        "child_names": [
+            "Football uniform & Basketball uniform & Soccer uniform & Baseball uniform & Tennis uniform & Volleyball uniform & Hockey uniform & Golf uniform & Rugby uniform & Cycling uniform",
+            "football uniform & basketball uniform & soccer uniform & baseball uniform & hockey uniform & tennis uniform & golf uniform & volleyball uniform & rugby uniform & cricket uniform",
+            "basketball uniform & soccer uniform & football uniform & baseball uniform & hockey uniform & tennis uniform & swimming uniform & rugby uniform & cycling uniform & volleyball uniform"
+        ]
+    },
+    "65": {
+        "node_name": "manometer",
+        "parent_names": [
+            "Measurement tools & Pressure devices & Instrumentation",
+            "Pressure measuring instruments & Mechanical instruments & Industrial equipment",
+            "Measurement tools & Pressure measuring devices & Industrial equipment"
+        ],
+        "child_names": [
+            "U-tube manometer & Inclined-tube manometer & Well-type manometer & Digital manometer & Bourdon tube manometer & Piston manometer & McLeod gauge & Capacitance manometer & Thermal anemometer & Differential pressure gauge",
+            "U-tube manometer & Inclined-tube manometer & Well-type manometer & Digital manometer & Bourdon tube manometer & Piston-type manometer & McLeod gauge & Capacitive manometer & Diaphragm-type manometer & Piezoresistive manometer",
+            "U-tube manometer & Inclined tube manometer & Well-type manometer & Bourdon tube manometer & Digital manometer & Differential pressure manometer & Absolute pressure manometer & Vacuum pressure manometer & Piston manometer & Fluid-filled manometer"
+        ]
+    },
+    "66": {
+        "node_name": "wood burning stove",
+        "parent_names": [
+            "Home appliances & Heating devices & Fireplaces",
+            "Home Appliances & Heating & Cooking",
+            "Home appliances & Heating equipment & Fireplaces"
+        ],
+        "child_names": [
+            "cast iron wood burning stove & steel wood burning stove & enamel wood burning stove & soapstone wood burning stove & ceramic wood burning stove & aluminum wood burning stove & cast aluminum wood burning stove & cast iron and steel wood burning stove & cast iron and enamel wood burning stove & cast iron and soapstone wood burning stove",
+            "wood burning stove & pellet stove & electric stove & gas stove & portable stove & camping stove & cookstove & fireplace stove & multi-fuel stove & vintage stove",
+            "cast iron wood burning stove & steel wood burning stove & enamel wood burning stove & soapstone wood burning stove & ceramic wood burning stove & double-sided wood burning stove & freestanding wood burning stove & insert wood burning stove & outdoor wood burning stove & pellet wood burning stove"
+        ]
+    },
+    "67": {
+        "node_name": "gnu",
+        "parent_names": [
+            "mammal & animal & living being",
+            "Animal&Software&GNU/Linux",
+            "Animal&Software&Brand"
+        ],
+        "child_names": [
+            "blue gnu & mountain gnu & baby gnu & dancing gnu & cartoon gnu & wild gnu & running gnu & sleeping gnu & happy gnu & majestic gnu",
+            "blue gnu & mountain gnu & baby gnu & wild gnu & albino gnu & striped gnu & black gnu & grazing gnu & running gnu & majestic gnu",
+            "blue gnu & mountain gnu & baby gnu & racing gnu & dancing gnu & striped gnu & giant gnu & flying gnu & magical gnu & sneaky gnu"
+        ]
+    },
+    "68": {
+        "node_name": "earphone",
+        "parent_names": [
+            "audio equipment & technology & personal accessories",
+            "electronics & audio devices & accessories",
+            "electronics & audio devices & accessories"
+        ],
+        "child_names": [
+            "In-ear earphones & On-ear earphones & Over-ear earphones & Wireless earphones & Bluetooth earphones & Noise-cancelling earphones & Sports earphones & Gaming earphones & Waterproof earphones & True wireless earphones",
+            "In-ear earphones & Over-ear earphones & Wireless earphones & Noise-canceling earphones & Bluetooth earphones & Gaming earphones & Sports earphones & True wireless earphones & Waterproof earphones & Bone conduction earphones",
+            "In-ear earphone & Over-ear earphone & Wireless earphone & Noise-canceling earphone & Bluetooth earphone & Sports earphone & Gaming earphone & Earbud earphone & Water-resistant earphone & True wireless earphone"
+        ]
+    },
+    "69": {
+        "node_name": "double hung window",
+        "parent_names": [
+            "Home Improvement & Architecture & Construction",
+            "Building materials & Home improvement & Architecture",
+            "building materials & architectural elements & home improvement"
+        ],
+        "child_names": [
+            "casement window & awning window & sliding window & bay window & picture window & fixed window & jalousie window & hopper window & transom window & skylight",
+            "double hung window & bay window & casement window & sliding window & awning window & picture window & arched window & transom window & jalousie window & hopper window",
+            "wooden double hung window & vinyl double hung window & aluminum double hung window & fiberglass double hung window & composite double hung window & casement double hung window & tilt-in double hung window & storm double hung window & bay/bow double hung window & single pane double hung window"
+        ]
+    },
+    "70": {
+        "node_name": "billboard",
+        "parent_names": [
+            "advertising & outdoor media & visual communication",
+            "Advertisement & Outdoor advertising & Marketing",
+            "advertising & marketing & outdoor"
+        ],
+        "child_names": [
+            "Static billboard & Digital billboard & Mobile billboard & Three-dimensional billboard & Interactive billboard & LED billboard & Video billboard & Backlit billboard & Vinyl billboard & Rotating billboard",
+            "Traditional billboard & Digital billboard & Mobile billboard & Three-dimensional billboard & Back-lit billboard & Interactive billboard & Transit billboard & Inflatable billboard & Painted billboard & LED billboard",
+            "Digital billboard & Static billboard & LED billboard & Mobile billboard & Three-dimensional billboard & Backlit billboard & Transit billboard & Wall-mounted billboard & Interactive billboard & Video billboard"
+        ]
+    },
+    "71": {
+        "node_name": "conserve",
+        "parent_names": [
+            "Food & Environment & Preservation",
+            "Food & Environment & Sustainability",
+            "Food & Environment & Sustainability"
+        ],
+        "child_names": [
+            "Jam & Jelly & Sauce & Energy Drink & Water & Soup & Fruit Juice & Pickles & Canned Vegetables & Canned Meat",
+            "strawberry conserve & orange conserve & raspberry conserve & blueberry conserve & apricot conserve & blackberry conserve & fig conserve & cherry conserve & plum conserve & peach conserve",
+            "preserves & preserves & preserves & preserves & preserves & preserves & preserves & preserves & preserves & preserves"
+        ]
+    },
+    "72": {
+        "node_name": "claymore",
+        "parent_names": [
+            "weapon & sword & historical object",
+            "Weapons & Swords & Melee weapons",
+            "weapons & swords & historical weapons"
+        ],
+        "child_names": [
+            "Scottish claymore & Flamberge claymore & Zweihander claymore & Claymore mine & William Wallace claymore & Greatsword claymore & Basket-hilted claymore & Highland claymore & Renaissance claymore & Viking claymore.",
+            "Scottish claymore& Flamberge claymore& Zweihander claymore& Claymore mine& Basket-hilted claymore& Highland claymore& Medieval claymore& Renaissance claymore& Great claymore& Broadsword claymore",
+            "Scottish claymore& Flamberge claymore& Bastard sword claymore& Zweihander claymore& Great sword claymore& Highland claymore& Longsword claymore& Broadsword claymore& Basket-hilted claymore& Two-handed claymore"
+        ]
+    },
+    "73": {
+        "node_name": "vehicle registration plate",
+        "parent_names": [
+            "Transportation & Government & Identification",
+            "Transportation & Identification & Government",
+            "Transportation & Identification & Automotive"
+        ],
+        "child_names": [
+            "Standard registration plate & Personalized registration plate & Vintage registration plate & Specialty registration plate & Disabled parking plate & Military registration plate & Diplomatic registration plate & Temporary registration plate & Dealer registration plate & Rental registration plate",
+            "Standard plate&Personalized plate&Specialty plate&Commercial plate&Disabled plate&Vintage plate&Motorcycle plate&Trailer plate&Government plate&Dealer plate",
+            "Standard vehicle registration plate & Personalized vehicle registration plate & Vanity vehicle registration plate & Specialty vehicle registration plate & Military vehicle registration plate & Disabled vehicle registration plate & Antique vehicle registration plate & Commercial vehicle registration plate & Temporary vehicle registration plate & Out-of-state vehicle registration plate"
+        ]
+    },
+    "74": {
+        "node_name": "ceiling fan",
+        "parent_names": [
+            "Home appliances & Electrical devices & Cooling devices",
+            "Home appliances & Electrical devices & Cooling equipment",
+            "Appliance & Home appliance & Electrical appliance"
+        ],
+        "child_names": [
+            "Standard ceiling fan & Flush mount ceiling fan & Outdoor ceiling fan & Energy-efficient ceiling fan & Remote control ceiling fan & Low profile ceiling fan & Industrial ceiling fan & Retractable blade ceiling fan & Dual motor ceiling fan & Chandelier ceiling fan",
+            "ceiling fan & industrial ceiling fan & modern ceiling fan & vintage ceiling fan & outdoor ceiling fan & flush mount ceiling fan & remote control ceiling fan & energy-efficient ceiling fan & dual motor ceiling fan & low-profile ceiling fan",
+            "ceiling fan & industrial ceiling fan & outdoor ceiling fan & flush mount ceiling fan & remote control ceiling fan & energy-efficient ceiling fan & low profile ceiling fan & dual motor ceiling fan & chandelier ceiling fan & vintage ceiling fan"
+        ]
+    },
+    "75": {
+        "node_name": "cassette deck",
+        "parent_names": [
+            "Audio equipment & Vintage technology & Music players",
+            "Electronics & Audio equipment & Music technology",
+            "Audio equipment & Electronics & Music technology"
+        ],
+        "child_names": [
+            "single cassette deck & dual cassette deck & portable cassette deck & vintage cassette deck & stereo cassette deck & car cassette deck & mini cassette deck & digital cassette deck & professional cassette deck & boombox cassette deck",
+            "single deck & dual deck & auto reverse deck & portable deck & rack-mount deck & vintage deck & cassette player & cassette recorder & boombox & car stereo",
+            "Sony cassette deck & Pioneer cassette deck & Technics cassette deck & JVC cassette deck & Yamaha cassette deck & Aiwa cassette deck & Denon cassette deck & Nakamichi cassette deck & Panasonic cassette deck & Teac cassette deck"
+        ]
+    },
+    "76": {
+        "node_name": "table tennis racket",
+        "parent_names": [
+            "Sports equipment & Indoor games & Racket",
+            "Sports & Equipment & Recreation",
+            "Sports equipment & Indoor games & Sporting goods"
+        ],
+        "child_names": [
+            "paddle & bat & racket & blade & racquet & ping pong paddle & table tennis bat & table tennis blade & table tennis racquet & table tennis paddle",
+            "paddle & blade & racquet & bat & paddle racket & table tennis bat & ping pong paddle & ping pong racquet & table tennis paddle & table tennis racquet",
+            "Penhold grip & Shakehand grip & Offensive blade & Defensive blade & Carbon blade & All-round blade & Pimple-in rubber & Pimple-out rubber & Anti-spin rubber & Long pimple rubber"
+        ]
+    },
+    "77": {
+        "node_name": "scone",
+        "parent_names": [
+            "food & baked goods & pastry",
+            "Food & Baked good & Pastry",
+            "food & bakery & pastry"
+        ],
+        "child_names": [
+            "Plain scone & Fruit scone & Cheese scone & Chocolate chip scone & Blueberry scone & Cranberry scone & Lemon scone & Pumpkin scone & Almond scone & Raspberry scone",
+            "blueberry scone & chocolate chip scone & cranberry scone & lemon poppy seed scone & pumpkin scone & raspberry scone & almond scone & cinnamon scone & vanilla scone & cherry scone",
+            "plain scone & cheese scone & fruit scone & chocolate scone & blueberry scone & cranberry scone & pumpkin scone & almond scone & lemon scone & raspberry scone"
+        ]
+    },
+    "78": {
+        "node_name": "bouquet",
+        "parent_names": [
+            "Nature & Decor & Gifts",
+            "Flower arrangements & Decorative items & Gifts",
+            "Flower arrangements & Gifts & Decorations"
+        ],
+        "child_names": [
+            "Rose bouquet & Sunflower bouquet & Tulip bouquet & Orchid bouquet & Lily bouquet & Carnation bouquet & Daisy bouquet & Peony bouquet & Hydrangea bouquet & Mixed flower bouquet",
+            "Rose bouquet & Sunflower bouquet & Tulip bouquet & Orchid bouquet & Lily bouquet & Peony bouquet & Carnation bouquet & Daisy bouquet & Wildflower bouquet & Hydrangea bouquet",
+            "Roses & Sunflowers & Tulips & Lilies & Daisies & Orchids & Carnations & Peonies & Hydrangeas & Gerbera Daisies"
+        ]
+    },
+    "79": {
+        "node_name": "bidet",
+        "parent_names": [
+            "bathroom fixtures & plumbing equipment & personal hygiene",
+            "Plumbing fixtures & Bathroom accessories & Sanitary ware",
+            "bathroom fixtures & plumbing equipment & hygiene products"
+        ],
+        "child_names": [
+            "portable bidet & electronic bidet & bidet attachment & bidet seat & bidet sprayer & bidet toilet combo & handheld bidet & bidet wand & bidet shower & bidet hose",
+            "electric bidet & non-electric bidet & portable bidet & wall-mounted bidet & handheld bidet & bidet attachment & bidet toilet seat & bidet sprayer & bidet faucet & bidet shower.",
+            "Electric bidet & Non-electric bidet & Portable bidet & Bidet attachment & Bidet seat & Bidet sprayer & Bidet toilet combo & Bidet wand & Bidet hand shower & Bidet hose"
+        ]
+    },
+    "80": {
+        "node_name": "ski boot",
+        "parent_names": [
+            "footwear & sports equipment & winter gear",
+            "footwear & sports equipment & winter gear",
+            "footwear & sports equipment & winter gear"
+        ],
+        "child_names": [
+            "Classic ski boot & Alpine ski boot & Freestyle ski boot & Backcountry ski boot & Nordic ski boot & Telemark ski boot & Touring ski boot & Racing ski boot & Snowboard ski boot & Kids ski boot",
+            "alpine ski boot & nordic ski boot & telemark ski boot & backcountry ski boot & freestyle ski boot & racing ski boot & freeride ski boot & ski mountaineering boot & touring ski boot & all-mountain ski boot",
+            "alpine ski boot & nordic ski boot & freestyle ski boot & backcountry ski boot & telemark ski boot & racing ski boot & touring ski boot & powder ski boot & park ski boot & all-mountain ski boot"
+        ]
+    },
+    "81": {
+        "node_name": "pumpkin",
+        "parent_names": [
+            "Food & Plants & Halloween",
+            "Food & Halloween decoration & agricultural product",
+            "Food & Halloween decoration & Plant"
+        ],
+        "child_names": [
+            "Jack-o'-lantern & Butternut squash & Acorn squash & Spaghetti squash & Kabocha squash & Hubbard squash & Turban squash & Delicata squash & Cinderella pumpkin & Blue Jarrahdale pumpkin",
+            "mini pumpkin & giant pumpkin & white pumpkin & orange pumpkin & striped pumpkin & Cinderella pumpkin & ghost pumpkin & sugar pumpkin & Jarrahdale pumpkin & blue pumpkin",
+            "Jack-o'-lantern & Butternut squash & Acorn squash & Spaghetti squash & Kabocha squash & Hubbard squash & Turban squash & Delicata squash & Cinderella pumpkin & White pumpkin"
+        ]
+    },
+    "82": {
+        "node_name": "welsh poppy",
+        "parent_names": [
+            "plants & flowers & gardening",
+            "Flower & Plant & Botanical",
+            "Flower & Plant & Botanical"
+        ],
+        "child_names": [
+            "Welsh poppy & Yellow Welsh poppy & Orange Welsh poppy & Red Welsh poppy & White Welsh poppy & Pink Welsh poppy & Purple Welsh poppy & Blue Welsh poppy & Double Welsh poppy & Giant Welsh poppy",
+            "white welsh poppy & yellow welsh poppy & orange welsh poppy & red welsh poppy & pink welsh poppy & purple welsh poppy & blue welsh poppy & black welsh poppy & multicolored welsh poppy & striped welsh poppy",
+            "yellow welsh poppy & orange welsh poppy & red welsh poppy & pink welsh poppy & white welsh poppy & purple welsh poppy & blue welsh poppy & black welsh poppy & spotted welsh poppy & double welsh poppy"
+        ]
+    },
+    "83": {
+        "node_name": "tablet computer",
+        "parent_names": [
+            "technology & electronics & computing",
+            "electronics & technology & computing",
+            "electronics & technology & gadgets"
+        ],
+        "child_names": [
+            "Android tablet & iPad & Windows tablet & Samsung Galaxy Tab & Amazon Fire Tablet & Lenovo Tab & Huawei MediaPad & Google Pixel Slate & Microsoft Surface Pro & Asus ZenPad",
+            "iPad & Samsung Galaxy Tab & Microsoft Surface & Amazon Fire HD & Lenovo Tab & Huawei MediaPad & Google Pixel Slate & Asus ZenPad & Acer Iconia Tab & Sony Xperia Tablet",
+            "iPad & Samsung Galaxy Tab & Microsoft Surface & Amazon Fire HD & Huawei MediaPad & Lenovo Tab & Google Pixel Slate & Asus ZenPad & Acer Iconia & Sony Xperia Tablet"
+        ]
+    },
+    "84": {
+        "node_name": "rhinoceros",
+        "parent_names": [
+            "mammal & animal & vertebrate",
+            "mammal & herbivore & ungulate",
+            "mammal & animal & wildlife"
+        ],
+        "child_names": [
+            "white rhinoceros & black rhinoceros & Indian rhinoceros & Javan rhinoceros & Sumatran rhinoceros & greater one-horned rhinoceros & lesser one-horned rhinoceros & northern white rhinoceros & southern white rhinoceros & eastern black rhinoceros",
+            "white rhinoceros & black rhinoceros & Indian rhinoceros & Javan rhinoceros & Sumatran rhinoceros & greater one-horned rhinoceros & lesser one-horned rhinoceros & northern white rhinoceros & southern white rhinoceros & eastern black rhinoceros",
+            "white rhinoceros & black rhinoceros & Javan rhinoceros & Indian rhinoceros & Sumatran rhinoceros & greater one-horned rhinoceros & lesser one-horned rhinoceros & square-lipped rhinoceros & hook-lipped rhinoceros & woolly rhinoceros"
+        ]
+    },
+    "85": {
+        "node_name": "cheese",
+        "parent_names": [
+            "food & dairy products & culinary ingredients",
+            "food & dairy products & culinary ingredients",
+            "Dairy & Food & Culinary"
+        ],
+        "child_names": [
+            "cheddar & mozzarella & gouda & brie & camembert & blue cheese & feta & swiss & provolone & goat cheese",
+            "cheddar & mozzarella & gouda & brie & camembert & blue cheese & feta & swiss & provolone & goat cheese",
+            "Cheddar cheese & Mozzarella cheese & Swiss cheese & Blue cheese & Gouda cheese & Brie cheese & Feta cheese & Parmesan cheese & Camembert cheese & Provolone cheese"
+        ]
+    },
+    "86": {
+        "node_name": "jacuzzi",
+        "parent_names": [
+            "Home appliances & Bathroom fixtures & Luxury items",
+            "Home appliances & Bathroom fixtures & Luxury items",
+            "Home Appliances & Plumbing Fixtures & Relaxation Equipment"
+        ],
+        "child_names": [
+            "Whirlpool&Hot tub&Spa&Whirlpool bath&Jetted tub&Outdoor Jacuzzi&Indoor Jacuzzi&Portable Jacuzzi&Inflatable Jacuzzi&Luxury Jacuzzi",
+            "outdoor jacuzzi & indoor jacuzzi & portable jacuzzi & inflatable jacuzzi & wooden jacuzzi & acrylic jacuzzi & corner jacuzzi & round jacuzzi & square jacuzzi & freestanding jacuzzi",
+            "Hot tub & Whirlpool & Spa bath & Hydrotherapy tub & Bubble bath & Soaking tub & Jetted tub & Bathtub & Spa pool & Therapeutic bath"
+        ]
+    },
+    "87": {
+        "node_name": "door handle",
+        "parent_names": [
+            "hardware & home improvement & interior design",
+            "Home accessories & Hardware & Furniture",
+            "Building materials & Hardware & Home furnishings"
+        ],
+        "child_names": [
+            "lever handle & knob handle & push plate & pull handle & flush handle & latch handle & backplate handle & mortise handle & dummy handle & sliding door handle",
+            "lever handle & knob handle & push plate handle & pull handle & flush handle & latch handle & paddle handle & keyless handle & sliding door handle & barn door handle",
+            "round door handle & square door handle & lever door handle & knob door handle & pull door handle & push door handle & sliding door handle & flush door handle & decorative door handle & antique door handle"
+        ]
+    },
+    "88": {
+        "node_name": "puffball",
+        "parent_names": [
+            "plants & fungi & food",
+            "Fungi & Edible Plants & Natural Sponges",
+            "plants & fungi & food"
+        ],
+        "child_names": [
+            "white puffball & giant puffball & common puffball & earthstar puffball & pear-shaped puffball & elegant puffball & poisonous puffball & round puffball & lumpy puffball & small puffball",
+            "white puffball & giant puffball & common puffball & earthstar puffball & devil's snuff-box & rounded puffball & gem-studded puffball & dog vomit slime mold & false puffball & stalked puffball",
+            "white puffball & meadow puffball & giant puffball & skull puffball & violet puffball & orange puffball & red puffball & yellow puffball & blue puffball & green puffball"
+        ]
+    },
+    "89": {
+        "node_name": "swimming pool",
+        "parent_names": [
+            "Recreation & Outdoor & Water",
+            "Recreation & Water sports & Architecture",
+            "Outdoor recreation & Water activities & Architectural structures"
+        ],
+        "child_names": [
+            "Olympic-sized swimming pool & Infinity swimming pool & Indoor swimming pool & Outdoor swimming pool & Saltwater swimming pool & Natural swimming pool & Rooftop swimming pool & Resort swimming pool & Private swimming pool & Public swimming pool",
+            "Olympic-sized swimming pool & Infinity pool & Natural swimming pool & Indoor pool & Outdoor pool & Rooftop pool & Wading pool & Saltwater pool & Hot spring pool & Wave pool",
+            "Olympic-sized swimming pool & Infinity pool & Natural swimming pool & Saltwater pool & Indoor swimming pool & Backyard swimming pool & Rooftop swimming pool & Above-ground pool & Hot tub & Kiddie pool"
+        ]
+    },
+    "90": {
+        "node_name": "rays and skates",
+        "parent_names": [
+            "fish & marine animals & aquatic creatures",
+            "fish & marine animals & aquatic creatures",
+            "fish & aquatic animals & cartilaginous creatures"
+        ],
+        "child_names": [
+            "Stingrays & Manta rays & Electric rays & Mobula rays & Eagle rays & Butterfly rays & Cow-nosed rays & Whiprays & Torpedo rays & Skate rays",
+            "Stingray & Manta Ray & Electric Ray & Spotted Ray & Blue Spotted Stingray & Southern Stingray & Round Stingray & Thornback Ray & Common Skate & Longnose Skate",
+            "Stingrays & Electric rays & Manta rays & Eagle rays & Cow-nosed rays & Southern stingrays & Round rays & Thornback rays & Blue spotted rays & Spotted eagle rays"
+        ]
+    },
+    "91": {
+        "node_name": "chopsticks",
+        "parent_names": [
+            "kitchen utensils & dining accessories & Asian cuisine",
+            "Utensils & Eating tools & Asian cuisine",
+            "Utensils & Eating tools & Kitchenware"
+        ],
+        "child_names": [
+            "bamboo chopsticks & stainless steel chopsticks & disposable chopsticks & wooden chopsticks & plastic chopsticks & colorful chopsticks & Korean chopsticks & Japanese chopsticks & metal chopsticks & reusable chopsticks",
+            "bamboo chopsticks & metal chopsticks & plastic chopsticks & wooden chopsticks & disposable chopsticks & Japanese chopsticks & Korean chopsticks & Chinese chopsticks & stainless steel chopsticks & reusable chopsticks",
+            "Bamboo chopsticks & Plastic chopsticks & Metal chopsticks & Wood chopsticks & Stainless steel chopsticks & Disposable chopsticks & Travel chopsticks & Training chopsticks & Children's chopsticks & Reusable chopsticks"
+        ]
+    },
+    "92": {
+        "node_name": "oyster",
+        "parent_names": [
+            "food & seafood & mollusk",
+            "food & seafood & shellfish",
+            "food & seafood & mollusk"
+        ],
+        "child_names": [
+            "fresh oyster & smoked oyster & raw oyster & grilled oyster & fried oyster & baked oyster & steamed oyster & pickled oyster & canned oyster & roasted oyster",
+            "Eastern Oyster & Pacific Oyster & Kumamoto Oyster & Olympia Oyster & European Flat Oyster & Sydney Rock Oyster & Blue Point Oyster & Wellfleet Oyster & Belon Oyster & Malpeque Oyster",
+            "Fresh oyster & Pacific oyster & Kumamoto oyster & European flat oyster & Sydney rock oyster & Olympia oyster & Mangrove oyster & Atlantic oyster & Gulf oyster & Portuguese oyster"
+        ]
+    },
+    "93": {
+        "node_name": "office building",
+        "parent_names": [
+            "Architecture & Real Estate & Business",
+            "architecture & real estate & commercial",
+            "Architecture & Real estate & Commercial property"
+        ],
+        "child_names": [
+            "skyscraper & warehouse & corporate headquarters & business park & office complex & commercial tower & business center & industrial park & professional office building & mixed-use development",
+            "office building & corporate office & commercial building & business center & office complex & office park & professional building & executive center & administrative building & office tower",
+            "Skyscraper & Business park & Corporate headquarters & High-rise building & Tower block & Office tower & Commercial complex & Office park & Business center & Business complex"
+        ]
+    },
+    "94": {
+        "node_name": "ratchet",
+        "parent_names": [
+            "Mechanical Tools & Hardware & Automotive",
+            "Mechanical tools & Hand tools & Construction equipment",
+            "tools & mechanical devices & hardware"
+        ],
+        "child_names": [
+            "Ratchet & Socket Wrench & Torque Wrench & Pneumatic Ratchet & Electric Ratchet & Adjustable Ratchet & Quick Release Ratchet & Palm Ratchet & Flex Head Ratchet & Stubby Ratchet",
+            "standard ratchet & adjustable ratchet & flex-head ratchet & palm ratchet & stubby ratchet & long-handle ratchet & reversible ratchet & quick-release ratchet & fine-tooth ratchet & locking ratchet",
+            "Standard ratchet & Socket wrench ratchet & Quick-release ratchet & Adjustable ratchet & Palm ratchet & Flex-head ratchet & Offset ratchet & Stubby ratchet & T-handle ratchet & Power ratchet"
+        ]
+    },
+    "95": {
+        "node_name": "sambuca",
+        "parent_names": [
+            "liquor & beverages & alcoholic beverages",
+            "alcohol&liqueur&beverage",
+            "Alcoholic beverages & Liquors & Anise-flavored spirits"
+        ],
+        "child_names": [
+            "Sambuca & Sambuca con la mosca & Black Sambuca & White Sambuca & Flavored Sambuca & Anise Sambuca & Vanilla Sambuca & Raspberry Sambuca & Coffee Sambuca & Caramel Sambuca",
+            "black sambuca & white sambuca & blue sambuca & red sambuca & vanilla sambuca & lemon sambuca & anise sambuca & chocolate sambuca & coffee sambuca & raspberry sambuca",
+            "black sambuca & white sambuca & blue sambuca & red sambuca & green sambuca & gold sambuca & strawberry sambuca & vanilla sambuca & coffee sambuca & anise sambuca"
+        ]
+    },
+    "96": {
+        "node_name": "truffle",
+        "parent_names": [
+            "food&fungus&delicacy",
+            "food & fungi & luxury",
+            "food & fungi & luxury"
+        ],
+        "child_names": [
+            "black truffle & white truffle & summer truffle & winter truffle & burgundy truffle & Oregon truffle & Perigord truffle & Chinese truffle & Himalayan truffle & Australian truffle",
+            "chocolate truffle & black truffle & white truffle & hazelnut truffle & caramel truffle & raspberry truffle & champagne truffle & mint truffle & coconut truffle & coffee truffle",
+            "white truffle & black truffle & chocolate truffle & hazelnut truffle & raspberry truffle & caramel truffle & mint truffle & coffee truffle & almond truffle & orange truffle"
+        ]
+    },
+    "97": {
+        "node_name": "salt and pepper shakers",
+        "parent_names": [
+            "kitchenware & tableware & dining accessories",
+            "Kitchenware & Tableware & Home Decor",
+            "kitchenware & tableware & condiment holders"
+        ],
+        "child_names": [
+            "glass shakers & ceramic shakers & stainless steel shakers & wooden shakers & novelty shakers & vintage shakers & animal-shaped shakers & magnetic shakers & electric shakers & disposable shakers",
+            " Glass salt and pepper shakers& Ceramic salt and pepper shakers& Stainless steel salt and pepper shakers& Wooden salt and pepper shakers& Plastic salt and pepper shakers& Acrylic salt and pepper shakers& Vintage salt and pepper shakers& Novelty salt and pepper shakers& Magnetic salt and pepper shakers& Electric salt and pepper shakers",
+            "glass shakers & ceramic shakers & stainless steel shakers & wooden shakers & plastic shakers & novelty shakers & vintage shakers & animal-shaped shakers & magnetic shakers & electric shakers"
+        ]
+    },
+    "98": {
+        "node_name": "calla lily",
+        "parent_names": [
+            "flowers & plants & gardening",
+            "Flowers & Plants & Botanicals",
+            "Flowers & Plants & Decorative items"
+        ],
+        "child_names": [
+            "white calla lily & pink calla lily & yellow calla lily & purple calla lily & red calla lily & orange calla lily & black calla lily & green calla lily & blue calla lily & lavender calla lily",
+            "white calla lily & pink calla lily & yellow calla lily & purple calla lily & orange calla lily & red calla lily & black calla lily & green calla lily & blue calla lily & lavender calla lily",
+            "white calla lily & pink calla lily & purple calla lily & yellow calla lily & orange calla lily & red calla lily & black calla lily & blue calla lily & green calla lily & lavender calla lily"
+        ]
+    },
+    "99": {
+        "node_name": "hard hat",
+        "parent_names": [
+            "protective gear & headwear & safety equipment",
+            "Protective gear & Headwear & Construction equipment",
+            "safety equipment & protective gear & headwear"
+        ],
+        "child_names": [
+            "hard hat & safety helmet & construction helmet & work helmet & protective headgear & PPE helmet & industrial helmet & safety headgear & construction hard hat & work hard hat",
+            "hard hat & construction helmet & safety helmet & work helmet & protective helmet & head protection & PPE helmet & industrial helmet & safety headgear & building helmet",
+            "hard hat & safety helmet & construction helmet & work helmet & protective headgear & head protection & industrial helmet & safety headgear & PPE helmet & job site helmet"
+        ]
+    },
+    "100": {
+        "node_name": "elephant seal",
+        "parent_names": [
+            "mammal & marine animal & pinniped",
+            "Animals & Marine mammals & Pinnipeds",
+            "mammal & marine animal & pinniped"
+        ],
+        "child_names": [
+            "Elephant seal & Northern elephant seal & Southern elephant seal & Antarctic elephant seal & Galapagos elephant seal & Juan Fernandez fur seal & Guadalupe fur seal & Antarctic fur seal & South American fur seal & New Zealand fur seal",
+            "elephant seal & northern elephant seal & southern elephant seal & Antarctic elephant seal & California elephant seal & Galapagos elephant seal & Indian elephant seal & Sri Lankan elephant seal & Arabian elephant seal & South African elephant seal",
+            "Southern elephant seal & Northern elephant seal & Indian elephant seal & Atlantic elephant seal & Pacific elephant seal & Antarctic elephant seal & Weddell elephant seal & Ross Sea elephant seal & South Georgia elephant seal & Steller sea elephant"
+        ]
+    },
+    "101": {
+        "node_name": "peanut",
+        "parent_names": [
+            "Food & Snacks & Legumes",
+            "Food & Snack & Legume",
+            "food & legume & nut"
+        ],
+        "child_names": [
+            "raw peanut & roasted peanut & salted peanut & honey roasted peanut & chocolate covered peanut & spicy peanut & buttered peanut & honey peanut & wasabi peanut & caramel peanut",
+            "Roasted peanut & Honey roasted peanut & Salted peanut & Unsalted peanut & Dry roasted peanut & Cajun flavored peanut & BBQ flavored peanut & Chocolate covered peanut & Peanut butter filled peanut & Wasabi flavored peanut",
+            " Spanish peanut& Runner peanut& Valencia peanut& Virginia peanut& Boiled peanut& Roasted peanut& Dry roasted peanut& Honey roasted peanut& Salted peanut& Unsalted peanut"
+        ]
+    },
+    "102": {
+        "node_name": "hind",
+        "parent_names": [
+            "animal&body part&anatomy",
+            "animal&body part&mammal",
+            "Mammal & Animal & Vertebrate"
+        ],
+        "child_names": [
+            " Hind leg& Hind paw& Hind hoof& Hind foot& Hind limb& Hindquarter& Hind wing& Hind fin& Hind brain& Hind gut",
+            " Hind leg& Hind foot& Hind paw& Hindquarters& Hindbrain& Hind wing& Hindrance& Hind milk& Hindgut& Hindrance",
+            " Hindrance& Hind leg& Hindbrain& Hindfoot& Hindgut& Hindlimb& Hindmilk& Hindmost& Hindquarters& Hindrance"
+        ]
+    },
+    "103": {
+        "node_name": "jelly fungus",
+        "parent_names": [
+            "fungi & edible mushrooms & natural organisms",
+            "fungi & mushrooms & edible",
+            "Fungi & Edible mushrooms & Natural organisms"
+        ],
+        "child_names": [
+            "black jelly fungus & yellow brain fungus & witches' butter fungus & amber jelly fungus & white jelly fungus & orange jelly fungus & pink jelly fungus & purple jelly fungus & golden jelly fungus & blue jelly fungus",
+            "Ear jelly fungus & Black jelly fungus & Witches' butter & Amber jelly fungus & Yellow brain fungus & Orange jelly fungus & Crystal brain fungus & White jelly fungus & Wood ear fungus & Snow fungus",
+            "Ear jelly fungus & Black witch's butter & Amber jelly roll & Snow fungus & Witches' butter & Wood ear fungus & Golden jelly fungus & Yellow brain fungus & Orange jelly fungus & Crown-tipped coral."
+        ]
+    },
+    "104": {
+        "node_name": "juice",
+        "parent_names": [
+            "beverage & food & drink",
+            "beverages & food & drinks",
+            "Beverage & Food & Drink"
+        ],
+        "child_names": [
+            "apple juice & orange juice & grape juice & cranberry juice & pineapple juice & mango juice & pomegranate juice & lemon juice & lime juice & watermelon juice",
+            "apple juice & orange juice & grape juice & cranberry juice & pineapple juice & tomato juice & lemon juice & lime juice & carrot juice & pomegranate juice",
+            "apple juice & orange juice & cranberry juice & grape juice & pineapple juice & tomato juice & lemon juice & lime juice & grapefruit juice & pomegranate juice"
+        ]
+    },
+    "105": {
+        "node_name": "pirogi",
+        "parent_names": [
+            "food & cuisine & pastry",
+            "Food & Cuisine & Traditional dishes",
+            "Food & Dumplings & Pastries"
+        ],
+        "child_names": [
+            "cheese pirogi & potato pirogi & meat pirogi & cabbage pirogi & cherry pirogi & blueberry pirogi & apple pirogi & strawberry pirogi & spinach pirogi & pumpkin pirogi",
+            "potato pirogi & cheese pirogi & sauerkraut pirogi & mushroom pirogi & meat pirogi & cabbage pirogi & cherry pirogi & blueberry pirogi & apple pirogi & pumpkin pirogi",
+            "cheese&potato&meat&spinach&mushroom&cabbage&strawberry&blueberry&cherry&apple"
+        ]
+    },
+    "106": {
+        "node_name": "bowling equipment",
+        "parent_names": [
+            "Sports & Recreation & Equipment",
+            "Sports equipment & recreational items & athletic gear",
+            "Sports equipment & Recreational equipment & Sporting goods"
+        ],
+        "child_names": [
+            "Bowling balls & Bowling shoes & Bowling pins & Bowling gloves & Bowling bags & Bowling towels & Bowling wrist supports & Bowling ball cleaners & Bowling ball polishers & Bowling ball inserts",
+            "Bowling balls & Bowling pins & Bowling shoes & Bowling bags & Bowling gloves & Bowling towels & Bowling wrist supports & Bowling ball cleaners & Bowling ball inserts & Bowling ball polish",
+            "Bowling balls & Bowling pins & Bowling shoes & Bowling bags & Bowling gloves & Bowling towels & Bowling wrist supports & Bowling ball cleaners & Bowling ball polishers & Bowling ball racks"
+        ]
+    },
+    "107": {
+        "node_name": "recycling bin",
+        "parent_names": [
+            "Home & Waste Management & Environmental Conservation",
+            "household items & waste management & environmental conservation",
+            "Home & Waste management & Environmental conservation"
+        ],
+        "child_names": [
+            "Paper recycling bin & Plastic recycling bin & Glass recycling bin & Metal recycling bin & Cardboard recycling bin & Electronics recycling bin & Battery recycling bin & Compost recycling bin & Textile recycling bin & Hazardous waste recycling bin",
+            "plastic recycling bin & metal recycling bin & paper recycling bin & glass recycling bin & cardboard recycling bin & aluminum recycling bin & electronic recycling bin & battery recycling bin & organic waste recycling bin & compost recycling bin",
+            "Plastic recycling bin & Metal recycling bin & Paper recycling bin & Glass recycling bin & Cardboard recycling bin & Electronic waste recycling bin & Compost recycling bin & Battery recycling bin & Clothing recycling bin & Hazardous waste recycling bin"
+        ]
+    },
+    "108": {
+        "node_name": "skull",
+        "parent_names": [
+            "Anatomy & Biology & Symbol",
+            "Anatomy & Biology & Symbolism",
+            "Body parts & Anatomy & Bones"
+        ],
+        "child_names": [
+            "human skull & animal skull & bird skull & fish skull & reptile skull & dinosaur skull & fossilized skull & crystal skull & sugar skull & voodoo skull",
+            "cow skull & human skull & animal skull & bird skull & dinosaur skull & fish skull & reptile skull & monkey skull & alien skull & crystal skull",
+            "ram skull & cow skull & deer skull & human skull & monkey skull & crocodile skull & horse skull & bird skull & cat skull & wolf skull"
+        ]
+    },
+    "109": {
+        "node_name": "nightstand",
+        "parent_names": [
+            "Furniture & Bedroom & Storage",
+            "Furniture & Bedroom & Storage",
+            "Furniture & Bedroom & Storage"
+        ],
+        "child_names": [
+            "wooden nightstand & metal nightstand & glass nightstand & vintage nightstand & modern nightstand & minimalist nightstand & rustic nightstand & mirrored nightstand & painted nightstand & round nightstand",
+            "wooden nightstand & mirrored nightstand & vintage nightstand & modern nightstand & rustic nightstand & industrial nightstand & white nightstand & black nightstand & floating nightstand & marble nightstand",
+            "wooden nightstand & vintage nightstand & modern nightstand & rustic nightstand & mirrored nightstand & white nightstand & black nightstand & metal nightstand & tall nightstand & small nightstand"
+        ]
+    },
+    "110": {
+        "node_name": "light bulb",
+        "parent_names": [
+            "electronics & household items & lighting",
+            "home appliances & lighting fixtures & electrical components",
+            "Household items & Lighting fixtures & Electrical appliances"
+        ],
+        "child_names": [
+            "incandescent light bulb & LED light bulb & fluorescent light bulb & halogen light bulb & compact fluorescent light bulb & smart light bulb & vintage light bulb & Edison light bulb & decorative light bulb & colored light bulb",
+            "Incandescent light bulb & Compact fluorescent lamp & LED light bulb & Halogen light bulb & Fluorescent tube & High-intensity discharge lamp & Neon light bulb & Candle-shaped light bulb & Globe light bulb & Tubular light bulb",
+            "incandescent light bulb & LED light bulb & compact fluorescent light bulb & halogen light bulb & fluorescent light bulb & smart light bulb & decorative light bulb & vintage light bulb & globe light bulb & tube light bulb"
+        ]
+    },
+    "111": {
+        "node_name": "high heels",
+        "parent_names": [
+            "Footwear & Fashion & Accessories",
+            "fashion & footwear & accessories",
+            "Fashion & Footwear & Accessories"
+        ],
+        "child_names": [
+            "stiletto&chunky&platform&slingback&peep toe&kitten heel&ankle strap&wedge&sandal&mary jane",
+            "stiletto heels & platform heels & wedge heels & block heels & kitten heels & mule heels & slingback heels & peep toe heels & ankle strap heels & open toe heels",
+            "stiletto&platform&kitten heel&slingback&pump&peep toe&block heel&wedge&ankle strap&mary jane"
+        ]
+    },
+    "112": {
+        "node_name": "picnic basket",
+        "parent_names": [
+            "Food & Outdoor equipment & Storage",
+            "storage&outdoor&food",
+            "Outdoor equipment & Storage containers & Food and beverage accessories"
+        ],
+        "child_names": [
+            "wicker picnic basket & insulated picnic basket & collapsible picnic basket & backpack picnic basket & vintage picnic basket & wooden picnic basket & metal picnic basket & plastic picnic basket & beach picnic basket & traditional picnic basket",
+            "wicker picnic basket & insulated picnic basket & collapsible picnic basket & backpack picnic basket & vintage picnic basket & wooden picnic basket & waterproof picnic basket & metal picnic basket & canvas picnic basket & rattan picnic basket",
+            "wicker picnic basket & insulated picnic basket & folding picnic basket & backpack picnic basket & wooden picnic basket & vintage picnic basket & metal picnic basket & collapsible picnic basket & beach picnic basket & plastic picnic basket"
+        ]
+    },
+    "113": {
+        "node_name": "in line skate",
+        "parent_names": [
+            "Sports & Recreation & Outdoor Equipment",
+            "Sports & Recreation & Transportation",
+            "Sports & Recreation & Footwear"
+        ],
+        "child_names": [
+            "Inline skate & Rollerblade & Aggressive skate & Freestyle skate & Fitness skate & Speed skate & Urban skate & Slalom skate & Hockey skate & Recreational skate",
+            "inline skate & roller skate & quad skate & speed skate & aggressive skate & freestyle skate & hockey skate & figure skate & recreational skate & urban skate",
+            "Aggressive inline skate & Recreational inline skate & Fitness inline skate & Speed inline skate & Freestyle inline skate & Slalom inline skate & Urban inline skate & Hockey inline skate & Off-road inline skate & Artistic inline skate"
+        ]
+    },
+    "114": {
+        "node_name": "platter",
+        "parent_names": [
+            "Dining & Serveware & Tableware",
+            "Kitchenware & Tableware & Serveware",
+            "Kitchenware & Serveware & Tableware"
+        ],
+        "child_names": [
+            "glass platter & ceramic platter & wooden platter & metal platter & bamboo platter & plastic platter & marble platter & porcelain platter & stainless steel platter & melamine platter",
+            "glass platter & ceramic platter & wooden platter & metal platter & plastic platter & porcelain platter & melamine platter & stainless steel platter & bamboo platter & marble platter",
+            "glass platter & ceramic platter & wooden platter & marble platter & metal platter & plastic platter & porcelain platter & bamboo platter & stainless steel platter & slate platter"
+        ]
+    },
+    "115": {
+        "node_name": "bialy",
+        "parent_names": [
+            "food & bread & baked goods",
+            "food & bread & pastry",
+            "Food & Bread & Pastry"
+        ],
+        "child_names": [
+            "bialy & bialy & bialy & bialy & bialy & bialy & bialy & bialy & bialy & bialy",
+            "bialy & bialy & bialy & bialy & bialy & bialy & bialy & bialy & bialy & bialy",
+            "plain bialy & onion bialy & garlic bialy & poppy seed bialy & sesame seed bialy & salt bialy & everything bialy & whole wheat bialy & multigrain bialy & cheese bialy"
+        ]
+    },
+    "116": {
+        "node_name": "shelf bracket",
+        "parent_names": [
+            "hardware & home improvement & furniture",
+            "Home improvement & Hardware & Furniture",
+            "Furniture & Hardware & Home improvement"
+        ],
+        "child_names": [
+            "angled bracket & decorative bracket & metal bracket & wooden bracket & adjustable bracket & cast iron bracket & floating bracket & corner bracket & L-shaped bracket & heavy-duty bracket",
+            "L-shaped shelf bracket & decorative shelf bracket & adjustable shelf bracket & floating shelf bracket & heavy-duty shelf bracket & corner shelf bracket & metal shelf bracket & wooden shelf bracket & hidden shelf bracket & folding shelf bracket",
+            "corner bracket & angle bracket & L-shaped bracket & T-shaped bracket & straight bracket & decorative bracket & floating shelf bracket & adjustable shelf bracket & metal shelf bracket & wooden shelf bracket"
+        ]
+    },
+    "117": {
+        "node_name": "cantaloupe",
+        "parent_names": [
+            "fruit & food & produce",
+            "fruit & food & agriculture",
+            "Fruit & Food & Produce"
+        ],
+        "child_names": [
+            "Common cantaloupe&Hale's Best Jumbo cantaloupe&Athena cantaloupe&Sweet 'N Early cantaloupe&Ambrosia cantaloupe&Honeydew cantaloupe&Charentais cantaloupe&Galia cantaloupe&Charleston Gray cantaloupe&Sugar Cube cantaloupe",
+            "Honeydew & Watermelon & Muskmelon & Galia melon & Charentais melon & Santa Claus melon & Canary melon & Persian melon & Crenshaw melon & Casaba melon",
+            "cantaloupe&cantaloupe&cantaloupe&cantaloupe&cantaloupe&cantaloupe&cantaloupe&cantaloupe&cantaloupe&cantaloupe"
+        ]
+    },
+    "118": {
+        "node_name": "croissant",
+        "parent_names": [
+            "Food & Bakery & Pastry",
+            "Food & Baked Goods & Pastry",
+            "Food & Bakery & Breakfast"
+        ],
+        "child_names": [
+            "plain croissant & almond croissant & chocolate croissant & strawberry croissant & ham and cheese croissant & spinach and feta croissant & raspberry croissant & cinnamon croissant & apple croissant & custard croissant",
+            "plain croissant & almond croissant & chocolate croissant & strawberry croissant & ham and cheese croissant & spinach and feta croissant & raspberry croissant & blueberry croissant & apricot croissant & cinnamon croissant",
+            "plain croissant & almond croissant & chocolate croissant & ham and cheese croissant & spinach and feta croissant & raspberry croissant & pistachio croissant & cinnamon croissant & strawberry croissant & Nutella croissant"
+        ]
+    },
+    "119": {
+        "node_name": "bowling shoe",
+        "parent_names": [
+            "footwear & sports equipment & accessories",
+            "Footwear & Sports equipment & Clothing",
+            "footwear & sports equipment & recreational items"
+        ],
+        "child_names": [
+            "bowling shoe & athletic bowling shoe & classic bowling shoe & rental bowling shoe & retro bowling shoe & vintage bowling shoe & performance bowling shoe & high-top bowling shoe & low-top bowling shoe & custom bowling shoe",
+            "Men's bowling shoe & Women's bowling shoe & Youth bowling shoe & Rental bowling shoe & Performance bowling shoe & Left-handed bowling shoe & Right-handed bowling shoe & Velcro bowling shoe & Lace-up bowling shoe & Wide width bowling shoe",
+            "bowling shoe & athletic bowling shoe & rental bowling shoe & performance bowling shoe & women's bowling shoe & men's bowling shoe & kids bowling shoe & vintage bowling shoe & leather bowling shoe & retro bowling shoe"
+        ]
+    },
+    "120": {
+        "node_name": "ferris wheel",
+        "parent_names": [
+            "Amusement parks & Rides & Entertainment",
+            "Amusement parks & Rides & Entertainment",
+            "Amusement rides & Entertainment attractions & Carnival rides"
+        ],
+        "child_names": [
+            "Giant wheel & Observation wheel & Big wheel & Riesenrad & Sky Wheel & Wonder Wheel & London Eye & Singapore Flyer & Melbourne Star & Pacific Wheel",
+            "Classic Ferris Wheel & Giant Ferris Wheel & Observation Wheel & Miniature Ferris Wheel & Portable Ferris Wheel & Traveling Ferris Wheel & Double Ferris Wheel & Spinning Ferris Wheel & Inflatable Ferris Wheel & Waterless Ferris Wheel",
+            "Standard Ferris Wheel & Observation Wheel & Portable Ferris Wheel & Giant Ferris Wheel & Double Ferris Wheel & Mini Ferris Wheel & Spinning Ferris Wheel & Inverted Ferris Wheel & Water Wheel & Vertical Ferris Wheel"
+        ]
+    },
+    "121": {
+        "node_name": "dinosaur",
+        "parent_names": [
+            "Animals & Extinct species & Prehistoric creatures",
+            "Prehistoric creatures & Extinct animals & Paleontology",
+            "Animals & Extinct species & Paleontology"
+        ],
+        "child_names": [
+            "Tyrannosaurus Rex & Velociraptor & Stegosaurus & Triceratops & Brachiosaurus & Pterodactyl & Ankylosaurus & Allosaurus & Spinosaurus & Diplodocus",
+            "Tyrannosaurus Rex & Velociraptor & Stegosaurus & Triceratops & Brachiosaurus & Allosaurus & Spinosaurus & Pterodactyl & Ankylosaurus & Diplodocus",
+            "Tyrannosaurus Rex & Velociraptor & Triceratops & Stegosaurus & Brachiosaurus & Allosaurus & Ankylosaurus & Spinosaurus & Pterodactyl & Diplodocus"
+        ]
+    },
+    "122": {
+        "node_name": "adhesive tape",
+        "parent_names": [
+            "stationery & packaging materials & household supplies",
+            "household items & office supplies & crafting materials",
+            "packaging materials & office supplies & household products"
+        ],
+        "child_names": [
+            "duct tape & masking tape & electrical tape & double-sided tape & transparent tape & packaging tape & painter's tape & washi tape & medical tape & gaffer tape",
+            "duct tape & masking tape & double-sided tape & electrical tape & packaging tape & washi tape & painter's tape & clear tape & scotch tape & gaffer tape",
+            "masking tape & duct tape & electrical tape & double-sided tape & packaging tape & washi tape & Scotch tape & transparent tape & gaffer tape & painter's tape"
+        ]
+    },
+    "123": {
+        "node_name": "stanhopea",
+        "parent_names": [
+            "orchids & plants & flowers",
+            "Orchids & Flowers & Plants",
+            "orchids & flowers & plants"
+        ],
+        "child_names": [
+            "Stanhopea tigrina & Stanhopea oculata & Stanhopea wardii & Stanhopea insignis & Stanhopea tricornis & Stanhopea hernandezii & Stanhopea ecornuta & Stanhopea anfracta & Stanhopea embreei & Stanhopea napoensis",
+            "Stanhopea oculata & Stanhopea tigrina & Stanhopea wardii & Stanhopea costaricensis & Stanhopea graveolens & Stanhopea tricornis & Stanhopea gibbosa & Stanhopea ecornuta & Stanhopea jenischiana & Stanhopea saccata",
+            "Stanhopea tigrina & Stanhopea oculata & Stanhopea ecornuta & Stanhopea inodora & Stanhopea grandiflora & Stanhopea wardii & Stanhopea tricornis & Stanhopea nigroviolacea & Stanhopea napoensis & Stanhopea costaricensis"
+        ]
+    },
+    "124": {
+        "node_name": "mechanical fan",
+        "parent_names": [
+            "appliances & home goods & cooling",
+            "appliances & ventilation & cooling",
+            "Appliance & Cooling device & Home equipment"
+        ],
+        "child_names": [
+            "table fan & ceiling fan & tower fan & box fan & pedestal fan & exhaust fan & wall-mounted fan & floor fan & window fan & desk fan",
+            "table fan & ceiling fan & tower fan & box fan & pedestal fan & exhaust fan & wall fan & window fan & floor fan & desk fan",
+            "Table fan & Ceiling fan & Tower fan & Portable fan & Wall-mounted fan & Pedestal fan & Bladeless fan & USB fan & Handheld fan & Mini fan"
+        ]
+    },
+    "125": {
+        "node_name": "winter melon",
+        "parent_names": [
+            "Fruit & Vegetable & Gourd",
+            "Fruit & Vegetable & Edible Plant",
+            "Fruit & Vegetable & Plant"
+        ],
+        "child_names": [
+            "Chinese winter melon & Korean winter melon & Thai winter melon & Japanese winter melon & Indian winter melon & Vietnamese winter melon & Indonesian winter melon & Malaysian winter melon & Filipino winter melon & Taiwanese winter melon",
+            "round winter melon & long winter melon & striped winter melon & small winter melon & large winter melon & green winter melon & white winter melon & speckled winter melon & smooth winter melon & wrinkled winter melon",
+            "Honeydew&Calabash&White Gourd&Benincasa hispida&Ash Gourd&Fuzzy Melon&Chinese Wax Gourd&Tung Gwa&Tallow Gourd&Winter Melon"
+        ]
+    },
+    "126": {
+        "node_name": "cowrie",
+        "parent_names": [
+            "Shellfish & Mollusks & Shells",
+            "animal & seashell & jewelry",
+            "Animals & Seashells & Jewelry"
+        ],
+        "child_names": [
+            "white cowrie & tiger cowrie & gold cowrie & porcelain cowrie & spotted cowrie & zebra cowrie & blue cowrie & pink cowrie & black cowrie & striped cowrie",
+            "Cowrie shells & Cowrie snails & Cowrie bracelets & Cowrie necklaces & Cowrie earrings & Cowrie anklets & Cowrie hair accessories & Cowrie chokers & Cowrie rings & Cowrie pendants",
+            "white cowrie & tiger cowrie & money cowrie & spotted cowrie & gold cowrie & porcelain cowrie & rose cowrie & violet cowrie & zebra cowrie & orange cowrie"
+        ]
+    },
+    "127": {
+        "node_name": "adjustable wrench",
+        "parent_names": [
+            "Tools & Hardware & Equipment",
+            "tools & hardware & equipment",
+            "Hand tools & Mechanical tools & Construction tools"
+        ],
+        "child_names": [
+            "adjustable wrench & pipe wrench & combination wrench & monkey wrench & open-end wrench & box-end wrench & socket wrench & torque wrench & ratcheting wrench & crescent wrench",
+            "combination wrench & pipe wrench & monkey wrench & socket wrench & open-end wrench & box-end wrench & flare nut wrench & ratcheting wrench & crowfoot wrench & torque wrench",
+            "adjustable wrench & pipe wrench & strap wrench & chain wrench & monkey wrench & hex key wrench & torque wrench & ratcheting wrench & box-end wrench & combination wrench"
+        ]
+    },
+    "128": {
+        "node_name": "date bread",
+        "parent_names": [
+            "food & bakery & perishable",
+            "Food & Baked Goods & Bakery Products",
+            "food & baked goods & bread"
+        ],
+        "child_names": [
+            "sourdough bread & whole wheat bread & rye bread & multigrain bread & baguette bread & ciabatta bread & pita bread & focaccia bread & naan bread & brioche bread",
+            "sourdough bread & multigrain bread & whole wheat bread & white bread & rye bread & pumpernickel bread & ciabatta bread & baguette bread & focaccia bread & challah bread",
+            "white bread & whole wheat bread & sourdough bread & rye bread & multigrain bread & baguette & ciabatta bread & pumpernickel bread & focaccia bread & challah bread"
+        ]
+    },
+    "129": {
+        "node_name": "o ring",
+        "parent_names": [
+            "Rubber products & Mechanical components & Sealing devices",
+            "Seal & Gasket & Mechanical Component",
+            "Mechanical Components & Sealing Devices & Gaskets"
+        ],
+        "child_names": [
+            "Viton O-ring & Silicone O-ring & Nitrile O-ring & EPDM O-ring & Neoprene O-ring & PTFE O-ring & Polyurethane O-ring & Buna-N O-ring & Natural Rubber O-ring & Hypalon O-ring",
+            "standard O ring, square O ring, X ring, D-shaped O ring, flat O ring, oval O ring, rectangular O ring, U ring, V ring, E ring.",
+            "Silicone O ring& Viton O ring& EPDM O ring& Buna-N O ring& Neoprene O ring& PTFE O ring& Natural rubber O ring& Polyurethane O ring& Flurosilicone O ring& Hypalon O ring"
+        ]
+    },
+    "130": {
+        "node_name": "caryatid",
+        "parent_names": [
+            "Architecture & Sculpture & Decorative Arts",
+            "architecture & sculpture & decorative art",
+            "sculpture & architecture & art"
+        ],
+        "child_names": [
+            "Caryatid & Ionic Caryatid & Doric Caryatid & Corinthian Caryatid & Greek Caryatid & Roman Caryatid & Female Caryatid & Male Caryatid & Marble Caryatid & Stone Caryatid",
+            "caryatid & classical caryatid & modern caryatid & stone caryatid & wooden caryatid & marble caryatid & bronze caryatid & glass caryatid & metal caryatid & architectural caryatid",
+            "Ionic caryatid & Doric caryatid & Corinthian caryatid & Egyptian caryatid & Gothic caryatid & Roman caryatid & Renaissance caryatid & Baroque caryatid & Neoclassical caryatid & Modern caryatid"
+        ]
+    },
+    "131": {
+        "node_name": "egg",
+        "parent_names": [
+            "Food & Cooking & Agriculture",
+            "Food & Cooking Ingredient & Animal Product",
+            "Food & Cooking & Animal"
+        ],
+        "child_names": [
+            "fried egg & boiled egg & scrambled egg & poached egg & deviled egg & sunny-side up egg & omelette & soft-boiled egg & hard-boiled egg & pickled egg",
+            "boiled egg & poached egg & fried egg & scrambled egg & omelette & deviled egg & pickled egg & quail egg & Scotch egg & coddled egg",
+            "white egg & brown egg & organic egg & free-range egg & jumbo egg & medium egg & small egg & cage-free egg & omega-3 enriched egg & pasteurized egg"
+        ]
+    },
+    "132": {
+        "node_name": "beehive",
+        "parent_names": [
+            "architecture & agriculture & nature",
+            "home & nature & agriculture",
+            "nature & animals & structures"
+        ],
+        "child_names": [
+            "wooden beehive & plastic beehive & glass beehive & metal beehive & straw beehive & clay beehive & bamboo beehive & hive box & observation beehive & traditional beehive",
+            "wooden beehive & plastic beehive & traditional beehive & modern beehive & hive box & Langstroth hive & top-bar hive & Warre hive & flow hive & observation hive",
+            "Wooden beehive & Plastic beehive & Styrofoam beehive & Clay beehive & Metal beehive & Glass beehive & Bamboo beehive & Wicker beehive & Ceramic beehive & Paper beehive"
+        ]
+    },
+    "133": {
+        "node_name": "lily",
+        "parent_names": [
+            "flowers & plants & nature",
+            "flowers & plants & nature",
+            "flowers & plants & nature"
+        ],
+        "child_names": [
+            "Calla lily & Water lily & Tiger lily & Easter lily & Lily of the valley & Peruvian lily & Stargazer lily & Martagon lily & Madonna lily & Turk's cap lily",
+            "Calla lily & Water lily & Tiger lily & Easter lily & Lily of the valley & Stargazer lily & Peruvian lily & Asiatic lily & Madonna lily & Martagon lily",
+            "daylily & water lily & calla lily & lily of the valley & tiger lily & Easter lily & Asiatic lily & Madonna lily & Turk's cap lily & martagon lily"
+        ]
+    },
+    "134": {
+        "node_name": "leaf spring",
+        "parent_names": [
+            "Mechanical Parts & Suspension Components & Automotive Parts",
+            "automotive parts & suspension components & mechanical systems",
+            "vehicle parts & suspension systems & automotive components"
+        ],
+        "child_names": [
+            "parabolic leaf spring & semi-elliptical leaf spring & multi-leaf spring & mono-leaf spring & transverse leaf spring & progressive leaf spring & coil spring & air spring & torsion bar spring & composite leaf spring",
+            "parabolic leaf spring & elliptical leaf spring & semi-elliptical leaf spring & multi-leaf spring & mono-leaf spring & transverse leaf spring & quarter-elliptical leaf spring & cantilever leaf spring & inverted leaf spring & progressive leaf spring",
+            "parabolic leaf spring & multi-leaf spring & mono-leaf spring & semi-elliptical leaf spring & quarter-elliptical leaf spring & cantilever leaf spring & elliptical leaf spring & transverse leaf spring & semi-elliptical hybrid leaf spring & progressive leaf spring"
+        ]
+    },
+    "135": {
+        "node_name": "french bread",
+        "parent_names": [
+            "food & baked goods & bread",
+            "food & bakery & bread",
+            "Food & Baked goods & Bread"
+        ],
+        "child_names": [
+            "baguette & boule & b\u00e2tard & ficelle & fl\u00fbte & pain de campagne & pain au levain & pain complet & pain de seigle & pain aux c\u00e9r\u00e9ales",
+            "whole wheat bread & baguette & brioche & ciabatta & sourdough bread & multigrain bread & rye bread & pumpernickel bread & challah & focaccia",
+            "baguette & ficelle & b\u00e2tard & pain de campagne & pain de mie & fl\u00fbte & \u00e9pi de bl\u00e9 & couronne & pain viennois & pain aux c\u00e9r\u00e9ales"
+        ]
+    },
+    "136": {
+        "node_name": "cake stand",
+        "parent_names": [
+            "kitchenware & serveware & tableware",
+            "Furniture & Kitchenware & Tableware",
+            "kitchen supplies & tableware & home d\u00e9cor"
+        ],
+        "child_names": [
+            "glass cake stand & porcelain cake stand & metal cake stand & ceramic cake stand & wooden cake stand & acrylic cake stand & marble cake stand & plastic cake stand & stainless steel cake stand & crystal cake stand",
+            "wooden cake stand & metal cake stand & glass cake stand & ceramic cake stand & plastic cake stand & tiered cake stand & vintage cake stand & acrylic cake stand & marble cake stand & porcelain cake stand",
+            "metal cake stand & wooden cake stand & glass cake stand & ceramic cake stand & plastic cake stand & acrylic cake stand & porcelain cake stand & marble cake stand & vintage cake stand & tiered cake stand"
+        ]
+    },
+    "137": {
+        "node_name": "sergeant major",
+        "parent_names": [
+            "Military&Rank&Authority",
+            "Military personnel & Ranks & Leadership positions",
+            "Military ranks & Non-commissioned officers & Leadership positions"
+        ],
+        "child_names": [
+            "sergeant major & staff sergeant major & first sergeant major & regimental sergeant major & battalion sergeant major & company sergeant major & squadron sergeant major & platoon sergeant major & brigade sergeant major & divisional sergeant major",
+            "color sergeant major & company sergeant major & regimental sergeant major & brigade sergeant major & divisional sergeant major & district sergeant major & corps sergeant major & battalion sergeant major & squadron sergeant major & platoon sergeant major",
+            " Sergeant Major of the Army& Regimental Sergeant Major& Battalion Sergeant Major& Company Sergeant Major& Platoon Sergeant Major& Troop Sergeant Major& Squadron Sergeant Major& First Sergeant Major& Staff Sergeant Major& Master Sergeant Major"
+        ]
+    },
+    "138": {
+        "node_name": "treadmill",
+        "parent_names": [
+            "Fitness equipment & Exercise machines & Home appliances",
+            "Fitness equipment & Exercise machines & Home appliances",
+            "Fitness equipment & Exercise machines & Home appliances"
+        ],
+        "child_names": [
+            "Manual treadmill & Electric treadmill & Folding treadmill & Non-folding treadmill & Commercial treadmill & Residential treadmill & ProForm treadmill & NordicTrack treadmill & Sole treadmill & Horizon treadmill",
+            "manual treadmill & folding treadmill & motorized treadmill & curved treadmill & magnetic treadmill & compact treadmill & commercial treadmill & under desk treadmill & incline treadmill & desk treadmill",
+            "manual treadmill & electric treadmill & folding treadmill & commercial treadmill & compact treadmill & incline treadmill & desk treadmill & running treadmill & walking treadmill & non-motorized treadmill"
+        ]
+    },
+    "139": {
+        "node_name": "daiquiri",
+        "parent_names": [
+            "Beverage & Cocktails & Alcoholic drinks",
+            "beverage & cocktail & alcoholic",
+            "cocktails & alcoholic beverages & mixed drinks"
+        ],
+        "child_names": [
+            "Strawberry daiquiri & Banana daiquiri & Mango daiquiri & Pineapple daiquiri & Raspberry daiquiri & Coconut daiquiri & Blueberry daiquiri & Watermelon daiquiri & Peach daiquiri & Kiwi daiquiri",
+            "Strawberry daiquiri & Banana daiquiri & Mango daiquiri & Pineapple daiquiri & Coconut daiquiri & Raspberry daiquiri & Peach daiquiri & Watermelon daiquiri & Blueberry daiquiri & Passionfruit daiquiri",
+            "strawberry daiquiri & mango daiquiri & pineapple daiquiri & coconut daiquiri & banana daiquiri & watermelon daiquiri & peach daiquiri & blueberry daiquiri & raspberry daiquiri & passion fruit daiquiri"
+        ]
+    },
+    "140": {
+        "node_name": "sweet roll",
+        "parent_names": [
+            "Food & Bakery & Pastry",
+            "Food & Baked goods & Pastries",
+            "Bakery & Pastry & Dessert"
+        ],
+        "child_names": [
+            "cinnamon roll & danish pastry & croissant & brioche bun & sticky bun & bear claw & pain au chocolat & cherry turnover & apple fritter & almond twist",
+            "Cinnamon roll & Danish pastry & Sticky bun & Chelsea bun & Honey bun & Bear claw & Pain au raisin & Pecan roll & Schnecken & Nut roll",
+            "Cinnamon roll & Danish pastry & Croissant & Brioche & Doughnut & Chelsea bun & Bear claw & Pain au chocolat & Streuselkuchen & Kolache"
+        ]
+    },
+    "141": {
+        "node_name": "polypore",
+        "parent_names": [
+            "fungus&taxonomy&biology",
+            "fungus & mushroom & taxonomy",
+            "fungus & mushroom & organism"
+        ],
+        "child_names": [
+            "Shelf polypore & Red-belted bracket & Turkey tail & Artist's conk & Birch polypore & Dryad's saddle & Oyster mushroom & Chicken of the woods & Bear's head tooth & Lion's mane",
+            "Oyster mushroom & Reishi mushroom & Turkey tail mushroom & Porcelain mushroom & Birch polypore & Artist's conk & Chicken of the woods & Lion's mane mushroom & Red-belted polypore & Velvet-top fungus.",
+            "Shaggy scalycap & Turkey tail & Birch polypore & Artist's conk & Red belt conk & Violet toothed polypore & Chicken of the woods & Hen of the woods & Lion's mane & Reishi"
+        ]
+    },
+    "142": {
+        "node_name": "face veil",
+        "parent_names": [
+            "clothing & accessories & religious attire",
+            "clothing & accessories & religious items",
+            "Clothing & Accessories & Religious Items"
+        ],
+        "child_names": [
+            "surgical face veil & fashion face veil & lace face veil & embroidered face veil & beaded face veil & sequin face veil & chiffon face veil & satin face veil & crochet face veil & floral face veil",
+            "lace face veil & silk face veil & chiffon face veil & embroidered face veil & sequined face veil & beaded face veil & satin face veil & tulle face veil & organza face veil & velvet face veil",
+            "lace face veil & embroidered face veil & beaded face veil & sequin face veil & sheer face veil & tulle face veil & chiffon face veil & satin face veil & silk face veil & organza face veil"
+        ]
+    },
+    "143": {
+        "node_name": "kitchen & dining room table",
+        "parent_names": [
+            "furniture & home decor & interior design",
+            "furniture & home decor & interior design",
+            "furniture & home decor & interior design"
+        ],
+        "child_names": [
+            "round kitchen & dining room table & rectangular kitchen & dining room table & square kitchen & dining room table & wooden kitchen & dining room table & glass kitchen & dining room table & marble kitchen & dining room table & farmhouse kitchen & dining room table & modern kitchen & dining room table & extendable kitchen & dining room table",
+            " Round kitchen & dining room table& Rectangular kitchen & dining room table& Square kitchen & dining room table& Oval kitchen & dining room table& Glass-top kitchen & dining room table& Wood kitchen & dining room table& Marble kitchen & dining room table& Counter height kitchen & dining room table& Extendable kitchen & dining room table& Pedestal kitchen & dining room table",
+            " Round kitchen & dining room table& Rectangular kitchen & dining room table& Square kitchen & dining room table& Oval kitchen & dining room table& Glass kitchen & dining room table& Wooden kitchen & dining room table& Marble kitchen & dining room table& Farmhouse kitchen & dining room table& Counter height kitchen & dining room table& Folding kitchen & dining room table"
+        ]
+    },
+    "144": {
+        "node_name": "support hose",
+        "parent_names": [
+            "Fashion & Health & Clothing",
+            "clothing & medical supplies & compression garments",
+            "Apparel & Medical Devices & Compression Wear"
+        ],
+        "child_names": [
+            "knee-high support hose & thigh-high support hose & pantyhose & compression stockings & graduated compression socks & maternity compression tights & open toe compression socks & closed toe compression socks & sheer compression stockings & athletic compression socks",
+            "knee-high support hose & thigh-high support hose & pantyhose & maternity support hose & open toe support hose & closed toe support hose & compression stockings & medical compression socks & athletic compression socks & diabetic compression socks",
+            "knee-high support hose & thigh-high support hose & pantyhose support hose & maternity support hose & compression support hose & medical support hose & sheer support hose & opaque support hose & athletic support hose & diabetic support hose"
+        ]
+    },
+    "145": {
+        "node_name": "headphones",
+        "parent_names": [
+            "Technology & Audio devices & Accessories",
+            "Audio devices & Personal electronics & Accessories",
+            "Audio equipment & Personal accessories & Technology"
+        ],
+        "child_names": [
+            "over-ear headphones & in-ear headphones & wireless headphones & noise-canceling headphones & gaming headphones & sports headphones & Bluetooth headphones & studio headphones & earbud headphones & on-ear headphones",
+            "Over-ear headphones & In-ear headphones & Wireless headphones & Wired headphones & Noise-canceling headphones & Gaming headphones & Sports headphones & Bluetooth headphones & Studio headphones & DJ headphones",
+            "over-ear headphones & in-ear headphones & wireless headphones & noise-canceling headphones & sport headphones & gaming headphones & Bluetooth headphones & open-back headphones & closed-back headphones & earbuds"
+        ]
+    },
+    "146": {
+        "node_name": "chinese lantern",
+        "parent_names": [
+            "Decorations & Traditional crafts & Outdoor lighting",
+            "Decorations & Traditional crafts & Festivals",
+            "Decorations & Lighting & Cultural Objects"
+        ],
+        "child_names": [
+            "chinese lantern & sky lantern & paper lantern & hanging lantern & silk lantern & decorative lantern & festival lantern & traditional lantern & floating lantern & LED lantern",
+            "paper lantern & silk lantern & bamboo lantern & nylon lantern & LED lantern & lotus lantern & dragon lantern & fish lantern & panda lantern & traditional lantern",
+            "paper lantern & silk lantern & nylon lantern & fabric lantern & bamboo lantern & metal lantern & glass lantern & plastic lantern & wooden lantern & rattan lantern"
+        ]
+    },
+    "147": {
+        "node_name": "wine rack",
+        "parent_names": [
+            "Furniture & Storage & Home Decor",
+            "Furniture & Home Decor & Kitchenware",
+            "furniture & storage & kitchen"
+        ],
+        "child_names": [
+            " Wall-mounted wine rack& Countertop wine rack& Floor-standing wine rack& Hanging wine rack& Modular wine rack& Stackable wine rack& Tabletop wine rack& Metal wine rack& Wood wine rack& Glass wine rack",
+            "wooden wine rack & metal wine rack & wall-mounted wine rack & countertop wine rack & hanging wine rack & modular wine rack & stackable wine rack & floor-standing wine rack & tabletop wine rack & wine rack cabinet",
+            "wooden wine rack & metal wine rack & wall-mounted wine rack & countertop wine rack & hanging wine rack & floor wine rack & modular wine rack & stackable wine rack & rustic wine rack & wine rack cabinet"
+        ]
+    },
+    "148": {
+        "node_name": "triangle",
+        "parent_names": [
+            "Shapes & Geometric figures & Polygons",
+            "Shapes & Geometric figures & Polygons",
+            "Geometric shapes & Polygons & Two-dimensional shapes"
+        ],
+        "child_names": [
+            "equilateral triangle & isosceles triangle & scalene triangle & acute triangle & obtuse triangle & right triangle & equiangular triangle & right-angled triangle & acute-angled triangle & obtuse-angled triangle",
+            "equilateral triangle & isosceles triangle & scalene triangle & acute triangle & obtuse triangle & right triangle & equiangular triangle & acute isosceles triangle & obtuse isosceles triangle & right isosceles triangle",
+            "equilateral triangle & isosceles triangle & scalene triangle & acute triangle & obtuse triangle & right triangle & equiangular triangle & right-angled isosceles triangle & acute-angled isosceles triangle & obtuse-angled isosceles triangle"
+        ]
+    },
+    "149": {
+        "node_name": "mulberry",
+        "parent_names": [
+            "Fashion & Accessories & Plants",
+            "food & plants & fashion",
+            "plants & fruits & clothing"
+        ],
+        "child_names": [
+            "Mulberry & White mulberry & Red mulberry & Black mulberry & American mulberry & Persian mulberry & Himalayan mulberry & Japanese mulberry & African mulberry & Indian mulberry",
+            "Mulberry & White Mulberry & Red Mulberry & Black Mulberry & Persian Mulberry & Illinois Everbearing Mulberry & Black Beauty Mulberry & Pakistan Mulberry & Dwarf Mulberry & Hicks Mulberry",
+            "mulberry bag & mulberry tree & mulberry silk & mulberry jam & mulberry wine & mulberry leaf & mulberry paper & mulberry extract & mulberry tea & mulberry fruit"
+        ]
+    },
+    "150": {
+        "node_name": "quick bread",
+        "parent_names": [
+            "Bakery & Baking & Food",
+            "food & baked goods & bread",
+            "Food & Baking & Bread"
+        ],
+        "child_names": [
+            "banana bread & zucchini bread & pumpkin bread & chocolate chip bread & blueberry bread & lemon bread & apple cinnamon bread & cranberry bread & orange bread & cinnamon swirl bread",
+            "banana bread & zucchini bread & pumpkin bread & blueberry bread & lemon bread & apple bread & chocolate bread & cranberry bread & orange bread & cinnamon bread",
+            "banana bread & zucchini bread & pumpkin bread & lemon bread & blueberry bread & apple bread & gingerbread & chocolate chip bread & cinnamon bread & cranberry bread"
+        ]
+    },
+    "151": {
+        "node_name": "harpsichord",
+        "parent_names": [
+            "Keyboard instruments & String instruments & Musical instruments",
+            "Musical Instruments & Keyboard Instruments & String Instruments",
+            "Music instruments & Keyboard instruments & Historical instruments"
+        ],
+        "child_names": [
+            "single manual harpsichord & double manual harpsichord & French harpsichord & Flemish harpsichord & Italian harpsichord & German harpsichord & spinet harpsichord & virginal harpsichord & clavicytherium harpsichord & clavicordium harpsichord",
+            "spinett&virginal&clavicytherium&clavichord&square piano&upright piano&grand piano&electric piano&digital piano&organ",
+            "clavichord & virginal & spinet & tangent piano & fortepiano & square piano & upright piano & grand piano & electric piano & digital piano"
+        ]
+    },
+    "152": {
+        "node_name": "optical disk",
+        "parent_names": [
+            "technology & storage & media",
+            "Technology & Data storage & Multimedia",
+            "Technology & Storage devices & Data storage"
+        ],
+        "child_names": [
+            "CD&DVD&Blu-ray&HD DVD&Mini CD&Mini DVD&CD-R&CD-RW&DVD-R&DVD+R",
+            "CD & DVD & Blu-ray & HD DVD & Mini CD & Mini DVD & DualDisc & Laserdisc & Video CD & Super Audio CD",
+            "CD & DVD & Blu-ray Disc & HD DVD & MiniDisc & LaserDisc & Video CD & Super Audio CD & Universal Media Disc & Ultra HD Blu-ray"
+        ]
+    },
+    "153": {
+        "node_name": "egg yolk",
+        "parent_names": [
+            "food & cooking ingredient & culinary",
+            "Food & Cooking Ingredients & Culinary Components",
+            "Food & Cooking ingredient & Culinary component"
+        ],
+        "child_names": [
+            "sunny-side up& poached& scrambled& hard-boiled& soft-boiled& over easy& over medium& over hard& basted& coddled",
+            "golden yolk & runny yolk & thick yolk & creamy yolk & vibrant yolk & orange yolk & luscious yolk & velvety yolk & silky yolk & rich yolk",
+            "golden yolk & runny yolk & thick yolk & creamy yolk & large yolk & small yolk & fresh yolk & organic yolk & pasteurized yolk & jumbo yolk"
+        ]
+    },
+    "154": {
+        "node_name": "shallot",
+        "parent_names": [
+            "food & vegetables & allium",
+            "vegetable & bulb & allium",
+            "vegetable & bulb & allium"
+        ],
+        "child_names": [
+            "red shallot & white shallot & gray shallot & brown shallot & purple shallot & yellow shallot & green shallot & pink shallot & black shallot & orange shallot",
+            "red shallot & yellow shallot & white shallot & pink shallot & purple shallot & French shallot & Dutch shallot & Asian shallot & Egyptian shallot & Indian shallot",
+            "red shallot & white shallot & yellow shallot & purple shallot & French shallot & Dutch shallot & Asian shallot & banana shallot & torpedo shallot & grey shallot"
+        ]
+    },
+    "155": {
+        "node_name": "strawflower",
+        "parent_names": [
+            "Flower & Plant & Decorative",
+            "Flower & Plant & Decoration",
+            "flowers & plants & gardening"
+        ],
+        "child_names": [
+            "pink strawflower & yellow strawflower & white strawflower & orange strawflower & purple strawflower & red strawflower & blue strawflower & lavender strawflower & magenta strawflower & peach strawflower",
+            "Strawflower & Everlasting daisy & Paper flower & Helichrysum & Immortelle & Xerochrysum & Golden everlasting & Curry plant & Sunbright & Yellow buttons",
+            "pink strawflower & white strawflower & yellow strawflower & orange strawflower & red strawflower & purple strawflower & blue strawflower & lavender strawflower & magenta strawflower & peach strawflower"
+        ]
+    },
+    "156": {
+        "node_name": "cue",
+        "parent_names": [
+            "Musical instruments & Sports equipment & Entertainment tools",
+            "Musical Instruments & Sports Equipment & Entertainment",
+            "Sports Equipment& Musical Instruments& Tools"
+        ],
+        "child_names": [
+            "Snooker cue & Pool cue & Billiards cue & Bar cue & Break cue & Jump cue & Sneaky Pete cue & One-piece cue & Two-piece cue & Three-quarter cue",
+            "snooker cue & pool cue & billiard cue & carom cue & jump cue & break cue & one-piece cue & two-piece cue & three-quarter cue & graphite cue",
+            "snooker cue & pool cue & billiard cue & carom cue & jump cue & break cue & one-piece cue & two-piece cue & three-quarter cue & handmade cue"
+        ]
+    },
+    "157": {
+        "node_name": "corded phone",
+        "parent_names": [
+            "electronics & communication devices & home appliances",
+            "technology & communication devices & telephone",
+            "communication devices & technology & electronics"
+        ],
+        "child_names": [
+            "rotary phone & landline phone & desk phone & wall phone & retro phone & vintage phone & office phone & home phone & traditional phone & classic phone",
+            "rotary phone & wall-mounted phone & desk phone & retro phone & vintage phone & landline phone & office phone & home phone & traditional phone & dial phone",
+            "rotary phone & landline phone & desk phone & wall phone & vintage phone & retro phone & classic phone & traditional phone & office phone & home phone"
+        ]
+    },
+    "158": {
+        "node_name": "blue columbine",
+        "parent_names": [
+            "flowers & plants & nature",
+            "flowers & plants & garden",
+            "plants & flowers & colors"
+        ],
+        "child_names": [
+            "blue columbine & blue columbine & blue columbine & blue columbine & blue columbine & blue columbine & blue columbine & blue columbine & blue columbine & blue columbine",
+            "Blue Columbine & Rocky Mountain Columbine & European Columbine & Eastern Red Columbine & Wild Columbine & Canadian Columbine & Fan Columbine & Western Blue Columbine & Yellow Columbine & Alpine Columbine",
+            "blue columbine & double blue columbine & pink columbine & purple columbine & white columbine & red columbine & yellow columbine & black columbine & lavender columbine & orange columbine"
+        ]
+    },
+    "159": {
+        "node_name": "silo",
+        "parent_names": [
+            "Container & Storage & Architecture",
+            "Architecture & Storage & Agriculture",
+            "Building & Storage & Agriculture"
+        ],
+        "child_names": [
+            "Grain silo & Missile silo & Nuclear silo & Storage silo & Cement silo & Feed silo & Lime silo & Coal silo & Salt silo & Sand silo",
+            "steel silo & concrete silo & grain silo & farm silo & industrial silo & storage silo & agricultural silo & cement silo & feed silo & missile silo",
+            "round silo & rectangular silo & tall silo & short silo & steel silo & concrete silo & grain silo & cement silo & storage silo & industrial silo"
+        ]
+    },
+    "160": {
+        "node_name": "mascara",
+        "parent_names": [
+            "beauty & cosmetics & makeup",
+            "beauty & cosmetics & makeup",
+            "beauty & cosmetics & personal care"
+        ],
+        "child_names": [
+            "volumizing&magnifying&lengthening&curling&waterproof&fiber&thickening&definition&smudge-proof&conditioning",
+            "volumizing&megacurl&lengthening&waterproof&curling&fiber&thickening&defining&smudge-proof&nourishing",
+            "Volumizing mascara & Lengthening mascara & Curling mascara & Waterproof mascara & Fiber mascara & Colored mascara & Non-clumping mascara & Smudge-proof mascara &  Thickening mascara & Natural mascara"
+        ]
+    },
+    "161": {
+        "node_name": "snowman",
+        "parent_names": [
+            "Art & Winter & Decoration",
+            "Art & Winter holidays & Outdoor decorations",
+            "Holiday decorations & Winter symbols & Art objects"
+        ],
+        "child_names": [
+            "Frosty&Melting&Giant&Miniature&Cartoon&Traditional&Inflatable&Decorative&Glowing&Whimsical",
+            "Frosty& Melting& Melted& Smiling& Cute& Traditional& Snowball& Jolly& Snowy& Decorated",
+            "Frosty&Melting&Gingerbread&Plush&Inflatable&Wooden&Clay&Ice&Sand&Metal"
+        ]
+    },
+    "162": {
+        "node_name": "cherry tomato",
+        "parent_names": [
+            "Fruit & Vegetable & Plant",
+            "Food & Fruit & Vegetable",
+            "Fruit & Vegetable & Plant"
+        ],
+        "child_names": [
+            "cherry tomato & grape tomato & plum tomato & beefsteak tomato & heirloom tomato & roma tomato & cocktail tomato & campari tomato & pear tomato & cherry plum tomato",
+            "cherry tomato&grape tomato&plum tomato&yellow cherry tomato&black cherry tomato&green cherry tomato&orange cherry tomato&red cherry tomato&purple cherry tomato&pink cherry tomato",
+            "cherry tomato & grape tomato & plum tomato & cocktail tomato & teardrop tomato & currant tomato & pear tomato & beefsteak tomato & heirloom tomato & Roma tomato"
+        ]
+    },
+    "163": {
+        "node_name": "box wrench",
+        "parent_names": [
+            "tools & hardware & equipment",
+            "Hand tools & Mechanical tools & Wrenches",
+            "hand tools & wrenches & tools"
+        ],
+        "child_names": [
+            "adjustable wrench & combination wrench & ratcheting wrench & open-end wrench & flare nut wrench & socket wrench & T-handle wrench & crowfoot wrench & torque wrench & pipe wrench",
+            "box wrench & adjustable box wrench & combination box wrench & ratcheting box wrench & offset box wrench & flare nut box wrench & stubby box wrench & double box wrench & flex head box wrench & crowfoot box wrench",
+            "box wrench & adjustable wrench & combination wrench & socket wrench & open-end wrench & ratchet wrench & flare nut wrench & crowfoot wrench & torque wrench & pipe wrench"
+        ]
+    },
+    "164": {
+        "node_name": "flipper",
+        "parent_names": [
+            "Kitchen utensils & Sports equipment & Animal adaptations",
+            "Kitchen utensils & Sports equipment & Marine life",
+            "Kitchen utensils & Sports equipment & Marine animals"
+        ],
+        "child_names": [
+            "Plastic flipper & Metal flipper & Wooden flipper & Rubber flipper & Silicone flipper & Paddle flipper & Swim flipper & Diving flipper & Snorkeling flipper & Training flipper",
+            "Rubber Flipper & Silicone Flipper & Plastic Flipper & Metal Flipper & Wooden Flipper & Foam Flipper & Leather Flipper & Bamboo Flipper & Glass Flipper & Neoprene Flipper",
+            "rubber flipper & silicone flipper & plastic flipper & metal flipper & wooden flipper & foam flipper & leather flipper & fabric flipper & neoprene flipper & mesh flipper"
+        ]
+    },
+    "165": {
+        "node_name": "jet ski",
+        "parent_names": [
+            "watercraft & recreational vehicle & transportation",
+            "water sports & recreational vehicles & personal transportation",
+            "Watercraft & Recreational vehicles & Sports equipment"
+        ],
+        "child_names": [
+            "Yamaha WaveRunner& Kawasaki Jet Ski& Sea-Doo Spark& Polaris Virage& Honda AquaTrax& Bombardier Sea-Doo& Yamaha SuperJet& Kawasaki 800 SX-R& Sea-Doo GTI& Polaris SLX",
+            "Sea-Doo Spark, Yamaha WaveRunner, Kawasaki Jet Ski, Honda AquaTrax, Polaris SLX, Sea-Doo GTI, Yamaha VX, Kawasaki Ultra, Honda F-15, Polaris Genesis &",
+            "Yamaha WaveRunner& Sea-Doo Spark& Kawasaki Jet Ski& Honda Aquatrax& Polaris SLX& Bombardier Sea-Doo GTX& Yamaha FX Cruiser& Kawasaki Ultra 310R& Sea-Doo RXP-X& Yamaha SuperJet"
+        ]
+    },
+    "166": {
+        "node_name": "bathrobe",
+        "parent_names": [
+            "Clothing & Sleepwear & Personal Care",
+            "Clothing & Personal accessories & Home goods",
+            "Apparel & Clothing & Personal care products"
+        ],
+        "child_names": [
+            "cotton bathrobe & silk bathrobe & terry cloth bathrobe & fleece bathrobe & waffle bathrobe & plush bathrobe & microfiber bathrobe & satin bathrobe & kimono bathrobe & hooded bathrobe",
+            "satin bathrobe & terry cloth bathrobe & silk bathrobe & cotton bathrobe & fleece bathrobe & waffle bathrobe & plush bathrobe & kimono bathrobe & hooded bathrobe & velour bathrobe",
+            "cotton bathrobe & silk bathrobe & terry cloth bathrobe & fleece bathrobe & satin bathrobe & waffle bathrobe & plush bathrobe & microfiber bathrobe & velour bathrobe & linen bathrobe"
+        ]
+    },
+    "167": {
+        "node_name": "fireplace",
+        "parent_names": [
+            "home decor & heating & architecture",
+            "Furniture & Home decor & Heating",
+            "Home decor & Heating appliances & Interior design"
+        ],
+        "child_names": [
+            "wood-burning fireplace & gas fireplace & electric fireplace & stone fireplace & brick fireplace & corner fireplace & wall-mounted fireplace & outdoor fireplace & modern fireplace & traditional fireplace",
+            "Stone fireplace & Electric fireplace & Gas fireplace & Wood-burning fireplace & Outdoor fireplace & Ventless fireplace & Insert fireplace & Hanging fireplace & Wall-mounted fireplace & Corner fireplace",
+            "wood-burning fireplace & gas fireplace & electric fireplace & stone fireplace & marble fireplace & brick fireplace & outdoor fireplace & corner fireplace & floating fireplace & double-sided fireplace"
+        ]
+    },
+    "168": {
+        "node_name": "gill fungus",
+        "parent_names": [
+            "fungi & mushrooms & plant diseases",
+            "plants & fungi & organisms",
+            "Fungi & Microorganisms & Biological organisms"
+        ],
+        "child_names": [
+            "oyster mushroom & turkey tail mushroom & lion's mane mushroom & shiitake mushroom & chantarelle mushroom & maitake mushroom & enoki mushroom & agaricus bisporus & porcini mushroom & morel mushroom",
+            "mushroom & toadstool & bracket fungi & puffball & shelf fungi & jelly fungi & cup fungus & earthstar fungus & coral fungus & stinkhorn fungus",
+            "Shaggy Ink Cap & Bleeding Tooth Fungus & Oyster Mushroom & Turkey Tail Fungus & Lion's Mane Mushroom & Hen of the Woods & Chanterelle Mushroom & Morel Mushroom & Porcini Mushroom & Coral Tooth Fungus"
+        ]
+    },
+    "169": {
+        "node_name": "blackboard",
+        "parent_names": [
+            "Furniture & School supplies & Writing surfaces",
+            "furniture & educational supplies & writing tools",
+            "Education & Office Supplies & Furniture"
+        ],
+        "child_names": [
+            "wooden blackboard & magnetic blackboard & chalkboard & whiteboard & slate blackboard & portable blackboard & wall-mounted blackboard & standing blackboard & electronic blackboard & foldable blackboard",
+            "traditional blackboard & interactive whiteboard & magnetic blackboard & portable blackboard & green chalkboard & classroom blackboard & office blackboard & wall-mounted blackboard & wooden blackboard & slate blackboard",
+            "wooden blackboard & magnetic blackboard & slate blackboard & glass blackboard & foldable blackboard & portable blackboard & electronic blackboard & wall-mounted blackboard & standing blackboard & tabletop blackboard"
+        ]
+    },
+    "170": {
+        "node_name": "thumbtack",
+        "parent_names": [
+            "Stationery & Office Supplies & Household Items",
+            "office supplies & stationery & crafts",
+            "office supplies & stationery & fasteners"
+        ],
+        "child_names": [
+            "Standard thumbtack & decorative thumbtack & colorful thumbtack & jumbo thumbtack & plastic thumbtack & metal thumbtack & flat head thumbtack & round head thumbtack & pushpin thumbtack & bulletin board thumbtack",
+            "plastic thumbtack & metal thumbtack & colored thumbtack & decorative thumbtack & push pin & bulletin board pin & map pin & cork board pin & office pin & sewing pin",
+            "metal thumbtack & plastic thumbtack & colored thumbtack & decorative thumbtack & pushpin thumbtack & round head thumbtack & flat head thumbtack & long thumbtack & short thumbtack & jumbo thumbtack"
+        ]
+    },
+    "171": {
+        "node_name": "spice rack",
+        "parent_names": [
+            "Kitchenware & Organization & Home decor",
+            "Kitchen supplies & Organization & Home decor",
+            "kitchen accessories & organization supplies & home decor"
+        ],
+        "child_names": [
+            "wooden spice rack & metal spice rack & wall-mounted spice rack & revolving spice rack & magnetic spice rack & bamboo spice rack & glass spice rack & rustic spice rack & vintage spice rack & acrylic spice rack",
+            "wooden spice rack & wall-mounted spice rack & countertop spice rack & rotating spice rack & magnetic spice rack & hanging spice rack & tiered spice rack & drawer spice rack & pull-out spice rack & corner spice rack",
+            "wooden spice rack & metal spice rack & wall-mounted spice rack & rotating spice rack & magnetic spice rack & countertop spice rack & hanging spice rack & drawer spice rack & tiered spice rack & pull-out spice rack"
+        ]
+    },
+    "172": {
+        "node_name": "longhorn",
+        "parent_names": [
+            "animals & cattle & Texas",
+            "Cattle & Animals & Livestock",
+            "animals & cattle & livestock"
+        ],
+        "child_names": [
+            "Texas Longhorn&Longhorn Beetle&Longhorn Cowfish&Longhorn Moth&Longhorn Steer&Longhorn Salamander&Longhorn Wasp&Longhorn Phyllium&Longhorn Leaf Beetle&Longhorn Borer",
+            "Texas Longhorn, Longhorn Beetle, Longhorn Cowfish, Longhorn Mullet, Longhorn Salamander, Longhorn Wasp, Longhorn Coralsnake, Longhorn Crazy Ant, Longhorn Leafroller, Longhorn Cactus Bug.",
+            "Texas Longhorn&Longhorn Beetle&Longhorn Cowfish&Longhorn Miao&Longhorn Salamander&Longhorn Moth&Longhorned Bee&Longhorned Grasshopper&Longhorned Tick&Longhorned Caddisfly"
+        ]
+    },
+    "173": {
+        "node_name": "pacific walrus",
+        "parent_names": [
+            "Marine animals & Mammals & Arctic wildlife",
+            "mammal & marine animal & arctic animal",
+            "Mammals & Marine animals & Arctic animals"
+        ],
+        "child_names": [
+            "Pacific walrus&Atlantic walrus&Siberian walrus&Alaska walrus&Chukotka walrus&Laptev walrus&Beaufort Sea walrus&Kara Sea walrus&East Greenland walrus&Svalbard walrus",
+            "Male walrus& Female walrus& Juvenile walrus& Adult walrus& Alaskan walrus& Russian walrus& Tusked walrus& Non-tusked walrus& Coastal walrus& Offshore walrus",
+            "Pacific, Atlantic, Laptev Sea, Bering Sea, Chukchi Sea, East Siberian Sea, Kara Sea, Beaufort Sea, Hudson Bay, White Sea."
+        ]
+    },
+    "174": {
+        "node_name": "streptocarpus",
+        "parent_names": [
+            "Plants& Flowers& Gardening",
+            "Plants & Flowers & Horticulture",
+            "Flower & Plant & Ornamental"
+        ],
+        "child_names": [
+            "Streptocarpus alatus & Streptocarpus caulescens & Streptocarpus denticulatus & Streptocarpus gardineri & Streptocarpus hirsutus & Streptocarpus johannis & Streptocarpus kentaniensis & Streptocarpus magnificus & Streptocarpus rexii & Streptocarpus thompsoniae",
+            "hybridum & saxorum & caulescens & rexii & kentaniensis & cyaneus & polyanthus & primulifolius & nudatus & tomentosus",
+            "streptocarpus & streptocarpus hybrid & streptocarpus saxorum & streptocarpus caulescens & streptocarpus wendlandii & streptocarpus montanus & streptocarpus polyanthus & streptocarpus rexii & streptocarpus igneus & streptocarpus kentaniensis"
+        ]
+    },
+    "175": {
+        "node_name": "coconut",
+        "parent_names": [
+            "food & fruit & nut",
+            "food & fruit & seed",
+            "food & fruit & natural product"
+        ],
+        "child_names": [
+            "green coconut & brown coconut & young coconut & mature coconut & dried coconut & sweet coconut & hairy coconut & smooth coconut & round coconut & oblong coconut",
+            "green coconut & brown coconut & young coconut & mature coconut & husked coconut & unhusked coconut & dried coconut & fresh coconut & sweet coconut & water coconut",
+            "green coconut & brown coconut & young coconut & mature coconut & husked coconut & unhusked coconut & dried coconut & fresh coconut & drinking coconut & cooking coconut"
+        ]
+    },
+    "176": {
+        "node_name": "addax",
+        "parent_names": [
+            "mammal & animal & living being",
+            "Mammals & Animals & Species",
+            "mammals & animals & species"
+        ],
+        "child_names": [
+            "addax & addax & addax & addax & addax & addax & addax & addax & addax & addax",
+            "addax & mountain addax & saharan addax & somali addax & nigerian addax & chadian addax & sudanian addax & egyptian addax & tunisian addax & libyan addax",
+            "addax & addax & addax & addax & addax & addax & addax & addax & addax & addax"
+        ]
+    },
+    "177": {
+        "node_name": "coffeemaker",
+        "parent_names": [
+            "kitchen appliances & home electronics & small appliances",
+            "Kitchen appliances & Household items & Electric devices",
+            "Kitchen appliances & Small appliances & Home appliances"
+        ],
+        "child_names": [
+            "drip coffee maker & espresso machine & french press & pour-over coffee maker & percolator & AeroPress & single-serve coffee maker & moka pot & cold brew coffee maker & Turkish coffee pot",
+            "drip coffee maker & espresso machine & French press & pour-over coffee maker & percolator & moka pot & vacuum coffee maker & cold brew coffee maker & Turkish coffee pot & capsule coffee machine",
+            "drip coffee maker & espresso machine & french press & moka pot & percolator & vacuum coffee maker & cold brew coffee maker & single-serve coffee maker & pour-over coffee maker & turkish coffee pot"
+        ]
+    },
+    "178": {
+        "node_name": "fly orchid",
+        "parent_names": [
+            "Plants & Orchids & Flowers",
+            "Plant&Flower&Orchid",
+            "Plants & Flowers & Orchids"
+        ],
+        "child_names": [
+            "Fly orchid & Lady's slipper orchid & White egret orchid & Monkey face orchid & Bee orchid & Spider orchid & Helmet orchid & Flying duck orchid & Naked man orchid & Tongue orchid",
+            "Fly orchid & Bee orchid & Spider orchid & Lady's slipper orchid & Monkey orchid & Butterfly orchid & Dragon's mouth orchid & Ghost orchid & Monkey-face orchid & Flying duck orchid",
+            "fly orchid & broadleaf orchid & bee orchid & butterfly orchid & lady's slipper orchid & monkey orchid & spider orchid & man orchid & helmet orchid & ghost orchid"
+        ]
+    },
+    "179": {
+        "node_name": "blackberry",
+        "parent_names": [
+            "Fruit & Technology & Communication",
+            "Fruit & Technology & Brand",
+            "Fruit & Technology & Plant"
+        ],
+        "child_names": [
+            "blackberry & blackberry bold & blackberry curve & blackberry pearl & blackberry passport & blackberry priv & blackberry keyone & blackberry key2 & blackberry motion & blackberry dtek50",
+            "curve & bold & torch & priv & keyone & motion & passport & dtek50 & dtek60 & leap",
+            "Classic & Key2 & Keyone & Passport & Priv & Leap & Z30 & Q10 & Curve & Torch"
+        ]
+    },
+    "180": {
+        "node_name": "kob",
+        "parent_names": [
+            "animal&mythical creature&folklore",
+            "animal&fictional character&creature",
+            "Animals & Mythical Creatures & Folklore"
+        ],
+        "child_names": [
+            "kob & kob & kob & kob & kob & kob & kob & kob & kob & kob",
+            " Asian kob& Black kob& White kob& Red kob& Gray kob& Silver kob& Golden kob& Brown kob& Blue kob& Green kob",
+            "kob&kob&kob&kob&kob&kob&kob&kob&kob&kob"
+        ]
+    },
+    "181": {
+        "node_name": "car tire",
+        "parent_names": [
+            "transportation & automotive & rubber product",
+            "automotive & transportation & equipment",
+            "Transportation & Automotive & Rubber"
+        ],
+        "child_names": [
+            "summer tire & winter tire & all-season tire & performance tire & touring tire & mud tire & off-road tire & run-flat tire & eco-friendly tire & racing tire",
+            "winter tire & summer tire & all-season tire & high-performance tire & off-road tire & mud tire & all-terrain tire & touring tire & run-flat tire & low-profile tire",
+            "radial tire & summer tire & winter tire & all-season tire & performance tire & off-road tire & run-flat tire & low-profile tire & mud tire & touring tire"
+        ]
+    },
+    "182": {
+        "node_name": "seahorse",
+        "parent_names": [
+            "marine life & animals & aquatic creatures",
+            "marine life & aquatic animals & sea creatures",
+            "aquatic creatures & marine animals & vertebrates"
+        ],
+        "child_names": [
+            "dwarf seahorse & lined seahorse & thorny seahorse & pygmy seahorse & big belly seahorse & weedy seadragon & leafy seadragon & potbelly seahorse & longsnout seahorse & shortsnout seahorse",
+            "Dwarf seahorse & Pygmy seahorse & Leafy seadragon & Ribboned seahorse & Tiger tail seahorse & Pot-bellied seahorse & Thorny seahorse & Pygmy pipehorse & Big-belly seahorse & Hedgehog seahorse",
+            "dwarf seahorse & lined seahorse & tiger tail seahorse & pygmy seahorse & long-snouted seahorse & spotted seahorse & thorny seahorse & weedy seadragon & leafy seadragon & potbelly seahorse"
+        ]
+    },
+    "183": {
+        "node_name": "tiara",
+        "parent_names": [
+            "Jewelry & Accessories & Fashion",
+            "jewelry & accessories & fashion",
+            "Jewelry & Accessories & Fashion"
+        ],
+        "child_names": [
+            "diamond tiara & pearl tiara & crystal tiara & gold tiara & silver tiara & floral tiara & princess tiara & vintage tiara & feather tiara & rhinestone tiara",
+            "gold tiara & silver tiara & diamond tiara & pearl tiara & floral tiara & crystal tiara & princess tiara & wedding tiara & vintage tiara & crown tiara",
+            "diamond tiara & pearl tiara & gold tiara & silver tiara & floral tiara & crystal tiara & princess tiara & vintage tiara & bridal tiara & fairy tiara"
+        ]
+    },
+    "184": {
+        "node_name": "sassaby",
+        "parent_names": [
+            "Mammals & Herbivores & Antelopes",
+            "Mammals&Animals&Living things",
+            "Mammal & Animal & Living being"
+        ],
+        "child_names": [
+            "eastern sassaby & western sassaby & cape sassaby & southern sassaby & northern sassaby & Angolan sassaby & Tanzanian sassaby & Zambian sassaby & Zimbabwean sassaby & Kenyan sassaby",
+            "sassaby& sassaby& sassaby& sassaby& sassaby& sassaby& sassaby& sassaby& sassaby& sassaby",
+            "Sassaby & Sassaby & Sassaby & Sassaby & Sassaby & Sassaby & Sassaby & Sassaby & Sassaby & Sassaby"
+        ]
+    },
+    "185": {
+        "node_name": "fishing rod",
+        "parent_names": [
+            "Sports & Outdoor equipment & Recreation",
+            "sports & outdoor equipment & recreational activity",
+            "Outdoor equipment & Sporting goods & Recreation"
+        ],
+        "child_names": [
+            "spinning rod & fly rod & casting rod & surf rod & telescopic rod & ice fishing rod & trolling rod & baitcasting rod & travel rod & boat rod",
+            "spinning rod & casting rod & fly fishing rod & surf fishing rod & ice fishing rod & telescopic fishing rod & baitcasting rod & trolling rod & jigging rod & boat fishing rod",
+            "spinning rod & casting rod & fly rod & surf rod & telescopic rod & ice fishing rod & baitcasting rod & trolling rod & jigging rod & boat rod"
+        ]
+    },
+    "186": {
+        "node_name": "baguet",
+        "parent_names": [
+            "food & bakery & bread",
+            "food & bread & baked goods",
+            "food&bakery&bread"
+        ],
+        "child_names": [
+            " French baguette& Multigrain baguette& Whole wheat baguette& Cheese-filled baguette& Garlic baguette& Herb-infused baguette& Olive baguette& Chocolate-filled baguette& Sesame seed baguette& Sourdough baguette&French baguette & Multigrain baguette & Whole wheat baguette & Cheese-filled baguette & Garlic baguette & Herb-infused baguette & Olive baguette & Chocolate-filled baguette & Sesame seed baguette & Sourdough baguette",
+            " Classic baguette& Multigrain baguette& Whole wheat baguette& Cheese baguette& Garlic baguette& Herbed baguette& Sun-dried tomato baguette& Olive baguette& Chocolate baguette& Cranberry baguette",
+            "baguette & mini baguette & whole wheat baguette & garlic baguette & cheese baguette & multigrain baguette & sourdough baguette & ciabatta baguette & olive baguette & French baguette"
+        ]
+    },
+    "187": {
+        "node_name": "trowel",
+        "parent_names": [
+            "gardening tools & construction tools & hand tools",
+            "gardening tools & construction tools & hand tools",
+            "gardening tools & construction tools & hand tools"
+        ],
+        "child_names": [
+            "hand trowel & garden trowel & masonry trowel & plastering trowel & pointing trowel & brick trowel & gauging trowel & margin trowel & flooring trowel & bucket trowel",
+            "Masonry trowel & Garden trowel & Pointing trowel & Margin trowel & Bucket trowel & Plastering trowel & Brick trowel & Drywall trowel & Flooring trowel & Gauging trowel",
+            "brick trowel & garden trowel & pointing trowel & margin trowel & plastering trowel & concrete trowel & masonry trowel & finishing trowel & float trowel & notched trowel"
+        ]
+    },
+    "188": {
+        "node_name": "light switch",
+        "parent_names": [
+            "Electronics & Home Appliances & Interior Design",
+            "home appliances & electrical devices & hardware",
+            "home appliance & electrical device & control device"
+        ],
+        "child_names": [
+            "toggle switch & dimmer switch & rocker switch & push button switch & key switch & touch sensor switch & motion sensor switch & pull chain switch & slide switch & pressure switch",
+            "Toggle switch & Dimmer switch & Rocker switch & Push button switch & Slide switch & Pull chain switch & Rotary switch & Touch switch & Proximity switch & Key switch",
+            "toggle switch & rocker switch & push button switch & dimmer switch & timer switch & motion sensor switch & touch sensor switch & remote control switch & slide switch & keycard switch"
+        ]
+    },
+    "189": {
+        "node_name": "cornbread",
+        "parent_names": [
+            "food & bread & baked goods",
+            "Bread & Baked Goods & Corn Products",
+            "food & bread & baked goods"
+        ],
+        "child_names": [
+            "cornbread & sweet cornbread & cheesy cornbread & jalapeno cornbread & buttermilk cornbread & honey cornbread & gluten-free cornbread & skillet cornbread & southern cornbread & Mexican cornbread",
+            "sweet cornbread & savory cornbread & jalapeno cornbread & cheese cornbread & buttermilk cornbread & honey cornbread & gluten-free cornbread & vegan cornbread & bacon cornbread & blueberry cornbread",
+            "classic cornbread & sweet cornbread & jalapeno cornbread & cheesy cornbread & bacon cornbread & honey cornbread & buttermilk cornbread & gluten-free cornbread & vegan cornbread & pumpkin cornbread"
+        ]
+    },
+    "190": {
+        "node_name": "disa",
+        "parent_names": [
+            "Disaster & Disability & Disadvantage",
+            "Disability & Disease & Disadvantage",
+            "Disaster & Disease & Disability"
+        ],
+        "child_names": [
+            " Dishwasher& Disassembler& Disaster relief supplies& Disposable cutlery& Disabled parking permits& Disappearing ink pen& Dish drying rack& Disappearing magic trick prop& Disassembled furniture& Disarming device",
+            " Disappearing ink& Disability parking permit& Disassembled furniture& Disarmament treaty& Disaster relief supplies& Disaffected youth& Disadvantaged communities& Disappearing movie magic& Disassembled electronic device& Disappointing news & Disbelieving crowd",
+            " Disappearing ink& Disappearing pen& Disappearing message pad& Disappearing marker& Disappearing spray& Disappearing dye& Disappearing fabric& Disappearing paint& Disappearing glue& Disappearing candle"
+        ]
+    },
+    "191": {
+        "node_name": "serving tray",
+        "parent_names": [
+            "kitchenware & tableware & home d\u00e9cor",
+            "Kitchenware & Tableware & Home d\u00e9cor",
+            "kitchenware & home decor & tableware"
+        ],
+        "child_names": [
+            "wooden serving tray & metal serving tray & plastic serving tray & bamboo serving tray & acrylic serving tray & glass serving tray & ceramic serving tray & marble serving tray & melamine serving tray & wicker serving tray",
+            "wooden serving tray & metal serving tray & plastic serving tray & bamboo serving tray & glass serving tray & marble serving tray & ceramic serving tray & acrylic serving tray & melamine serving tray & rattan serving tray",
+            "wooden serving tray & metal serving tray & plastic serving tray & bamboo serving tray & glass serving tray & ceramic serving tray & marble serving tray & acrylic serving tray & melamine serving tray & stainless steel serving tray"
+        ]
+    },
+    "192": {
+        "node_name": "tuning fork",
+        "parent_names": [
+            "Sound & Musical Instruments & Tools",
+            "Sound & Musical instruments & Tools",
+            "Music instruments & Sound production & Physics"
+        ],
+        "child_names": [
+            "C256&G288&A320&F3&D384&C7&E480&B512&A3",
+            "C256 tuning fork & C512 tuning fork & C1024 tuning fork & G512 tuning fork & G1024 tuning fork & D256 tuning fork & D512 tuning fork & A256 tuning fork & A512 tuning fork & E256 tuning fork",
+            "tuning fork & musical tuning fork & aluminum tuning fork & brass tuning fork & steel tuning fork & electronic tuning fork & chromatic tuning fork & pitch tuning fork & A440 tuning fork & C256 tuning fork"
+        ]
+    },
+    "193": {
+        "node_name": "virginia spring beauty",
+        "parent_names": [
+            "Flowers & Plants & Nature",
+            "flower & plant & natural",
+            "Flower & Plant & Nature"
+        ],
+        "child_names": [
+            "Carolina spring beauty& Eastern spring beauty& Appalachian spring beauty& Smooth spring beauty& Slender spring beauty& Prairie spring beauty& Mountain spring beauty& Slender toothwort& Roundleaf toothwort& Carolina springcress",
+            "Carolina Spring Beauty & Eastern Spring Beauty & Appalachian Spring Beauty & Smooth Spring Beauty & Slender Spring Beauty & Slender Toothwort & Rose Twisted Stalk & Purple Fairy Candelabra & Roundleaf Catchfly & Carolina Larkspur",
+            "Bluebell & Daffodil & Tulip & Lily of the Valley & Primrose & Crocus & Snowdrop & Anemone & Hyacinth & Iris"
+        ]
+    },
+    "194": {
+        "node_name": "samosa",
+        "parent_names": [
+            "Food & Snack & Indian cuisine",
+            "Food & Snack & Indian cuisine",
+            "Food & Snack & Indian Cuisine"
+        ],
+        "child_names": [
+            "Veg samosa & Chicken samosa & Beef samosa & Cheese samosa & Potato samosa & Spinach samosa & Paneer samosa & Corn samosa & Lentil samosa & Mushroom samosa",
+            "samosa & cheese samosa & vegetable samosa & chicken samosa & beef samosa & potato samosa & spinach samosa & onion samosa & paneer samosa & sweet samosa",
+            "spicy samosa & vegetable samosa & chicken samosa & beef samosa & cheese samosa & potato samosa & lentil samosa & paneer samosa & mushroom samosa & spinach samosa"
+        ]
+    },
+    "195": {
+        "node_name": "bathroom cabinet",
+        "parent_names": [
+            "furniture & storage & home improvement",
+            "Furniture & Storage & Home Improvement",
+            "Furniture & Home decor & Storage"
+        ],
+        "child_names": [
+            "wall-mounted bathroom cabinet & freestanding bathroom cabinet & mirrored bathroom cabinet & corner bathroom cabinet & tall bathroom cabinet & floating bathroom cabinet & recessed bathroom cabinet & wooden bathroom cabinet & glass bathroom cabinet & metal bathroom cabinet.",
+            "wooden bathroom cabinet & wall-mounted bathroom cabinet & freestanding bathroom cabinet & mirrored bathroom cabinet & corner bathroom cabinet & white bathroom cabinet & floating bathroom cabinet & vintage bathroom cabinet & modern bathroom cabinet & tall bathroom cabinet",
+            "medicine cabinet & wall-mounted cabinet & floor-standing cabinet & corner cabinet & mirrored cabinet & recessed cabinet & freestanding cabinet & under sink cabinet & tall cabinet & narrow cabinet"
+        ]
+    },
+    "196": {
+        "node_name": "chigetai",
+        "parent_names": [
+            "Clothing & Accessories & Fashion",
+            "clothing & footwear & accessories",
+            "clothing & fashion & accessories"
+        ],
+        "child_names": [
+            "silk chigetai & cotton chigetai & satin chigetai & velvet chigetai & floral chigetai & paisley chigetai & striped chigetai & plaid chigetai & embroidered chigetai & geometric chigetai",
+            "Chigetai&Chigetai&Chigetai&Chigetai&Chigetai&Chigetai&Chigetai&Chigetai&Chigetai&Chigetai",
+            "chigetai & chigetai & chigetai & chigetai & chigetai & chigetai & chigetai & chigetai & chigetai & chigetai"
+        ]
+    },
+    "197": {
+        "node_name": "blue poppy",
+        "parent_names": [
+            "flower & plant & color",
+            "flowers & plants & colors",
+            "flowers & plants & colors"
+        ],
+        "child_names": [
+            "blue poppy & Himalayan blue poppy & Tibetan blue poppy & Meconopsis betonicifolia & Satin blue poppy & Meconopsis grandis & Blue Himalayan poppy & Blue Tibetan poppy & Blue-flowered poppy & Chinese blue poppy",
+            "blue poppy & Himalayan blue poppy & Tibetan blue poppy & Meconopsis betonicifolia & Blue flowers & Perennial plants & Garden plants & Ornamental plants & Wildflowers & Delicate flowers",
+            "corn poppy & Himalayan blue poppy & California poppy & Oriental poppy & Welsh poppy & Spanish poppy & Iceland poppy & Mexican poppy & Flanders poppy & Shirley poppy"
+        ]
+    },
+    "198": {
+        "node_name": "scimitar",
+        "parent_names": [
+            "weapons & swords & edged weapons",
+            "Weapons & Blades & Middle Eastern weapons",
+            "Weapons & Blades & Swords"
+        ],
+        "child_names": [
+            "scimitar & scimitar & scimitar & scimitar & scimitar & scimitar & scimitar & scimitar & scimitar & scimitar",
+            "scimitar& curved sword& sabre& cutlass& falchion& shamshir& kilij& tulwar& yatagan& mameluke sword",
+            "curved, arabian, middle eastern, sword, blade, weapon, steel, sharp, historical, decorative"
+        ]
+    },
+    "199": {
+        "node_name": "shirt button",
+        "parent_names": [
+            "Clothing & Sewing supplies & Fashion accessories",
+            "clothing & accessories & fasteners",
+            "clothing & accessories & fasteners"
+        ],
+        "child_names": [
+            "plastic button & metal button & wooden button & fabric button & pearl button & rhinestone button & shell button & glass button & ceramic button & leather button",
+            "plastic button & metal button & wooden button & shell button & pearl button & fabric button & ceramic button & glass button & leather button & rhinestone button",
+            "plastic button & metal button & wooden button & fabric button & shell button & glass button & ceramic button & pearl button & leather button & resin button"
+        ]
+    },
+    "200": {
+        "node_name": "slow cooker",
+        "parent_names": [
+            "kitchen appliances & cooking utensils & electrical appliances",
+            "Kitchen appliances & Cooking equipment & Electrical appliances",
+            "Kitchen appliances & Cooking utensils & Household appliances"
+        ],
+        "child_names": [
+            "crockpot & electric cooker & multi-cooker & programmable cooker & stovetop cooker & pressure cooker & rice cooker & Dutch oven & casserole cooker & roaster",
+            "Crock-Pot&Instant Pot&Ninja Foodi&Hamilton Beach&KitchenAid&Cuisinart&All-Clad&Breville&Mueller&Aroma",
+            "casserole slow cooker & programmable slow cooker & digital slow cooker & manual slow cooker & stainless steel slow cooker & ceramic slow cooker & portable slow cooker & multi-cooker slow cooker & oval slow cooker & round slow cooker"
+        ]
+    }
+}

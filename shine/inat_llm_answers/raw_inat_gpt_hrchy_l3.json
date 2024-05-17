@@ -1,0 +1,734 @@
+{
+    "1": {
+        "node_name": "Cypriniformes",
+        "parent_names": [
+            "Actinopterygii",
+            "Chordata"
+        ],
+        "child_names": [
+            "Cyprinidae & Cobitidae & Balitoridae & Gyrinocheilidae & Catostomidae & Danionidae & Nemacheilidae & Botiidae & Sinipercidae & Cyprinodontidae",
+            "Cyprinidae & Catostomidae & Cobitidae & Balitoridae & Nemacheilidae & Gyrinocheilidae & Cyprinodontidae & Goodeidae & Poeciliidae & Anabantidae",
+            "Cyprinidae & Balitoridae & Cobitidae & Danionidae & Gyrinocheilidae & Nemacheilidae & Catostomidae & Psilorhynchidae & Sinipercidae & Xenocyprididae"
+        ]
+    },
+    "2": {
+        "node_name": "Perciformes",
+        "parent_names": [
+            "Actinopterygii",
+            "Chordata"
+        ],
+        "child_names": [
+            "Serranidae & Pomacentridae & Labridae & Carangidae & Lutjanidae & Haemulidae & Sciaenidae & Gobiidae & Cichlidae & Sparidae",
+            "Serranidae & Pomacentridae & Lutjanidae & Labridae & Sciaenidae & Gobiidae & Carangidae & Haemulidae & Sparidae & Mugilidae",
+            "Serranidae & Carangidae & Pomacentridae & Labridae & Lutjanidae & Sciaenidae & Centrarchidae & Gobiidae & Haemulidae & Sparidae"
+        ]
+    },
+    "3": {
+        "node_name": "Salmoniformes",
+        "parent_names": [
+            "Actinopterygii",
+            "Chordata"
+        ],
+        "child_names": [
+            "Salmonidae & Osmeridae & Argentinidae & Galaxiidae & Retropinnidae & Thymallidae & Esocidae & Umbridae & Catostomidae & Cobitidae",
+            "Salmonidae & Umbridae & Galaxiidae & Osmeridae & Argentinidae & Alepocephalidae & Paralepididae & Bathylagidae & Myctophidae & Neoscopelidae",
+            "Salmonidae & Galaxiidae & Esocidae & Umbridae & Argentinidae & Retropinnidae & Alepocephalidae & Bathylagidae & Paralepididae & Myctophidae"
+        ]
+    },
+    "4": {
+        "node_name": "Anura",
+        "parent_names": [
+            "Amphibia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Bufonidae & Hylidae & Ranidae & Microhylidae & Dendrobatidae & Pipidae & Rhacophoridae & Mantellidae & Hyperoliidae & Alytidae",
+            "Ranidae & Bufonidae & Hylidae & Microhylidae & Dendrobatidae & Alytidae & Rhacophoridae & Mantellidae & Pelobatidae & Hyperoliidae",
+            "Bufonidae&Hylidae&Ranidae&Mantellidae&Dendrobatidae&Alytidae&Rhinodermatidae&Leptodactylidae&Pipidae&Megophryidae"
+        ]
+    },
+    "5": {
+        "node_name": "Caudata",
+        "parent_names": [
+            "Amphibia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Salamandridae & Proteidae & Cryptobranchidae & Amphiumidae & Plethodontidae & Ambystomatidae & Rhyacotritonidae & Dicamptodontidae & Amphiumidae & Sirenidae",
+            "Salamanders & Newts & Amphiumas & Olms & Mudpuppies & Sirens & Dwarf sirens & Asian newts & European newts & African newts",
+            "Salamanders & Newts & Amphiumas & Sirens & Mudpuppies & Olms & Proteus & Axolotls & Congo eels & Hellbenders"
+        ]
+    },
+    "6": {
+        "node_name": "Actiniaria",
+        "parent_names": [
+            "Anthozoa",
+            "Cnidaria"
+        ],
+        "child_names": [
+            "Actinodendronidae & Actinostolidae & Aiptasiidae & Aliciidae & Acontiophoridae & Actinoscyphiidae & Actinopodidae & Actinodendronidae & Actinostolidae & Aiptasiidae",
+            "Actiniidae & Aiptasiidae & Aliciidae & Andvakiidae & Antipathidae & Aulactiniidae & Boloceroididae & Cerianthidae & Corallimorphidae & Edwardsiidae",
+            "Actinodendridae & Actinostolidae & Actinoscyphiidae & Aiptasiidae & Aliciidae & Amphianthidae & Antipathidae & Antipodactinidae & Acontiophoridae & Actinodendronidae"
+        ]
+    },
+    "7": {
+        "node_name": "Isopoda",
+        "parent_names": [
+            "Malacostraca",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Cymothoidae & Sphaeromatidae & Cirolanidae & Idoteidae & Serolidae & Armadillidiidae & Bopyridae & Gnathiidae & Aegidae & Anthuridae",
+            "Armadillidae & Porcellionidae & Oniscidae & Philosciidae & Trachelipodidae & Platyarthridae & Cylisticidae & Sphaeromatidae & Cirolanidae & Janiridae",
+            "Asellidae & Armadillidae & Cirolanidae & Idoteidae & Sphaeromatidae & Cymothoidae & Serolidae & Stenetriidae & Anthuridae & Bopyridae"
+        ]
+    },
+    "8": {
+        "node_name": "Decapoda",
+        "parent_names": [
+            "Malacostraca",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Crabs & lobsters & crayfish & shrimps & prawns & hermit crabs & porcelain crabs & squat lobsters & cleaner shrimp & mantis shrimp",
+            "Brachyura & Astacidea & Caridea & Anomura & Thalassinidea & Palinura & Achelata & Stenopodidea & Polychelida & Glypheidea",
+            "Crab&Lobster&Shrimp&Crayfish&Prawn&Hermit crab&Mantis shrimp&Squat lobster&Anomuran&Caridea"
+        ]
+    },
+    "9": {
+        "node_name": "Clypeasteroida",
+        "parent_names": [
+            "Echinoidea",
+            "Echinodermata"
+        ],
+        "child_names": [
+            "Astriclypeidae & Clypeasteridae & Dendrasteridae & Echinocyamidae & Fibulariidae & Holectypidae & Laganidae & Mellitidae & Pseudodiadematidae & Scutellinidae",
+            "Clypeasteroida & Laganidae & Mellitidae & Scutellinidae & Astriclypeidae & Glyphocyphidae & Clypeasteridae & Dendrasteridae & Mellitellidae & Fibulariidae",
+            "Clypeasteroida & Clypeasteridae & Mellitidae & Scutellinidae & Astriclypeidae & Laganidae & Mellitellidae & Astriclypeidae & Scutellinidae & Laganidae"
+        ]
+    },
+    "10": {
+        "node_name": "Valvatida",
+        "parent_names": [
+            "Asteroidea",
+            "Echinodermata"
+        ],
+        "child_names": [
+            "Asteriidae & Goniasteridae & Leptasteriidae & Mithrodiidae & Odontasteridae & Oreasteridae & Poraniidae & Porcellanasteridae & Solasteridae & Stichasteridae",
+            "Asterinidae, Goniasteridae, Oreasteridae, Mithrodiidae, Solasteridae, Porcellanasteridae, Ophidiasteridae, Pycnopodiidae, Mithrodiidae, and Odontasteridae.",
+            "Valvatidae & Porcellanidae & Lithodidae & Aeglidae & Parthenopidae & Majidae & Epialtidae & Xanthidae & Pinnotheridae & Trapeziidae"
+        ]
+    },
+    "11": {
+        "node_name": "Polydesmida",
+        "parent_names": [
+            "Diplopoda",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Xystodesmidae & Paradoxosomatidae & Dalodesmidae & Nearctodesmidae & Leptodesmidae & Cryptodesmidae & Eurydesmidae & Pseudopolydesmidae & Oniscodesmidae",
+            "Xystodesmidae & Chelodesmidae & Eurydesmidae & Haplodesmidae & Paradoxosomatidae & Cryptodesmidae & Opisotretidae & Trichopolydesmidae & Nearctodesmidae",
+            "Polydesmidae& Xystodesmidae& Paradoxosomatidae& Chelodesmidae& Macrosternodesmidae& Eurydesmidae& Haplodesmidae& Leptodesmidae& Nearctodesmidae& Cryptodesmidae"
+        ]
+    },
+    "12": {
+        "node_name": "Xiphosurida",
+        "parent_names": [
+            "Merostomata",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Limulidae & Tachypleidae & Synziphosuridae & Mesolimulidae & Euproopidae & Bellinuridae & Lunatiridae & Tachypleidae & Austrolimulidae & Prestwichiidae",
+            "Limulidae & Tachypleidae & Planateridae & Bellinuridae & Synziphosuridae & Euproopidae & Lunataspidae & Paleolimulidae & Prestwichiidae & Belinuridae",
+            "Limulidae& Tachypleusidae& Synziphosuridae& Bellinuridae& Euproopidae& Paleolimulidae& Prestwichiidae& Weinberginidae& Belinuridae& Mesolimulidae"
+        ]
+    },
+    "13": {
+        "node_name": "Siphonophorae",
+        "parent_names": [
+            "Hydrozoa",
+            "Cnidaria"
+        ],
+        "child_names": [
+            "Diphyidae & Physaliidae & Agalmatidae & Rhizophysidae & Prayidae & Apolemiidae & Forskaliidae & Hippopodiidae & Stephanomiidae & Erennidae",
+            "Agalmaidae & Abylidae & Diphyidae & Physaliidae & Porpitidae & Prayidae & Rhizophysidae & Rosacea & Sphaeronectidae & Stephanomiidae",
+            "Physalia & Physophora & Apolemia & Diphyes & Agalma & Erenna & Praya & Velella & Muggiaea & Nanomia"
+        ]
+    },
+    "14": {
+        "node_name": "Forcipulatida",
+        "parent_names": [
+            "Asteroidea",
+            "Echinodermata"
+        ],
+        "child_names": [
+            "Asteriidae & Goniasteridae & Echinasteridae & Zoroasteridae & Asterinidae & Brisingidae & Solasteridae & Pterasteridae & Stichasteridae & Archasteridae",
+            "Astropectinidae & Asteriidae & Chaetasteridae & Echinasteridae & Goniasteridae & Korethrasteridae & Odontasteridae & Ophidiasteridae & Pseudarchasteridae & Solasteridae",
+            "Solasteridae & Asteriidae & Echinasteridae & Goniasteridae & Leptasteridae & Ophidiasteridae & Pedicellasteridae & Pentagonasteridae & Zoroasteridae & Echinasteridae"
+        ]
+    },
+    "15": {
+        "node_name": "Scolopendromorpha",
+        "parent_names": [
+            "Chilopoda",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Scolopendridae & Cryptopidae & Plutoniumidae & Otostigminae & Otostigmomorpha & Alipesidae & Cryptopinae & Plutoniinae & Otostigmidae & Scolopocryptopidae",
+            "Scolopendridae & Cryptopidae & Cryptopidae & Plutoniumidae & Otostigmitidae & Otostigmitidae & Otostigmitidae & Otostigmitidae & Otostigmitidae & Otostigmitidae",
+            "Scolopendridae & Cryptopidae & Plutoniumidae & Scutigeridae & Scolopocryptopidae & Otostigidae & Pericotalinae & Mimopidae & Hemiscolopendridae & Rhysidae"
+        ]
+    },
+    "16": {
+        "node_name": "Camarodonta",
+        "parent_names": [
+            "Echinoidea",
+            "Echinodermata"
+        ],
+        "child_names": [
+            "Cidaridae & Echinidae & Echinothuriidae & Temnopleuridae & Toxopneustidae & Strongylocentrotidae & Diadematidae & Arbaciidae & Saleniidae & Mellitidae",
+            "Camarodonta, Holothuriidae, Synaptidae, Holothuriopsidae, Stichopodidae, Cucumariidae, Chiridotidae, Sclerodactylidae, Psolidae, Phyllophoridae",
+            "Cidaridae & Echinidae & Parechinidae & Arbaciidae & Toxopneustidae & Temnopleuridae & Strongylocentrotidae & Echinometridae & Echinothuriidae & Diadematidae"
+        ]
+    },
+    "17": {
+        "node_name": "Anthoathecata",
+        "parent_names": [
+            "Hydrozoa",
+            "Cnidaria"
+        ],
+        "child_names": [
+            "Lafoeidae & Bougainvilliidae & Pandeidae & Tubulariidae & Corynidae & Eudendriidae & Rathkeidae & Haleciidae & Tubiclavoidae & Zancleidae",
+            "Lafoeidae & Tubulariidae & Bougainvilliidae & Aglaopheniidae & Aequoreidae & Eudendriidae & Pandeidae & Rathkeidae & Kirchenpaueriidae & Sertulariidae",
+            "Lafoeidae & Bougainvilliidae & Tubulariidae & Eirenidae & Pandeidae & Halammohydridae & Clavidae & Tubulariidae & Tubulariidae & Rhysiidae"
+        ]
+    },
+    "18": {
+        "node_name": "Araneae",
+        "parent_names": [
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Lycosidae & Salticidae & Theridiidae & Thomisidae & Araneidae & Agelenidae & Anyphaenidae & Clubionidae & Pholcidae & Tetragnathidae",
+            "Salticidae & Theridiidae & Lycosidae & Tetragnathidae & Araneidae & Thomisidae & Clubionidae & Pholcidae & Agelenidae & Oxyopidae",
+            "Araneidae & Lycosidae & Salticidae & Thomisidae & Philodromidae & Tetragnathidae & Theridiidae & Clubionidae & Anyphaenidae & Sparassidae"
+        ]
+    },
+    "19": {
+        "node_name": "Scorpiones",
+        "parent_names": [
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Buthidae & Caraboctonidae & Chaerilidae & Chactidae & Euscorpiidae & Hemiscorpiidae & Hormuridae & Iuridae & Pseudochactidae & Scorpionidae",
+            "Buthidae&Iuridae&Diplocentridae&Chaerilidae&Chactidae&Hemiscorpiidae&Bothriuridae&Diplocentridae&Vaejovidae&Scorpionidae",
+            "Buthidae & Diplocentridae & Euscorpiidae & Hemiscorpiidae & Hormuridae & Iuridae & Pseudochactidae & Scorpionidae & Superstitioniidae & Vaejovidae"
+        ]
+    },
+    "20": {
+        "node_name": "Ixodida",
+        "parent_names": [
+            "Arachnida",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Argasidae & Nuttalliellidae & Ixodidae & Atrichobdellidae & Trichobdellidae & Holothyrida & Ixodes & Dermacentor & Amblyomma & Haemaphysalis",
+            "Argasidae & Nuttalliellidae & Ixodesidae & Rhipicephalidae & Amblyomminae & Dermacentorinae & Haemaphysalinae & Ixodinae & Hyalomminae & Ornithodorinae",
+            "Argasidae & Ixodidae & Nuttalliellidae & Amblyomminae & Haemaphysalinae & Rhipicephalinae & Dermacentorinae & Ixodes & Amblyomma & Rhipicephalus"
+        ]
+    },
+    "21": {
+        "node_name": "Passeriformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Cardinalidae & Corvidae & Fringillidae & Icteridae & Mimidae & Paridae & Passeridae & Picidae & Sturnidae & Thraupidae",
+            "Fringillidae & Corvidae & Paridae & Turdidae & Sturnidae & Hirundinidae & Alaudidae & Emberizidae & Troglodytidae & Motacillidae",
+            "Alaudidae & Hirundinidae & Parulidae & Cardinalidae & Fringillidae & Sturnidae & Turdidae & Corvidae & Troglodytidae & Motacillidae"
+        ]
+    },
+    "22": {
+        "node_name": "Charadriiformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Alcidae & Burhinidae & Charadriidae & Haematopodidae & Laridae & Recurvirostridae & Rostratulidae & Scolopacidae & Stercorariidae & Sternidae",
+            "Sandpipers & Plovers & Gulls & Terns & Auks & Skuas & Shearwaters & Albatrosses & Petrels & Fulmars",
+            "Scolopacidae & Laridae & Alcidae & Phalaropodidae & Charadriidae & Recurvirostridae & Haematopodidae & Burhinidae & Glareolidae & Stercorariidae"
+        ]
+    },
+    "23": {
+        "node_name": "Podicipediformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Grebes &",
+            "Grebes &",
+            "Grebes &"
+        ]
+    },
+    "24": {
+        "node_name": "Anseriformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Anatidae & Anhimidae & Anseranatidae & Anserinae & Dendrocygninae & Stictonettinae & Tadorninae & Dendrocygnidae & Merganettinae & Thalassorninae",
+            "Anatidae&Anhimidae&Atridae&Anseranatidae&Ancienta&Anatinae&Anserinae&Anseranatinae&Anhiminae&Anserina",
+            "Anatidae & Anhimidae & Anseranatidae & Cereopseidae & Dendrocygnidae & Presbyornithidae & Spheniscidae & Anatidae & Anhimidae & Anseranatidae"
+        ]
+    },
+    "25": {
+        "node_name": "Coraciiformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Kingfisher&Roller&Bee-eater&Motmot&Tody&Ground Roller&Brilliant&Tody-Flycatcher&Trogon&Hoopoe",
+            "Kingfishers&Rollers&Bee-eaters&Hoopoes&Hornbills&Todies&Motmots&Ground-rollers&Broad-billed rollers&Brilliant-thighed pygmy-tyrants",
+            "Kingfishers & Bee-eaters & Rollers & Hornbills & Hoopoes & Todies & Motmots & Ground-rollers & Brachypteraciidae & Leptosomidae"
+        ]
+    },
+    "26": {
+        "node_name": "Caprimulgiformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Caprimulgidae & Steatornithidae & Nyctibiidae & Aegothelidae & Eurostopodidae & Podargidae & Hemiprocnidae & Apodidae & Trochilidae & Colibriidae",
+            "Caprimulgidae & Steatornithidae & Aegothelidae & Podargidae & Eurostopodidae & Nyctibiidae & Hemiprocnidae & Apodidae & Trochilidae & Rallidae",
+            "Goatsuckers&Nighthawks&Oilbirds&Eared-Nightjars&Frogmouths&Potoos&Whip-poor-wills&Swifts&Treeswifts&Spinetails"
+        ]
+    },
+    "27": {
+        "node_name": "Suliformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Fregatidae & Sulidae & Phalacrocoracidae & Anhingidae & Phaethontidae & Gannetidae & Moridae & Hydrobatidae & Pelecanoididae & Procellariidae",
+            "Fregatidae & Sulidae & Phalacrocoracidae & Anhingidae & Phaethontidae & Gannet & Booby & Cormorant & Darter & Tropicbird.",
+            "Sulidae & Phalacrocoracidae & Fregatidae & Anhingidae & Pelecanidae & Phaethontidae & Gaviidae & Podicipedidae & Hydrobatidae & Diomedeidae"
+        ]
+    },
+    "28": {
+        "node_name": "Gruiformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Rails&Crakes&Limpkins&Cranes&Coots&Moorhens&Bustards&Sungrebe&Trumpeters",
+            "Cranes & Rails & Buttonquails & Sunbitterns & Seriemas & Bustards & Mesites & Trumpeters & Limpkins & Finfoots",
+            "Rails&cranes&plovers&flufftails&sunbitterns&finfoots&kagu&seriemas&trumpeters&mesites"
+        ]
+    },
+    "29": {
+        "node_name": "Accipitriformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Accipitridae & Pandionidae & Sagittariidae & Cathartidae & Pandionidae & Accipitridae & Cathartidae & Sagittariidae & Accipitridae & Cathartidae.",
+            "Accipitridae& Pandionidae& Cathartidae& Sagittariidae& Accipitridae& Cathartidae& Pandionidae& Sagittariidae& Accipitridae& Cathartidae",
+            "Accipitridae & Pandionidae & Sagittariidae & Cathartidae & Accipitridae & Accipitridae & Accipitridae & Accipitridae & Accipitridae & Accipitridae"
+        ]
+    },
+    "30": {
+        "node_name": "Pelecaniformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Pelecanidae & Threskiornithidae & Ardeidae & Scopidae & Balaenicipitidae & Phaethontidae & Sulidae & Fregatidae & Anhingidae & Phalacrocoracidae",
+            "Pelecanidae & Ardeidae & Threskiornithidae & Phalacrocoracidae & Fregatidae & Sulidae & Anhingidae & Phaethontidae & Pelecanicidae & Gaviidae",
+            "Pelecanidae & Threskiornithidae & Ardeidae & Scopidae & Balaenicipitidae & Phaethontidae & Sulidae & Fregatidae & Anhingidae & Phalacrocoracidae"
+        ]
+    },
+    "31": {
+        "node_name": "Procellariiformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Albatross&Petrel&Shearwater&Fulmar&Storm petrel&Tropicbird&Prion&Gadfly petrel&Pseudobulweria&Procellariidae",
+            "Albatrosses & Petrels & Shearwaters & Fulmars & Prions & Storm-petrels & Diving-petrels & Southern giant-petrels & Northern giant-petrels & Cape petrels",
+            "Albatross&Petrel&Shearwater&Fulmar&Storm petrel&Pelican&Booby&Tropicbird&Frigatebird&Gannet"
+        ]
+    },
+    "32": {
+        "node_name": "Strigiformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Tytonidae & Strigidae & Aegolius & Asio & Athene & Bubo & Ninox & Otus & Ptilopsis & Pyrroglaux",
+            "Tytonidae & Strigidae & Aegolius & Asio & Athene & Bubo & Glaucidium & Megascops & Ninox & Otus",
+            "Tytonidae & Strigidae & Aegolius & Asio & Athene & Bubo & Glaucidium & Lophostrix & Megascops & Ninox"
+        ]
+    },
+    "33": {
+        "node_name": "Galliformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Phasianidae & Numididae & Odontophoridae & Meleagrididae & Cracidae & Phasianellidae & Tetraonidae & Megapodiidae & Cracidae & Phasianidae",
+            "Phasianidae & Numididae & Odontophoridae & Cracidae & Megapodiidae & Meleagrididae & Tetraonidae & Phasianidae & Numididae & Odontophoridae",
+            "Phasianidae & Numididae & Odontophoridae & Cracidae & Megapodiidae & Meleagrididae & Phasianidae & Tetraonidae & Phasianidae & Phasianidae"
+        ]
+    },
+    "34": {
+        "node_name": "Piciformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Jacamars & puffbirds & barbets & toucans & honeyguides & woodpeckers & piculets & wrynecks & jacanas & puffbirds",
+            "Jacamars & puffbirds & barbets & toucans & honeyguides & woodpeckers & wrynecks & piculets & jacanas & hoopoes",
+            "Jacamars & Puffbirds & Barbets & Toucans & Honeyguides & Woodpeckers & Wrynecks & Todies & Jacanas & Seriemas"
+        ]
+    },
+    "35": {
+        "node_name": "Falconiformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Hawk & Eagle & Falcon & Kite & Vulture & Buzzard & Harrier & Osprey & Secretarybird & Caracara",
+            "Accipitridae & Cathartidae & Pandionidae & Sagittariidae & Falconidae & Teratornithidae & Aegypiidae & Sagittariidae & Accipitridae & Falconidae",
+            "Accipitridae & Cathartidae & Pandionidae & Sagittariidae & Falconidae & Strigidae & Tytonidae & Podargidae & Aegothelidae & Cuculidae"
+        ]
+    },
+    "36": {
+        "node_name": "Cathartiformes",
+        "parent_names": [
+            "Aves",
+            "Chordata"
+        ],
+        "child_names": [
+            "Cathartidae & Pandionidae & Accipitridae & Sagittariidae & Falconidae & Strigidae & Tytonidae & Podargidae & Aegothelidae & Cuculidae",
+            "New World vultures & condors",
+            "Cathartidae & Sagittariidae & Pandionidae & Accipitridae & Sagittariidae & Falconidae & Strigidae & Tytonidae & Podargidae & Aegothelidae"
+        ]
+    },
+    "37": {
+        "node_name": "Lepidoptera",
+        "parent_names": [
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Papilionidae & Pieridae & Nymphalidae & Lycaenidae & Hesperiidae & Riodinidae & Satyridae & Danaidae & Erebidae & Noctuidae",
+            "Papilionidae & Pieridae & Nymphalidae & Lycaenidae & Riodinidae & Hesperiidae & Erebidae & Noctuidae & Saturniidae & Sphingidae",
+            "Papilionidae&Nymphalidae&Lycaenidae&Riodinidae&Hesperiidae&Saturniidae&Noctuidae&Pieridae&Geometridae&Arctiidae"
+        ]
+    },
+    "38": {
+        "node_name": "Hemiptera",
+        "parent_names": [
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Alydidae & Cicadellidae & Coreidae & Delphacidae & Miridae & Reduviidae & Rhopalidae & Tingidae & Pentatomidae & Lygaeidae",
+            "Aphididae & Cicadellidae & Reduviidae & Miridae & Lygaeidae & Pentatomidae & Cimicidae & Coreidae & Nabidae & Tingidae",
+            "Aphididae & Cicadellidae & Coreidae & Miridae & Nabidae & Pentatomidae & Reduviidae & Tingidae & Lygaeidae & Gerridae"
+        ]
+    },
+    "39": {
+        "node_name": "Hymenoptera",
+        "parent_names": [
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Apidae & Vespidae & Formicidae & Megachilidae & Halictidae & Colletidae & Andrenidae & Pompilidae & Sphecidae & Mutillidae",
+            "Ants & Bees & Wasps & Hornets & Sawflies & Gall wasps & Parasitic wasps & Velvet ants & Paper wasps & Yellowjackets",
+            "Ants & Bees & Wasps & Sawflies & Horntails & Gall wasps & Velvet ants & Parasitic wasps & Bumblebees & Hornets"
+        ]
+    },
+    "40": {
+        "node_name": "Diptera",
+        "parent_names": [
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Culicidae & Tephritidae & Drosophilidae & Syrphidae & Tabanidae & Calliphoridae & Muscidae & Simuliidae & Psychodidae & Chironomidae",
+            "Culicidae & Muscidae & Calliphoridae & Tephritidae & Drosophilidae & Syrphidae & Tabanidae & Psychodidae & Simuliidae & Chironomidae",
+            "Culicidae & Drosophilidae & Syrphidae & Tephritidae & Muscidae & Calliphoridae & Tabanidae & Chironomidae & Simuliidae & Sciaridae"
+        ]
+    },
+    "41": {
+        "node_name": "Odonata",
+        "parent_names": [
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Dragonflies & Damselflies",
+            "dragonflies & damselflies & calopterygidae & coenagrionidae & libellulidae & platycnemididae & lestidae & macromiidae & aeshnidae & gomphidae",
+            "Calopterygidae & Aeshnidae & Gomphidae & Coenagrionidae & Libellulidae & Cordulegastridae & Macromiidae & Chlorocyphidae & Protoneuridae & Lestidae."
+        ]
+    },
+    "42": {
+        "node_name": "Coleoptera",
+        "parent_names": [
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Carabidae & Scarabaeidae & Tenebrionidae & Cerambycidae & Curculionidae & Chrysomelidae & Lampyridae & Cantharidae & Coccinellidae & Buprestidae",
+            "Carabidae & Cerambycidae & Chrysomelidae & Coccinellidae & Curculionidae & Dermestidae & Elateridae & Lampyridae & Scarabaeidae & Staphylinidae",
+            "Cicindelidae & Carabidae & Scarabaeidae & Curculionidae & Chrysomelidae & Lampyridae & Cerambycidae & Tenebrionidae & Staphylinidae & Buprestidae"
+        ]
+    },
+    "43": {
+        "node_name": "Megaloptera",
+        "parent_names": [
+            "Insecta",
+            "Arthropoda"
+        ],
+        "child_names": [
+            "Corydalidae & Sialidae & Chauliodidae & Dilaridae & Parasialidae & Sialidae & Austroperlidae & Osmylidae & Nemopteridae & Panorpidae",
+            "Sialidae & Corydalidae & Chauliodidae & Brachypteridae & Parasialidae & Protochauliidae & Euchauliidae & Oulimniidae & Chauliodellidae & Osmylidae",
+            "Corydalidae & Sialidae & Chauliodidae & Parasialidae & Osmylidae & Sisyridae & Nemopteridae & Psychopsidae & Nymphidae & Dilaridae"
+        ]
+    },
+    "44": {
+        "node_name": "Rodentia",
+        "parent_names": [
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Mouse & Rat & Squirrel & Guinea pig & Capybara & Beaver & Porcupine & Chinchilla & Hamster & Gerbil",
+            "Mouse & Rat & Guinea pig & Hamster & Gerbil & Squirrel & Chipmunk & Beaver & Porcupine & Capybara",
+            "Mouse & Rat & Squirrel & Porcupine & Beaver & Capybara & Guinea pig & Hamster & Chinchilla & Gerbil"
+        ]
+    },
+    "45": {
+        "node_name": "Artiodactyla",
+        "parent_names": [
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Bovidae&Camelidae&Cervidae&Giraffidae&Hippopotamidae&Moschidae&Reduncinae&Suidae&Tayassuidae&Tragulidae",
+            "Bovidae & Cervidae & Suidae & Tayassuidae & Hippopotamidae & Giraffidae & Antilocapridae & Moschidae & Tragulidae & Camelidae",
+            "Bovidae & Cervidae & Suidae & Camelidae & Tayassuidae & Hippopotamidae & Moschidae & Tragulidae & Giraffidae & Antilocapridae"
+        ]
+    },
+    "46": {
+        "node_name": "Carnivora",
+        "parent_names": [
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Felidae & Canidae & Ursidae & Mustelidae & Hyaenidae & Procyonidae & Viverridae & Eupleridae & Herpestidae & Otariidae",
+            "Felidae & Canidae & Ursidae & Mustelidae & Hyaenidae & Procyonidae & Otariidae & Phocidae & Phocidae & Mephitidae",
+            "Felidae & Canidae & Ursidae & Mustelidae & Procyonidae & Phocidae & Otariidae & Odobenidae & Hyaenidae & Viverridae"
+        ]
+    },
+    "47": {
+        "node_name": "Cingulata",
+        "parent_names": [
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Giant armadillo & Southern three-banded armadillo & Northern naked-tailed armadillo & Andean hairy armadillo & Pink fairy armadillo & Greater fairy armadillo & Brazilian three-banded armadillo & Chacoan naked-tailed armadillo & Nine-banded armadillo & Hairy long-nosed armadillo",
+            "Dasypodidae & Chlamyphoridae & Dasypeltidae & Pampatheriidae & Glyptodontidae & Holmesinidae & Proglyptodontidae & Peltephilidae & Glyptodidae & Eutatiniidae",
+            "Fairy armadillo&Greater fairy armadillo&Pink fairy armadillo&Nine-banded armadillo&Seven-banded armadillo&Six-banded armadillo&Southern three-banded armadillo&Hairy long-nosed armadillo&Giant armadillo&Northern naked-tailed armadillo"
+        ]
+    },
+    "48": {
+        "node_name": "Didelphimorphia",
+        "parent_names": [
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Didelphidae & Caluromyidae & Glironiidae & Herpetotheriidae & Marmosidae & Microbiotheriidae & Molossidae & Petauridae & Phalangeridae & Thylacomyidae",
+            "Didelphidae & Caluromyidae & Didelphimorphidae & Glironiidae & Herpetotheriidae & Marmosidae & Microbiotheriidae & Thylamyidae & Soricomyidae & Hyladelphidae",
+            "Didelphidae & Caluromyidae & Didelphimorphidae & Marmosidae & Microbiotheriidae & Phalangeridae & Pseudocheiridae & Thylacinidae & Thylamyidae & Vombatidae"
+        ]
+    },
+    "49": {
+        "node_name": "Eulipotyphla",
+        "parent_names": [
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Hedgehogs & Moles & Shrews & Gymnures & Solenodons & Desmans & Soricids & Tenrecs & Otters & Moonrats",
+            "Hedgehogs & Moles & Shrews & Solenodons & Gymnures & Tenrecs & Desmans & Shrew moles & Soricids & Elephant shrews",
+            "Hedgehogs & Moles & Shrews & Solenodons & Desmans & Gymnures & Tenrecs & Otter shrews & Moonrats & West Indian shrews"
+        ]
+    },
+    "50": {
+        "node_name": "Lagomorpha",
+        "parent_names": [
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Leporidae & Ochotonidae & Pentalagidae & \u2020Pliopentalagus & \u2020Pliosylvilagus & \u2020Pliolagomys & \u2020Pliosilvanolagus & \u2020Pliohypolagus & \u2020Pliosiwalagus & \u2020Pliosminthus",
+            "Rabbit & Hare & Pika",
+            "Leporidae & Ochotonidae & Prolagidae & Pliopentalagus & Hypolagus & Palaeolagus & Megalagus & Mytonolagus & Notolagus & Nuralagus"
+        ]
+    },
+    "51": {
+        "node_name": "Proboscidea",
+        "parent_names": [
+            "Mammalia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Elephantidae & Mammutidae & Gomphotheriidae & Amebelodontidae & Choerolophodontidae & Deinotheriidae & Numidotheriidae & Barytheriidae & Moeritheriidae & Amebelodontidae",
+            "Elephantidae & Mammutidae & Gomphotheriidae & Amebelodontidae & Choerolophodontidae & Deinotheriidae & Barytheriidae & Moeritheriidae & Numidotheriidae & Phosphatheriidae",
+            "Elephantidae & Deinotheriidae & Gomphotheriidae & Amebelodontidae & Amebelodontidae & Choerolophodontidae & Chilgatheriidae & Moeritheriidae & Numidotheriidae & Barytheriidae"
+        ]
+    },
+    "52": {
+        "node_name": "Nudibranchia",
+        "parent_names": [
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Dorididae & Chromodorididae & Flabellinidae & Dendronotidae & Tritoniidae & Eubranchidae & Phyllidiidae & Polyceridae & Pleurobranchidae & Bornellidae",
+            "Tergipedidae & Dendronotidae & Dorididae & Chromodorididae & Phyllidiidae & Glaucidae & Tritoniidae & Eubranchidae & Flabellinidae & Discodorididae",
+            "Aeolidiidae & Arminidae & Chromodorididae & Dendronotidae & Dorididae & Eubranchidae & Facelinidae & Goniodorididae & Phyllidiidae & Tritoniidae"
+        ]
+    },
+    "53": {
+        "node_name": "Aplysiida",
+        "parent_names": [
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Aplysiidae & Aplysidae & Aplysiinae & Aplysiopsis & Bursatella & Dolabella & Notarchidae & Notarchus & Pleurobranchae & Pleurobranchus",
+            "Aplysiidae & Dolabrifera & Oxynoidae & Notarchidae & Umbaliidae & Siphonariidae & Akiodorididae & Plakobranchidae & Bosellidae & Phyllidiidae",
+            "Aplysiidae & Dolabrifera & Bursatellidae & Aplysiidae & Aplysiidae & Aplysiidae & Umbraculidae & Aplysiidae & Notarchidae & Aplysiidae"
+        ]
+    },
+    "54": {
+        "node_name": "Stylommatophora",
+        "parent_names": [
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Helicidae & Bradybaenidae & Camaenidae & Cyclophoridae & Pomatiidae & Gastrodontidae & Helminthoglyptidae & Euconulidae & Endodontidae & Ariophantidae",
+            "Helicidae & Bradybaenidae & Camaenidae & Discidae & Enidae & Ferussaciidae & Gastrodontidae & Helminthoglyptidae & Hygromiidae & Xanthonychidae",
+            "Helicidae & Bradybaenidae & Camaenidae & Clausiliidae & Dyakiidae & Helminthoglyptidae & Hygromiidae & Orculidae & Punctidae & Valloniidae"
+        ]
+    },
+    "55": {
+        "node_name": "Trochida",
+        "parent_names": [
+            "Gastropoda",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Trochidae & Gibbulidae & Skeneidae & Calliostomatidae & Solariellidae & Liotiidae & Phasianellidae & Tegulidae & Phasianotrochidae & Monodontidae",
+            "Trochidae & Solariellidae & Calliostomatidae & Skeneidae & Tegulidae & Gibbidae & Phasianellidae & Turbinidae & Lottiidae & Margaritidae",
+            "Trochidae & Calliostomatidae & Skeneidae & Solariellidae & Gibbula & Tegulidae & Margaritidae & Phasianellidae & Turbinidae & Liotiidae"
+        ]
+    },
+    "56": {
+        "node_name": "Venerida",
+        "parent_names": [
+            "Bivalvia",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Veneridae & Petricolidae & Semelidae & Dosiniidae & Galateidae & Tapetidae & Kelliellidae & Veneroididae & Clavagellidae & Clementiidae",
+            "Veneridae & Veneroida & Psammobiidae & Petricolidae & Vermetidae & Cardiidae & Mactridae & Donacidae & Semelidae & Kelliidae",
+            "Veneridae & Veneroida & Veneroidea & Veneridae & Venerinae & Circomphalinae & Dosiniinae & Pitarinae & Protothacinae & Saxidominae"
+        ]
+    },
+    "57": {
+        "node_name": "Chitonida",
+        "parent_names": [
+            "Polyplacophora",
+            "Mollusca"
+        ],
+        "child_names": [
+            "Is there a specific order you would like the families to be from?",
+            "Chitonidae & Chitonellidae & Leptochitonidae & Loricidae & Mopaliidae & Cryptochitonidae & Callistoplacidae & Callochitonidae & Acanthochitonidae & Ischnochitonidae",
+            "Chitonidae & Tonicellidae & Acanthochitonidae & Cryptoplacidae & Mopaliidae & Lepidochitonidae & Ischnochitonidae & Schizochitonidae & Callistoplacidae & Acanthochitonidae"
+        ]
+    },
+    "58": {
+        "node_name": "Testudines",
+        "parent_names": [
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Cheloniidae, Chelydridae, Dermatemydidae, Emydidae, Geoemydidae, Kinosternidae, Pelomedusidae, Platysternidae, Podocnemididae, Testudinidae",
+            "Cheloniidae & Dermochelyidae & Emydidae & Geoemydidae & Kinosternidae & Pelomedusidae & Podocnemididae & Testudinidae & Trionychidae & Chelydridae",
+            "Emydidae & Geoemydidae & Chelidae & Carettochelyidae & Podocnemididae & Dermatemydidae & Chelydridae & Kinosternidae & Testudinidae & Pelomedusidae"
+        ]
+    },
+    "59": {
+        "node_name": "Crocodylia",
+        "parent_names": [
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Alligatoridae & Crocodylidae & Gavialidae & Tomistomidae & Alligatorinae & Caimaninae & Crocodylinae & Osteolaeminae & Mekosuchinae & Gavialinae",
+            "Alligatoridae & Crocodylidae & Gavialidae & Tomistomidae & Crocodylidae & Alligatoridae & Gavialidae & Tomistomidae & Crocodylidae & Alligatoridae",
+            "Alligatoridae & Gavialidae & Crocodylidae & Tomistomidae & Mahajangidae & Mekosuchidae & Thoracosauridae & Sebecidae & Dyrosauridae & Pristichampsidae"
+        ]
+    },
+    "60": {
+        "node_name": "Squamata",
+        "parent_names": [
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Iguanidae & Colubridae & Viperidae & Boidae & Pythonidae & Elapidae & Atractaspididae & Xenodermatidae & Scincidae & Varanidae",
+            "Gekkonidae & Iguanidae & Scincidae & Varanidae & Colubridae & Viperidae & Elapidae & Boidae & Pythonidae & Typhlopidae",
+            "Agamidae & Boidae & Colubridae & Elapidae & Gekkonidae & Iguanidae & Lacertidae & Phyllodactylidae & Scincidae & Viperidae"
+        ]
+    },
+    "61": {
+        "node_name": "Rhynchocephalia",
+        "parent_names": [
+            "Reptilia",
+            "Chordata"
+        ],
+        "child_names": [
+            "Sphenodontidae & Pleurosauridae & Rhynchocephalidae & Diploglossidae & Xenosauridae & Anniellidae & Gymnophthalmidae & Teiidae & Lacertidae & Anguidae",
+            "Rhynchocephalia & Sphenodontidae & Clevosauridae & Pleurosauridae & Homoeosauridae & Diphyodontosauridae & Opisthodontiidae & Sapheosauridae & Palaegamaidae & Pleurocephalidae",
+            "Sphenodontidae & Pleurosauridae & Clevosauridae & Homoeosauridae & Diploglossidae & Anguidae & Shinisauridae & Xantusiidae & Helodermatidae & Lanthanotidae"
+        ]
+    }
+}

@@ -1,0 +1,314 @@
+SHiNe, Copyright (C) 2023, 2024 University of Trento and Naver Corporation, is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license
+
+A summary of the CC BY-NC-SA 4.0 license is located here:
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+The CC BY-NC-SA 4.0 license is located here:
+	https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+
+**************************************************************************
+SEE NOTICES BELOW CONCERNING SOFTWARE FILES (PART 1) AND DATASETS (PART 2):
+**************************************************************************
+
+-----------------------------------------------------------------------
+PART 1: SEE NOTICES BELOW WITH RESPECT TO SOFTWARE FILES:
+-----------------------------------------------------------------------
+(A) This software:
+    Detic/detic/data/datasets/cc.py
+    Detic/detic/data/datasets/coco_zeroshot.py
+    Detic/detic/data/datasets/imagenet.py
+    Detic/detic/data/datasets/lvis_v1.py
+    Detic/detic/data/datasets/objects365.py
+    Detic/detic/data/datasets/oid.py
+    Detic/detic/data/datasets/register_oid.py
+    Detic/detic/evaluation/custom_coco_eval.py
+    Detic/detic/evaluation/oideval.py
+that is available here:
+	https://github.com/facebookresearch/Detic
+under these conditions (Apache License 2.0):
+	https://github.com/facebookresearch/Detic/blob/main/LICENSE
+is being redistributed in a modified under the same terms and conditions here:
+    SHiNe/detic/data/datasets/cc.py
+    SHiNe/detic/data/datasets/coco_zeroshot.py
+    SHiNe/detic/data/datasets/imagenet.py
+    SHiNe/detic/data/datasets/lvis_v1.py
+    SHiNe/detic/data/datasets/objects365.py
+    SHiNe/detic/data/datasets/oid.py
+    SHiNe/detic/data/datasets/registry_oid.py
+    SHiNe/detic/data/datasets/registry_lvis_v1.py
+    SHiNe/detic/data/datasets/registry_imagenet.py
+    SHiNe/detic/evaluation/custom_coco_eval.py
+    SHiNe/detic/evaluation/fsodeval.py
+    SHiNe/detic/evaluation/inateval.py
+    SHiNe/detic/evaluation/oideval.py
+
+(B) Software available here:
+	https://github.com/facebookresearch/Detic
+under these conditions (Apache License 2.0):
+	https://github.com/facebookresearch/Detic/blob/main/LICENSE
+is being redistributed in a modified under the same terms and conditions here:
+	SHiNe/detic
+
+(C) Software available here:
+	https://github.com/clin1223/VLDet
+under these conditions (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License):
+	https://github.com/clin1223/VLDet/blob/main/LICENSE
+is being redistributed in a modified under the same terms and conditions here:
+	SHiNe/vldet
+
+(D) This software:
+    VLDet/vldet/data/datasets/cc.py
+    VLDet/vldet/data/datasets/coco_zeroshot.py
+    VLDet/vldet/data/datasets/imagenet.py
+    VLDet/vldet/data/datasets/lvis_v1.py
+    VLDet/vldet/data/datasets/objects365.py
+    VLDet/vldet/data/datasets/oid.py
+    VLDet/vldet/data/datasets/register_oid.py
+    VLDet/vldet/evaluation/custom_coco_eval.py
+    VLDet/vldet/evaluation/oideval.py
+that is available here:
+	https://github.com/clin1223/VLDet
+under these conditions (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License):
+	https://github.com/clin1223/VLDet/blob/main/LICENSE
+is being redistributed in a modified under the same terms and conditions here:
+    SHiNe/vldet/data/datasets/cc.py
+    SHiNe/vldet/data/datasets/coco_zeroshot.py
+    SHiNe/vldet/data/datasets/imagenet.py
+    SHiNe/vldet/data/datasets/lvis_v1.py
+    SHiNe/vldet/data/datasets/objects365.py
+    SHiNe/vldet/data/datasets/oid.py
+    SHiNe/vldet/data/datasets/registry_oid.py
+    SHiNe/vldet/data/datasets/registry_lvis_v1.py
+    SHiNe/vldet/data/datasets/registry_imagenet.py
+    SHiNe/vldet/evaluation/custom_coco_eval.py
+    SHiNe/vldet/evaluation/fsodeval.py
+    SHiNe/vldet/evaluation/inateval.py
+    SHiNe/vldet/evaluation/oideval.py
+
+(E) Software available here:
+	https://github.com/CVMI-Lab/CoDet
+under these conditions (Apache License 2.0):
+	https://github.com/CVMI-Lab/CoDet/blob/main/docs/LICENSE
+is being redistributed in a modified under the same terms and conditions here:
+	SHiNe/codet
+
+(F) This software:
+    CoDet/codet/data/datasets/cc.py
+    CoDet/codet/data/datasets/coco_zeroshot.py
+    CoDet/codet/data/datasets/imagenet.py
+    CoDet/codet/data/datasets/lvis_v1.py
+    CoDet/codet/data/datasets/objects365.py
+    CoDet/codet/data/datasets/oid.py
+    CoDet/codet/data/datasets/register_oid.py
+    CoDet/codet/evaluation/custom_coco_eval.py
+    CoDet/codet/evaluation/oideval.py
+that is available here:
+	https://github.com/CVMI-Lab/CoDet
+under these conditions (Apache License 2.0):
+	https://github.com/CVMI-Lab/CoDet/blob/main/docs/LICENSE
+is being redistributed in a modified under the same terms and conditions here:
+    SHiNe/codet/data/datasets/cc.py
+    SHiNe/codet/data/datasets/coco_zeroshot.py
+    SHiNe/codet/data/datasets/imagenet.py
+    SHiNe/codet/data/datasets/lvis_v1.py
+    SHiNe/codet/data/datasets/objects365.py
+    SHiNe/codet/data/datasets/oid.py
+    SHiNe/codet/data/datasets/registry_oid.py
+    SHiNe/codet/data/datasets/registry_lvis_v1.py
+    SHiNe/codet/data/datasets/registry_imagenet.py
+    SHiNe/codet/evaluation/custom_coco_eval.py
+    SHiNe/codet/evaluation/fsodeval.py
+    SHiNe/codet/evaluation/inateval.py
+    SHiNe/codet/evaluation/oideval.py
+
+(G) This software:
+    Detic/configs/Base-C2_L_R5021k_640b64_4x.yaml
+    Detic/configs/Base-DeformDETR_L_R50_4x.yaml
+    Detic/configs/Base_OVCOCO_C4_1x.yaml
+    Detic/configs/BoxSup-C2_L_CLIP_R5021k_640b64_4x.yaml
+    Detic/configs/BoxSup-C2_L_CLIP_SwinB_896b32_4x.yaml
+    Detic/configs/BoxSup-C2_Lbase_CLIP_R5021k_640b64_4x.yaml
+    Detic/configs/BoxSup-C2_Lbase_CLIP_SwinB_896b32_4x.yaml
+    Detic/configs/BoxSup-C2_LCOCO_CLIP_CXT21k_640b32_4x.yaml
+    Detic/configs/BoxSup-C2_LCOCO_CLIP_R18_640b32_4x.yaml
+    Detic/configs/BoxSup-C2_LCOCO_CLIP_R5021k_640b64_4x.yaml
+    Detic/configs/BoxSup-C2_LCOCO_CLIP_SwinB_896b32_4x.yaml
+    Detic/configs/BoxSup-DeformDETR_L_R50_2x.yaml
+    Detic/configs/BoxSup-DeformDETR_L_R50_4x.yaml
+    Detic/configs/BoxSup_OVCOCO_CLIP_R50_1x.yaml
+    Detic/configs/Detic_DeformDETR_LI_R50_4x_ft4x.yaml
+    Detic/configs/Detic_LbaseCCcapimg_CLIP_R5021k_640b64_4x_ft4x_max-size.yaml
+    Detic/configs/Detic_LbaseCCimg_CLIP_R5021k_640b64_4x_ft4x_max-size.yaml
+    Detic/configs/Detic_LbaseI_CLIP_R5021k_640b64_4x_ft4x_max-size.yaml
+    Detic/configs/Detic_LbaseI_CLIP_R5021k_640b64_4x_ft4x_predicted.yaml
+    Detic/configs/Detic_LbaseI_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+    Detic/configs/Detic_LCOCOI21k_CLIP_CXT21k_640b32_4x_ft4x_max-size.yaml
+    Detic/configs/Detic_LCOCOI21k_CLIP_R18_640b32_4x_ft4x_max-size.yaml
+    Detic/configs/Detic_LCOCOI21k_CLIP_R5021k_640b32_4x_ft4x_max-size.yaml
+    Detic/configs/Detic_LCOCOI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+    Detic/configs/Detic_LI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+    Detic/configs/Detic_LI_CLIP_R5021k_640b64_4x_ft4x_max-size.yaml
+    Detic/configs/Detic_LI_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+    Detic/configs/Detic_OVCOCO_CLIP_R50_1x_caption.yaml
+    Detic/configs/Detic_OVCOCO_CLIP_R50_1x_caption.yaml
+    Detic/configs/Detic_OVCOCO_CLIP_R50_1x_max-size_caption.yaml
+    Detic/configs/HCAdev_Detic_LI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+    Detic/configs/only_test_Detic_LCOCOI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+    Detic/configs/only_test_Detic_LI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+that is available here:
+	https://github.com/facebookresearch/Detic
+under these conditions (Apache License 2.0):
+	https://github.com/facebookresearch/Detic/blob/main/LICENSE
+is being redistributed in a modified under the same terms and conditions here:
+    SHiNe/configs_detic/Base-C2_L_R5021k_640b64_4x.yaml
+    SHiNe/configs_detic/Base-DeformDETR_L_R50_4x.yaml
+    SHiNe/configs_detic/Base_OVCOCO_C4_1x.yaml
+    SHiNe/configs_detic/BoxSup-C2_L_CLIP_R5021k_640b64_4x.yaml
+    SHiNe/configs_detic/BoxSup-C2_L_CLIP_SwinB_896b32_4x.yaml
+    SHiNe/configs_detic/BoxSup-C2_Lbase_CLIP_R5021k_640b64_4x.yaml
+    SHiNe/configs_detic/BoxSup-C2_Lbase_CLIP_SwinB_896b32_4x.yaml
+    SHiNe/configs_detic/BoxSup-C2_LCOCO_CLIP_CXT21k_640b32_4x.yaml
+    SHiNe/configs_detic/BoxSup-C2_LCOCO_CLIP_R18_640b32_4x.yaml
+    SHiNe/configs_detic/BoxSup-C2_LCOCO_CLIP_R5021k_640b64_4x.yaml
+    SHiNe/configs_detic/BoxSup-C2_LCOCO_CLIP_SwinB_896b32_4x.yaml
+    SHiNe/configs_detic/BoxSup-DeformDETR_L_R50_2x.yaml
+    SHiNe/configs_detic/BoxSup-DeformDETR_L_R50_4x.yaml
+    SHiNe/configs_detic/BoxSup_OVCOCO_CLIP_R50_1x.yaml
+    SHiNe/configs_detic/Detic_DeformDETR_LI_R50_4x_ft4x.yaml
+    SHiNe/configs_detic/Detic_LbaseCCcapimg_CLIP_R5021k_640b64_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/Detic_LbaseCCimg_CLIP_R5021k_640b64_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/Detic_LbaseI_CLIP_R5021k_640b64_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/Detic_LbaseI_CLIP_R5021k_640b64_4x_ft4x_predicted.yaml
+    SHiNe/configs_detic/Detic_LbaseI_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/Detic_LCOCOI21k_CLIP_CXT21k_640b32_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/Detic_LCOCOI21k_CLIP_R18_640b32_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/Detic_LCOCOI21k_CLIP_R5021k_640b32_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/Detic_LCOCOI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/Detic_LI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/Detic_LI_CLIP_R5021k_640b64_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/Detic_LI_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/Detic_OVCOCO_CLIP_R50_1x_caption.yaml
+    SHiNe/configs_detic/Detic_OVCOCO_CLIP_R50_1x_caption.yaml
+    SHiNe/configs_detic/Detic_OVCOCO_CLIP_R50_1x_max-size_caption.yaml
+    SHiNe/configs_detic/HCAdev_Detic_LI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/only_test_Detic_LCOCOI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/only_test_Detic_LI21k_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml
+    SHiNe/configs_detic/coco/Base_OVCOCO_C4_1x.yaml
+    SHiNe/configs_detic/coco/BoxSup_OVCOCO_CLIP_R50_1x.yaml
+    SHiNe/configs_detic/coco/Detic_OVCOCO_CLIP_R50_1x_caption.yaml
+    SHiNe/configs_detic/coco/Detic_OVCOCO_CLIP_R50_1x_max-size.yaml
+    SHiNe/configs_detic/coco/Detic_OVCOCO_CLIP_R50_1x_max-size_caption.yaml
+
+(H) This software:
+    VLDet/configs/Base_OVCOCO_R50_1x.yaml
+    VLDet/configs/Base_OVLVIS_R5021k_4x.yaml
+    VLDet/configs/BoxSup_OVCOCO_R50_1x.yaml
+    VLDet/configs/BoxSup_OVLVIS_R5021k_4x.yaml
+    VLDet/configs/BoxSup_OVLVIS_SwinB_4x.yaml
+    VLDet/configs/CoDet_OVCOCO_R50_1x.yaml
+    VLDet/configs/CoDet_OVLVIS_EVA_4x.yaml
+    VLDet/configs/CoDet_OVLVIS_R5021k_4x_ft4x.yaml
+    VLDet/configs/CoDet_OVLVIS_SwinB_4x_ft4x.yaml
+that is available here:
+	https://github.com/clin1223/VLDet
+under these conditions (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License):
+	https://github.com/clin1223/VLDet/blob/main/LICENSE
+is being redistributed in a modified under the same terms and conditions here:
+    SHiNe/configs_vldet/Base_OVCOCO_R50_1x.yaml
+    SHiNe/configs_vldet/Base_OVLVIS_R5021k_4x.yaml
+    SHiNe/configs_vldet/BoxSup_OVCOCO_R50_1x.yaml
+    SHiNe/configs_vldet/BoxSup_OVLVIS_R5021k_4x.yaml
+    SHiNe/configs_vldet/BoxSup_OVLVIS_SwinB_4x.yaml
+    SHiNe/configs_vldet/CoDet_OVCOCO_R50_1x.yaml
+    SHiNe/configs_vldet/CoDet_OVLVIS_EVA_4x.yaml
+    SHiNe/configs_vldet/CoDet_OVLVIS_R5021k_4x_ft4x.yaml
+    SHiNe/configs_vldet/CoDet_OVLVIS_SwinB_4x_ft4x.yaml
+
+(I) This software:
+    CoDet/configs/Base-C2_L_R5021k_640b64_4x.yaml
+    CoDet/configs/Base_OVCOCO_C4_1x.yaml
+    CoDet/configs/BoxSup-C2_Lbase_CLIP_R5021k_640b64.yaml
+    CoDet/configs/BoxSup-C2_Lbase_CLIP_SwinB_896b32.yaml
+    CoDet/configs/BoxSup_OVCOCO_CLIP_R50_1x.yaml
+    CoDet/configs/VLDet_LbaseCCcap_CLIP_R5021k_640b64_2x_ft4x_caption.yaml
+    CoDet/configs/VLDet_LbaseI_CLIP_SwinB_896b32_2x_ft4x_caption.yaml
+    CoDet/configs/VLDet_OVCOCO_CLIP_R50_1x_caption.yaml
+that is available here:
+	https://github.com/CVMI-Lab/CoDet
+under these conditions (Apache License 2.0):
+	https://github.com/CVMI-Lab/CoDet/blob/main/docs/LICENSE
+is being redistributed in a modified under the same terms and conditions here:
+    SHiNe/configs_codet/Base-C2_L_R5021k_640b64_4x.yaml
+    SHiNe/configs_codet/Base_OVCOCO_C4_1x.yaml
+    SHiNe/configs_codet/BoxSup-C2_Lbase_CLIP_R5021k_640b64.yaml
+    SHiNe/configs_codet/BoxSup-C2_Lbase_CLIP_SwinB_896b32.yaml
+    SHiNe/configs_codet/BoxSup_OVCOCO_CLIP_R50_1x.yaml
+    SHiNe/configs_codet/VLDet_LbaseCCcap_CLIP_R5021k_640b64_2x_ft4x_caption.yaml
+    SHiNe/configs_codet/VLDet_LbaseI_CLIP_SwinB_896b32_2x_ft4x_caption.yaml
+    SHiNe/configs_codet/VLDet_OVCOCO_CLIP_R50_1x_caption.yaml
+
+(J) This software:
+	Hierarchy-CLIP/hierarcy_clip.py
+	Hierarchy-CLIP/imagenet-ancestors-descendants/gloss.txt
+    Hierarchy-CLIP/imagenet-ancestors-descendants/imagenet_label_to_wordnet_synset.txt
+	Hierarchy-CLIP/imagenet-ancestors-descendants/is_a.txt
+	Hierarchy-CLIP/imagenet-ancestors-descendants/words.txt
+that is available here:
+	https://github.com/gyhandy/Hierarchy-CLIP
+is being redistributed in a modified under the same terms and conditions here:
+	SHiNe/shine_cls/plant_hierarchy.py
+	SHiNe/shine_cls/imagenet-ancestors-descendants/gloss.txt
+    SHiNe/shine_cls/imagenet-ancestors-descendants/imagenet_label_to_wordnet_synset.txt
+	SHiNe/shine_cls/imagenet-ancestors-descendants/is_a.txt
+	SHiNe/shine_cls/imagenet-ancestors-descendants/words.txt
+
+(K) This software:
+	Detic/train_net.py
+that is available here:
+	https://github.com/facebookresearch/Detic
+under these conditions (Apache License 2.0):
+	https://github.com/facebookresearch/Detic/blob/main/LICENSE
+is being redistributed in a modified under the same terms and conditions here:
+	SHiNe/train_net_detic.py
+	SHiNe/train_net_detic_coco.py
+
+(L) This software:
+	VLDet/train_net.py
+that is available here:
+	https://github.com/clin1223/VLDet
+under these conditions (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License):
+	https://github.com/clin1223/VLDet/blob/main/LICENSE
+is being redistributed in a modified under the same terms and conditions here:
+	SHiNe/train_net_vldet.py
+
+(M) This software:
+	CoDet/train_net.py
+that is available here:
+	https://github.com/CVMI-Lab/CoDet
+under these conditions (Apache License 2.0):
+	https://github.com/CVMI-Lab/CoDet/blob/main/docs/LICENSE
+is being redistributed in a modified under the same terms and conditions here:
+	SHiNe/train_net_codet.py`
+
+
+----------------------------------------------------------------
+PART 2: SEE NOTICES BELOW WITH RESPECT TO DATASETS:
+----------------------------------------------------------------
+
+The following datasets, which are not being distributed herewith, were used to train one or more of the models distributed with the software:
+
+(A) iNatLoc500 Dataset: see https://github.com/visipedia/inat_loc
+made available under the following license: https://github.com/visipedia/inat_loc/blob/main/LICENSE
+
+(B) Few-Shot Object Detection Dataset: see https://github.com/fanq15/Few-Shot-Object-Detection-Dataset
+made available "to researchers and other users": https://github.com/fanq15/Few-Shot-Object-Detection-Dataset
+
+(C) ImageNet-1k Dataset: see https://www.image-net.org/download.php
+made available under the following license: https://www.image-net.org/download.php
+
+(D) COCO Dataset: see https://cocodataset.org/#home
+made available under the following license: https://cocodataset.org/#termsofuse
+
+(E) LVIS Dataset: see https://www.lvisdataset.org/dataset
+made available under the following license: https://www.lvisdataset.org/dataset

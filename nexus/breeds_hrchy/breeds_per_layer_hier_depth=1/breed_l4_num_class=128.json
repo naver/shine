@@ -1,0 +1,2757 @@
+{
+    "0": {
+        "node_name": "cuculiform bird",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "bird"
+        ],
+        "child_names": [
+            "cuckoo"
+        ],
+        "child_labels": [
+            91
+        ]
+    },
+    "1": {
+        "node_name": "cartilaginous fish, chondrichthian",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "fish"
+        ],
+        "child_names": [
+            "ray",
+            "shark"
+        ],
+        "child_labels": [
+            4,
+            6,
+            3,
+            2,
+            5
+        ]
+    },
+    "2": {
+        "node_name": "dummy13",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "echinoderm"
+        ],
+        "child_names": [
+            "sea urchin"
+        ],
+        "child_labels": [
+            328
+        ]
+    },
+    "3": {
+        "node_name": "lamp",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "soft furnishings, accessories"
+        ],
+        "child_names": [
+            "lampshade, lamp shade",
+            "table lamp"
+        ],
+        "child_labels": [
+            846,
+            619
+        ]
+    },
+    "4": {
+        "node_name": "train, railroad train",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "wheeled vehicle"
+        ],
+        "child_names": [
+            "streetcar, tram, tramcar, trolley, trolley car",
+            "car, railcar, railway car, railroad car",
+            "passenger train",
+            "locomotive, engine, locomotive engine, railway locomotive"
+        ],
+        "child_labels": [
+            829,
+            547,
+            565,
+            466,
+            705,
+            820
+        ]
+    },
+    "5": {
+        "node_name": "bedclothes, bed clothing, bedding",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "soft furnishings, accessories"
+        ],
+        "child_names": [
+            "quilt, comforter, comfort, puff"
+        ],
+        "child_labels": [
+            750
+        ]
+    },
+    "6": {
+        "node_name": "motor vehicle, automotive vehicle",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "wheeled vehicle"
+        ],
+        "child_names": [
+            "bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle",
+            "motorcycle, bike",
+            "car, auto, automobile, machine, motorcar",
+            "truck, motortruck"
+        ],
+        "child_labels": [
+            734,
+            779,
+            575,
+            573,
+            468,
+            609,
+            757,
+            656,
+            661,
+            665,
+            654,
+            717,
+            867,
+            866,
+            874,
+            407,
+            555,
+            751,
+            803,
+            561,
+            670,
+            864,
+            675,
+            569,
+            511,
+            627,
+            436,
+            817
+        ]
+    },
+    "7": {
+        "node_name": "rodent, gnawer",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "mammal, mammalian"
+        ],
+        "child_names": [
+            "hamster",
+            "porcupine, hedgehog",
+            "marmot",
+            "beaver",
+            "guinea pig, Cavia cobaya",
+            "squirrel"
+        ],
+        "child_labels": [
+            338,
+            334,
+            333,
+            335,
+            337,
+            336
+        ]
+    },
+    "8": {
+        "node_name": "insect",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "arthropod"
+        ],
+        "child_names": [
+            "fly",
+            "bee",
+            "ant, emmet, pismire",
+            "grasshopper, hopper",
+            "cricket",
+            "walking stick, walkingstick, stick insect",
+            "cockroach, roach",
+            "mantis, mantid",
+            "cicada, cicala",
+            "leafhopper",
+            "lacewing, lacewing fly",
+            "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",
+            "damselfly",
+            "beetle",
+            "butterfly"
+        ],
+        "child_labels": [
+            323,
+            317,
+            325,
+            308,
+            315,
+            310,
+            312,
+            313,
+            302,
+            322,
+            324,
+            301,
+            318,
+            326,
+            307,
+            306,
+            314,
+            305,
+            321,
+            319,
+            311,
+            309,
+            320,
+            300,
+            303,
+            304,
+            316
+        ]
+    },
+    "9": {
+        "node_name": "chelonian, chelonian reptile",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "reptile, reptilian"
+        ],
+        "child_names": [
+            "turtle"
+        ],
+        "child_labels": [
+            33,
+            36,
+            37,
+            34,
+            35
+        ]
+    },
+    "10": {
+        "node_name": "vegetable, veggie, veg",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "produce, green goods, green groceries, garden truck"
+        ],
+        "child_names": [
+            "broccoli",
+            "cauliflower",
+            "cucumber, cuke",
+            "artichoke, globe artichoke",
+            "cardoon",
+            "mushroom",
+            "cabbage, chou",
+            "pepper",
+            "squash"
+        ],
+        "child_labels": [
+            947,
+            936,
+            941,
+            945,
+            937,
+            942,
+            940,
+            943,
+            938,
+            946,
+            944,
+            939
+        ]
+    },
+    "11": {
+        "node_name": "alcohol, alcoholic drink, alcoholic beverage, intoxicant, inebriant",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "beverage, drink, drinkable, potable"
+        ],
+        "child_names": [
+            "wine, vino",
+            "punch"
+        ],
+        "child_labels": [
+            968,
+            966,
+            969
+        ]
+    },
+    "12": {
+        "node_name": "dummy1",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "bird"
+        ],
+        "child_names": [
+            "hen"
+        ],
+        "child_labels": [
+            8
+        ]
+    },
+    "13": {
+        "node_name": "crocodilian reptile, crocodilian",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "reptile, reptilian"
+        ],
+        "child_names": [
+            "crocodile",
+            "alligator, gator"
+        ],
+        "child_labels": [
+            49,
+            50
+        ]
+    },
+    "14": {
+        "node_name": "cosmetic",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "toiletry, toilet articles"
+        ],
+        "child_names": [
+            "hair spray",
+            "perfume, essence",
+            "makeup, make-up, war paint",
+            "cream, ointment, emollient"
+        ],
+        "child_labels": [
+            711,
+            585,
+            629,
+            631,
+            551,
+            838
+        ]
+    },
+    "15": {
+        "node_name": "bandage, patch",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "toiletry, toilet articles"
+        ],
+        "child_names": [
+            "adhesive bandage"
+        ],
+        "child_labels": [
+            419
+        ]
+    },
+    "16": {
+        "node_name": "proboscidean, proboscidian",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "mammal, mammalian"
+        ],
+        "child_names": [
+            "elephant"
+        ],
+        "child_labels": [
+            385,
+            386
+        ]
+    },
+    "17": {
+        "node_name": "kitchen utensil",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "instrument"
+        ],
+        "child_names": [
+            "cocktail shaker",
+            "ladle",
+            "measuring cup",
+            "plate rack",
+            "saltshaker, salt shaker",
+            "spatula",
+            "tray",
+            "opener",
+            "pot",
+            "pan, cooking pan",
+            "knife"
+        ],
+        "child_labels": [
+            849,
+            544,
+            773,
+            503,
+            469,
+            618,
+            813,
+            473,
+            868,
+            512,
+            729,
+            909,
+            647,
+            499,
+            567,
+            505
+        ]
+    },
+    "18": {
+        "node_name": "anthozoan, actinozoan",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "coelenterate, cnidarian"
+        ],
+        "child_names": [
+            "sea anemone, anemone",
+            "coral"
+        ],
+        "child_labels": [
+            109,
+            108
+        ]
+    },
+    "19": {
+        "node_name": "dummy10",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "coelenterate, cnidarian"
+        ],
+        "child_names": [
+            "jellyfish"
+        ],
+        "child_labels": [
+            107
+        ]
+    },
+    "20": {
+        "node_name": "scientific instrument",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "instrument"
+        ],
+        "child_names": [
+            "abacus",
+            "binoculars, field glasses, opera glasses",
+            "telescope, scope",
+            "microscope"
+        ],
+        "child_labels": [
+            447,
+            755,
+            633,
+            398
+        ]
+    },
+    "21": {
+        "node_name": "ratite, ratite bird, flightless bird",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "bird"
+        ],
+        "child_names": [
+            "ostrich, Struthio camelus"
+        ],
+        "child_labels": [
+            9
+        ]
+    },
+    "22": {
+        "node_name": "rig",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "man-made structure, construction"
+        ],
+        "child_names": [
+            "drilling platform, offshore rig"
+        ],
+        "child_labels": [
+            540
+        ]
+    },
+    "23": {
+        "node_name": "ungulate, hoofed mammal",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "mammal, mammalian"
+        ],
+        "child_names": [
+            "zebra",
+            "hog, pig, grunter, squealer, Sus scrofa",
+            "wild boar, boar, Sus scrofa",
+            "warthog",
+            "hippopotamus, hippo, river horse, Hippopotamus amphibius",
+            "bison",
+            "llama",
+            "horse, Equus caballus",
+            "camel",
+            "goat, caprine animal",
+            "antelope",
+            "cattle, cows, kine, oxen, Bos taurus",
+            "sheep",
+            "Old World buffalo, buffalo",
+            "wild sheep"
+        ],
+        "child_labels": [
+            353,
+            354,
+            351,
+            355,
+            344,
+            343,
+            345,
+            350,
+            341,
+            352,
+            346,
+            339,
+            340,
+            342,
+            349,
+            347,
+            348
+        ]
+    },
+    "24": {
+        "node_name": "dummy56",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "soft furnishings, accessories"
+        ],
+        "child_names": [
+            "curtain, drape, drapery, mantle, pall"
+        ],
+        "child_labels": [
+            794,
+            854
+        ]
+    },
+    "25": {
+        "node_name": "bag",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "accessory, accoutrement, accouterment"
+        ],
+        "child_names": [
+            "bag"
+        ],
+        "child_labels": [
+            636,
+            414,
+            748,
+            728
+        ]
+    },
+    "26": {
+        "node_name": "dummy12",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "echinoderm"
+        ],
+        "child_names": [
+            "sea cucumber, holothurian"
+        ],
+        "child_labels": [
+            329
+        ]
+    },
+    "27": {
+        "node_name": "bedroom furniture",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "furniture, piece of furniture, article of furniture"
+        ],
+        "child_names": [
+            "bed",
+            "baby bed, baby's bed"
+        ],
+        "child_labels": [
+            520,
+            431,
+            564,
+            516
+        ]
+    },
+    "28": {
+        "node_name": "marsupial, pouched mammal",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "mammal, mammalian"
+        ],
+        "child_names": [
+            "wombat",
+            "phalanger, opossum, possum",
+            "kangaroo"
+        ],
+        "child_labels": [
+            104,
+            105,
+            106
+        ]
+    },
+    "29": {
+        "node_name": "musical instrument, instrument",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "instrument"
+        ],
+        "child_names": [
+            "stringed instrument",
+            "wind instrument, wind",
+            "keyboard instrument",
+            "percussion instrument, percussive instrument"
+        ],
+        "child_labels": [
+            642,
+            494,
+            699,
+            594,
+            889,
+            541,
+            593,
+            546,
+            432,
+            684,
+            558,
+            420,
+            683,
+            881,
+            776,
+            486,
+            401,
+            641,
+            687,
+            513,
+            577,
+            875,
+            579,
+            566,
+            822,
+            402
+        ]
+    },
+    "30": {
+        "node_name": "chiton, coat-of-mail shell, sea cradle, polyplacophore",
+        "node_id_at_leaf": 116,
+        "parent_names": [
+            "mollusk, mollusc, shellfish"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "31": {
+        "node_name": "passerine, passeriform bird",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "bird"
+        ],
+        "child_names": [
+            "brambling, Fringilla montifringilla",
+            "goldfinch, Carduelis carduelis",
+            "house finch, linnet, Carpodacus mexicanus",
+            "junco, snowbird",
+            "indigo bunting, indigo finch, indigo bird, Passerina cyanea",
+            "robin, American robin, Turdus migratorius",
+            "jay",
+            "magpie",
+            "water ouzel, dipper",
+            "titmouse, tit",
+            "nightingale, Luscinia megarhynchos"
+        ],
+        "child_labels": [
+            14,
+            15,
+            16,
+            12,
+            18,
+            20,
+            17,
+            10,
+            11,
+            13,
+            19
+        ]
+    },
+    "32": {
+        "node_name": "trilobite",
+        "node_id_at_leaf": 69,
+        "parent_names": [
+            "arthropod"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "33": {
+        "node_name": "dummy7",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "amphibian"
+        ],
+        "child_names": [
+            "frog, toad, toad frog, anuran, batrachian, salientian"
+        ],
+        "child_labels": [
+            31,
+            32,
+            30
+        ]
+    },
+    "34": {
+        "node_name": "crustacean",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "arthropod"
+        ],
+        "child_names": [
+            "crayfish, crawfish, crawdad, crawdaddy",
+            "hermit crab",
+            "isopod",
+            "crab",
+            "lobster"
+        ],
+        "child_labels": [
+            124,
+            123,
+            125,
+            126,
+            118,
+            119,
+            121,
+            120,
+            122
+        ]
+    },
+    "35": {
+        "node_name": "dryer, drier",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "appliance"
+        ],
+        "child_names": [
+            "hand blower, blow dryer, blow drier, hair dryer, hair drier"
+        ],
+        "child_labels": [
+            589
+        ]
+    },
+    "36": {
+        "node_name": "dummy0",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "bird"
+        ],
+        "child_names": [
+            "cock"
+        ],
+        "child_labels": [
+            7
+        ]
+    },
+    "37": {
+        "node_name": "dessert, sweet, afters",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "cooked food, prepared food"
+        ],
+        "child_names": [
+            "pudding, pud",
+            "frozen dessert"
+        ],
+        "child_labels": [
+            928,
+            929,
+            927
+        ]
+    },
+    "38": {
+        "node_name": "armor",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "accessory, accoutrement, accouterment"
+        ],
+        "child_names": [
+            "body armor, body armour, suit of armor, suit of armour, coat of mail, cataphract"
+        ],
+        "child_labels": [
+            461,
+            524,
+            490,
+            465
+        ]
+    },
+    "39": {
+        "node_name": "centipede",
+        "node_id_at_leaf": 79,
+        "parent_names": [
+            "arthropod"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "40": {
+        "node_name": "coffee, java",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "beverage, drink, drinkable, potable"
+        ],
+        "child_names": [
+            "espresso"
+        ],
+        "child_labels": [
+            967
+        ]
+    },
+    "41": {
+        "node_name": "footwear, legwear",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "accessory, accoutrement, accouterment"
+        ],
+        "child_names": [
+            "clog, geta, patten, sabot",
+            "knee pad",
+            "sock",
+            "stocking",
+            "tights, leotards",
+            "boot",
+            "shoe"
+        ],
+        "child_labels": [
+            806,
+            630,
+            638,
+            615,
+            770,
+            514,
+            496,
+            502,
+            774
+        ]
+    },
+    "42": {
+        "node_name": "sports equipment",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "equipment"
+        ],
+        "child_names": [
+            "racket, racquet",
+            "ski",
+            "snorkel",
+            "weight, free weight, exercising weight",
+            "gymnastic apparatus, exerciser",
+            "ball"
+        ],
+        "child_labels": [
+            890,
+            430,
+            722,
+            795,
+            747,
+            422,
+            543,
+            416,
+            801,
+            805,
+            429,
+            852,
+            522,
+            752,
+            574,
+            602,
+            702,
+            768
+        ]
+    },
+    "43": {
+        "node_name": "dummy67",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "man-made structure, construction"
+        ],
+        "child_names": [
+            "fountain"
+        ],
+        "child_labels": [
+            562
+        ]
+    },
+    "44": {
+        "node_name": "ascomycete",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "fungus"
+        ],
+        "child_names": [
+            "gyromitra"
+        ],
+        "child_labels": [
+            993
+        ]
+    },
+    "45": {
+        "node_name": "person, individual, someone, somebody, mortal, soul",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "person"
+        ],
+        "child_names": [
+            "ballplayer, baseball player",
+            "groom, bridegroom",
+            "scuba diver"
+        ],
+        "child_labels": [
+            983,
+            982,
+            981
+        ]
+    },
+    "46": {
+        "node_name": "dummy68",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "geological formation, formation"
+        ],
+        "child_names": [
+            "cliff, drop, drop-off"
+        ],
+        "child_labels": [
+            972
+        ]
+    },
+    "47": {
+        "node_name": "basidiomycete, basidiomycetous fungi",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "fungus"
+        ],
+        "child_names": [
+            "coral fungus",
+            "stinkhorn, carrion fungus",
+            "earthstar",
+            "mushroom"
+        ],
+        "child_labels": [
+            996,
+            995,
+            994,
+            991,
+            992,
+            997
+        ]
+    },
+    "48": {
+        "node_name": "dummy57",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "accessory, accoutrement, accouterment"
+        ],
+        "child_names": [
+            "umbrella"
+        ],
+        "child_labels": [
+            879
+        ]
+    },
+    "49": {
+        "node_name": "monotreme, egg-laying mammal",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "mammal, mammalian"
+        ],
+        "child_names": [
+            "echidna, spiny anteater, anteater",
+            "platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus"
+        ],
+        "child_labels": [
+            103,
+            102
+        ]
+    },
+    "50": {
+        "node_name": "headdress, headgear",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "accessory, accoutrement, accouterment"
+        ],
+        "child_names": [
+            "hairpiece, false hair, postiche",
+            "helmet",
+            "cap",
+            "hat, chapeau, lid",
+            "clip"
+        ],
+        "child_labels": [
+            439,
+            515,
+            584,
+            433,
+            452,
+            715,
+            560,
+            667,
+            903,
+            518,
+            793,
+            808
+        ]
+    },
+    "51": {
+        "node_name": "spring, fountain, outflow, outpouring, natural spring",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "geological formation, formation"
+        ],
+        "child_names": [
+            "geyser"
+        ],
+        "child_labels": [
+            974
+        ]
+    },
+    "52": {
+        "node_name": "barrier",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "man-made structure, construction"
+        ],
+        "child_names": [
+            "bannister, banister, balustrade, balusters, handrail",
+            "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+            "dam, dike, dyke",
+            "fence, fencing",
+            "gate"
+        ],
+        "child_labels": [
+            912,
+            525,
+            716,
+            825,
+            877,
+            421,
+            460,
+            489
+        ]
+    },
+    "53": {
+        "node_name": "spacecraft, ballistic capsule, space vehicle",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "craft"
+        ],
+        "child_names": [
+            "space shuttle"
+        ],
+        "child_labels": [
+            812
+        ]
+    },
+    "54": {
+        "node_name": "lagomorph, gnawing mammal",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "mammal, mammalian"
+        ],
+        "child_names": [
+            "hare",
+            "rabbit, coney, cony"
+        ],
+        "child_labels": [
+            330,
+            331,
+            332
+        ]
+    },
+    "55": {
+        "node_name": "gallinaceous bird, gallinacean",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "bird"
+        ],
+        "child_names": [
+            "phasianid",
+            "grouse"
+        ],
+        "child_labels": [
+            83,
+            84,
+            86,
+            85,
+            80,
+            81,
+            82
+        ]
+    },
+    "56": {
+        "node_name": "saurian",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "reptile, reptilian"
+        ],
+        "child_names": [
+            "lizard"
+        ],
+        "child_labels": [
+            48,
+            42,
+            46,
+            40,
+            45,
+            39,
+            44,
+            41,
+            38,
+            47,
+            43
+        ]
+    },
+    "57": {
+        "node_name": "medical instrument",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "instrument"
+        ],
+        "child_names": [
+            "stethoscope",
+            "syringe"
+        ],
+        "child_labels": [
+            823,
+            845
+        ]
+    },
+    "58": {
+        "node_name": "cephalopod, cephalopod mollusk",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "mollusk, mollusc, shellfish"
+        ],
+        "child_names": [
+            "chambered nautilus, pearly nautilus, nautilus"
+        ],
+        "child_labels": [
+            117
+        ]
+    },
+    "59": {
+        "node_name": "cart",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "wheeled vehicle"
+        ],
+        "child_names": [
+            "horse cart, horse-cart",
+            "jinrikisha, ricksha, rickshaw",
+            "oxcart",
+            "handcart, pushcart, cart, go-cart"
+        ],
+        "child_labels": [
+            791,
+            612,
+            603,
+            690,
+            428
+        ]
+    },
+    "60": {
+        "node_name": "condiment",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "cooked food, prepared food"
+        ],
+        "child_names": [
+            "sauce",
+            "dip"
+        ],
+        "child_labels": [
+            960,
+            959,
+            924
+        ]
+    },
+    "61": {
+        "node_name": "bony fish",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "fish"
+        ],
+        "child_names": [
+            "tench, Tinca tinca",
+            "goldfish, Carassius auratus",
+            "barracouta, snoek",
+            "eel",
+            "sturgeon",
+            "gar, garfish, garpike, billfish, Lepisosteus osseus",
+            "puffer, pufferfish, blowfish, globefish",
+            "salmon",
+            "damselfish, demoiselle",
+            "butterfly fish",
+            "scorpaenid, scorpaenid fish"
+        ],
+        "child_labels": [
+            395,
+            396,
+            392,
+            389,
+            1,
+            0,
+            394,
+            397,
+            390,
+            391,
+            393
+        ]
+    },
+    "62": {
+        "node_name": "dummy78",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "man-made structure, construction"
+        ],
+        "child_names": [
+            "column, pillar"
+        ],
+        "child_labels": [
+            708,
+            682,
+            863
+        ]
+    },
+    "63": {
+        "node_name": "dummy6",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "bird"
+        ],
+        "child_names": [
+            "parrot"
+        ],
+        "child_labels": [
+            88,
+            87,
+            90,
+            89
+        ]
+    },
+    "64": {
+        "node_name": "aquatic bird",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "bird"
+        ],
+        "child_names": [
+            "goose",
+            "spoonbill",
+            "flamingo",
+            "crane",
+            "limpkin, Aramus pictus",
+            "bustard",
+            "oystercatcher, oyster catcher",
+            "pelican",
+            "albatross, mollymawk",
+            "snipe",
+            "sandpiper",
+            "swan",
+            "heron",
+            "duck",
+            "penguin",
+            "stork",
+            "plover",
+            "rail",
+            "gallinule, marsh hen, water hen, swamphen"
+        ],
+        "child_labels": [
+            140,
+            144,
+            138,
+            127,
+            137,
+            99,
+            135,
+            128,
+            146,
+            141,
+            100,
+            133,
+            145,
+            129,
+            132,
+            136,
+            142,
+            134,
+            97,
+            143,
+            98,
+            130,
+            131,
+            139
+        ]
+    },
+    "65": {
+        "node_name": "arachnid, arachnoid",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "arthropod"
+        ],
+        "child_names": [
+            "harvestman, daddy longlegs, Phalangium opilio",
+            "scorpion",
+            "acarine",
+            "spider"
+        ],
+        "child_labels": [
+            73,
+            72,
+            75,
+            76,
+            71,
+            70,
+            74,
+            77,
+            78
+        ]
+    },
+    "66": {
+        "node_name": "archosaur, archosaurian, archosaurian reptile",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "reptile, reptilian"
+        ],
+        "child_names": [
+            "dinosaur"
+        ],
+        "child_labels": [
+            51
+        ]
+    },
+    "67": {
+        "node_name": "door",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "furniture, piece of furniture, article of furniture"
+        ],
+        "child_names": [
+            "sliding door"
+        ],
+        "child_labels": [
+            799
+        ]
+    },
+    "68": {
+        "node_name": "landing, landing place",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "man-made structure, construction"
+        ],
+        "child_names": [
+            "dock, dockage, docking facility"
+        ],
+        "child_labels": [
+            536
+        ]
+    },
+    "69": {
+        "node_name": "tank, storage tank",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "man-made structure, construction"
+        ],
+        "child_names": [
+            "reservoir"
+        ],
+        "child_labels": [
+            900
+        ]
+    },
+    "70": {
+        "node_name": "electronic equipment",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "equipment"
+        ],
+        "child_names": [
+            "cassette player",
+            "CD player",
+            "computer keyboard, keypad",
+            "home theater, home theatre",
+            "joystick",
+            "microphone, mike",
+            "modem",
+            "monitor",
+            "mouse, computer mouse",
+            "oscilloscope, scope, cathode-ray oscilloscope, CRO",
+            "photocopier",
+            "printer",
+            "projector",
+            "radio, wireless",
+            "remote control, remote",
+            "tape player",
+            "television, television system",
+            "display, video display",
+            "telephone, phone, telephone set",
+            "digital computer",
+            "audio system, sound system"
+        ],
+        "child_labels": [
+            745,
+            620,
+            485,
+            605,
+            487,
+            782,
+            754,
+            528,
+            713,
+            613,
+            681,
+            598,
+            590,
+            482,
+            742,
+            664,
+            650,
+            848,
+            632,
+            508,
+            527,
+            707,
+            688,
+            662,
+            851,
+            673,
+            761
+        ]
+    },
+    "71": {
+        "node_name": "aquatic mammal",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "mammal, mammalian"
+        ],
+        "child_names": [
+            "whale",
+            "sea cow, sirenian mammal, sirenian",
+            "seal"
+        ],
+        "child_labels": [
+            148,
+            150,
+            147,
+            149
+        ]
+    },
+    "72": {
+        "node_name": "home appliance, household appliance",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "appliance"
+        ],
+        "child_names": [
+            "dishwasher, dish washer, dishwashing machine",
+            "iron, smoothing iron",
+            "lawn mower, mower",
+            "microwave, microwave oven",
+            "refrigerator, icebox",
+            "rotisserie",
+            "sewing machine",
+            "space heater",
+            "stove",
+            "toaster",
+            "vacuum, vacuum cleaner",
+            "waffle iron",
+            "washer, automatic washer, washing machine",
+            "fan",
+            "coffee maker",
+            "cooker"
+        ],
+        "child_labels": [
+            521,
+            760,
+            786,
+            891,
+            550,
+            534,
+            811,
+            897,
+            621,
+            606,
+            827,
+            545,
+            859,
+            882,
+            651,
+            766
+        ]
+    },
+    "73": {
+        "node_name": "dummy15",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "worm"
+        ],
+        "child_names": [
+            "nematode, nematode worm, roundworm"
+        ],
+        "child_labels": [
+            111
+        ]
+    },
+    "74": {
+        "node_name": "aircraft",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "craft"
+        ],
+        "child_names": [
+            "airship, dirigible",
+            "balloon",
+            "warplane, military plane",
+            "airplane, aeroplane, plane"
+        ],
+        "child_labels": [
+            417,
+            895,
+            404,
+            405
+        ]
+    },
+    "75": {
+        "node_name": "dummy39",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "accessory, accoutrement, accouterment"
+        ],
+        "child_names": [
+            "sheath"
+        ],
+        "child_labels": [
+            597,
+            777
+        ]
+    },
+    "76": {
+        "node_name": "dummy71",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "geological formation, formation"
+        ],
+        "child_names": [
+            "valley, vale"
+        ],
+        "child_labels": [
+            979
+        ]
+    },
+    "77": {
+        "node_name": "dummy72",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "man-made structure, construction"
+        ],
+        "child_names": [
+            "signboard, sign"
+        ],
+        "child_labels": [
+            920,
+            781,
+            919
+        ]
+    },
+    "78": {
+        "node_name": "serpentes",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "reptile, reptilian"
+        ],
+        "child_names": [
+            "snake, serpent, ophidian"
+        ],
+        "child_labels": [
+            62,
+            58,
+            52,
+            61,
+            54,
+            53,
+            57,
+            66,
+            65,
+            55,
+            68,
+            59,
+            60,
+            56,
+            64,
+            67,
+            63
+        ]
+    },
+    "79": {
+        "node_name": "facial accessories",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "accessory, accoutrement, accouterment"
+        ],
+        "child_names": [
+            "face mask",
+            "spectacles, specs, eyeglasses, glasses"
+        ],
+        "child_labels": [
+            643,
+            796,
+            837,
+            570
+        ]
+    },
+    "80": {
+        "node_name": "dummy53",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "accessory, accoutrement, accouterment"
+        ],
+        "child_names": [
+            "buckle"
+        ],
+        "child_labels": [
+            464
+        ]
+    },
+    "81": {
+        "node_name": "dummy73",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "man-made structure, construction"
+        ],
+        "child_names": [
+            "bridge, span"
+        ],
+        "child_labels": [
+            821,
+            839,
+            888
+        ]
+    },
+    "82": {
+        "node_name": "table",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "furniture, piece of furniture, article of furniture"
+        ],
+        "child_names": [
+            "desk",
+            "dining table, board",
+            "pool table, billiard table, snooker table"
+        ],
+        "child_labels": [
+            526,
+            736,
+            532
+        ]
+    },
+    "83": {
+        "node_name": "carnivore",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "mammal, mammalian"
+        ],
+        "child_names": [
+            "hyena, hyaena",
+            "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",
+            "lynx, catamount",
+            "leopard, Panthera pardus",
+            "snow leopard, ounce, Panthera uncia",
+            "jaguar, panther, Panthera onca, Felis onca",
+            "lion, king of beasts, Panthera leo",
+            "tiger, Panthera tigris",
+            "cheetah, chetah, Acinonyx jubatus",
+            "mongoose",
+            "meerkat, mierkat",
+            "weasel",
+            "mink",
+            "polecat, fitch, foulmart, foumart, Mustela putorius",
+            "black-footed ferret, ferret, Mustela nigripes",
+            "otter",
+            "skunk, polecat, wood pussy",
+            "badger",
+            "lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",
+            "giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",
+            "domestic cat, house cat, Felis domesticus, Felis catus",
+            "wolf",
+            "wild dog",
+            "fox",
+            "bear",
+            "dog, domestic dog, Canis familiaris"
+        ],
+        "child_labels": [
+            179,
+            234,
+            173,
+            160,
+            210,
+            243,
+            248,
+            252,
+            280,
+            177,
+            291,
+            284,
+            292,
+            235,
+            159,
+            273,
+            188,
+            221,
+            153,
+            222,
+            257,
+            201,
+            295,
+            156,
+            225,
+            167,
+            249,
+            264,
+            172,
+            192,
+            220,
+            236,
+            260,
+            165,
+            285,
+            258,
+            244,
+            251,
+            208,
+            203,
+            231,
+            239,
+            164,
+            356,
+            186,
+            245,
+            215,
+            256,
+            200,
+            357,
+            190,
+            228,
+            163,
+            216,
+            194,
+            214,
+            229,
+            162,
+            259,
+            247,
+            152,
+            233,
+            204,
+            289,
+            281,
+            183,
+            182,
+            218,
+            287,
+            279,
+            270,
+            255,
+            296,
+            237,
+            263,
+            242,
+            274,
+            158,
+            219,
+            224,
+            178,
+            181,
+            189,
+            191,
+            240,
+            238,
+            174,
+            155,
+            253,
+            294,
+            275,
+            269,
+            293,
+            288,
+            187,
+            161,
+            154,
+            250,
+            184,
+            198,
+            209,
+            193,
+            277,
+            358,
+            261,
+            360,
+            199,
+            185,
+            254,
+            169,
+            196,
+            387,
+            176,
+            276,
+            282,
+            283,
+            272,
+            180,
+            211,
+            241,
+            278,
+            226,
+            151,
+            166,
+            267,
+            217,
+            262,
+            195,
+            212,
+            227,
+            170,
+            265,
+            388,
+            202,
+            232,
+            297,
+            290,
+            361,
+            230,
+            157,
+            286,
+            205,
+            299,
+            266,
+            246,
+            223,
+            206,
+            359,
+            268,
+            271,
+            171,
+            175,
+            197,
+            168,
+            207,
+            213,
+            362,
+            298
+        ]
+    },
+    "84": {
+        "node_name": "tool",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "instrument"
+        ],
+        "child_names": [
+            "carpenter's kit, tool kit",
+            "chain saw, chainsaw",
+            "hammer",
+            "lighter, light, igniter, ignitor",
+            "nail",
+            "paintbrush",
+            "plow, plough",
+            "plunger, plumber's helper",
+            "power drill",
+            "reel",
+            "screw",
+            "screwdriver",
+            "shovel",
+            "torch",
+            "pin",
+            "sharpener",
+            "lock",
+            "eraser",
+            "pen"
+        ],
+        "child_labels": [
+            784,
+            696,
+            677,
+            862,
+            477,
+            783,
+            767,
+            710,
+            507,
+            563,
+            587,
+            695,
+            491,
+            772,
+            740,
+            749,
+            730,
+            731,
+            418,
+            626,
+            792,
+            758
+        ]
+    },
+    "85": {
+        "node_name": "vessel, watercraft",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "craft"
+        ],
+        "child_names": [
+            "submarine, pigboat, sub, U-boat",
+            "ship",
+            "boat"
+        ],
+        "child_labels": [
+            780,
+            554,
+            403,
+            833,
+            913,
+            576,
+            484,
+            814,
+            724,
+            510,
+            628,
+            625,
+            472,
+            871,
+            914
+        ]
+    },
+    "86": {
+        "node_name": "building, edifice",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "man-made structure, construction"
+        ],
+        "child_names": [
+            "dummy49",
+            "place of worship, house of prayer, house of God, house of worship",
+            "outbuilding",
+            "theater, theatre, house",
+            "mercantile establishment, retail store, sales outlet, outlet",
+            "factory, mill, manufacturing plant, manufactory",
+            "tower",
+            "dwelling, home, domicile, abode, habitation, dwelling house",
+            "dummy47",
+            "dummy46",
+            "dummy45"
+        ],
+        "child_labels": [
+            410,
+            467,
+            449,
+            437,
+            634,
+            500,
+            788,
+            580,
+            727,
+            915,
+            698,
+            415,
+            498,
+            860,
+            624,
+            762,
+            832,
+            660,
+            483,
+            865,
+            454,
+            448,
+            582,
+            424,
+            668,
+            663,
+            425,
+            497,
+            509,
+            743
+        ]
+    },
+    "87": {
+        "node_name": "tableware",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "instrument"
+        ],
+        "child_names": [
+            "plate",
+            "spoon",
+            "bottle",
+            "mug",
+            "bowl",
+            "jug",
+            "glass, drinking glass"
+        ],
+        "child_labels": [
+            809,
+            504,
+            572,
+            910,
+            898,
+            899,
+            923,
+            440,
+            737,
+            901,
+            659,
+            907,
+            441
+        ]
+    },
+    "88": {
+        "node_name": "dummy77",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "man-made structure, construction"
+        ],
+        "child_names": [
+            "memorial, monument"
+        ],
+        "child_labels": [
+            458,
+            649,
+            873
+        ]
+    },
+    "89": {
+        "node_name": "primate",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "mammal, mammalian"
+        ],
+        "child_names": [
+            "lemur",
+            "ape",
+            "monkey"
+        ],
+        "child_labels": [
+            371,
+            375,
+            383,
+            374,
+            382,
+            384,
+            369,
+            380,
+            365,
+            366,
+            367,
+            368,
+            379,
+            377,
+            373,
+            381,
+            378,
+            370,
+            376,
+            372
+        ]
+    },
+    "90": {
+        "node_name": "screen",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "furniture, piece of furniture, article of furniture"
+        ],
+        "child_names": [
+            "fire screen, fireguard",
+            "mosquito net",
+            "shoji",
+            "window screen",
+            "window shade"
+        ],
+        "child_labels": [
+            905,
+            789,
+            669,
+            904,
+            556
+        ]
+    },
+    "91": {
+        "node_name": "area",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "man-made structure, construction"
+        ],
+        "child_names": [
+            "bell cote, bell cot",
+            "patio, terrace",
+            "stage",
+            "roof"
+        ],
+        "child_labels": [
+            819,
+            706,
+            884,
+            858,
+            538,
+            853,
+            442
+        ]
+    },
+    "92": {
+        "node_name": "shore",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "geological formation, formation"
+        ],
+        "child_names": [
+            "lakeside, lakeshore",
+            "seashore, coast, seacoast, sea-coast"
+        ],
+        "child_labels": [
+            978,
+            975
+        ]
+    },
+    "93": {
+        "node_name": "bar",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "geological formation, formation"
+        ],
+        "child_names": [
+            "sandbar, sand bar"
+        ],
+        "child_labels": [
+            977
+        ]
+    },
+    "94": {
+        "node_name": "dish",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "cooked food, prepared food"
+        ],
+        "child_names": [
+            "meat loaf, meatloaf",
+            "pizza, pizza pie",
+            "potpie",
+            "burrito",
+            "stew",
+            "soup",
+            "sandwich",
+            "potato, white potato, Irish potato, murphy, spud, tater"
+        ],
+        "child_labels": [
+            962,
+            964,
+            934,
+            965,
+            926,
+            933,
+            963,
+            935,
+            925
+        ]
+    },
+    "95": {
+        "node_name": "dummy50",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "accessory, accoutrement, accouterment"
+        ],
+        "child_names": [
+            "handkerchief, hankie, hanky, hankey"
+        ],
+        "child_labels": [
+            591
+        ]
+    },
+    "96": {
+        "node_name": "dummy51",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "accessory, accoutrement, accouterment"
+        ],
+        "child_names": [
+            "crutch"
+        ],
+        "child_labels": [
+            523
+        ]
+    },
+    "97": {
+        "node_name": "garment",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "garment"
+        ],
+        "child_names": [
+            "apron",
+            "military uniform",
+            "suit, suit of clothes",
+            "shirt",
+            "dress, frock",
+            "swimsuit, swimwear, bathing suit, swimming costume, bathing costume",
+            "nightwear, sleepwear, nightclothes",
+            "sweater, jumper",
+            "undergarment, unmentionable",
+            "trouser, pant",
+            "skirt",
+            "coat"
+        ],
+        "child_labels": [
+            474,
+            459,
+            617,
+            689,
+            608,
+            400,
+            568,
+            697,
+            601,
+            841,
+            655,
+            639,
+            529,
+            869,
+            578,
+            842,
+            501,
+            445,
+            735,
+            834,
+            411,
+            652,
+            775,
+            399,
+            614,
+            887,
+            610
+        ]
+    },
+    "98": {
+        "node_name": "coraciiform bird",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "bird"
+        ],
+        "child_names": [
+            "bee eater",
+            "hornbill"
+        ],
+        "child_labels": [
+            92,
+            93
+        ]
+    },
+    "99": {
+        "node_name": "dummy69",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "geological formation, formation"
+        ],
+        "child_names": [
+            "promontory, headland, head, foreland"
+        ],
+        "child_labels": [
+            976
+        ]
+    },
+    "100": {
+        "node_name": "piece of cloth, piece of material",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "soft furnishings, accessories"
+        ],
+        "child_names": [
+            "dishrag, dishcloth",
+            "towel"
+        ],
+        "child_labels": [
+            700,
+            533,
+            434
+        ]
+    },
+    "101": {
+        "node_name": "measuring instrument, measuring system, measuring device",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "instrument"
+        ],
+        "child_names": [
+            "barometer",
+            "scale, weighing machine",
+            "meter",
+            "measuring stick, measure, measuring rod",
+            "compass",
+            "timepiece, timekeeper, horologe"
+        ],
+        "child_labels": [
+            530,
+            769,
+            778,
+            604,
+            826,
+            635,
+            426,
+            409,
+            835,
+            685,
+            531,
+            892,
+            704
+        ]
+    },
+    "102": {
+        "node_name": "dummy74",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "man-made structure, construction"
+        ],
+        "child_names": [
+            "maze, labyrinth"
+        ],
+        "child_labels": [
+            646
+        ]
+    },
+    "103": {
+        "node_name": "handwear, hand wear",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "accessory, accoutrement, accouterment"
+        ],
+        "child_names": [
+            "glove"
+        ],
+        "child_labels": [
+            658
+        ]
+    },
+    "104": {
+        "node_name": "wall unit",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "furniture, piece of furniture, article of furniture"
+        ],
+        "child_names": [
+            "bookcase",
+            "entertainment center",
+            "wardrobe, closet, press",
+            "cabinet",
+            "chest of drawers, chest, bureau, dresser"
+        ],
+        "child_labels": [
+            453,
+            493,
+            495,
+            553,
+            894,
+            648,
+            548
+        ]
+    },
+    "105": {
+        "node_name": "dummy8",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "amphibian"
+        ],
+        "child_names": [
+            "salamander"
+        ],
+        "child_labels": [
+            25,
+            28,
+            29,
+            26,
+            27
+        ]
+    },
+    "106": {
+        "node_name": "dummy79",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "furniture, piece of furniture, article of furniture"
+        ],
+        "child_names": [
+            "chest"
+        ],
+        "child_labels": [
+            492
+        ]
+    },
+    "107": {
+        "node_name": "edentate",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "mammal, mammalian"
+        ],
+        "child_names": [
+            "armadillo",
+            "sloth, tree sloth"
+        ],
+        "child_labels": [
+            363,
+            364
+        ]
+    },
+    "108": {
+        "node_name": "piciform bird",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "bird"
+        ],
+        "child_names": [
+            "jacamar",
+            "toucan"
+        ],
+        "child_labels": [
+            95,
+            96
+        ]
+    },
+    "109": {
+        "node_name": "dummy11",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "echinoderm"
+        ],
+        "child_names": [
+            "starfish, sea star"
+        ],
+        "child_labels": [
+            327
+        ]
+    },
+    "110": {
+        "node_name": "fruit",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "produce, green goods, green groceries, garden truck"
+        ],
+        "child_names": [
+            "strawberry",
+            "orange",
+            "lemon",
+            "fig",
+            "pineapple, ananas",
+            "banana",
+            "jackfruit, jak, jack",
+            "custard apple",
+            "pomegranate",
+            "rapeseed",
+            "corn",
+            "acorn",
+            "hip, rose hip, rosehip",
+            "buckeye, horse chestnut, conker",
+            "ear, spike, capitulum",
+            "apple"
+        ],
+        "child_labels": [
+            990,
+            984,
+            949,
+            948,
+            987,
+            953,
+            950,
+            951,
+            952,
+            957,
+            998,
+            955,
+            988,
+            989,
+            954,
+            956
+        ]
+    },
+    "111": {
+        "node_name": "gastropod, univalve",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "mollusk, mollusc, shellfish"
+        ],
+        "child_names": [
+            "conch",
+            "snail",
+            "slug",
+            "sea slug, nudibranch"
+        ],
+        "child_labels": [
+            113,
+            115,
+            114,
+            112
+        ]
+    },
+    "112": {
+        "node_name": "cycles",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "wheeled vehicle"
+        ],
+        "child_names": [
+            "tricycle, trike, velocipede",
+            "unicycle, monocycle",
+            "bicycle, bike, wheel, cycle"
+        ],
+        "child_labels": [
+            671,
+            880,
+            870,
+            444
+        ]
+    },
+    "113": {
+        "node_name": "mountain, mount",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "geological formation, formation"
+        ],
+        "child_names": [
+            "alp",
+            "volcano"
+        ],
+        "child_labels": [
+            980,
+            970
+        ]
+    },
+    "114": {
+        "node_name": "weapon, arm, weapon system",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "instrument"
+        ],
+        "child_names": [
+            "bow",
+            "cannon",
+            "missile",
+            "projectile, missile",
+            "firearm, piece, small-arm"
+        ],
+        "child_labels": [
+            471,
+            657,
+            763,
+            764,
+            456,
+            413,
+            744
+        ]
+    },
+    "115": {
+        "node_name": "photographic equipment",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "equipment"
+        ],
+        "child_names": [
+            "lens cap, lens cover",
+            "tripod",
+            "camera, photographic camera"
+        ],
+        "child_labels": [
+            759,
+            622,
+            872,
+            732
+        ]
+    },
+    "116": {
+        "node_name": "seat",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "furniture, piece of furniture, article of furniture"
+        ],
+        "child_names": [
+            "toilet seat",
+            "chair",
+            "sofa, couch, lounge"
+        ],
+        "child_labels": [
+            559,
+            831,
+            703,
+            765,
+            423,
+            857,
+            861
+        ]
+    },
+    "117": {
+        "node_name": "bird of prey, raptor, raptorial bird",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "bird"
+        ],
+        "child_names": [
+            "vulture",
+            "hawk",
+            "owl, bird of Minerva, bird of night, hooter",
+            "eagle, bird of Jove"
+        ],
+        "child_labels": [
+            23,
+            24,
+            22,
+            21
+        ]
+    },
+    "118": {
+        "node_name": "floor cover, floor covering",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "soft furnishings, accessories"
+        ],
+        "child_names": [
+            "mat",
+            "rug, carpet, carpeting"
+        ],
+        "child_labels": [
+            741,
+            539
+        ]
+    },
+    "119": {
+        "node_name": "padding, cushioning",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "soft furnishings, accessories"
+        ],
+        "child_names": [
+            "cushion"
+        ],
+        "child_labels": [
+            721
+        ]
+    },
+    "120": {
+        "node_name": "sled, sledge, sleigh",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "sled, sledge, sleigh"
+        ],
+        "child_names": [
+            "bobsled, bobsleigh, bob",
+            "dogsled, dog sled, dog sleigh"
+        ],
+        "child_labels": [
+            537,
+            450
+        ]
+    },
+    "121": {
+        "node_name": "reef",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "geological formation, formation"
+        ],
+        "child_names": [
+            "coral reef"
+        ],
+        "child_labels": [
+            973
+        ]
+    },
+    "122": {
+        "node_name": "apodiform bird",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "bird"
+        ],
+        "child_names": [
+            "hummingbird"
+        ],
+        "child_labels": [
+            94
+        ]
+    },
+    "123": {
+        "node_name": "dummy14",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "worm"
+        ],
+        "child_names": [
+            "flatworm, platyhelminth"
+        ],
+        "child_labels": [
+            110
+        ]
+    },
+    "124": {
+        "node_name": "flower",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "vascular plant, tracheophyte"
+        ],
+        "child_names": [
+            "daisy",
+            "orchid, orchidaceous plant"
+        ],
+        "child_labels": [
+            986,
+            985
+        ]
+    },
+    "125": {
+        "node_name": "baked goods",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "cooked food, prepared food"
+        ],
+        "child_names": [
+            "cracker",
+            "bun, roll",
+            "loaf of bread, loaf"
+        ],
+        "child_labels": [
+            930,
+            931,
+            932
+        ]
+    },
+    "126": {
+        "node_name": "tracked vehicle",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "wheeled vehicle"
+        ],
+        "child_names": [
+            "amphibian, amphibious vehicle",
+            "half track",
+            "snowmobile",
+            "tank, army tank, armored combat vehicle, armoured combat vehicle"
+        ],
+        "child_labels": [
+            802,
+            847,
+            586,
+            408
+        ]
+    },
+    "127": {
+        "node_name": "neckwear",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "accessory, accoutrement, accouterment"
+        ],
+        "child_names": [
+            "bib",
+            "scarf",
+            "necktie, tie",
+            "jewelry, jewellery",
+            "brace"
+        ],
+        "child_labels": [
+            451,
+            824,
+            443,
+            552,
+            678,
+            906,
+            457,
+            679
+        ]
+    }
+}

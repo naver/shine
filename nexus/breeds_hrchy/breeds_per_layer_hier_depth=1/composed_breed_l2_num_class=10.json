@@ -1,0 +1,229 @@
+{
+    "0": {
+        "node_name": "furnishing",
+        "parent_names": [
+            "non-living thing"
+        ],
+        "child_names": [
+            "soft furnishings",
+            "accessories",
+            "furniture",
+            "piece of furniture",
+            "article of furniture"
+        ],
+        "candidate_sentences": [
+            "a soft furnishings, which is a furnishing, which is a non-living thing",
+            "a accessories, which is a furnishing, which is a non-living thing",
+            "a furniture, which is a furnishing, which is a non-living thing",
+            "a piece of furniture, which is a furnishing, which is a non-living thing",
+            "a article of furniture, which is a furnishing, which is a non-living thing"
+        ]
+    },
+    "1": {
+        "node_name": "plant, flora, plant life",
+        "parent_names": [
+            "living thing",
+            "animate thing"
+        ],
+        "child_names": [
+            "vascular plant",
+            "tracheophyte"
+        ],
+        "candidate_sentences": [
+            "a vascular plant, which is a plant, flora, plant life, which is a living thing",
+            "a tracheophyte, which is a plant, flora, plant life, which is a living thing",
+            "a vascular plant, which is a plant, flora, plant life, which is a animate thing",
+            "a tracheophyte, which is a plant, flora, plant life, which is a animate thing"
+        ]
+    },
+    "2": {
+        "node_name": "fungus",
+        "parent_names": [
+            "living thing",
+            "animate thing"
+        ],
+        "child_names": [
+            "fungus"
+        ],
+        "candidate_sentences": [
+            "a fungus, which is a fungus, which is a living thing",
+            "a fungus, which is a fungus, which is a animate thing"
+        ]
+    },
+    "3": {
+        "node_name": "person",
+        "parent_names": [
+            "living thing",
+            "animate thing"
+        ],
+        "child_names": [
+            "person"
+        ],
+        "candidate_sentences": [
+            "a person, which is a person, which is a living thing",
+            "a person, which is a person, which is a animate thing"
+        ]
+    },
+    "4": {
+        "node_name": "conveyance, transport",
+        "parent_names": [
+            "non-living thing"
+        ],
+        "child_names": [
+            "craft",
+            "sled",
+            "sledge",
+            "sleigh",
+            "wheeled vehicle"
+        ],
+        "candidate_sentences": [
+            "a craft, which is a conveyance, transport, which is a non-living thing",
+            "a sled, which is a conveyance, transport, which is a non-living thing",
+            "a sledge, which is a conveyance, transport, which is a non-living thing",
+            "a sleigh, which is a conveyance, transport, which is a non-living thing",
+            "a wheeled vehicle, which is a conveyance, transport, which is a non-living thing"
+        ]
+    },
+    "5": {
+        "node_name": "apparel, toiletries",
+        "parent_names": [
+            "non-living thing"
+        ],
+        "child_names": [
+            "toiletry",
+            "toilet articles",
+            "accessory",
+            "accoutrement",
+            "accouterment",
+            "garment"
+        ],
+        "candidate_sentences": [
+            "a toiletry, which is a apparel, toiletries, which is a non-living thing",
+            "a toilet articles, which is a apparel, toiletries, which is a non-living thing",
+            "a accessory, which is a apparel, toiletries, which is a non-living thing",
+            "a accoutrement, which is a apparel, toiletries, which is a non-living thing",
+            "a accouterment, which is a apparel, toiletries, which is a non-living thing",
+            "a garment, which is a apparel, toiletries, which is a non-living thing"
+        ]
+    },
+    "6": {
+        "node_name": "food, nutrient",
+        "parent_names": [
+            "non-living thing"
+        ],
+        "child_names": [
+            "beverage",
+            "drink",
+            "drinkable",
+            "potable",
+            "cooked food",
+            "prepared food",
+            "produce",
+            "green goods",
+            "green groceries",
+            "garden truck"
+        ],
+        "candidate_sentences": [
+            "a beverage, which is a food, nutrient, which is a non-living thing",
+            "a drink, which is a food, nutrient, which is a non-living thing",
+            "a drinkable, which is a food, nutrient, which is a non-living thing",
+            "a potable, which is a food, nutrient, which is a non-living thing",
+            "a cooked food, which is a food, nutrient, which is a non-living thing",
+            "a prepared food, which is a food, nutrient, which is a non-living thing",
+            "a produce, which is a food, nutrient, which is a non-living thing",
+            "a green goods, which is a food, nutrient, which is a non-living thing",
+            "a green groceries, which is a food, nutrient, which is a non-living thing",
+            "a garden truck, which is a food, nutrient, which is a non-living thing"
+        ]
+    },
+    "7": {
+        "node_name": "paraphernalia",
+        "parent_names": [
+            "non-living thing"
+        ],
+        "child_names": [
+            "appliance",
+            "instrument",
+            "equipment"
+        ],
+        "candidate_sentences": [
+            "a appliance, which is a paraphernalia, which is a non-living thing",
+            "a instrument, which is a paraphernalia, which is a non-living thing",
+            "a equipment, which is a paraphernalia, which is a non-living thing"
+        ]
+    },
+    "8": {
+        "node_name": "structure, place",
+        "parent_names": [
+            "non-living thing"
+        ],
+        "child_names": [
+            "man-made structure",
+            "construction",
+            "geological formation",
+            "formation"
+        ],
+        "candidate_sentences": [
+            "a man-made structure, which is a structure, place, which is a non-living thing",
+            "a construction, which is a structure, place, which is a non-living thing",
+            "a geological formation, which is a structure, place, which is a non-living thing",
+            "a formation, which is a structure, place, which is a non-living thing"
+        ]
+    },
+    "9": {
+        "node_name": "animal, animate being, beast, brute, creature, fauna",
+        "parent_names": [
+            "living thing",
+            "animate thing"
+        ],
+        "child_names": [
+            "mollusk",
+            "mollusc",
+            "shellfish",
+            "arthropod",
+            "coelenterate",
+            "cnidarian",
+            "worm",
+            "mammal",
+            "mammalian",
+            "fish",
+            "echinoderm",
+            "bird",
+            "reptile",
+            "reptilian",
+            "amphibian"
+        ],
+        "candidate_sentences": [
+            "a mollusk, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a mollusc, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a shellfish, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a arthropod, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a coelenterate, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a cnidarian, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a worm, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a mammal, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a mammalian, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a fish, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a echinoderm, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a bird, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a reptile, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a reptilian, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a amphibian, which is a animal, animate being, beast, brute, creature, fauna, which is a living thing",
+            "a mollusk, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a mollusc, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a shellfish, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a arthropod, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a coelenterate, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a cnidarian, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a worm, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a mammal, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a mammalian, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a fish, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a echinoderm, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a bird, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a reptile, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a reptilian, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing",
+            "a amphibian, which is a animal, animate being, beast, brute, creature, fauna, which is a animate thing"
+        ]
+    }
+}

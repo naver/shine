@@ -1,0 +1,60 @@
+{
+    "0": {
+        "node_name": "living thing, animate thing",
+        "parent_names": [],
+        "child_names": [
+            "animal",
+            "animate being",
+            "beast",
+            "brute",
+            "creature",
+            "fauna",
+            "plant",
+            "flora",
+            "plant life",
+            "fungus",
+            "person"
+        ],
+        "candidate_sentences": [
+            "a animal, which is a living thing, animate thing",
+            "a animate being, which is a living thing, animate thing",
+            "a beast, which is a living thing, animate thing",
+            "a brute, which is a living thing, animate thing",
+            "a creature, which is a living thing, animate thing",
+            "a fauna, which is a living thing, animate thing",
+            "a plant, which is a living thing, animate thing",
+            "a flora, which is a living thing, animate thing",
+            "a plant life, which is a living thing, animate thing",
+            "a fungus, which is a living thing, animate thing",
+            "a person, which is a living thing, animate thing"
+        ]
+    },
+    "1": {
+        "node_name": "non-living thing",
+        "parent_names": [],
+        "child_names": [
+            "furnishing",
+            "food",
+            "nutrient",
+            "apparel",
+            "toiletries",
+            "paraphernalia",
+            "conveyance",
+            "transport",
+            "structure",
+            "place"
+        ],
+        "candidate_sentences": [
+            "a furnishing, which is a non-living thing",
+            "a food, which is a non-living thing",
+            "a nutrient, which is a non-living thing",
+            "a apparel, which is a non-living thing",
+            "a toiletries, which is a non-living thing",
+            "a paraphernalia, which is a non-living thing",
+            "a conveyance, which is a non-living thing",
+            "a transport, which is a non-living thing",
+            "a structure, which is a non-living thing",
+            "a place, which is a non-living thing"
+        ]
+    }
+}

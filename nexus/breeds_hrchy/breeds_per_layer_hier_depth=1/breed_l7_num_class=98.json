@@ -1,0 +1,896 @@
+{
+    "0": {
+        "node_name": "Staffordshire bullterrier, Staffordshire bull terrier",
+        "node_id_at_leaf": 179,
+        "parent_names": [
+            "bullterrier, bull terrier"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "1": {
+        "node_name": "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",
+        "node_id_at_leaf": 323,
+        "parent_names": [
+            "danaid, danaid butterfly"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "2": {
+        "node_name": "apiary, bee house",
+        "node_id_at_leaf": 410,
+        "parent_names": [
+            "shed"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "3": {
+        "node_name": "liner, ocean liner",
+        "node_id_at_leaf": 628,
+        "parent_names": [
+            "passenger ship"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "4": {
+        "node_name": "moped",
+        "node_id_at_leaf": 665,
+        "parent_names": [
+            "minibike, motorbike"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "5": {
+        "node_name": "sweatshirt",
+        "node_id_at_leaf": 841,
+        "parent_names": [
+            "pullover, slipover"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "6": {
+        "node_name": "cabbage butterfly",
+        "node_id_at_leaf": 324,
+        "parent_names": [
+            "pierid, pierid butterfly"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "7": {
+        "node_name": "wire-haired fox terrier",
+        "node_id_at_leaf": 188,
+        "parent_names": [
+            "fox terrier"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "8": {
+        "node_name": "Irish water spaniel",
+        "node_id_at_leaf": 221,
+        "parent_names": [
+            "water spaniel"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "9": {
+        "node_name": "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",
+        "node_id_at_leaf": 986,
+        "parent_names": [
+            "lady's slipper, lady-slipper, ladies' slipper, slipper orchid"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "10": {
+        "node_name": "corkscrew, bottle screw",
+        "node_id_at_leaf": 512,
+        "parent_names": [
+            "bottle opener"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "11": {
+        "node_name": "Blenheim spaniel",
+        "node_id_at_leaf": 156,
+        "parent_names": [
+            "toy spaniel"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "12": {
+        "node_name": "cheeseburger",
+        "node_id_at_leaf": 933,
+        "parent_names": [
+            "hamburger, beefburger, burger"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "13": {
+        "node_name": "parking meter",
+        "node_id_at_leaf": 704,
+        "parent_names": [
+            "timer"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "14": {
+        "node_name": "malinois",
+        "node_id_at_leaf": 225,
+        "parent_names": [
+            "Belgian sheepdog, Belgian shepherd"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "15": {
+        "node_name": "Cardigan, Cardigan Welsh corgi",
+        "node_id_at_leaf": 264,
+        "parent_names": [
+            "corgi, Welsh corgi"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "16": {
+        "node_name": "rhinoceros beetle",
+        "node_id_at_leaf": 306,
+        "parent_names": [
+            "scarabaeid beetle, scarabaeid, scarabaean"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "17": {
+        "node_name": "lorikeet",
+        "node_id_at_leaf": 90,
+        "parent_names": [
+            "lory"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "18": {
+        "node_name": "American egret, great white heron, Egretta albus",
+        "node_id_at_leaf": 132,
+        "parent_names": [
+            "egret"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "19": {
+        "node_name": "European gallinule, Porphyrio porphyrio",
+        "node_id_at_leaf": 136,
+        "parent_names": [
+            "purple gallinule"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "20": {
+        "node_name": "admiral",
+        "node_id_at_leaf": 321,
+        "parent_names": [
+            "nymphalid, nymphalid butterfly, brush-footed butterfly, four-footed butterfly"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "21": {
+        "node_name": "stupa, tope",
+        "node_id_at_leaf": 832,
+        "parent_names": [
+            "shrine"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "22": {
+        "node_name": "loupe, jeweler's loupe",
+        "node_id_at_leaf": 633,
+        "parent_names": [
+            "hand glass, simple microscope, magnifying glass"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "23": {
+        "node_name": "assault rifle, assault gun",
+        "node_id_at_leaf": 413,
+        "parent_names": [
+            "automatic firearm, automatic gun, automatic weapon"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "24": {
+        "node_name": "red-breasted merganser, Mergus serrator",
+        "node_id_at_leaf": 98,
+        "parent_names": [
+            "merganser, fish duck, sawbill, sheldrake"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "25": {
+        "node_name": "digital clock",
+        "node_id_at_leaf": 530,
+        "parent_names": [
+            "clock"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "26": {
+        "node_name": "Tibetan mastiff",
+        "node_id_at_leaf": 244,
+        "parent_names": [
+            "mastiff"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "27": {
+        "node_name": "catamaran",
+        "node_id_at_leaf": 484,
+        "parent_names": [
+            "sailboat, sailing boat"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "28": {
+        "node_name": "grand piano, grand",
+        "node_id_at_leaf": 579,
+        "parent_names": [
+            "piano, pianoforte, forte-piano"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "29": {
+        "node_name": "spaghetti squash",
+        "node_id_at_leaf": 940,
+        "parent_names": [
+            "summer squash"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "30": {
+        "node_name": "frilled lizard, Chlamydosaurus kingi",
+        "node_id_at_leaf": 43,
+        "parent_names": [
+            "agamid, agamid lizard"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "31": {
+        "node_name": "Indian cobra, Naja naja",
+        "node_id_at_leaf": 63,
+        "parent_names": [
+            "cobra"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "32": {
+        "node_name": "French bulldog",
+        "node_id_at_leaf": 245,
+        "parent_names": [
+            "bulldog, English bulldog"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "33": {
+        "node_name": "black mamba, Dendroaspis augusticeps",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "mamba"
+        ],
+        "child_names": [
+            "green mamba"
+        ],
+        "child_labels": [
+            64
+        ]
+    },
+    "34": {
+        "node_name": "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",
+        "node_id_at_leaf": 48,
+        "parent_names": [
+            "monitor, monitor lizard, varan"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "35": {
+        "node_name": "whiptail, whiptail lizard",
+        "node_id_at_leaf": 41,
+        "parent_names": [
+            "teiid lizard, teiid"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "36": {
+        "node_name": "boathouse",
+        "node_id_at_leaf": 449,
+        "parent_names": [
+            "shed"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "37": {
+        "node_name": "container ship, containership, container vessel",
+        "node_id_at_leaf": 510,
+        "parent_names": [
+            "cargo ship, cargo vessel"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "38": {
+        "node_name": "bell pepper",
+        "node_id_at_leaf": 945,
+        "parent_names": [
+            "sweet pepper"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "39": {
+        "node_name": "rock python, rock snake, Python sebae",
+        "node_id_at_leaf": 62,
+        "parent_names": [
+            "python"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "40": {
+        "node_name": "ceratopsian, horned dinosaur",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "ornithischian, ornithischian dinosaur"
+        ],
+        "child_names": [
+            "triceratops"
+        ],
+        "child_labels": [
+            51
+        ]
+    },
+    "41": {
+        "node_name": "green lizard, Lacerta viridis",
+        "node_id_at_leaf": 46,
+        "parent_names": [
+            "lacertid lizard, lacertid"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "42": {
+        "node_name": "hourglass",
+        "node_id_at_leaf": 604,
+        "parent_names": [
+            "sandglass"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "43": {
+        "node_name": "common iguana, iguana, Iguana iguana",
+        "node_id_at_leaf": 39,
+        "parent_names": [
+            "iguanid, iguanid lizard"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "44": {
+        "node_name": "alligator lizard",
+        "node_id_at_leaf": 44,
+        "parent_names": [
+            "anguid lizard"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "45": {
+        "node_name": "Welsh springer spaniel",
+        "node_id_at_leaf": 218,
+        "parent_names": [
+            "springer spaniel, springer"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "46": {
+        "node_name": "trimaran",
+        "node_id_at_leaf": 871,
+        "parent_names": [
+            "sailboat, sailing boat"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "47": {
+        "node_name": "bullfrog, Rana catesbeiana",
+        "node_id_at_leaf": 30,
+        "parent_names": [
+            "true frog, ranid"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "48": {
+        "node_name": "trench coat",
+        "node_id_at_leaf": 869,
+        "parent_names": [
+            "raincoat, waterproof"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "49": {
+        "node_name": "agama",
+        "node_id_at_leaf": 42,
+        "parent_names": [
+            "agamid, agamid lizard"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "50": {
+        "node_name": "Granny Smith",
+        "node_id_at_leaf": 948,
+        "parent_names": [
+            "eating apple, dessert apple"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "51": {
+        "node_name": "aircraft carrier, carrier, flattop, attack aircraft carrier",
+        "node_id_at_leaf": 403,
+        "parent_names": [
+            "warship, war vessel, combat ship"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "52": {
+        "node_name": "Gila monster, Heloderma suspectum",
+        "node_id_at_leaf": 45,
+        "parent_names": [
+            "venomous lizard"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "53": {
+        "node_name": "Pembroke, Pembroke Welsh corgi",
+        "node_id_at_leaf": 263,
+        "parent_names": [
+            "corgi, Welsh corgi"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "54": {
+        "node_name": "groenendael",
+        "node_id_at_leaf": 224,
+        "parent_names": [
+            "Belgian sheepdog, Belgian shepherd"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "55": {
+        "node_name": "Lakeland terrier",
+        "node_id_at_leaf": 189,
+        "parent_names": [
+            "wirehair, wirehaired terrier, wire-haired terrier"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "56": {
+        "node_name": "throne",
+        "node_id_at_leaf": 857,
+        "parent_names": [
+            "chair of state"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "57": {
+        "node_name": "banded gecko",
+        "node_id_at_leaf": 38,
+        "parent_names": [
+            "gecko"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "58": {
+        "node_name": "worm fence, snake fence, snake-rail fence, Virginia fence",
+        "node_id_at_leaf": 912,
+        "parent_names": [
+            "rail fence"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "59": {
+        "node_name": "acorn squash",
+        "node_id_at_leaf": 941,
+        "parent_names": [
+            "winter squash"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "60": {
+        "node_name": "leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",
+        "node_id_at_leaf": 34,
+        "parent_names": [
+            "sea turtle, marine turtle"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "61": {
+        "node_name": "American coot, marsh hen, mud hen, water hen, Fulica americana",
+        "node_id_at_leaf": 137,
+        "parent_names": [
+            "coot"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "62": {
+        "node_name": "analog clock",
+        "node_id_at_leaf": 409,
+        "parent_names": [
+            "clock"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "63": {
+        "node_name": "standard schnauzer",
+        "node_id_at_leaf": 198,
+        "parent_names": [
+            "schnauzer"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "64": {
+        "node_name": "diamondback, diamondback rattlesnake, Crotalus adamanteus",
+        "node_id_at_leaf": 67,
+        "parent_names": [
+            "rattlesnake, rattler"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "65": {
+        "node_name": "American lobster, Northern lobster, Maine lobster, Homarus americanus",
+        "node_id_at_leaf": 122,
+        "parent_names": [
+            "true lobster"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "66": {
+        "node_name": "carbonara",
+        "node_id_at_leaf": 959,
+        "parent_names": [
+            "spaghetti sauce, pasta sauce"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "67": {
+        "node_name": "studio couch, day bed",
+        "node_id_at_leaf": 831,
+        "parent_names": [
+            "convertible, sofa bed"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "68": {
+        "node_name": "miniature schnauzer",
+        "node_id_at_leaf": 196,
+        "parent_names": [
+            "schnauzer"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "69": {
+        "node_name": "sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",
+        "node_id_at_leaf": 89,
+        "parent_names": [
+            "cockatoo"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "70": {
+        "node_name": "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+        "node_id_at_leaf": 180,
+        "parent_names": [
+            "bullterrier, bull terrier"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "71": {
+        "node_name": "wall clock",
+        "node_id_at_leaf": 892,
+        "parent_names": [
+            "clock"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "72": {
+        "node_name": "acoustic guitar",
+        "node_id_at_leaf": 402,
+        "parent_names": [
+            "guitar"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "73": {
+        "node_name": "standard poodle",
+        "node_id_at_leaf": 267,
+        "parent_names": [
+            "poodle, poodle dog"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "74": {
+        "node_name": "English springer, English springer spaniel",
+        "node_id_at_leaf": 217,
+        "parent_names": [
+            "springer spaniel, springer"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "75": {
+        "node_name": "Brabancon griffon",
+        "node_id_at_leaf": 262,
+        "parent_names": [
+            "griffon, Brussels griffon, Belgian griffon"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "76": {
+        "node_name": "panpipe, pandean pipe, syrinx",
+        "node_id_at_leaf": 699,
+        "parent_names": [
+            "pipe"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "77": {
+        "node_name": "sidewinder, horned rattlesnake, Crotalus cerastes",
+        "node_id_at_leaf": 68,
+        "parent_names": [
+            "rattlesnake, rattler"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "78": {
+        "node_name": "toy poodle",
+        "node_id_at_leaf": 265,
+        "parent_names": [
+            "poodle, poodle dog"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "79": {
+        "node_name": "eft",
+        "node_id_at_leaf": 27,
+        "parent_names": [
+            "newt, triton"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "80": {
+        "node_name": "zucchini, courgette",
+        "node_id_at_leaf": 939,
+        "parent_names": [
+            "summer squash"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "81": {
+        "node_name": "electric guitar",
+        "node_id_at_leaf": 546,
+        "parent_names": [
+            "guitar"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "82": {
+        "node_name": "American chameleon, anole, Anolis carolinensis",
+        "node_id_at_leaf": 40,
+        "parent_names": [
+            "iguanid, iguanid lizard"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "83": {
+        "node_name": "butternut squash",
+        "node_id_at_leaf": 942,
+        "parent_names": [
+            "winter squash"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "84": {
+        "node_name": "papillon",
+        "node_id_at_leaf": 157,
+        "parent_names": [
+            "toy spaniel"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "85": {
+        "node_name": "Welsh terrier",
+        "node_id_at_leaf": -1,
+        "parent_names": [
+            "wirehair, wirehaired terrier, wire-haired terrier"
+        ],
+        "child_names": [
+            "Sealyham terrier, Sealyham"
+        ],
+        "child_labels": [
+            190
+        ]
+    },
+    "86": {
+        "node_name": "upright, upright piano",
+        "node_id_at_leaf": 881,
+        "parent_names": [
+            "piano, pianoforte, forte-piano"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "87": {
+        "node_name": "stopwatch, stop watch",
+        "node_id_at_leaf": 826,
+        "parent_names": [
+            "timer"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "88": {
+        "node_name": "dung beetle",
+        "node_id_at_leaf": 305,
+        "parent_names": [
+            "scarabaeid beetle, scarabaeid, scarabaean"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "89": {
+        "node_name": "miniature poodle",
+        "node_id_at_leaf": 266,
+        "parent_names": [
+            "poodle, poodle dog"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "90": {
+        "node_name": "bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",
+        "node_id_at_leaf": 349,
+        "parent_names": [
+            "mountain sheep"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "91": {
+        "node_name": "common newt, Triturus vulgaris",
+        "node_id_at_leaf": 26,
+        "parent_names": [
+            "newt, triton"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "92": {
+        "node_name": "loggerhead, loggerhead turtle, Caretta caretta",
+        "node_id_at_leaf": 33,
+        "parent_names": [
+            "sea turtle, marine turtle"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "93": {
+        "node_name": "giant schnauzer",
+        "node_id_at_leaf": 197,
+        "parent_names": [
+            "schnauzer"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "94": {
+        "node_name": "revolver, six-gun, six-shooter",
+        "node_id_at_leaf": 763,
+        "parent_names": [
+            "pistol, handgun, side arm, shooting iron"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "95": {
+        "node_name": "park bench",
+        "node_id_at_leaf": 703,
+        "parent_names": [
+            "bench"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "96": {
+        "node_name": "African chameleon, Chamaeleo chamaeleon",
+        "node_id_at_leaf": 47,
+        "parent_names": [
+            "chameleon, chamaeleon"
+        ],
+        "child_names": [],
+        "child_labels": []
+    },
+    "97": {
+        "node_name": "digital watch",
+        "node_id_at_leaf": 531,
+        "parent_names": [
+            "watch, ticker"
+        ],
+        "child_names": [],
+        "child_labels": []
+    }
+}

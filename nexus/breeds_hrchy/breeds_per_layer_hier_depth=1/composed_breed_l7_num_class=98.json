@@ -1,0 +1,1142 @@
+{
+    "0": {
+        "node_name": "Staffordshire bullterrier, Staffordshire bull terrier",
+        "parent_names": [
+            "bullterrier",
+            "bull terrier"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a Staffordshire bullterrier, Staffordshire bull terrier, which is a bullterrier",
+            "a Staffordshire bullterrier, Staffordshire bull terrier, which is a bull terrier"
+        ]
+    },
+    "1": {
+        "node_name": "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",
+        "parent_names": [
+            "danaid",
+            "danaid butterfly"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a monarch, monarch butterfly, milkweed butterfly, Danaus plexippus, which is a danaid",
+            "a monarch, monarch butterfly, milkweed butterfly, Danaus plexippus, which is a danaid butterfly"
+        ]
+    },
+    "2": {
+        "node_name": "apiary, bee house",
+        "parent_names": [
+            "shed"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a apiary, bee house, which is a shed"
+        ]
+    },
+    "3": {
+        "node_name": "liner, ocean liner",
+        "parent_names": [
+            "passenger ship"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a liner, ocean liner, which is a passenger ship"
+        ]
+    },
+    "4": {
+        "node_name": "moped",
+        "parent_names": [
+            "minibike",
+            "motorbike"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a moped, which is a minibike",
+            "a moped, which is a motorbike"
+        ]
+    },
+    "5": {
+        "node_name": "sweatshirt",
+        "parent_names": [
+            "pullover",
+            "slipover"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a sweatshirt, which is a pullover",
+            "a sweatshirt, which is a slipover"
+        ]
+    },
+    "6": {
+        "node_name": "cabbage butterfly",
+        "parent_names": [
+            "pierid",
+            "pierid butterfly"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a cabbage butterfly, which is a pierid",
+            "a cabbage butterfly, which is a pierid butterfly"
+        ]
+    },
+    "7": {
+        "node_name": "wire-haired fox terrier",
+        "parent_names": [
+            "fox terrier"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a wire-haired fox terrier, which is a fox terrier"
+        ]
+    },
+    "8": {
+        "node_name": "Irish water spaniel",
+        "parent_names": [
+            "water spaniel"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a Irish water spaniel, which is a water spaniel"
+        ]
+    },
+    "9": {
+        "node_name": "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",
+        "parent_names": [
+            "lady's slipper",
+            "lady-slipper",
+            "ladies' slipper",
+            "slipper orchid"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum, which is a lady's slipper",
+            "a yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum, which is a lady-slipper",
+            "a yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum, which is a ladies' slipper",
+            "a yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum, which is a slipper orchid"
+        ]
+    },
+    "10": {
+        "node_name": "corkscrew, bottle screw",
+        "parent_names": [
+            "bottle opener"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a corkscrew, bottle screw, which is a bottle opener"
+        ]
+    },
+    "11": {
+        "node_name": "Blenheim spaniel",
+        "parent_names": [
+            "toy spaniel"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a Blenheim spaniel, which is a toy spaniel"
+        ]
+    },
+    "12": {
+        "node_name": "cheeseburger",
+        "parent_names": [
+            "hamburger",
+            "beefburger",
+            "burger"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a cheeseburger, which is a hamburger",
+            "a cheeseburger, which is a beefburger",
+            "a cheeseburger, which is a burger"
+        ]
+    },
+    "13": {
+        "node_name": "parking meter",
+        "parent_names": [
+            "timer"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a parking meter, which is a timer"
+        ]
+    },
+    "14": {
+        "node_name": "malinois",
+        "parent_names": [
+            "Belgian sheepdog",
+            "Belgian shepherd"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a malinois, which is a Belgian sheepdog",
+            "a malinois, which is a Belgian shepherd"
+        ]
+    },
+    "15": {
+        "node_name": "Cardigan, Cardigan Welsh corgi",
+        "parent_names": [
+            "corgi",
+            "Welsh corgi"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a Cardigan, Cardigan Welsh corgi, which is a corgi",
+            "a Cardigan, Cardigan Welsh corgi, which is a Welsh corgi"
+        ]
+    },
+    "16": {
+        "node_name": "rhinoceros beetle",
+        "parent_names": [
+            "scarabaeid beetle",
+            "scarabaeid",
+            "scarabaean"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a rhinoceros beetle, which is a scarabaeid beetle",
+            "a rhinoceros beetle, which is a scarabaeid",
+            "a rhinoceros beetle, which is a scarabaean"
+        ]
+    },
+    "17": {
+        "node_name": "lorikeet",
+        "parent_names": [
+            "lory"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a lorikeet, which is a lory"
+        ]
+    },
+    "18": {
+        "node_name": "American egret, great white heron, Egretta albus",
+        "parent_names": [
+            "egret"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a American egret, great white heron, Egretta albus, which is a egret"
+        ]
+    },
+    "19": {
+        "node_name": "European gallinule, Porphyrio porphyrio",
+        "parent_names": [
+            "purple gallinule"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a European gallinule, Porphyrio porphyrio, which is a purple gallinule"
+        ]
+    },
+    "20": {
+        "node_name": "admiral",
+        "parent_names": [
+            "nymphalid",
+            "nymphalid butterfly",
+            "brush-footed butterfly",
+            "four-footed butterfly"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a admiral, which is a nymphalid",
+            "a admiral, which is a nymphalid butterfly",
+            "a admiral, which is a brush-footed butterfly",
+            "a admiral, which is a four-footed butterfly"
+        ]
+    },
+    "21": {
+        "node_name": "stupa, tope",
+        "parent_names": [
+            "shrine"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a stupa, tope, which is a shrine"
+        ]
+    },
+    "22": {
+        "node_name": "loupe, jeweler's loupe",
+        "parent_names": [
+            "hand glass",
+            "simple microscope",
+            "magnifying glass"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a loupe, jeweler's loupe, which is a hand glass",
+            "a loupe, jeweler's loupe, which is a simple microscope",
+            "a loupe, jeweler's loupe, which is a magnifying glass"
+        ]
+    },
+    "23": {
+        "node_name": "assault rifle, assault gun",
+        "parent_names": [
+            "automatic firearm",
+            "automatic gun",
+            "automatic weapon"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a assault rifle, assault gun, which is a automatic firearm",
+            "a assault rifle, assault gun, which is a automatic gun",
+            "a assault rifle, assault gun, which is a automatic weapon"
+        ]
+    },
+    "24": {
+        "node_name": "red-breasted merganser, Mergus serrator",
+        "parent_names": [
+            "merganser",
+            "fish duck",
+            "sawbill",
+            "sheldrake"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a red-breasted merganser, Mergus serrator, which is a merganser",
+            "a red-breasted merganser, Mergus serrator, which is a fish duck",
+            "a red-breasted merganser, Mergus serrator, which is a sawbill",
+            "a red-breasted merganser, Mergus serrator, which is a sheldrake"
+        ]
+    },
+    "25": {
+        "node_name": "digital clock",
+        "parent_names": [
+            "clock"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a digital clock, which is a clock"
+        ]
+    },
+    "26": {
+        "node_name": "Tibetan mastiff",
+        "parent_names": [
+            "mastiff"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a Tibetan mastiff, which is a mastiff"
+        ]
+    },
+    "27": {
+        "node_name": "catamaran",
+        "parent_names": [
+            "sailboat",
+            "sailing boat"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a catamaran, which is a sailboat",
+            "a catamaran, which is a sailing boat"
+        ]
+    },
+    "28": {
+        "node_name": "grand piano, grand",
+        "parent_names": [
+            "piano",
+            "pianoforte",
+            "forte-piano"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a grand piano, grand, which is a piano",
+            "a grand piano, grand, which is a pianoforte",
+            "a grand piano, grand, which is a forte-piano"
+        ]
+    },
+    "29": {
+        "node_name": "spaghetti squash",
+        "parent_names": [
+            "summer squash"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a spaghetti squash, which is a summer squash"
+        ]
+    },
+    "30": {
+        "node_name": "frilled lizard, Chlamydosaurus kingi",
+        "parent_names": [
+            "agamid",
+            "agamid lizard"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a frilled lizard, Chlamydosaurus kingi, which is a agamid",
+            "a frilled lizard, Chlamydosaurus kingi, which is a agamid lizard"
+        ]
+    },
+    "31": {
+        "node_name": "Indian cobra, Naja naja",
+        "parent_names": [
+            "cobra"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a Indian cobra, Naja naja, which is a cobra"
+        ]
+    },
+    "32": {
+        "node_name": "French bulldog",
+        "parent_names": [
+            "bulldog",
+            "English bulldog"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a French bulldog, which is a bulldog",
+            "a French bulldog, which is a English bulldog"
+        ]
+    },
+    "33": {
+        "node_name": "black mamba, Dendroaspis augusticeps",
+        "parent_names": [
+            "mamba"
+        ],
+        "child_names": [
+            "green mamba"
+        ],
+        "candidate_sentences": [
+            "a green mamba, which is a black mamba, Dendroaspis augusticeps, which is a mamba"
+        ]
+    },
+    "34": {
+        "node_name": "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",
+        "parent_names": [
+            "monitor",
+            "monitor lizard",
+            "varan"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis, which is a monitor",
+            "a Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis, which is a monitor lizard",
+            "a Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis, which is a varan"
+        ]
+    },
+    "35": {
+        "node_name": "whiptail, whiptail lizard",
+        "parent_names": [
+            "teiid lizard",
+            "teiid"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a whiptail, whiptail lizard, which is a teiid lizard",
+            "a whiptail, whiptail lizard, which is a teiid"
+        ]
+    },
+    "36": {
+        "node_name": "boathouse",
+        "parent_names": [
+            "shed"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a boathouse, which is a shed"
+        ]
+    },
+    "37": {
+        "node_name": "container ship, containership, container vessel",
+        "parent_names": [
+            "cargo ship",
+            "cargo vessel"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a container ship, containership, container vessel, which is a cargo ship",
+            "a container ship, containership, container vessel, which is a cargo vessel"
+        ]
+    },
+    "38": {
+        "node_name": "bell pepper",
+        "parent_names": [
+            "sweet pepper"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a bell pepper, which is a sweet pepper"
+        ]
+    },
+    "39": {
+        "node_name": "rock python, rock snake, Python sebae",
+        "parent_names": [
+            "python"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a rock python, rock snake, Python sebae, which is a python"
+        ]
+    },
+    "40": {
+        "node_name": "ceratopsian, horned dinosaur",
+        "parent_names": [
+            "ornithischian",
+            "ornithischian dinosaur"
+        ],
+        "child_names": [
+            "triceratops"
+        ],
+        "candidate_sentences": [
+            "a triceratops, which is a ceratopsian, horned dinosaur, which is a ornithischian",
+            "a triceratops, which is a ceratopsian, horned dinosaur, which is a ornithischian dinosaur"
+        ]
+    },
+    "41": {
+        "node_name": "green lizard, Lacerta viridis",
+        "parent_names": [
+            "lacertid lizard",
+            "lacertid"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a green lizard, Lacerta viridis, which is a lacertid lizard",
+            "a green lizard, Lacerta viridis, which is a lacertid"
+        ]
+    },
+    "42": {
+        "node_name": "hourglass",
+        "parent_names": [
+            "sandglass"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a hourglass, which is a sandglass"
+        ]
+    },
+    "43": {
+        "node_name": "common iguana, iguana, Iguana iguana",
+        "parent_names": [
+            "iguanid",
+            "iguanid lizard"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a common iguana, iguana, Iguana iguana, which is a iguanid",
+            "a common iguana, iguana, Iguana iguana, which is a iguanid lizard"
+        ]
+    },
+    "44": {
+        "node_name": "alligator lizard",
+        "parent_names": [
+            "anguid lizard"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a alligator lizard, which is a anguid lizard"
+        ]
+    },
+    "45": {
+        "node_name": "Welsh springer spaniel",
+        "parent_names": [
+            "springer spaniel",
+            "springer"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a Welsh springer spaniel, which is a springer spaniel",
+            "a Welsh springer spaniel, which is a springer"
+        ]
+    },
+    "46": {
+        "node_name": "trimaran",
+        "parent_names": [
+            "sailboat",
+            "sailing boat"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a trimaran, which is a sailboat",
+            "a trimaran, which is a sailing boat"
+        ]
+    },
+    "47": {
+        "node_name": "bullfrog, Rana catesbeiana",
+        "parent_names": [
+            "true frog",
+            "ranid"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a bullfrog, Rana catesbeiana, which is a true frog",
+            "a bullfrog, Rana catesbeiana, which is a ranid"
+        ]
+    },
+    "48": {
+        "node_name": "trench coat",
+        "parent_names": [
+            "raincoat",
+            "waterproof"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a trench coat, which is a raincoat",
+            "a trench coat, which is a waterproof"
+        ]
+    },
+    "49": {
+        "node_name": "agama",
+        "parent_names": [
+            "agamid",
+            "agamid lizard"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a agama, which is a agamid",
+            "a agama, which is a agamid lizard"
+        ]
+    },
+    "50": {
+        "node_name": "Granny Smith",
+        "parent_names": [
+            "eating apple",
+            "dessert apple"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a Granny Smith, which is a eating apple",
+            "a Granny Smith, which is a dessert apple"
+        ]
+    },
+    "51": {
+        "node_name": "aircraft carrier, carrier, flattop, attack aircraft carrier",
+        "parent_names": [
+            "warship",
+            "war vessel",
+            "combat ship"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a aircraft carrier, carrier, flattop, attack aircraft carrier, which is a warship",
+            "a aircraft carrier, carrier, flattop, attack aircraft carrier, which is a war vessel",
+            "a aircraft carrier, carrier, flattop, attack aircraft carrier, which is a combat ship"
+        ]
+    },
+    "52": {
+        "node_name": "Gila monster, Heloderma suspectum",
+        "parent_names": [
+            "venomous lizard"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a Gila monster, Heloderma suspectum, which is a venomous lizard"
+        ]
+    },
+    "53": {
+        "node_name": "Pembroke, Pembroke Welsh corgi",
+        "parent_names": [
+            "corgi",
+            "Welsh corgi"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a Pembroke, Pembroke Welsh corgi, which is a corgi",
+            "a Pembroke, Pembroke Welsh corgi, which is a Welsh corgi"
+        ]
+    },
+    "54": {
+        "node_name": "groenendael",
+        "parent_names": [
+            "Belgian sheepdog",
+            "Belgian shepherd"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a groenendael, which is a Belgian sheepdog",
+            "a groenendael, which is a Belgian shepherd"
+        ]
+    },
+    "55": {
+        "node_name": "Lakeland terrier",
+        "parent_names": [
+            "wirehair",
+            "wirehaired terrier",
+            "wire-haired terrier"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a Lakeland terrier, which is a wirehair",
+            "a Lakeland terrier, which is a wirehaired terrier",
+            "a Lakeland terrier, which is a wire-haired terrier"
+        ]
+    },
+    "56": {
+        "node_name": "throne",
+        "parent_names": [
+            "chair of state"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a throne, which is a chair of state"
+        ]
+    },
+    "57": {
+        "node_name": "banded gecko",
+        "parent_names": [
+            "gecko"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a banded gecko, which is a gecko"
+        ]
+    },
+    "58": {
+        "node_name": "worm fence, snake fence, snake-rail fence, Virginia fence",
+        "parent_names": [
+            "rail fence"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a worm fence, snake fence, snake-rail fence, Virginia fence, which is a rail fence"
+        ]
+    },
+    "59": {
+        "node_name": "acorn squash",
+        "parent_names": [
+            "winter squash"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a acorn squash, which is a winter squash"
+        ]
+    },
+    "60": {
+        "node_name": "leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",
+        "parent_names": [
+            "sea turtle",
+            "marine turtle"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea, which is a sea turtle",
+            "a leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea, which is a marine turtle"
+        ]
+    },
+    "61": {
+        "node_name": "American coot, marsh hen, mud hen, water hen, Fulica americana",
+        "parent_names": [
+            "coot"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a American coot, marsh hen, mud hen, water hen, Fulica americana, which is a coot"
+        ]
+    },
+    "62": {
+        "node_name": "analog clock",
+        "parent_names": [
+            "clock"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a analog clock, which is a clock"
+        ]
+    },
+    "63": {
+        "node_name": "standard schnauzer",
+        "parent_names": [
+            "schnauzer"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a standard schnauzer, which is a schnauzer"
+        ]
+    },
+    "64": {
+        "node_name": "diamondback, diamondback rattlesnake, Crotalus adamanteus",
+        "parent_names": [
+            "rattlesnake",
+            "rattler"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a diamondback, diamondback rattlesnake, Crotalus adamanteus, which is a rattlesnake",
+            "a diamondback, diamondback rattlesnake, Crotalus adamanteus, which is a rattler"
+        ]
+    },
+    "65": {
+        "node_name": "American lobster, Northern lobster, Maine lobster, Homarus americanus",
+        "parent_names": [
+            "true lobster"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a American lobster, Northern lobster, Maine lobster, Homarus americanus, which is a true lobster"
+        ]
+    },
+    "66": {
+        "node_name": "carbonara",
+        "parent_names": [
+            "spaghetti sauce",
+            "pasta sauce"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a carbonara, which is a spaghetti sauce",
+            "a carbonara, which is a pasta sauce"
+        ]
+    },
+    "67": {
+        "node_name": "studio couch, day bed",
+        "parent_names": [
+            "convertible",
+            "sofa bed"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a studio couch, day bed, which is a convertible",
+            "a studio couch, day bed, which is a sofa bed"
+        ]
+    },
+    "68": {
+        "node_name": "miniature schnauzer",
+        "parent_names": [
+            "schnauzer"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a miniature schnauzer, which is a schnauzer"
+        ]
+    },
+    "69": {
+        "node_name": "sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",
+        "parent_names": [
+            "cockatoo"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita, which is a cockatoo"
+        ]
+    },
+    "70": {
+        "node_name": "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+        "parent_names": [
+            "bullterrier",
+            "bull terrier"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier, which is a bullterrier",
+            "a American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier, which is a bull terrier"
+        ]
+    },
+    "71": {
+        "node_name": "wall clock",
+        "parent_names": [
+            "clock"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a wall clock, which is a clock"
+        ]
+    },
+    "72": {
+        "node_name": "acoustic guitar",
+        "parent_names": [
+            "guitar"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a acoustic guitar, which is a guitar"
+        ]
+    },
+    "73": {
+        "node_name": "standard poodle",
+        "parent_names": [
+            "poodle",
+            "poodle dog"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a standard poodle, which is a poodle",
+            "a standard poodle, which is a poodle dog"
+        ]
+    },
+    "74": {
+        "node_name": "English springer, English springer spaniel",
+        "parent_names": [
+            "springer spaniel",
+            "springer"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a English springer, English springer spaniel, which is a springer spaniel",
+            "a English springer, English springer spaniel, which is a springer"
+        ]
+    },
+    "75": {
+        "node_name": "Brabancon griffon",
+        "parent_names": [
+            "griffon",
+            "Brussels griffon",
+            "Belgian griffon"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a Brabancon griffon, which is a griffon",
+            "a Brabancon griffon, which is a Brussels griffon",
+            "a Brabancon griffon, which is a Belgian griffon"
+        ]
+    },
+    "76": {
+        "node_name": "panpipe, pandean pipe, syrinx",
+        "parent_names": [
+            "pipe"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a panpipe, pandean pipe, syrinx, which is a pipe"
+        ]
+    },
+    "77": {
+        "node_name": "sidewinder, horned rattlesnake, Crotalus cerastes",
+        "parent_names": [
+            "rattlesnake",
+            "rattler"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a sidewinder, horned rattlesnake, Crotalus cerastes, which is a rattlesnake",
+            "a sidewinder, horned rattlesnake, Crotalus cerastes, which is a rattler"
+        ]
+    },
+    "78": {
+        "node_name": "toy poodle",
+        "parent_names": [
+            "poodle",
+            "poodle dog"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a toy poodle, which is a poodle",
+            "a toy poodle, which is a poodle dog"
+        ]
+    },
+    "79": {
+        "node_name": "eft",
+        "parent_names": [
+            "newt",
+            "triton"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a eft, which is a newt",
+            "a eft, which is a triton"
+        ]
+    },
+    "80": {
+        "node_name": "zucchini, courgette",
+        "parent_names": [
+            "summer squash"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a zucchini, courgette, which is a summer squash"
+        ]
+    },
+    "81": {
+        "node_name": "electric guitar",
+        "parent_names": [
+            "guitar"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a electric guitar, which is a guitar"
+        ]
+    },
+    "82": {
+        "node_name": "American chameleon, anole, Anolis carolinensis",
+        "parent_names": [
+            "iguanid",
+            "iguanid lizard"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a American chameleon, anole, Anolis carolinensis, which is a iguanid",
+            "a American chameleon, anole, Anolis carolinensis, which is a iguanid lizard"
+        ]
+    },
+    "83": {
+        "node_name": "butternut squash",
+        "parent_names": [
+            "winter squash"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a butternut squash, which is a winter squash"
+        ]
+    },
+    "84": {
+        "node_name": "papillon",
+        "parent_names": [
+            "toy spaniel"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a papillon, which is a toy spaniel"
+        ]
+    },
+    "85": {
+        "node_name": "Welsh terrier",
+        "parent_names": [
+            "wirehair",
+            "wirehaired terrier",
+            "wire-haired terrier"
+        ],
+        "child_names": [
+            "Sealyham terrier",
+            "Sealyham"
+        ],
+        "candidate_sentences": [
+            "a Sealyham terrier, which is a Welsh terrier, which is a wirehair",
+            "a Sealyham, which is a Welsh terrier, which is a wirehair",
+            "a Sealyham terrier, which is a Welsh terrier, which is a wirehaired terrier",
+            "a Sealyham, which is a Welsh terrier, which is a wirehaired terrier",
+            "a Sealyham terrier, which is a Welsh terrier, which is a wire-haired terrier",
+            "a Sealyham, which is a Welsh terrier, which is a wire-haired terrier"
+        ]
+    },
+    "86": {
+        "node_name": "upright, upright piano",
+        "parent_names": [
+            "piano",
+            "pianoforte",
+            "forte-piano"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a upright, upright piano, which is a piano",
+            "a upright, upright piano, which is a pianoforte",
+            "a upright, upright piano, which is a forte-piano"
+        ]
+    },
+    "87": {
+        "node_name": "stopwatch, stop watch",
+        "parent_names": [
+            "timer"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a stopwatch, stop watch, which is a timer"
+        ]
+    },
+    "88": {
+        "node_name": "dung beetle",
+        "parent_names": [
+            "scarabaeid beetle",
+            "scarabaeid",
+            "scarabaean"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a dung beetle, which is a scarabaeid beetle",
+            "a dung beetle, which is a scarabaeid",
+            "a dung beetle, which is a scarabaean"
+        ]
+    },
+    "89": {
+        "node_name": "miniature poodle",
+        "parent_names": [
+            "poodle",
+            "poodle dog"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a miniature poodle, which is a poodle",
+            "a miniature poodle, which is a poodle dog"
+        ]
+    },
+    "90": {
+        "node_name": "bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",
+        "parent_names": [
+            "mountain sheep"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis, which is a mountain sheep"
+        ]
+    },
+    "91": {
+        "node_name": "common newt, Triturus vulgaris",
+        "parent_names": [
+            "newt",
+            "triton"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a common newt, Triturus vulgaris, which is a newt",
+            "a common newt, Triturus vulgaris, which is a triton"
+        ]
+    },
+    "92": {
+        "node_name": "loggerhead, loggerhead turtle, Caretta caretta",
+        "parent_names": [
+            "sea turtle",
+            "marine turtle"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a loggerhead, loggerhead turtle, Caretta caretta, which is a sea turtle",
+            "a loggerhead, loggerhead turtle, Caretta caretta, which is a marine turtle"
+        ]
+    },
+    "93": {
+        "node_name": "giant schnauzer",
+        "parent_names": [
+            "schnauzer"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a giant schnauzer, which is a schnauzer"
+        ]
+    },
+    "94": {
+        "node_name": "revolver, six-gun, six-shooter",
+        "parent_names": [
+            "pistol",
+            "handgun",
+            "side arm",
+            "shooting iron"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a revolver, six-gun, six-shooter, which is a pistol",
+            "a revolver, six-gun, six-shooter, which is a handgun",
+            "a revolver, six-gun, six-shooter, which is a side arm",
+            "a revolver, six-gun, six-shooter, which is a shooting iron"
+        ]
+    },
+    "95": {
+        "node_name": "park bench",
+        "parent_names": [
+            "bench"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a park bench, which is a bench"
+        ]
+    },
+    "96": {
+        "node_name": "African chameleon, Chamaeleo chamaeleon",
+        "parent_names": [
+            "chameleon",
+            "chamaeleon"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a African chameleon, Chamaeleo chamaeleon, which is a chameleon",
+            "a African chameleon, Chamaeleo chamaeleon, which is a chamaeleon"
+        ]
+    },
+    "97": {
+        "node_name": "digital watch",
+        "parent_names": [
+            "watch",
+            "ticker"
+        ],
+        "child_names": [],
+        "candidate_sentences": [
+            "a digital watch, which is a watch",
+            "a digital watch, which is a ticker"
+        ]
+    }
+}

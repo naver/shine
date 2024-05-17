@@ -1,0 +1,1042 @@
+{
+    "1": {
+        "node_name": "person",
+        "parent_names": [
+            "Human&Living being&Organism",
+            "human&living being&organism",
+            "Human & Living being & Organism"
+        ],
+        "child_names": [
+            "man & woman & child & teenager & adult & senior citizen & athlete & artist & musician & actor",
+            "man & woman & child & teenager & adult & elderly & athlete & teacher & doctor & artist",
+            "man & woman & child & teenager & adult & senior & athlete & artist & student & teacher"
+        ]
+    },
+    "2": {
+        "node_name": "bicycle",
+        "parent_names": [
+            "Transportation & Sports & Recreation",
+            "Transportation & Sports & Outdoor",
+            "Transportation & Sports & Outdoor"
+        ],
+        "child_names": [
+            "road bike & mountain bike & hybrid bike & cruiser bike & folding bike & electric bike & BMX bike & tandem bike & recumbent bike & tricycle",
+            "mountain bike & road bike & hybrid bike & cruiser bike & folding bike & electric bike & BMX bike & tandem bike & recumbent bike & tricycle",
+            "mountain bike & road bike & commuter bike & hybrid bike & electric bike & folding bike & BMX bike & cruiser bike & tandem bike & recumbent bike"
+        ]
+    },
+    "3": {
+        "node_name": "car",
+        "parent_names": [
+            "Automobile & Transportation & Vehicle",
+            "Transportation & Automotive & Vehicles",
+            "Transportation & Automobile & Vehicle"
+        ],
+        "child_names": [
+            "Sedan & SUV & Convertible & Hatchback & Coupe & Minivan & Pickup truck & Station wagon & Electric car & Luxury car",
+            "Sedan & SUV & Hatchback & Coupe & Convertible & Minivan & Pickup Truck & Crossover & Electric Car & Luxury Car",
+            "sedan & SUV & convertible & sports car & hatchback & minivan & pickup truck & electric car & luxury car & station wagon"
+        ]
+    },
+    "4": {
+        "node_name": "motorcycle",
+        "parent_names": [
+            "Transportation & Vehicles & Motorized Vehicles",
+            "Vehicle & Transportation & Mode of Transportation",
+            "Transportation & Vehicles & Recreation"
+        ],
+        "child_names": [
+            "Cruiser & Sportbike & Touring & Dual-sport & Scooter & Off-road & Naked bike & Chopper & Sport touring & Adventure",
+            "chopper&cruiser&sport bike&dirt bike&touring bike&naked bike&adventure bike&off-road bike&scooter&electric bike",
+            "Cruiser & Sport Bike & Touring Bike & Dual-Sport Bike & Off-Road Bike & Scooter & Chopper & Dirt Bike & Street Bike & Adventure Bike"
+        ]
+    },
+    "5": {
+        "node_name": "airplane",
+        "parent_names": [
+            "Transportation & Aviation & Vehicles",
+            "Transportation & Aviation & Vehicles",
+            "transportation & aviation & vehicles"
+        ],
+        "child_names": [
+            "passenger plane & cargo plane & military plane & private plane & glider & helicopter & seaplane & fighter jet & bomber & propeller plane",
+            "commercial airplane & military airplane & private airplane & cargo airplane & passenger airplane & jet airplane & propeller airplane & seaplane & glider airplane & biplane",
+            "commercial airplane & military airplane & private airplane & passenger airplane & cargo airplane & fighter airplane & jet airplane & propeller airplane & seaplane & supersonic airplane"
+        ]
+    },
+    "6": {
+        "node_name": "bus",
+        "parent_names": [
+            "Transportation & Vehicles & Public",
+            "Transportation & Vehicles & Public",
+            "Transportation & Public Transit & Vehicles"
+        ],
+        "child_names": [
+            "city bus & school bus & double-decker bus & coach bus & minibus & articulated bus & shuttle bus & tour bus & open-top bus & trolleybus",
+            "city bus & double-decker bus & school bus & tour bus & shuttle bus & electric bus & articulated bus & coach bus & minib\u00fas & trolleybus",
+            "city bus & school bus & double-decker bus & tour bus & minibus & coach bus & shuttle bus & articulated bus & electric bus & party bus"
+        ]
+    },
+    "7": {
+        "node_name": "train",
+        "parent_names": [
+            "Transportation & Vehicles & Public Infrastructure",
+            "Transportation & Vehicles & Infrastructure",
+            "Transportation & Infrastructure & Travel"
+        ],
+        "child_names": [
+            "passenger train & freight train & high-speed train & commuter train & monorail train & subway train & diesel train & electric train & steam train & light rail train",
+            "steam train & electric train & bullet train & subway train & freight train & passenger train & high-speed train & monorail train & commuter train & light rail train",
+            "steam train & electric train & bullet train & subway train & commuter train & freight train & passenger train & high-speed train & monorail train & light rail train"
+        ]
+    },
+    "8": {
+        "node_name": "truck",
+        "parent_names": [
+            "vehicle & transportation & automotive",
+            "vehicles & transportation & automotive",
+            "vehicle & transportation & automotive"
+        ],
+        "child_names": [
+            "pickup truck & dump truck & tow truck & food truck & fire truck & box truck & semi-truck & garbage truck & tanker truck & ice cream truck",
+            "pickup truck & dump truck & tow truck & fire truck & delivery truck & box truck & semi-truck & garbage truck & cement truck & food truck",
+            "pickup truck & dump truck & tow truck & fire truck & ice cream truck & delivery truck & box truck & garbage truck & tanker truck & flatbed truck"
+        ]
+    },
+    "9": {
+        "node_name": "boat",
+        "parent_names": [
+            "Vehicles & Water transportation & Recreational equipment",
+            "Watercraft & Transportation & Recreation",
+            "Transportation & Watercraft & Vehicles"
+        ],
+        "child_names": [
+            "sailboat & speedboat & yacht & canoe & kayak & dinghy & pontoon boat & fishing boat & houseboat & jet ski",
+            "yacht & sailboat & canoe & kayak & rowboat & speedboat & fishing boat & pontoon boat & jet ski & dinghy",
+            "yacht & sailboat & canoe & kayak & speedboat & fishing boat & pontoon boat & houseboat & jet ski & rowboat"
+        ]
+    },
+    "10": {
+        "node_name": "traffic light",
+        "parent_names": [
+            "Transportation & Road infrastructure & Safety",
+            "Transportation & Road infrastructure & Safety equipment",
+            "transportation & urban infrastructure & public safety"
+        ],
+        "child_names": [
+            "red light & green light & yellow light & pedestrian signal & countdown timer & flashing light & arrow signal & bicycle signal & emergency vehicle signal & off signal",
+            "red traffic light & yellow traffic light & green traffic light & pedestrian traffic light & countdown traffic light & flashing traffic light & LED traffic light & solar-powered traffic light & round traffic light & rectangular traffic light",
+            "red light & yellow light & green light & pedestrian signal & countdown timer & flashing red light & flashing yellow light & arrow signal & bicycle signal & turning signal"
+        ]
+    },
+    "11": {
+        "node_name": "fire hydrant",
+        "parent_names": [
+            "Safety & Infrastructure & Utilities",
+            "public safety & urban infrastructure & emergency response",
+            "Infrastructure & Safety & Public utilities"
+        ],
+        "child_names": [
+            "fire hydrant & antique fire hydrant & modern fire hydrant & red fire hydrant & yellow fire hydrant & blue fire hydrant & green fire hydrant & metal fire hydrant & plastic fire hydrant & cast iron fire hydrant",
+            "fire hydrant & antique fire hydrant & modern fire hydrant & red fire hydrant & yellow fire hydrant & green fire hydrant & blue fire hydrant & metal fire hydrant & cast iron fire hydrant & plastic fire hydrant",
+            "fire hydrant & vintage fire hydrant & modern fire hydrant & red fire hydrant & yellow fire hydrant & blue fire hydrant & green fire hydrant & metal fire hydrant & concrete fire hydrant & plastic fire hydrant"
+        ]
+    },
+    "12": {
+        "node_name": "stop sign",
+        "parent_names": [
+            "Traffic signs & Road safety & Regulatory signs",
+            "Traffic signs & Road safety & Public infrastructure",
+            "Traffic signs & Road safety & Public safety"
+        ],
+        "child_names": [
+            "Stop sign & Yield sign & Speed limit sign & Do not enter sign & No parking sign & No U-turn sign & One way sign & School zone sign & Construction zone sign & Dead end sign",
+            "stop sign & yield sign & traffic light & speed limit sign & pedestrian crossing sign & no parking sign & no entry sign & school zone sign & crosswalk sign & railroad crossing sign",
+            "stop sign & traffic sign & road sign & regulatory sign & octagonal sign & symbol sign & intersection sign & warning sign & safety sign & red sign"
+        ]
+    },
+    "13": {
+        "node_name": "parking meter",
+        "parent_names": [
+            "infrastructure & technology & public services",
+            "Transportation & Urban planning & Technology",
+            "Public infrastructure & urban equipment & payment systems"
+        ],
+        "child_names": [
+            "single-space parking meter & multi-space parking meter & solar-powered parking meter & coin-operated parking meter & digital parking meter & smart parking meter & pay-by-phone parking meter & credit card parking meter & touch-screen parking meter & wireless parking meter",
+            "single space parking meter & multi-space parking meter & solar-powered parking meter & coin-operated parking meter & digital parking meter & wireless parking meter & smart parking meter & dual-head parking meter & handheld parking meter & pay-by-phone parking meter",
+            "Single-space parking meter & Multi-space parking meter & Solar-powered parking meter & Coin-operated parking meter & Credit card parking meter & Mobile payment parking meter & Time-limited parking meter & Pay-by-phone parking meter & Digital display parking meter & Electronic parking meter"
+        ]
+    },
+    "14": {
+        "node_name": "bench",
+        "parent_names": [
+            "furniture & seating & outdoor",
+            "Furniture & Seating & Outdoor",
+            "furniture & outdoor & seating"
+        ],
+        "child_names": [
+            "wooden bench & metal bench & park bench & garden bench & picnic bench & outdoor bench & indoor bench & concrete bench & stone bench & backless bench",
+            "wooden bench & metal bench & park bench & garden bench & outdoor bench & indoor bench & concrete bench & stone bench & backless bench & upholstered bench",
+            "wooden bench & metal bench & park bench & garden bench & outdoor bench & indoor bench & concrete bench & teak bench & stone bench & backless bench"
+        ]
+    },
+    "15": {
+        "node_name": "bird",
+        "parent_names": [
+            "animal&vertebrate&avian",
+            "animal&vertebrate&avian",
+            "Animal & Vertebrate & Chordate"
+        ],
+        "child_names": [
+            "sparrow & eagle & hummingbird & pigeon & owl & flamingo & parrot & seagull & toucan & peacock",
+            "sparrow & eagle & hummingbird & peacock & owl & penguin & flamingo & parrot & toucan & swan",
+            "parrot & eagle & hummingbird & owl & penguin & flamingo & seagull & peacock & hawk & canary"
+        ]
+    },
+    "16": {
+        "node_name": "cat",
+        "parent_names": [
+            "animals & pets & mammals",
+            "mammal & pet & feline",
+            "Animals & Pets & Mammals"
+        ],
+        "child_names": [
+            "Siamese cat & Persian cat & Maine Coon cat & Ragdoll cat & Sphynx cat & Bengal cat & Abyssinian cat & Scottish Fold cat & British Shorthair cat & Russian Blue cat",
+            "Siamese cat & Persian cat & Maine Coon cat & Ragdoll cat & Sphynx cat & Bengal cat & Abyssinian cat & Scottish Fold cat & British Shorthair cat & Russian Blue cat",
+            "Siamese cat & Persian cat & Maine Coon cat & Bengal cat & Ragdoll cat & Sphynx cat & British Shorthair cat & Abyssinian cat & Scottish Fold cat & Russian Blue cat"
+        ]
+    },
+    "17": {
+        "node_name": "dog",
+        "parent_names": [
+            "animals & pets & mammals",
+            "animals & pets & mammals",
+            "animal & pet & mammal"
+        ],
+        "child_names": [
+            "Labrador Retriever & German Shepherd & Bulldog & Poodle & Beagle & Rottweiler & Boxer & Dachshund & Golden Retriever & Yorkshire Terrier",
+            "Labrador Retriever & German Shepherd & Golden Retriever & French Bulldog & Bulldog & Poodle & Beagle & Rottweiler & Yorkshire Terrier & Boxer",
+            "Poodle & Labrador Retriever & German Shepherd & Bulldog & Beagle & Boxer & Rottweiler & Dachshund & Golden Retriever & Yorkshire Terrier"
+        ]
+    },
+    "18": {
+        "node_name": "horse",
+        "parent_names": [
+            "animals & mammals & domesticated animals",
+            "animals & mammals & domesticated animals",
+            "Animals & Mammals & Livestock"
+        ],
+        "child_names": [
+            "Arabian horse & Clydesdale horse & Thoroughbred horse & Friesian horse & Mustang horse & Appaloosa horse & Shetland pony & Andalusian horse & Quarter horse & Paint horse",
+            "Arabian & Clydesdale & Thoroughbred & Appaloosa & Mustang & Shetland Pony & Friesian & Quarter Horse & Paint Horse & Morgan Horse",
+            "Arabian horse & Thoroughbred horse & Clydesdale horse & Quarter horse & Paint horse & Appaloosa horse & Andalusian horse & Mustang horse & Friesian horse & Shetland pony"
+        ]
+    },
+    "19": {
+        "node_name": "sheep",
+        "parent_names": [
+            "Animals & Mammals & Livestock",
+            "Animals & Livestock & Mammals",
+            "Animals & Livestock & Mammals"
+        ],
+        "child_names": [
+            "merino&wool&rambouillet&dorper&jacobs&shetland&hampshire&dorset&cotswold&romney",
+            "black sheep & white sheep & fluffy sheep & woolly sheep & baby sheep & adult sheep & grazing sheep & horned sheep & domesticated sheep & wild sheep",
+            "ewes & rams & lambs & yearlings & wethers & hoggets & ewe lambs & ram lambs & breeding stock & show sheep"
+        ]
+    },
+    "20": {
+        "node_name": "cow",
+        "parent_names": [
+            "animals & livestock & mammals",
+            "animals & mammals & livestock",
+            "mammal & livestock & animal"
+        ],
+        "child_names": [
+            "Holstein cow & Jersey cow & Angus cow & Hereford cow & Guernsey cow & Simmental cow & Charolais cow & Limousin cow & Brahman cow & Highland cow",
+            "Here is a list of 10 types of cows:& Holstein& Angus& Jersey& Hereford& Guernsey& Brown Swiss& Simmental& Limousin& Charolais& Highland",
+            "Here is a list of 10 types of cows:& Holstein& Jersey& Angus& Hereford& Simmental& Guernsey& Highland& Limousin& Charolais& Brahman&The list separated by '&' would be: &Holstein & Jersey & Angus & Hereford & Simmental & Guernsey & Highland & Limousin & Charolais & Brahman"
+        ]
+    },
+    "21": {
+        "node_name": "elephant",
+        "parent_names": [
+            "animals & mammals & land mammals",
+            "animals & mammals & land animals",
+            "Mammal & Animal & Living being"
+        ],
+        "child_names": [
+            "African elephant & Asian elephant & Indian elephant & Sumatran elephant & Sri Lankan elephant & Borneo elephant & Forest elephant & Savannah elephant & Bush elephant & Desert elephant",
+            "African elephant & Asian elephant & Indian elephant & Sumatran elephant & Sri Lankan elephant & Borneo elephant & Javan elephant & Pygmy elephant & Forest elephant & Savannah elephant",
+            "African elephant & Asian elephant & Baby elephant & Bull elephant & Cow elephant & Forest elephant & Savanna elephant & Indian elephant & Sumatran elephant & Sri Lankan elephant"
+        ]
+    },
+    "22": {
+        "node_name": "bear",
+        "parent_names": [
+            "animals & mammals & carnivores",
+            "Mammals & Wildlife & Animals",
+            "animals & mammals & carnivores"
+        ],
+        "child_names": [
+            "polar bear & grizzly bear & black bear & brown bear & panda bear & sun bear & spectacled bear & sloth bear & American black bear & Asiatic black bear",
+            "Grizzly bear & Polar bear & Black bear & Brown bear & Panda bear & Sun bear & Spectacled bear & Sloth bear & American black bear & Asiatic black bear",
+            "polar bear & grizzly bear & black bear & brown bear & panda bear & sloth bear & sun bear & spectacled bear & Kodiak bear & American black bear"
+        ]
+    },
+    "23": {
+        "node_name": "zebra",
+        "parent_names": [
+            "Animal&Striped&Wildlife",
+            "animals & mammals & ungulates",
+            "animals & mammals & ungulates"
+        ],
+        "child_names": [
+            "Grevy's zebra & Plains zebra & Mountain zebra & Hartmann's mountain zebra & Cape mountain zebra & Somali wild ass & Kiang & Onager & Przewalski's horse & Quagga",
+            "Grevy's zebra & Plains zebra & Mountain zebra & Hartmann's mountain zebra & Cape mountain zebra & Somali zebra & Grant's zebra & Chapman's zebra & Crawshay's zebra & Equus zebra",
+            "Grevy's zebra & Plains zebra & Mountain zebra & Hartmann's mountain zebra & Cape mountain zebra & Somali zebra & Grant's zebra & Chapman's zebra & Selous' zebra & Crawshay's zebra"
+        ]
+    },
+    "24": {
+        "node_name": "giraffe",
+        "parent_names": [
+            "animals & mammals & herbivores",
+            "animals & mammals & ungulates",
+            "animals & mammals & ungulates"
+        ],
+        "child_names": [
+            "Baby giraffe & Masai giraffe & Reticulated giraffe & Rothschild's giraffe & Thornicroft's giraffe & West African giraffe & Nubian giraffe & Angolan giraffe & South African giraffe & Kordofan giraffe",
+            "Reticulated giraffe & Masai giraffe & Rothschild's giraffe & Nubian giraffe & Angolan giraffe & Kordofan giraffe & Thornicroft's giraffe & West African giraffe & South African giraffe & Somali giraffe",
+            "Masai giraffe & Reticulated giraffe & Rothschild's giraffe & Thornicroft's giraffe & South African giraffe & West African giraffe & Kordofan giraffe & Nubian giraffe & Angolan giraffe & Somali giraffe"
+        ]
+    },
+    "25": {
+        "node_name": "backpack",
+        "parent_names": [
+            "bags & luggage & accessories",
+            "Fashion & Travel & Accessories",
+            "Fashion & Accessories & Travel"
+        ],
+        "child_names": [
+            "school backpack & hiking backpack & laptop backpack & travel backpack & daypack backpack & fashion backpack & leather backpack & canvas backpack & waterproof backpack & rolling backpack",
+            "hiking backpack & school backpack & laptop backpack & travel backpack & fashion backpack & leather backpack & canvas backpack & sling backpack & waterproof backpack & tactical backpack",
+            "leather backpack & canvas backpack & hiking backpack & laptop backpack & school backpack & travel backpack & fashion backpack & sports backpack & waterproof backpack & vintage backpack"
+        ]
+    },
+    "26": {
+        "node_name": "umbrella",
+        "parent_names": [
+            "clothing & accessories & personal items",
+            "Clothing & Accessories & Rain Gear",
+            "Clothing & Accessories & Rain gear"
+        ],
+        "child_names": [
+            "Rain umbrella & Beach umbrella & Compact umbrella & Golf umbrella & Transparent umbrella & Travel umbrella & Patio umbrella & Fashion umbrella & Kids umbrella & Windproof umbrella",
+            "Classic & Compact & Golf & Beach & Transparent & Automatic & Travel & Mini & Fashionable & Kids",
+            "Compact Umbrella & Golf Umbrella & Beach Umbrella & Patio Umbrella & Fashion Umbrella & Travel Umbrella & Bubble Umbrella & Rain Umbrella & Parasol Umbrella & Kids Umbrella"
+        ]
+    },
+    "27": {
+        "node_name": "handbag",
+        "parent_names": [
+            "accessory & fashion & personal item",
+            "Fashion & Accessories & Personal Items",
+            "Fashion & Accessories & Personal belongings"
+        ],
+        "child_names": [
+            "tote&clutch&satchel&crossbody&shoulder bag&backpack&hobo bag&wristlet&bucket bag&evening bag",
+            "tote&clutch&satchel&crossbody&backpack&shoulder bag&wristlet&bucket bag&hobo bag&duffel bag",
+            "tote bag & clutch & crossbody bag & shoulder bag & satchel & hobo bag & backpack & messenger bag & bucket bag & duffel bag"
+        ]
+    },
+    "28": {
+        "node_name": "tie",
+        "parent_names": [
+            "Fashion & Accessories & Clothing",
+            "clothing & accessories & fashion",
+            "Clothing & Accessories & Fashion"
+        ],
+        "child_names": [
+            "silk tie & bow tie & knit tie & skinny tie & floral tie & paisley tie & striped tie & polka dot tie & plaid tie & novelty tie",
+            "silk tie & bow tie & knit tie & wool tie & patterned tie & skinny tie & floral tie & paisley tie & plaid tie & novelty tie",
+            "silk tie & bow tie & skinny tie & knit tie & paisley tie & floral tie & striped tie & plaid tie & novelty tie & clip-on tie"
+        ]
+    },
+    "29": {
+        "node_name": "suitcase",
+        "parent_names": [
+            "travel & luggage & storage",
+            "Travel & Accessories & Luggage",
+            "travel & storage & luggage"
+        ],
+        "child_names": [
+            "hardshell suitcase & softside suitcase & carry-on suitcase & spinner suitcase & duffel suitcase & garment bag suitcase & cabin suitcase & wheeled suitcase & lightweight suitcase & expandable suitcase",
+            "hardshell suitcase & softshell suitcase & carry-on suitcase & spinner suitcase & duffel suitcase & garment bag suitcase & hardside suitcase & expandable suitcase & lightweight suitcase & rolling suitcase",
+            "carry-on suitcase & hardside suitcase & softside suitcase & spinner suitcase & rolling suitcase & wheeled suitcase & lightweight suitcase & expandable suitcase & travel suitcase & duffel suitcase"
+        ]
+    },
+    "30": {
+        "node_name": "frisbee",
+        "parent_names": [
+            "Sports & Outdoor Recreation & Toys",
+            "sports & toys & recreational equipment",
+            "Sports & Outdoor Recreation & Toys"
+        ],
+        "child_names": [
+            "Ultimate frisbee & Disc golf frisbee & Dog frisbee & Glow in the dark frisbee & Mini frisbee & Soft frisbee & Flying ring frisbee & Beach frisbee & Foam frisbee & Recycled frisbee",
+            "plastic frisbee & flying disc & ultimate frisbee & glow in the dark frisbee & foam frisbee & dog frisbee & beach frisbee & mini frisbee & professional frisbee & disc golf frisbee",
+            "Flying disc & Ultimate disc & Disc golf disc & Foam frisbee & Glow in the dark frisbee & Soft frisbee & Mini frisbee & Water frisbee & Dog frisbee & Light-up frisbee"
+        ]
+    },
+    "31": {
+        "node_name": "skis",
+        "parent_names": [
+            "Sports equipment & Winter gear & Outdoor gear",
+            "Sports & Winter Gear & Outdoor Equipment",
+            "Sports & Winter Gear & Outdoor Recreation"
+        ],
+        "child_names": [
+            "Downhill skis & Cross-country skis & Freestyle skis & Backcountry skis & Alpine touring skis & Telemark skis & Powder skis & All-mountain skis & Twin-tip skis & Racing skis",
+            "alpine skis & cross-country skis & freestyle skis & freeride skis & powder skis & racing skis & park skis & backcountry skis & telemark skis & twin-tip skis",
+            "alpine skis & cross-country skis & freestyle skis & backcountry skis & telemark skis & powder skis & race skis & park skis & all-mountain skis & twin-tip skis"
+        ]
+    },
+    "32": {
+        "node_name": "snowboard",
+        "parent_names": [
+            "Sports & Winter gear & Outdoor equipment",
+            "Winter sports & Outdoor activities & Sporting goods",
+            "Sports & Winter activities & Recreational equipment"
+        ],
+        "child_names": [
+            "freestyle&all-mountain&all-mountain-freestyle&freeride&powder&backcountry&splitboard&race&park&jib",
+            "all-mountain snowboard & freestyle snowboard & freeride snowboard & powder snowboard & carving snowboard & splitboard & park snowboard & beginner snowboard & wide snowboard & women's snowboard",
+            "All-mountain snowboard & Freestyle snowboard & Freeride snowboard & Powder snowboard & Splitboard & Park snowboard & Carving snowboard & Alpine snowboard & Backcountry snowboard & Kids snowboard"
+        ]
+    },
+    "33": {
+        "node_name": "sports ball",
+        "parent_names": [
+            "Outdoor & Recreational & Sporting Goods",
+            "Sports & Recreation & Games",
+            "Outdoor sports & Indoor sports & Recreation"
+        ],
+        "child_names": [
+            "soccer ball & basketball & football & tennis ball & volleyball & baseball & golf ball & rugby ball & cricket ball & beach ball",
+            "soccer ball & basketball & football & tennis ball & volleyball & baseball & golf ball & rugby ball & cricket ball & beach ball",
+            "soccer ball & basketball & football & tennis ball & baseball & volleyball & golf ball & rugby ball & cricket ball & ping pong ball"
+        ]
+    },
+    "34": {
+        "node_name": "kite",
+        "parent_names": [
+            "Outdoor activities & Toys & Recreation",
+            "Outdoor activities & Recreation & Toys",
+            "Outdoor activities & Recreation & Sports"
+        ],
+        "child_names": [
+            "diamond kite & delta kite & stunt kite & parafoil kite & sled kite & box kite & dragon kite & bow kite & fighter kite & rokkaku kite",
+            "diamond kite & delta kite & parafoil kite & stunt kite & sled kite & box kite & power kite & cellular kite & bow kite & para-kite",
+            "diamond kite & delta kite & parafoil kite & box kite & sled kite & stunt kite & power kite & rokkaku kite & bird kite & dragon kite"
+        ]
+    },
+    "35": {
+        "node_name": "baseball bat",
+        "parent_names": [
+            "Sports equipment & Sports gear & Sporting goods",
+            "Sports & Equipment & Tools",
+            "Sports equipment & Sporting goods & Recreational objects"
+        ],
+        "child_names": [
+            "wooden baseball bat & aluminum baseball bat & youth baseball bat & professional baseball bat & composite baseball bat & tee ball baseball bat & fungo baseball bat & slow pitch softball baseball bat & fast pitch softball baseball bat & little league baseball bat",
+            "wooden baseball bat & aluminum baseball bat & plastic baseball bat & metal baseball bat & composite baseball bat & youth baseball bat & adult baseball bat & tee ball baseball bat & fungo baseball bat & training baseball bat",
+            "wooden bat & aluminum bat & wooden youth bat & aluminum youth bat & composite bat & fungo bat & tee ball bat & softball bat & mini bat & novelty bat"
+        ]
+    },
+    "36": {
+        "node_name": "baseball glove",
+        "parent_names": [
+            "Sports equipment & Protective gear & Accessories",
+            "Sports & Equipment & Accessories",
+            "Sports & Equipment & Accessories"
+        ],
+        "child_names": [
+            "catcher's glove & first baseman's glove & infielder's glove & outfielder's glove & pitcher's glove & youth glove & fastpitch softball glove & slowpitch softball glove & training glove & vintage glove",
+            "catcher's glove & first baseman's glove & infielder's glove & outfielder's glove & pitcher's glove & youth glove & fastpitch glove & slowpitch glove & softball glove & training glove",
+            "catcher's mitt & first baseman's mitt & infielder's glove & outfielder's glove & pitcher's glove & youth glove & softball glove & training glove & fastpitch glove & slowpitch glove"
+        ]
+    },
+    "37": {
+        "node_name": "skateboard",
+        "parent_names": [
+            "Sports & Transportation & Recreation",
+            "Sports & Recreation & Transportation",
+            "Sports & Recreation & Transportation"
+        ],
+        "child_names": [
+            "longboard & cruiser board & electric skateboard & penny board & mini cruiser & downhill skateboard & freestyle skateboard & street skateboard & trick skateboard & off-road skateboard",
+            "longboard & cruiser & trick board & electric skateboard & penny board & off-road skateboard & mini skateboard & retro skateboard & drop-through skateboard & downhill skateboard",
+            "longboard&cruiser&electric skateboard&mini skateboard&penny board&downhill skateboard&off-road skateboard&freestyle skateboard&street skateboard&pool skateboard"
+        ]
+    },
+    "38": {
+        "node_name": "surfboard",
+        "parent_names": [
+            "Sports & Recreation & Outdoor",
+            "Water sports & Outdoor activities & Recreational equipment",
+            "Water sports & Outdoor activities & Sports"
+        ],
+        "child_names": [
+            "shortboard & longboard & fish board & funboard & mini malibu & gun board & egg board & hybrid board & softboard & paddleboard",
+            "shortboard & longboard & fishboard & funboard & foamboard & hybrid board & paddleboard & bodyboard & softtop & mini malibu",
+            "shortboard & longboard & fish & funboard & mini malibu & gun & bodyboard & soft top & foam board & paddleboard"
+        ]
+    },
+    "39": {
+        "node_name": "tennis racket",
+        "parent_names": [
+            "sports equipment & recreational equipment & athletic gear",
+            "Sports & Equipment & Tools",
+            "sports & recreational equipment & athletic gear"
+        ],
+        "child_names": [
+            "wooden tennis racket & aluminum tennis racket & graphite tennis racket & carbon fiber tennis racket & junior tennis racket & oversize tennis racket & midsize tennis racket & power tennis racket & control tennis racket & beginner tennis racket",
+            "Wilson Pro Staff RF97 Autograph Tennis Racket & Babolat Pure Aero Tennis Racket & Head Graphene 360+ Speed MP Tennis Racket & Yonex VCORE Pro 97 Tennis Racket & Babolat Pure Drive Tennis Racket & Wilson Clash 100 Tennis Racket & Head Graphene Touch Radical MP Tennis Racket & Wilson Burn 100 Tennis Racket & Yonex EZONE 100 Tennis Racket & Babolat Pure Strike 16x19 Tennis Racket",
+            "Wilson Pro Staff RF97 Autograph Tennis Racket & Babolat Pure Aero Tennis Racket & Head Ti.S6 Tennis Racket & Yonex EZONE DR 98 Tennis Racket & Prince Textreme Tour 100P Tennis Racket & Dunlop CX 200 Tour Tennis Racket & Tecnifibre TF40 Tennis Racket & Volkl V-Feel 10 Tennis Racket & Babolat Pure Drive Tennis Racket & Wilson Blade 98 (16x19) Tennis Racket"
+        ]
+    },
+    "40": {
+        "node_name": "bottle",
+        "parent_names": [
+            "container & household item & drinkware",
+            "Food & Beverage & Packaging",
+            "containers & household items & drinkware"
+        ],
+        "child_names": [
+            "glass bottle & plastic bottle & stainless steel bottle & reusable bottle & water bottle & sports bottle & wine bottle & baby bottle & perfume bottle & soda bottle",
+            "Plastic bottle & Glass bottle & Water bottle & Sports bottle & Wine bottle & Soda bottle & Baby bottle & Perfume bottle & Milk bottle & Juice bottle",
+            "water bottle & wine bottle & baby bottle & perfume bottle & milk bottle & soda bottle & sports bottle & shampoo bottle & glass bottle & plastic bottle"
+        ]
+    },
+    "41": {
+        "node_name": "wine glass",
+        "parent_names": [
+            "Kitchenware & Glassware & Tableware",
+            "Kitchenware & Drinkware & Glassware",
+            "kitchenware & glassware & drinkware"
+        ],
+        "child_names": [
+            "red wine glass & white wine glass & stemless wine glass & crystal wine glass & engraved wine glass & stemware wine glass & etched wine glass & stemless acrylic wine glass & colored wine glass & champagne flute",
+            "red wine glass & white wine glass & stemless wine glass & crystal wine glass & champagne flute & goblet & martini glass & whiskey glass & tumbler & wine decanter",
+            "stemless wine glass & crystal wine glass & colored wine glass & engraved wine glass & etched wine glass & stemmed wine glass & personalized wine glass & hand-painted wine glass & decorative wine glass & monogrammed wine glass"
+        ]
+    },
+    "42": {
+        "node_name": "cup",
+        "parent_names": [
+            "kitchenware & drinkware & tableware",
+            "kitchenware & tableware & drinkware",
+            "Kitchenware & Tableware & Drinkware"
+        ],
+        "child_names": [
+            "mug & glass & tumbler & tea cup & coffee cup & wine cup & plastic cup & paper cup & travel cup & shot glass",
+            "tea cup & coffee cup & water cup & wine cup & beer cup & paper cup & plastic cup & glass cup & ceramic cup & metal cup",
+            "tea cup & coffee cup & wine cup & water cup & travel cup & paper cup & plastic cup & glass cup & ceramic cup & stainless steel cup"
+        ]
+    },
+    "43": {
+        "node_name": "fork",
+        "parent_names": [
+            "Kitchen utensils & Cutlery & Eating utensils",
+            "Cutlery & Kitchen utensils & Tableware",
+            "Kitchen utensils & Dining utensils & Cutlery"
+        ],
+        "child_names": [
+            "dessert fork & dinner fork & salad fork & seafood fork & cocktail fork & oyster fork & carving fork & serving fork & fondue fork & fish fork",
+            "dinner fork & salad fork & dessert fork & seafood fork & cocktail fork & serving fork & carving fork & oyster fork & pickle fork & fondue fork",
+            "salad fork & dinner fork & dessert fork & cocktail fork & oyster fork & fish fork & carving fork & pastry fork & pickle fork & serving fork"
+        ]
+    },
+    "44": {
+        "node_name": "knife",
+        "parent_names": [
+            "cutlery & kitchen utensil & weapon",
+            "cutlery & kitchen tools & utensils",
+            "cutlery & kitchen utensils & weapons"
+        ],
+        "child_names": [
+            "chef's knife & bread knife & paring knife & utility knife & steak knife & carving knife & boning knife & santoku knife & fillet knife & cleaver",
+            "chef knife & paring knife & bread knife & cleaver knife & utility knife & boning knife & steak knife & fillet knife & carving knife & santoku knife",
+            "chef knife&paring knife&bread knife&utility knife&boning knife&steak knife&santoku knife&fillet knife&carving knife&butcher knife"
+        ]
+    },
+    "45": {
+        "node_name": "spoon",
+        "parent_names": [
+            "Kitchen utensil & Cutlery & Tableware",
+            "Kitchen utensils & Eating utensils & Cutlery",
+            "Food utensils & Kitchen tools & Tableware"
+        ],
+        "child_names": [
+            "tea spoon & dessert spoon & soup spoon & serving spoon & slotted spoon & wooden spoon & plastic spoon & ice cream spoon & coffee spoon & baby spoon",
+            "teaspoon & tablespoon & soup spoon & dessert spoon & serving spoon & slotted spoon & wooden spoon & ice cream spoon & coffee spoon & demitasse spoon",
+            "teaspoon & tablespoon & dessert spoon & soup spoon & slotted spoon & serving spoon & wooden spoon & plastic spoon & metal spoon & ice cream spoon"
+        ]
+    },
+    "46": {
+        "node_name": "bowl",
+        "parent_names": [
+            "Kitchenware & Tableware & Dishware",
+            "Kitchenware & Tableware & Containers",
+            "kitchenware & tableware & containers"
+        ],
+        "child_names": [
+            "ceramic bowl & glass bowl & wooden bowl & plastic bowl & stainless steel bowl & bamboo bowl & porcelain bowl & melamine bowl & copper bowl & silver bowl",
+            "cereal bowl & soup bowl & salad bowl & mixing bowl & fruit bowl & rice bowl & pasta bowl & dessert bowl & noodle bowl & serving bowl",
+            "cereal bowl & soup bowl & mixing bowl & salad bowl & fruit bowl & rice bowl & noodle bowl & pasta bowl & serving bowl & dessert bowl"
+        ]
+    },
+    "47": {
+        "node_name": "banana",
+        "parent_names": [
+            "Food & Fruit & Produce",
+            "fruit & food & plants",
+            "fruit & food & produce"
+        ],
+        "child_names": [
+            "yellow banana & green banana & ripe banana & unripe banana & organic banana & mini banana & plantain banana & baby banana & red banana & lady finger banana",
+            "Cavendish banana & Plantain banana & Lady Finger banana & Red banana & Blue Java banana & Gros Michel banana & Manzano banana & Burro banana & Apple banana & Pome banana",
+            "cavendish&plantain&red&green&baby&ladyfinger&manzano&finger&burro&blue java"
+        ]
+    },
+    "48": {
+        "node_name": "apple",
+        "parent_names": [
+            "Food & Fruit & Produce",
+            "Fruit & Food & Plant",
+            "Fruit & Food & Plants"
+        ],
+        "child_names": [
+            "red apple & green apple & yellow apple & Granny Smith apple & Golden Delicious apple & Fuji apple & Gala apple & Honeycrisp apple & Pink Lady apple & McIntosh apple",
+            "green apple & red apple & yellow apple & Granny Smith apple & Fuji apple & Gala apple & Honeycrisp apple & Pink Lady apple & Golden Delicious apple & McIntosh apple",
+            "red apple & green apple & yellow apple & granny smith apple & fuji apple & gala apple & honeycrisp apple & golden delicious apple & pink lady apple & crispin apple"
+        ]
+    },
+    "49": {
+        "node_name": "sandwich",
+        "parent_names": [
+            "Food & Cuisine & Fast Food",
+            "Food & Edible items & Snacks",
+            "Food & Fast Food & Lunch"
+        ],
+        "child_names": [
+            "veggie sandwich & turkey sandwich & chicken sandwich & tuna sandwich & ham sandwich & bacon sandwich & club sandwich & BLT sandwich & grilled cheese sandwich & pastrami sandwich",
+            "club sandwich & BLT sandwich & chicken sandwich & turkey sandwich & ham sandwich & roast beef sandwich & tuna sandwich & vegetarian sandwich & pastrami sandwich & Reuben sandwich",
+            "BLT sandwich & Chicken sandwich & Turkey sandwich & Ham sandwich & Veggie sandwich & Tuna sandwich & Club sandwich & Reuben sandwich & Grilled cheese sandwich & Pastrami sandwich"
+        ]
+    },
+    "50": {
+        "node_name": "orange",
+        "parent_names": [
+            "Fruit & Color & Food",
+            "Fruit & Color & Citrus",
+            "food & fruit & color"
+        ],
+        "child_names": [
+            "navel orange & blood orange & mandarin orange & valencia orange & clementine orange & tangerine orange & satsuma orange & cara cara orange & seville orange & bitter orange",
+            "navel orange & blood orange & mandarin orange & clementine orange & tangerine orange & Valencia orange & satsuma orange & cara cara orange & Seville orange & temple orange",
+            "navel orange & blood orange & valencia orange & mandarin orange & clementine orange & tangerine orange & satsuma orange & seville orange & bitter orange & bergamot orange"
+        ]
+    },
+    "51": {
+        "node_name": "broccoli",
+        "parent_names": [
+            "food & vegetables & plants",
+            "vegetable & plant & food",
+            "vegetable & food & plant"
+        ],
+        "child_names": [
+            "broccoli & broccolini & purple sprouting broccoli & romanesco broccoli & calabrese broccoli & baby broccoli & broccoflower & broccolini baby & broccolini sweet & broccolini spicy",
+            " Broccolini& Romanesco broccoli& Purple broccoli& Sprouting broccoli& Chinese broccoli& Broccoflower& Calabrese broccoli& White broccoli& Purple sprouting broccoli& Broccoli rabe",
+            "broccoli & baby broccoli & broccolini & purple sprouting broccoli & romanesco broccoli & Chinese broccoli & broccoflower & broccolini & broccolini raab & broccolini hybrid"
+        ]
+    },
+    "52": {
+        "node_name": "carrot",
+        "parent_names": [
+            "vegetable & food & plant",
+            "food & vegetable & root",
+            "vegetables & root vegetables & edible plants"
+        ],
+        "child_names": [
+            "baby carrot & carrot stick & carrot slice & carrot julienne & carrot dice & carrot puree & carrot juice & carrot soup & roasted carrot & carrot cake",
+            "baby carrot & heirloom carrot & rainbow carrot & purple carrot & white carrot & yellow carrot & orange carrot & red carrot & black carrot & wild carrot",
+            "baby carrot & heirloom carrot & rainbow carrot & purple carrot & white carrot & orange carrot & red carrot & yellow carrot & black carrot & green carrot"
+        ]
+    },
+    "53": {
+        "node_name": "hot dog",
+        "parent_names": [
+            "Food & Fast food & Sandwich",
+            "Food & Fast Food & Sandwich",
+            "Food & Fast Food & Sandwich"
+        ],
+        "child_names": [
+            "beef hot dog & chicken hot dog & turkey hot dog & vegan hot dog & jumbo hot dog & chili cheese hot dog & corn dog & pretzel dog & bacon-wrapped hot dog & bratwurst",
+            "beef hot dog & chicken hot dog & turkey hot dog & veggie hot dog & pork hot dog & jumbo hot dog & footlong hot dog & mini hot dog & sausage hot dog & corn dog",
+            "beef hot dog & turkey hot dog & chicken hot dog & pork hot dog & vegetarian hot dog & cheese-filled hot dog & corn dog & mini hot dog & footlong hot dog & jumbo hot dog"
+        ]
+    },
+    "54": {
+        "node_name": "pizza",
+        "parent_names": [
+            "Food & Italian cuisine & Fast food",
+            "Food & Italian cuisine & Fast food",
+            "Food & Italian cuisine & Fast food"
+        ],
+        "child_names": [
+            "Margherita pizza & Pepperoni pizza & Hawaiian pizza & BBQ chicken pizza & Veggie pizza & Supreme pizza & Meat lover's pizza & Buffalo chicken pizza & Mediterranean pizza & White pizza",
+            "Neapolitan & Margherita & Pepperoni & Hawaiian & BBQ Chicken & Veggie & Meat Lovers & Supreme & Buffalo Chicken & White Pizza",
+            "Margherita&Pepperoni&Supreme&Vegetarian&Hawaiian&BBQ Chicken&Buffalo Chicken&Meat Lovers&Veggie Supreme&Four Cheese"
+        ]
+    },
+    "55": {
+        "node_name": "donut",
+        "parent_names": [
+            "food & dessert & pastry",
+            "Food & Dessert & Baked Goods",
+            "Food & Dessert & Baked Goods"
+        ],
+        "child_names": [
+            "chocolate donut & glazed donut & powdered sugar donut & jelly-filled donut & cinnamon sugar donut & blueberry donut & vanilla donut & strawberry donut & maple bacon donut & pumpkin spice donut",
+            "glazed & chocolate & strawberry & vanilla & maple & cinnamon sugar & powdered sugar & jelly-filled & cream-filled & blueberry",
+            "glazed donut & jelly donut & chocolate donut & cinnamon sugar donut & powdered sugar donut & old-fashioned donut & strawberry donut & blueberry donut & maple bacon donut & cream-filled donut"
+        ]
+    },
+    "56": {
+        "node_name": "cake",
+        "parent_names": [
+            "Food & Dessert & Baked Goods",
+            "Food & Dessert & Baked Goods",
+            "Food & Dessert & Baked Goods"
+        ],
+        "child_names": [
+            "chocolate cake & vanilla cake & red velvet cake & carrot cake & lemon cake & strawberry cake & coffee cake & coconut cake & marble cake & pumpkin cake",
+            "chocolate cake & vanilla cake & red velvet cake & carrot cake & lemon cake & strawberry cake & marble cake & coconut cake & banana cake & coffee cake",
+            "chocolate cake & vanilla cake & red velvet cake & carrot cake & lemon cake & strawberry cake & coconut cake & marble cake & angel food cake & coffee cake"
+        ]
+    },
+    "57": {
+        "node_name": "chair",
+        "parent_names": [
+            "furniture & seating & household goods",
+            "furniture & seating & household",
+            "Furniture & Seating & Household Goods"
+        ],
+        "child_names": [
+            "armchair&rocking chair&dining chair&office chair&lounge chair&bean bag chair&recliner chair&bar stool&accent chair&folding chair",
+            "armchair & rocking chair & dining chair & office chair & lounge chair & accent chair & gaming chair & folding chair & patio chair & bar chair",
+            "armchair & rocking chair & dining chair & office chair & lounge chair & accent chair & folding chair & stool & bean bag chair & patio chair"
+        ]
+    },
+    "58": {
+        "node_name": "couch",
+        "parent_names": [
+            "furniture & home decor & seating",
+            "Furniture & Home decor & Seating",
+            "Furniture & Upholstery & Living Room"
+        ],
+        "child_names": [
+            "leather couch & fabric couch & sectional couch & sleeper couch & reclining couch & loveseat couch & futon couch & chaise lounge couch & modular couch & daybed couch",
+            "Sectional couch & Leather couch & Reclining couch & Sleeper couch & Loveseat couch & Chaise lounge couch & Chesterfield couch & Futon couch & Mid-century modern couch & Convertible couch",
+            "Sectional&Chesterfield&Sleeper&Futon&Loveseat&Recliner&Sofa bed&Chaise lounge&Settee&Divan"
+        ]
+    },
+    "59": {
+        "node_name": "potted plant",
+        "parent_names": [
+            "Plants & Home Decor & Gardening",
+            "indoor decor & gardening & home accessories",
+            "indoor decor & gardening & home furnishings"
+        ],
+        "child_names": [
+            "potted plant & hanging plant & bonsai tree & succulent plant & cactus & fern & orchid & spider plant & money tree & peace lily",
+            "fern & succulent & orchid & cactus & bonsai tree & spider plant & aloe vera & snake plant & peace lily & rubber plant",
+            "Spider plant & Snake plant & Peace lily & Fiddle leaf fig & Aloe vera & Chinese money plant & Philodendron & Rubber plant & ZZ plant & Boston fern"
+        ]
+    },
+    "60": {
+        "node_name": "bed",
+        "parent_names": [
+            "Furniture & Bedroom items & Sleep accessories",
+            "Furniture & Bedroom & Sleeping",
+            "Furniture & Household items & Sleeping essentials"
+        ],
+        "child_names": [
+            "single bed & double bed & queen bed & king bed & bunk bed & sofa bed & canopy bed & platform bed & trundle bed & daybed",
+            "single bed & double bed & queen bed & king bed & bunk bed & loft bed & platform bed & sleigh bed & murphy bed & sofa bed",
+            "single bed & double bed & bunk bed & canopy bed & daybed & futon bed & loft bed & trundle bed & platform bed & murphy bed"
+        ]
+    },
+    "61": {
+        "node_name": "dining table",
+        "parent_names": [
+            "Furniture & Home Decor & Interior Design",
+            "furniture & home decor & interior design",
+            "furniture & home decor & interior design"
+        ],
+        "child_names": [
+            "square dining table & round dining table & rectangular dining table & oval dining table & glass dining table & wooden dining table & marble dining table & farmhouse dining table & counter-height dining table & extendable dining table",
+            "round dining table & rectangular dining table & square dining table & oval dining table & glass dining table & wood dining table & marble dining table & farmhouse dining table & counter height dining table & extendable dining table",
+            "round dining table & rectangular dining table & square dining table & oval dining table & glass dining table & wood dining table & marble dining table & farmhouse dining table & modern dining table & extendable dining table"
+        ]
+    },
+    "62": {
+        "node_name": "toilet",
+        "parent_names": [
+            "Bathroom&Plumbing&Sanitaryware",
+            "Home & Plumbing & Sanitation",
+            "bathroom&plumbing&sanitation"
+        ],
+        "child_names": [
+            "Standard toilet & Dual flush toilet & Wall-mounted toilet & Corner toilet & One-piece toilet & Two-piece toilet & High-efficiency toilet & Bidet toilet combo & Compact toilet & Low-flow toilet",
+            "squat toilet & flush toilet & composting toilet & bidet toilet & wall-mounted toilet & urinal & portable toilet & smart toilet & chemical toilet & dual flush toilet",
+            "Regular toilet & Wall-mounted toilet & Dual flush toilet & One-piece toilet & Two-piece toilet & Compact toilet & Corner toilet & Bidet toilet & Smart toilet & Composting toilet"
+        ]
+    },
+    "63": {
+        "node_name": "tv",
+        "parent_names": [
+            "Electronics & Appliances & Entertainment",
+            "Electronics & Technology & Home Appliances",
+            "Electronics & Entertainment & Household"
+        ],
+        "child_names": [
+            "LCD TV & LED TV & OLED TV & Smart TV & 4K TV & Curved TV & QLED TV & Plasma TV & HDTV & UHD TV",
+            "LED TV & Plasma TV & Smart TV & 4K TV & OLED TV & QLED TV & Curved TV & LCD TV & Full HD TV & HD TV",
+            "LED TV & OLED TV & QLED TV & Smart TV & 4K TV & Curved TV & HD TV & LCD TV & Plasma TV & Ultra HD TV"
+        ]
+    },
+    "64": {
+        "node_name": "laptop",
+        "parent_names": [
+            "electronics & technology & personal",
+            "Electronics & Computing & Technology",
+            "Electronics & Technology & Computing"
+        ],
+        "child_names": [
+            "Dell laptop & HP laptop & Apple laptop & Lenovo laptop & Asus laptop & Acer laptop & Toshiba laptop & Sony laptop & Microsoft laptop & Samsung laptop",
+            "Macbook & Dell XPS & HP Spectre & Lenovo ThinkPad & Asus ZenBook & Acer Swift & Microsoft Surface & Razer Blade & MSI GS65 & Huawei MateBook.",
+            "Dell laptop & MacBook laptop & HP laptop & Lenovo laptop & Asus laptop & Acer laptop & Microsoft laptop & Toshiba laptop & Sony laptop & Samsung laptop"
+        ]
+    },
+    "65": {
+        "node_name": "mouse",
+        "parent_names": [
+            "Electronics & Computer Accessories & Input Devices",
+            "Electronics & Computer Accessories & Input Devices",
+            "Electronics & Computer Accessories & Input Devices"
+        ],
+        "child_names": [
+            "optical mouse & wireless mouse & gaming mouse & wired mouse & ergonomic mouse & bluetooth mouse & trackball mouse & vertical mouse & silent mouse & mini mouse",
+            "optical mouse & wireless mouse & gaming mouse & trackball mouse & ergonomic mouse & Bluetooth mouse & laser mouse & wired mouse & mini mouse & touchpad",
+            "optical mouse & wireless mouse & gaming mouse & ergonomic mouse & trackball mouse & bluetooth mouse & touchpad mouse & vertical mouse & laser mouse & mini mouse"
+        ]
+    },
+    "66": {
+        "node_name": "remote",
+        "parent_names": [
+            "Electronics & Technology & Home Goods",
+            "Electronics & Technology & Home Appliances",
+            "Electronics & Technology & Appliances"
+        ],
+        "child_names": [
+            "universal remote & TV remote & DVD remote & Blu-ray remote & cable remote & satellite remote & gaming console remote & smart home remote & air conditioner remote & car remote",
+            "universal remote & TV remote & DVD remote & Blu-ray remote & Apple TV remote & Roku remote & Fire TV remote & Cable box remote & Game console remote & Smart home remote",
+            "universal remote & television remote & DVD remote & Blu-ray remote & cable remote & satellite remote & gaming console remote & audio receiver remote & projector remote & air conditioning remote"
+        ]
+    },
+    "67": {
+        "node_name": "keyboard",
+        "parent_names": [
+            "Electronics & Computer Accessories & Input Devices",
+            "Electronics & Computer Accessories & Input Devices",
+            "electronics & computer accessories & input devices"
+        ],
+        "child_names": [
+            "mechanical keyboard & wireless keyboard & gaming keyboard & ergonomic keyboard & backlit keyboard & compact keyboard & foldable keyboard & membrane keyboard & Bluetooth keyboard & virtual keyboard",
+            "mechanical keyboard & wireless keyboard & gaming keyboard & ergonomic keyboard & foldable keyboard & compact keyboard & backlit keyboard & membrane keyboard & Bluetooth keyboard & virtual keyboard",
+            "mechanical keyboard & wireless keyboard & gaming keyboard & ergonomic keyboard & compact keyboard & foldable keyboard & backlit keyboard & membrane keyboard & touchpad keyboard & split keyboard"
+        ]
+    },
+    "68": {
+        "node_name": "cell phone",
+        "parent_names": [
+            "Electronics & Communication devices & Personal gadgets",
+            "Electronics & Communication devices & Mobile devices",
+            "electronics & communication devices & personal gadgets"
+        ],
+        "child_names": [
+            "iPhone & Samsung Galaxy & Google Pixel & Huawei P30 & OnePlus 7 Pro & LG G8 ThinQ & Sony Xperia & Motorola Moto G7 & Xiaomi Mi 9 & Oppo Reno",
+            "smartphone & flip phone & touchscreen phone & slider phone & candy bar phone & phablet & rugged phone & clamshell phone & dual-SIM phone & feature phone",
+            "smartphone & flip phone & slider phone & candy bar phone & touchscreen phone & qwerty keyboard phone & rugged phone & clamshell phone & phablet & feature phone"
+        ]
+    },
+    "69": {
+        "node_name": "microwave",
+        "parent_names": [
+            "Kitchen appliances & Electronic devices & Cooking equipment",
+            "Home appliances & Kitchen appliances & Electronic devices",
+            "Appliances & Kitchenware & Electronics"
+        ],
+        "child_names": [
+            "Countertop microwave & Over-the-range microwave & Built-in microwave & Compact microwave & Convection microwave & Combination microwave & Retro microwave & Drawer microwave & Wall-mounted microwave & Mini microwave",
+            "Countertop microwave & Over-the-range microwave & Built-in microwave & Compact microwave & Convection microwave & Drawer microwave & Retro microwave & Grill microwave & Combination microwave & Smart microwave",
+            "Countertop microwave & Over-the-range microwave & Built-in microwave & Compact microwave & Convection microwave & Commercial microwave & Retro-style microwave & Smart microwave & Drawer-style microwave & Combination microwave"
+        ]
+    },
+    "70": {
+        "node_name": "oven",
+        "parent_names": [
+            "kitchen appliances & cooking equipment & household items",
+            "kitchen appliances & cooking equipment & household items",
+            "kitchen appliances & cooking equipment & household items"
+        ],
+        "child_names": [
+            "Convection oven & Microwave oven & Toaster oven & Pizza oven & Dutch oven & Electric oven & Gas oven & Steam oven & Rotisserie oven & Countertop oven",
+            "gas oven & electric oven & convection oven & toaster oven & microwave oven & steam oven & double oven & freestanding oven & built-in oven & wall oven",
+            "gas oven & electric oven & convection oven & toaster oven & microwave oven & steam oven & pizza oven & dutch oven & brick oven & countertop oven"
+        ]
+    },
+    "71": {
+        "node_name": "toaster",
+        "parent_names": [
+            "kitchen appliances & electric devices & small appliances",
+            "kitchen appliances & small electronics & cooking tools",
+            "kitchen appliances & household items & electric devices"
+        ],
+        "child_names": [
+            "pop-up toaster & toaster oven & conveyor toaster & sandwich toaster & dual toaster & long slot toaster & retro toaster & 4-slice toaster & 2-slice toaster & digital toaster",
+            "pop-up toaster & toaster oven & 2-slice toaster & 4-slice toaster & compact toaster & long slot toaster & retro toaster & stainless steel toaster & digital toaster & wide slot toaster",
+            "pop-up toaster & convection toaster & toaster oven & 2-slice toaster & 4-slice toaster & long slot toaster & compact toaster & retro toaster & digital toaster & transparent toaster"
+        ]
+    },
+    "72": {
+        "node_name": "sink",
+        "parent_names": [
+            "Kitchen & Plumbing & Home",
+            "kitchen&bathroom&plumbing",
+            "Kitchen & Plumbing & Home Appliances"
+        ],
+        "child_names": [
+            "stainless steel sink & farmhouse sink & undermount sink & double basin sink & porcelain sink & vessel sink & drop-in sink & wall-mounted sink & pedestal sink & corner sink",
+            "bathroom sink & kitchen sink & utility sink & pedestal sink & vessel sink & farmhouse sink & wall-mounted sink & undermount sink & drop-in sink & console sink",
+            "stainless steel sink & porcelain sink & farmhouse sink & undermount sink & top mount sink & double bowl sink & single bowl sink & apron sink & vessel sink & pedestal sink"
+        ]
+    },
+    "73": {
+        "node_name": "refrigerator",
+        "parent_names": [
+            "kitchen appliances & home appliances & cooling devices",
+            "kitchen appliances & household items & electrical devices",
+            "Kitchen appliances & Household items & Electrical appliances"
+        ],
+        "child_names": [
+            "mini refrigerator & side-by-side refrigerator & french door refrigerator & bottom freezer refrigerator & top freezer refrigerator & compact refrigerator & counter-depth refrigerator & built-in refrigerator & panel-ready refrigerator & wine refrigerator",
+            "mini refrigerator&top freezer refrigerator&bottom freezer refrigerator&side-by-side refrigerator&french door refrigerator&compact refrigerator&counter-depth refrigerator&drawer refrigerator&wine refrigerator&portable refrigerator",
+            "single door refrigerator & double door refrigerator & side-by-side refrigerator & bottom freezer refrigerator & top freezer refrigerator & french door refrigerator & mini refrigerator & counter depth refrigerator & compact refrigerator & wine refrigerator"
+        ]
+    },
+    "74": {
+        "node_name": "book",
+        "parent_names": [
+            "Literature & Media & Education",
+            "Literature & Media & Education",
+            "Literature & Entertainment & Education"
+        ],
+        "child_names": [
+            "fiction book & non-fiction book & mystery book & thriller book & romance book & science fiction book & self-help book & biography book & fantasy book & poetry book",
+            "fiction book & non-fiction book & mystery book & romance book & science fiction book & self-help book & biography book & history book & fantasy book & poetry book",
+            "hardcover book & paperback book & e-book & audiobook & textbook & picture book & graphic novel & comic book & children's book & reference book"
+        ]
+    },
+    "75": {
+        "node_name": "clock",
+        "parent_names": [
+            "Timepieces & Home Decor & Functional Objects",
+            "timepiece & decor & technology",
+            "Timekeeping & Home decor & Functional"
+        ],
+        "child_names": [
+            "analog clock & digital clock & wall clock & alarm clock & pendulum clock & grandfather clock & cuckoo clock & pocket watch & wristwatch & sundial",
+            "Analog clock & Digital clock & Wall clock & Alarm clock & Grandfather clock & Cuckoo clock & Pendulum clock & Desk clock & Pocket watch & Wristwatch",
+            "Analog clock & Digital clock & Wall clock & Desk clock & Alarm clock & Cuckoo clock & Grandfather clock & Pocket watch & Wristwatch & Pendulum clock"
+        ]
+    },
+    "76": {
+        "node_name": "vase",
+        "parent_names": [
+            "Home decor & Art & Pottery",
+            "Home decor & Art & Pottery",
+            "household items & decorative objects & containers"
+        ],
+        "child_names": [
+            "ceramic vase & glass vase & crystal vase & porcelain vase & metal vase & wooden vase & plastic vase & terracotta vase & bamboo vase & marble vase",
+            "ceramic vase & glass vase & crystal vase & porcelain vase & metal vase & terracotta vase & bamboo vase & wooden vase & marble vase & brass vase",
+            "Pottery vase & Glass vase & Ceramic vase & Crystal vase & Metal vase & Porcelain vase & Terracotta vase & Clay vase & Bronze vase & Marble vase"
+        ]
+    },
+    "77": {
+        "node_name": "scissors",
+        "parent_names": [
+            "Household items & Tools & Office supplies",
+            "Tools & Stationery & Household items",
+            "tools & office supplies & household items"
+        ],
+        "child_names": [
+            "regular scissors & kitchen scissors & sewing scissors & paper scissors & hair scissors & craft scissors & embroidery scissors & left-handed scissors & children's scissors & gardening scissors",
+            "regular scissors & sewing scissors & kitchen scissors & children's scissors & hair cutting scissors & paper scissors & electrician scissors & embroidery scissors & pruning scissors & craft scissors",
+            "regular scissors & left-handed scissors & electric scissors & paper scissors & kitchen scissors & sewing scissors & hair cutting scissors & embroidery scissors & craft scissors & tailor's scissors"
+        ]
+    },
+    "78": {
+        "node_name": "teddy bear",
+        "parent_names": [
+            "To generate a list of 3 super-categories that the object \"teddy bear\" belongs to, here are the following options:&Toys & Stuffed animals & Collectibles",
+            "toys & stuffed animals & collectibles",
+            "Toys & Stuffed animals & Collectibles"
+        ],
+        "child_names": [
+            "brown teddy bear & white teddy bear & pink teddy bear & blue teddy bear & black teddy bear & grey teddy bear & fluffy teddy bear & small teddy bear & big teddy bear & cute teddy bear",
+            "Plush teddy bear & Vintage teddy bear & Jointed teddy bear & Musical teddy bear & Miniature teddy bear & Designer teddy bear & Personalized teddy bear & Giant teddy bear & Honey bear & Panda bear",
+            "Plush teddy bear & Vintage teddy bear & Jointed teddy bear & Musical teddy bear & Miniature teddy bear & Collectible teddy bear & Personalized teddy bear & Handmade teddy bear & Giant teddy bear & Animated teddy bear"
+        ]
+    },
+    "79": {
+        "node_name": "hair drier",
+        "parent_names": [
+            "Beauty & Personal Care & Electronics",
+            "Appliances & Personal care & Beauty",
+            "Appliance & Personal care & Hair styling"
+        ],
+        "child_names": [
+            "Ionic hair dryer & Travel hair dryer & Professional hair dryer & Ceramic hair dryer & Compact hair dryer & Hooded hair dryer & Quiet hair dryer & Foldable hair dryer & Wall-mounted hair dryer & Salon hair dryer",
+            "compact hair drier & travel hair drier & professional hair drier & salon hair drier & folding hair drier & ceramic hair drier & ionic hair drier & diffuser hair drier & hooded hair drier & wall-mounted hair drier",
+            "ionic hair drier & travel hair drier & professional hair drier & ceramic hair drier & compact hair drier & lightweight hair drier & infrared hair drier & diffuser hair drier & hooded hair drier & salon hair drier"
+        ]
+    },
+    "80": {
+        "node_name": "toothbrush",
+        "parent_names": [
+            "Personal care & Dental hygiene & Bathroom essentials",
+            "Personal care & Oral hygiene & Bathroom essentials",
+            "Personal care & Oral hygiene & Bathroom essentials"
+        ],
+        "child_names": [
+            "Manual toothbrush & Electric toothbrush & Bamboo toothbrush & Kids toothbrush & Travel toothbrush & Charcoal toothbrush & Silicone toothbrush & Interdental toothbrush & Orthodontic toothbrush & Gum massaging toothbrush",
+            "manual toothbrush & electric toothbrush & bamboo toothbrush & travel toothbrush & kids toothbrush & rechargeable toothbrush & silicone toothbrush & charcoal toothbrush & orthodontic toothbrush & natural toothbrush",
+            "Electric toothbrush & Bamboo toothbrush & Manual toothbrush & Travel toothbrush & Children's toothbrush & Disposable toothbrush & Orthodontic toothbrush & Silicone toothbrush & Charcoal toothbrush & Gum massaging toothbrush"
+        ]
+    }
+}
