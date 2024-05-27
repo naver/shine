@@ -42,9 +42,10 @@ Requirements:
 Setup environment
 ```shell script
 # Clone this project repository under your workspace folder
-git clone https://github.com/OatmealLiu/SHiNe.git --recurse-submodules
+git clone https://github.com/naver/shine.git --recurse-submodules
+cd shine
 # Create conda environment and install the dependencies
-conda env create -n shine -f environment.yml
+conda env create -n shine -f shine.yml
 # Activate the working environment
 conda activate shine
 # Install Detectron2 under your workspace folder
