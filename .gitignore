@@ -9,10 +9,10 @@ index.html
 data/*
 #slurm/
 #slurm
-slurm-output
-slurm-output/
-slurm-output*
-slurm-output*/
+#slurm-output
+#slurm-output/
+#slurm-output*
+#slurm-output*/
 
 
 .idea
