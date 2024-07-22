@@ -16,7 +16,7 @@ h_levels=(l1 l2 l3)
 for level in "${h_levels[@]}"; do
     echo "Querying for FSOD ${level} super-/sub-categories..."
 
-    python -W ignore plant_llm_syn_hrchy_tree.py \
+    CUDA_VISIBLE_DEVICES=0 python -W ignore plant_llm_syn_hrchy_tree.py \
            --mode query \
            --dataset_name fsod \
            --output_root fsod_llm_answers \
@@ -30,7 +30,7 @@ done
 for level in "${h_levels[@]}"; do
     echo "Cleaning for FSOD ${level} LLM query results..."
 
-    python -W ignore plant_llm_syn_hrchy_tree.py \
+    CUDA_VISIBLE_DEVICES=0 python -W ignore plant_llm_syn_hrchy_tree.py \
            --mode postprocess \
            --dataset_name fsod \
            --output_root fsod_llm_answers \

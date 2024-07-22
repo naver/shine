@@ -4,7 +4,7 @@ conda activate shine
 
 METADATA_ROOT="nexus/lvis/shine_llm"
 
-python train_net_detic.py \
+CUDA_VISIBLE_DEVICES=0 python train_net_detic.py \
         --num-gpus 1 \
         --config-file ./configs_detic/Detic_LbaseCCimg_CLIP_R5021k_640b64_4x_ft4x_max-size.yaml \
         --eval-only \

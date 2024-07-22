@@ -9,8 +9,8 @@ W_VL_R50="models/vldet/lvis_vldet.pth"
 
 METADATA_ROOT="nexus/inat/rn50/shine_gt"
 
-python train_net_vldet.py \
-        --num-gpus 8 \
+CUDA_VISIBLE_DEVICES=0 python train_net_vldet.py \
+        --num-gpus 1 \
         --config-file ${CFG_VL_R50} \
         --eval-only \
         DATASETS.TEST "('inat_val_l1', 'inat_val_l2', 'inat_val_l3','inat_val_l4','inat_val_l5','inat_val_l6',)" \

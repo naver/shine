@@ -15,7 +15,7 @@ buildNexus() {
     )
 
     for clip_model in "${!nexus_paths[@]}"; do
-        python -W ignore build_inat_fsod_aggr_w_llm_hrchy.py \
+        CUDA_VISIBLE_DEVICES=0 python -W ignore build_inat_fsod_aggr_w_llm_hrchy.py \
                           --dataset_name "fsod" \
                           --gpt_results_root "fsod_llm_answers" \
                           --prompter isa \

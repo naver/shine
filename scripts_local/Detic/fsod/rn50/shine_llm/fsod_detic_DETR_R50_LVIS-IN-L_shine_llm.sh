@@ -3,7 +3,7 @@
 conda activate shine
 
 METADATA_ROOT="nexus/fsod/vitB32/shine_llm"
-python train_net_detic.py \
+CUDA_VISIBLE_DEVICES=0 CUDA_VISIBLE_DEVICES=0 python train_net_detic.py \
         --num-gpus 1 \
         --config-file ./configs_detic/Detic_DeformDETR_LI_R50_4x_ft4x.yaml \
         --eval-only \

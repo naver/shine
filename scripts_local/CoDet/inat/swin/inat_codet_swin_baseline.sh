@@ -7,7 +7,7 @@ MODEL_SWIN="./models/codet/CoDet_OVLVIS_SwinB_4x_ft4x.pth"
 
 METADATA_ROOT="nexus/inat/vitB32/baseline"
 
-python train_net_codet.py \
+CUDA_VISIBLE_DEVICES=0 CUDA_VISIBLE_DEVICES=0 python train_net_codet.py \
         --num-gpus 1 \
         --config-file ${CFG_SWIN} \
         --eval-only \

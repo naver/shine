@@ -8,7 +8,7 @@ CFG_VL_R50="configs_vldet/VLDet_LbaseCCcap_CLIP_R5021k_640b64_2x_ft4x_caption.ya
 W_VL_R50="models/vldet/lvis_vldet.pth"
 
 METADATA_ROOT="nexus/fsod/rn50/baseline"
-python train_net_vldet.py \
+CUDA_VISIBLE_DEVICES=0 python train_net_vldet.py \
         --num-gpus 1 \
         --config-file ${CFG_VL_R50} \
         --eval-only \

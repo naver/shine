@@ -12,7 +12,7 @@ activateAndRun() {
 
     # Loop through each breed level
     for level in "${breed_levels[@]}"; do
-        python -W ignore zeroshot_breeds.py \
+        CUDA_VISIBLE_DEVICES=0 python -W ignore zeroshot_breeds.py \
                   --model_size "ViT-B/16" \
                   --method "zeroshot" \
                   --breed_level "$level" \

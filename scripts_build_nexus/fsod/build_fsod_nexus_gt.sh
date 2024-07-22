@@ -15,7 +15,7 @@ buildNexus() {
     )
 
     for clip_model in "${!nexus_paths[@]}"; do
-        python -W ignore build_fsod_aggr.py \
+        CUDA_VISIBLE_DEVICES=0 python -W ignore build_fsod_aggr.py \
                           --prompter isa \
                           --aggregator mean \
                           --clip_model "$clip_model" \

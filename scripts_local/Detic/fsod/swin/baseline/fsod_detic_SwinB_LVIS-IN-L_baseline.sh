@@ -4,7 +4,7 @@ conda activate shine
 
 METADATA_ROOT="nexus/fsod/vitB32/baseline"
 
-python train_net_detic.py \
+CUDA_VISIBLE_DEVICES=0 CUDA_VISIBLE_DEVICES=0 python train_net_detic.py \
         --num-gpus 1 \
         --config-file ./configs_detic/Detic_LI_CLIP_SwinB_896b32_4x_ft4x_max-size.yaml \
         --eval-only \

@@ -4,7 +4,7 @@ conda activate shine
 
 METADATA_ROOT="nexus/coco/shine_llm"
 
-python train_net_detic_coco.py \
+CUDA_VISIBLE_DEVICES=0 CUDA_VISIBLE_DEVICES=0 python train_net_detic_coco.py \
         --num-gpus 1 \
         --config-file ./configs_detic/coco/Detic_OVCOCO_CLIP_R50_1x_caption.yaml \
         --eval-only \

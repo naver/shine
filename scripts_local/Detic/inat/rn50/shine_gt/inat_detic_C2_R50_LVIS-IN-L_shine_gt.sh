@@ -4,7 +4,7 @@ conda activate shine
 
 METADATA_ROOT="nexus/inat/vitB32/shine_gt"
 
-python train_net_detic.py \
+CUDA_VISIBLE_DEVICES=0 python train_net_detic.py \
         --num-gpus 1 \
         --config-file ./configs_detic/Detic_LI_CLIP_R5021k_640b64_4x_ft4x_max-size.yaml\
         --eval-only \

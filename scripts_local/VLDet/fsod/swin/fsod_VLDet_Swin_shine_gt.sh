@@ -9,7 +9,7 @@ W_VL_SWIN="models/vldet/lvis_vldet_swinB.pth"
 
 METADATA_ROOT="nexus/fsod/rn50/shine_gt"
 
-python train_net_vldet.py \
+CUDA_VISIBLE_DEVICES=0 python train_net_vldet.py \
         --num-gpus 1 \
         --config-file ${CFG_VL_SWIN} \
         --eval-only \

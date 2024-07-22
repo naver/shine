@@ -16,7 +16,7 @@ h_levels=(l1 l2 l3 l4 l5 l6)
 for level in "${h_levels[@]}"; do
     echo "Querying for OID+LVIS ${level} super-/sub-categories..."
 
-    python -W ignore plant_llm_syn_hrchy_tree.py \
+    CUDA_VISIBLE_DEVICES=0 python -W ignore plant_llm_syn_hrchy_tree.py \
            --mode query \
            --dataset_name oid_lvis \
            --output_root miss_lvis_oid_llm_answers \
@@ -30,7 +30,7 @@ done
 for level in "${h_levels[@]}"; do
     echo "Cleaning for OID+LVIS ${level} LLM query results..."
 
-    python -W ignore plant_llm_syn_hrchy_tree.py \
+    CUDA_VISIBLE_DEVICES=0 python -W ignore plant_llm_syn_hrchy_tree.py \
            --mode postprocess \
            --dataset_name oid_lvis \
            --output_root miss_lvis_oid_llm_answers \

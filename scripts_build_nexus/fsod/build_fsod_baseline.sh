@@ -15,7 +15,7 @@ buildNexus() {
     )
 
     for clip_model in "${!nexus_paths[@]}"; do
-        python -W ignore build_fsod_sing.py \
+        CUDA_VISIBLE_DEVICES=0 python -W ignore build_fsod_sing.py \
                           --prompter a \
                           --clip_model "$clip_model" \
                           --out_path "${nexus_paths[$clip_model]}"

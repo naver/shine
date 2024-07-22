@@ -4,7 +4,7 @@ conda activate shine
 
 METADATA_ROOT="nexus/inat/vitB32/shine_gt"
 
-python train_net_detic.py \
+CUDA_VISIBLE_DEVICES=0 python train_net_detic.py \
         --num-gpus 1 \
         --config-file ./configs_detic/BoxSup-DeformDETR_L_R50_4x.yaml\
         --eval-only \

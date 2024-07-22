@@ -7,7 +7,7 @@ MODEL_R50="./models/codet/CoDet_OVLVIS_R5021k_4x_ft4x.pth"
 
 METADATA_ROOT="nexus/fsod/vitB32/shine_gt"
 
-python train_net_codet.py \
+CUDA_VISIBLE_DEVICES=0 CUDA_VISIBLE_DEVICES=0 python train_net_codet.py \
         --num-gpus 1 \
         --config-file ${CFG_R50} \
         --eval-only \
