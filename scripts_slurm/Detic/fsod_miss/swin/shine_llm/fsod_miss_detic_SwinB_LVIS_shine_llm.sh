@@ -21,6 +21,6 @@ python train_net_detic.py \
         DATASETS.TEST "('fsod_test_l3',)" \
         MODEL.WEIGHTS ./models/detic/cross_eval/BoxSup-C2_L_CLIP_SwinB_896b32_4x.pth \
         MODEL.RESET_CLS_TESTS True \
-        MODEL.TEST_CLASSIFIERS "(${METADATA_ROOT}/fsod_clip_hrchy_l3.npy',)" \
+        MODEL.TEST_CLASSIFIERS "('${METADATA_ROOT}/fsod_clip_hrchy_l3.npy',)" \
         MODEL.TEST_NUM_CLASSES "(1570,)" \
         MODEL.MASK_ON False
