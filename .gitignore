@@ -71,6 +71,8 @@ _darcs
 !/datasets/*.*
 !/datasets/metadata*
 !/datasets/metadata_*
-
+!/datasets/cc3m*
+!datasets/cc3m/VLDet/googlecc_nouns_6250_emb.pth
+!datasets/cc3m/VLDet/lvis_1203_cls_emb.pth
 #/models
 /snippet
